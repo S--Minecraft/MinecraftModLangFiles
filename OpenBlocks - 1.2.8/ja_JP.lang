@@ -1,0 +1,327 @@
+﻿achievement.openblocks.droppedBrick=恐れ！
+achievement.openblocks.droppedBrick.desc=ごめんなさい、それだけで起こりました...
+stat.openblocks.bricksDropped=レンガがドロップされました
+
+openblocks.keybind.drop_brick=愚かなこと
+
+enchantment.openblocks.explosive=不安定
+enchantment.openblocks.laststand=最後の抵抗
+enchantment.openblocks.flimflam=フリムフラム
+
+openblocks.gui.lightbox=地図入れ
+openblocks.gui.luggage=生きてるチェスト
+openblocks.gui.sprinkler=スプリンクラー
+openblocks.gui.vacuumhopper=バキュームホッパー
+openblocks.gui.bigbutton=大きなボタン
+openblocks.gui.xpbottler=XP瓶詰め機
+openblocks.gui.autoanvil=自動金床
+openblocks.gui.autoeject=自動搬出
+openblocks.gui.autoextract=自動抽出
+openblocks.gui.autodrink=自動ドリンク
+openblocks.gui.autoenchantmenttable=自動エンチャント台
+openblocks.gui.donationstation=寄付所
+openblocks.gui.itemdropper=アイテムドロッパー
+openblocks.gui.blockplacer=ブロックプレーサー
+openblocks.gui.paintmixer=ペイントミキサー
+openblocks.gui.drawingtable=描画台
+openblocks.gui.blocks=ブロック
+openblocks.gui.items=アイテム
+openblocks.gui.misc=その他
+openblocks.gui.digitalfuse=デジタルヒューズ
+
+openblocks.gui.welcome.title=よろしく！
+openblocks.gui.welcome.content=OpenBlocksはMinecraftにハングライダー、エレベーター、タンク、墓、塗料、クレーン、液体XP、地図製作者、トロフィーなどを含む様々なアイデアが導入される新しいオープンソースのMODです！
+
+openblocks.gui.credits.title=クレジット
+openblocks.gui.credits.content=§LBoq, Mikee と NeverCast§R - OpenBlocksの主要開発者 (私たちは自分自身をクレジットに表示していいのでしょうか？)\n\n§LSinZ と Yoshi2§R - 最初からOpenModsのメンバー。\n\n§LVexatos と crafteverywhere§R - 定期的にModを翻訳している。\n\nここ一年で、コードに貢献してきた皆。\n\n§LDirewolf20 と ForgeCraftの残りの部分§R - リリース前にバグやクラッシュを発見している。\n\nModをリリースしてからスポットライトを行う、プレイする、サポートした方々！
+
+openblocks.gui.config.title=簡単コンフィグ編集
+openblocks.gui.config.content=OpenModsはチャットコマンドからのコンフィグ設定の変更をクライアント・サーバーともに許可しています。一部は再起動を必要としません！\n\nサーバーコンフィグ設定は'§L/om_config_s§R'(OP権限必要)、クライアントコンフィグ設定は'§L/om_config_c§R'を使うことで変更できる。\n\n例:\n\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\nコマンドの完全なリストは次のコマンド: §L/help om_config_s§R or §L/help om_config_c§R
+
+openblocks.gui.bkey.title=悪名高い「B」キー
+openblocks.gui.bkey.content=「B」キーはOpenBlocksでは非常に特殊な鍵となります。\n\nクライアント・サーバーとものコンフィグファイルの'tomfoolery'の中にある'weAreSeriousPeople'というコンフィグ設定を有効にするとあなたの非常に自身の消化器系を与えます。\n\nあのおいしい粘土を少し食べてみて、'B'で消化してください!
+
+openblocks.gui.unstable.title=不安定なエンチャント
+openblocks.gui.unstable.content=このエンチャントは、飛び降りる時または、攻撃を受ける時、持っている任意の火薬が不安定になるという未確認の報告をもっていました。\n\n自己責任で使用して下さい！
+
+openblocks.gui.flimflam.title=フリムフラムエンチャント
+openblocks.gui.flimflam.content=科学者たちは、このエンチャントの性質を発見するには至っていません。
+
+openblocks.gui.laststand.title=最後の抵抗エンチャント
+openblocks.gui.laststand.content=最後の抵抗エンチャントはあなたのXPバーを死への最終的な保護として使います。\n\0.5ハートに到達してしまって、ダメージを受けたとき、あなたが殺されない代わりにあなたからXPをとります。エンチャントが高ければとられるXPの量が減ります。
+openblocks.changelog.title=OpenBlocks %sの新要素
+openblocks.misc.url=URL: %s
+openblocks.misc.type=タイプ: %s
+openblocks.misc.uses=残り使用回数: %.2f
+openblocks.misc.color=色コード: %06X
+openblocks.misc.mode=書き込みモード: %s
+openblocks.misc.mode.block=ブロック
+openblocks.misc.mode.panel=パネル
+openblocks.misc.mode.half_panel=中段パネル
+openblocks.misc.mode.stairs=階段
+openblocks.misc.mode.inverted_block=反転ブロック
+openblocks.misc.mode.inverted_panel=反転パネル
+openblocks.misc.mode.inverted_half_panel=反転中段パネル
+openblocks.misc.mode.inverted_stairs=反転階段
+openblocks.misc.structure_pos=デバッグ: (%d,%d,%d)で%sを発見
+openblocks.misc.locked=ロックされた
+openblocks.misc.selected_cannon=ターゲットのために大砲を選択しました
+openblocks.misc.pointed_cannon=%s, %s, %sに大砲をポイントしました
+openblocks.misc.change_mode=%sモードに変更中
+openblocks.misc.change_size=%sx%sx%sにサイズ変更中
+openblocks.misc.total_blocks=合計ブロックカウント: %d
+openblocks.misc.get_witched=ウィッチドしましょう！
+
+openblocks.misc.cant_restore=プレイヤー%sのインベントリを復元することはできません
+openblocks.misc.cant_store=プレイヤー%sのインベントリを保存できません
+openblocks.misc.stored_inventory=プレイヤー%sのインベントリを保存しました
+openblocks.misc.restored_inventory=プレイヤー%sのインベントリを復元しました
+
+openblocks.misc.pedometer.tracking_reset=追跡リセット
+openblocks.misc.pedometer.tracking_started=追跡スタート
+
+openblocks.misc.pedometer.start_point=開始ポイント: %s
+openblocks.misc.pedometer.speed=速度: %s
+openblocks.misc.pedometer.avg_speed=平均速度: %s
+openblocks.misc.pedometer.total_distance=合計距離: %s
+
+openblocks.misc.pedometer.straght_line_distance=直線距離: %s
+openblocks.misc.pedometer.straigh_line_speed=直線速度: %s
+
+openblocks.misc.pedometer.last_check_distance=最後のチェックポイントからの距離: %s
+openblocks.misc.pedometer.last_check_speed=最後のチェックポイントの速度: %s
+openblocks.misc.pedometer.last_check_time=最後のチェックポイントからの時間: %d ティック
+
+openblocks.misc.pedometer.total_time=合計時間: %d ティック
+
+openblocks.misc.shape.sphere=球
+openblocks.misc.shape.cylinder=円柱
+openblocks.misc.shape.cuboid=直方体
+openblocks.misc.shape.dome=半球
+openblocks.misc.shape.triangle=三角
+openblocks.misc.shape.pentagon=五角形
+openblocks.misc.shape.hexagon=六角形
+openblocks.misc.shape.octagon=八角形
+
+openblocks.misc.radio.too_many=既にあまりにも多くのラジオを再生しています
+openblocks.misc.radio.invalid_stream=無効な動画
+openblocks.misc.radio.invalid_url=無効なURL
+openblocks.misc.radio.url_not_found=URLが見つかりませんでした
+openblocks.misc.radio.unknown_stream_type=不明な動画タイプ
+openblocks.misc.radio.malformed_data=動画内に不正な形式のデータがあります
+openblocks.misc.radio.not_ready=動画の準備が整ってません。あとでお試しください。
+openblocks.misc.radio.cant_connect=接続できません
+openblocks.misc.radio.unknown_error=不明なエラー
+openblocks.misc.radio.muted=音声がミュートされています！
+
+openblocks.misc.side.east=東側
+openblocks.misc.side.west=西側
+openblocks.misc.side.north=北側
+openblocks.misc.side.south=南側
+openblocks.misc.side.up=上側
+openblocks.misc.side.down=下側
+
+openblocks.misc.command.invalid=無効なコマンド引数
+openblocks.misc.command.no_flim_flam=無効なフリムフラム名
+openblocks.misc.command.flim_flam_source=プレイヤー%sは%sで正常にフリムフラムされました
+openblocks.misc.command.flim_flam_target=誰かがあなたを嫌ってます。パワーを持つ人
+openblocks.misc.command.flim_flam_failed=フリムフラム失敗！
+openblocks.misc.command.luck_added=プレイヤー%sの運が変更されました、現在: %d
+openblocks.misc.command.luck_current=プレイヤー%sの運: %d
+openblocks.flim_flammed=奇妙な何かがあなたのまわりで起こります
+
+openblocks.turtle.magnet=マグネット
+
+tile.openblocks.elevator.name=エレベーター
+tile.openblocks.elevator.description=一つエレベーターを置き、三ブロック以上上で間に何もブロックが無いようにもう一つを置いてください。そうすれば、「ジャンプ」で一階上に、「しゃがん」で一階下に移動できます。エレベーターは染料でクリックすることで染色できます。同じ色のエレベーター同士でのみ移動可能です。
+tile.openblocks.elevator.video=http://www.youtube.com/watch?v=bCfhJCkox5g
+
+tile.openblocks.heal.name=回復装置
+tile.openblocks.heal.description=回復装置はクリエイティブ限定ブロックで時間の経過とともに若干の回復効果を放ちます。
+
+tile.openblocks.guide.name=建設補助機
+tile.openblocks.guide.description=建設補助機はいろいろな形やサイズのゴーストブロックによるアウトラインを作り、部屋を計画するのを手助けします。\n建設補助機をシフトクリックで形をかえ、殴ることで面によってサイズを拡大縮小できます。\nクリエイティブのとき、黒曜石ブロックを上に置いて、建設補助機を何かのブロックで叩くとそのブロックで自動的に指定されている形で作ります。
+tile.openblocks.guide.video=http://www.youtube.com/watch?v=XAKxfQhdLRA
+
+tile.openblocks.ladder.name=ラダーハッチ
+tile.openblocks.ladder.description=ラダーハッチはトラップドアの下にあるはしごから飛ばなければいけないという面倒な問題を解決します。ラダーハッチは同時にトラップドアとしてもはしごとしても動作します。
+tile.openblocks.ladder.video=http://www.youtube.com/watch?v=PSNeU6kAigY
+
+tile.openblocks.tank.name=タンク
+tile.openblocks.tank.description=タンクは液体を保持します。もしタンクをとなり合って置いたら、それぞれの液体をタンク同士で分配します。バケツを使ってタンクの中に液体を入れることができます。もし、タンクにXPジュースが入っているなら、何も持ってない状態でクリックして自分が少しXPを得られます。壊したときは、タンクは液体を維持します。
+tile.openblocks.tank.video=http://www.youtube.com/watch?v=NBcneEthjn0
+
+tile.openblocks.flag.name=旗
+tile.openblocks.flag.description=Flags can be used for decoration or for marking the way back out of a cave you've ventured in to. The flag will point in the direction that you placed it, or you can put it on walls. If you shift-click with a flag in your hand it will change color.
+
+tile.openblocks.beartrap.name=トラバサミ
+tile.openblocks.beartrap.description=Place a bear trap and click on it to open it up. When a mob walks over the trap they'll be unable to move!
+
+tile.openblocks.sponge.name=スポンジ
+tile.openblocks.sponge.description=The sponge is a replacement for the vanilla sponge. Perfect for removing small pockets of lava or water. Be careful when using it on large areas of liquid though as it'll start to get quite messy.
+
+item.openblocks.spongeonastick.name=Sponge
+item.openblocks.spongeonastick.description=The sponge on a stick is a tool for cleaning up liquids. Works just like the sponge, but is more mobile at the expense of wearing out.
+
+tile.openblocks.cannon.name=アイテムキャノン
+tile.openblocks.cannon.description=When given a redstone signal, the item cannon will shoot items that it finds in an adjacent inventory. Use the 'pointer' item to aim the cannon.
+
+tile.openblocks.ropeladder.name=縄はしご
+tile.openblocks.ropeladder.description=When you place a rope ladder it'll roll out all the way to the ground.
+
+tile.openblocks.sprinkler.name=スプリンクラー
+tile.openblocks.sprinkler.description=The sprinkler will help fertilize crops up to 4 blocks away. Simply place it above an OpenBlocks tank filled with water! You can also add bonemeal for an even faster rate of growth.\nIt also acts as a water source block!
+
+tile.openblocks.paintmixer.name=Paint Mixer
+tile.openblocks.paintmixer.description=The paint mixer can mix any colour of paint you want! Drop either an existing paint bucket or a bucket of milk into the top slot, then cyan, magenta, yellow and black dyes into the other four slots and click mix!
+tile.openblocks.paintmixer.video=http://www.youtube.com/watch?v=M8LVLw-d100
+
+tile.openblocks.canvas.name=カンバス
+tile.openblocks.canvas.description=The canvas is a perfectly white block that's perfect for painting. See the Paint Mixer for information about making paints.
+tile.openblocks.canvas.video=http://www.youtube.com/watch?v=M8LVLw-d100
+
+tile.openblocks.fan.name=扇風機
+tile.openblocks.fan.description=The fan will blow players, mobs or entities in the direction it's facing.
+
+tile.openblocks.target.name=的
+tile.openblocks.target.description=The target will give out a redstone signal of a strength relative to the accuracy of the players aim. Give the target a redstone signal to make it pop up!
+
+tile.openblocks.path.name=飛び石
+tile.openblocks.path.description=The path doesn't do anything. It just looks nice!
+
+tile.openblocks.itemDropper.name=アイテムドロッパー
+tile.openblocks.itemDropper.description=The item dropper is similar to the vanilla dropper, except it drops items directly down in a straight line.
+
+tile.openblocks.bigbutton.name=大きなボタン
+tile.openblocks.bigbutton.description=The big button is a large button that can be placed on walls. If you shift-click on the button with an empty hand it will bring up an inventory with a single slot. You can put items into this slot to increase the length of time the button is pressed - one item increases the button press by one tick.
+
+tile.openblocks.xpdrain.name=XPドレイン
+tile.openblocks.xpdrain.description=Place the XP drain above an OpenBlocks tank and stand on it. Your XP will drain into the tank, which can then be used for blocks such as the auto enchantment table or the auto anvil.
+
+tile.openblocks.vacuumhopper.name=バキュームホッパー
+tile.openblocks.vacuumhopper.description=The vacuum hopper will suck up items and XP orbs around it. You can use the tabs on the right of the interface to select which sides to output to.
+
+tile.openblocks.village_highlighter.name=村マーカー
+tile.openblocks.village_highlighter.description=Drop the village highlighter down in a village and give it a redstone signal. It will outline the perimeter of the village and draw a box in the iron golem spawning area. Useful if you want to make sure villages don't merge into each other or you're making an iron farm!
+
+tile.openblocks.donationStation.name=寄付所
+tile.openblocks.donationStation.description=Love a block or item and want to show the mod developer some appreciation? Drop it into the donation station and if we know the authors donation page we'll give you a link.
+
+tile.openblocks.blockPlacer.name=ブロックプレーサー
+tile.openblocks.blockPlacer.description=When given a redstone pulse the block placer will place an item in the direction it's facing.
+
+tile.openblocks.blockbreaker.name=ブロックブレーカー
+tile.openblocks.blockbreaker.description=When given a redstone pulse the block breaker will break the block it's facing.
+
+tile.openblocks.projector.name=高さ地図プロジェクター
+tile.openblocks.projector.description=I'll let you write this one boq!
+
+tile.openblocks.autoenchantmenttable.name=自動エンチャント台
+tile.openblocks.autoenchantmenttable.description=The auto enchantment table works in a similar way to the vanilla enchantment table except it runs off XP juice. Use the tabs on the right side of the interface to select where items or xp can be pulled from. Just like with the vanilla table bookshelves are required for higher levels.
+
+tile.openblocks.xpbottler.name=XP瓶詰め機
+tile.openblocks.xpbottler.description=The XP bottler will take XP juice and bottle it up into glass bottles to create bottles o' enchanting.
+
+tile.openblocks.autoanvil.name=自動金床
+tile.openblocks.autoanvil.description=The auto anvil works just like the vanilla anvil, except it runs from XP juice and can be fully automated.\n\nUse the tabs on the right of the GUI to select which sides of the anvil items or liquid can be inserted or extracted. Right click and drag the anvil in the tab to spin it around and select other sides!
+
+tile.openblocks.drawingtable.name=描画台
+tile.openblocks.drawingtable.description=The drawing table is for creating stencils which can be used while painting. Insert an Unprepared Stencil into the drawing table then use the arrows to select which stencil you want!
+tile.openblocks.drawingtable.video=http://www.youtube.com/watch?v=M8LVLw-d100
+
+tile.openblocks.grave.name=墓
+tile.openblocks.trophy.name=トロフィー
+tile.openblocks.canvasglass.name=ガラスカンバス
+tile.openblocks.paintcan.name=ペイント缶
+
+tile.openblocks.sky.normal.name=Sky Block
+tile.openblocks.sky.normal.description=Bring the outside inside with the new Sky block! Just apply a redstone signal. We also offer an inverted version.
+tile.openblocks.sky.inverted.name=Inverted Sky Block
+
+tile.openblocks.radio.name=Radio
+tile.openblocks.radio.description=The radio allows you to stream internet radio! First, you need some tuned crystals which you can find in dungeon chests or from a special villager. Place the crystal in the radio and supply it with a redstone signal to turn it on.  The redstone strength controls the volume.\n\nYou can configure which radio stations are available in the servers config file.
+tile.openblocks.radio.video=http://www.youtube.com/watch?v=qvIg8VodnqU
+
+tile.openblocks.xpshower.name=XP Shower
+tile.openblocks.xpshower.description=Attach an XP shower to a tank of XP juice and it'll pour out XP orbs. These orbs can be collected by an XP Drain or an MFR Sewer.
+
+tile.openblocks.goldenegg.name=Golden Egg
+
+tile.openblocks.digitalfuse.name=Digital Fuse
+item.openblocks.cursor.name=Cursor
+item.openblocks.cursor.description=The cursor will let you click on blocks remotely.\nSimply shift-click onto a block to link the cursor, then use the cursor wherever you like to click on the target block. Be warned, by default the cursor uses up your XP relative to how far you are from the block you're clicking.
+item.openblocks.cursor.video=http://www.youtube.com/watch?v=bhl1adRz1wo
+
+item.openblocks.devnull.name=/dev/null
+item.openblocks.devnull.description=Click using /dev/null to open the inventory. There's a single inventory slot - put an item in there - dirt, for example. As you gather dirt from the ground this slot will fill up. Once it's full, any more dirt you pick up will be automatically discarded. You can shift-click with the item in your hand as though you were placing the block!
+
+item.openblocks.slimalyzer.name=Slimalyzer
+item.openblocks.slimalyzer.description=Walk around with the slimalyzer in your hand and it'll light up whenever you're in a slime spawning chunk.
+
+item.openblocks.hangglider.name=Hang Glider
+item.openblocks.hangglider.description=The hang glider is self explanatory. Hold it in your hand and click to place it on your back. Now jump!\nTo increase your speed you can press shift while gliding, but watch out, you'll lose altitude faster!
+item.openblocks.hangglider.video=http://www.youtube.com/watch?v=SfX4jM7XrRY
+
+item.openblocks.gliderwing.name=Glider Wing
+
+item.openblocks.sleepingbag.name=Sleeping Bag
+item.openblocks.sleepingbag.description=The sleeping bag lets you sleep out in the wilderness without having to reset your spawn location. To sleep, simply wear it on your back.
+
+item.openblocks.luggage.name=Luggage
+item.openblocks.luggage.description=Luggage is your new friend. He'll follow you around anywhere you go collecting any items he finds on the floor. Nom nom nom!\nTo dismantle him just shift-click on him and he'll turn into an item that you can carry around.\nIf he ever gets struck by lightning he'll be able to carry even more items!
+item.openblocks.luggage.video=http://www.youtube.com/watch?v=hEWvvVrD14Q
+
+item.openblocks.sonicglasses.name=Sonic Glasses
+item.openblocks.sonicglasses.description=Introducing the fantabulous new Sonic Glasses!\nThis new and exciting technology from OpenMods Inc allow you see what you hear!
+
+item.openblocks.squeegee.name=Squeegee
+item.openblocks.squeegee.description=The squeegee removes paint from any painted blocks. Just click on the side of the block you want to remove the paint from, or alternative shift-click the block to remove paint from all sides!
+item.openblocks.squeegee.video=http://www.youtube.com/watch?v=M8LVLw-d100
+
+item.openblocks.paintbrush.name=Paint Brush
+item.openblocks.paintbrush.description=Paint brushes let you paint blocks in whatever color you like!\n\nDab your paint brush in a Paint Can made in the Paint Mixer then click on a block to paint it.\n\nCanvas blocks are perfect for painting, but you can also paint quite a few vanilla blocks and even some blocks from other mods. You can also place stencils on blocks and then paint over the stencil!
+item.openblocks.paintbrush.video=http://www.youtube.com/watch?v=M8LVLw-d100
+
+item.openblocks.unprepared_stencil.name=Unprepared Stencil
+item.openblocks.unprepared_stencil.description="What are these pesky stencils I keep finding in chests?"\n\nStencils can be placed onto blocks and then painted over using paint brushes!\n\nYou can paint a block using multiple stencils and you can click on them with an empty hand to rotate them.\n\nPlace an Unprepared Stencil in a Drawing table to create different patterns.
+item.openblocks.unprepared_stencil.video=http://www.youtube.com/watch?v=M8LVLw-d100
+
+item.openblocks.stencil.name=Stencil
+item.openblocks.crayon.name=Magic Crayon
+item.openblocks.pencil.name=Magic Pencil
+item.openblocks.glasses.pencil.name=Pencil Glasses
+item.openblocks.glasses.crayon.name=Crayon Glasses
+item.openblocks.glasses.technicolor.name=Amazing Technicolor Glasses
+item.openblocks.glasses.admin.name=Badass Glasses
+item.openblocks.crane_backpack.name=Crane Backpack
+item.openblocks.crane_control.name=Crane Control
+item.openblocks.crane_engine.name=Crane Engine
+item.openblocks.crane_magnet.name=Crane Magnet
+item.openblocks.beam.name=Beam
+item.openblocks.line.name=Line
+item.openblocks.miracle_magnet.name=§5Miracle Magnet§r
+item.openblocks.info_book.name=World Domination with OpenBlocks
+item.openblocks.xpbucket.name=XP Bucket
+item.openblocks.height_map.name=Height Map
+item.openblocks.empty_map.name=Empty Map
+item.openblocks.map_controller.name=Map Controller Module
+item.openblocks.map_memory.name=Map Memory Module
+item.openblocks.cartographer.name=Cartographer
+item.openblocks.assistant_base.name=Assistant's base
+item.openblocks.sketching_pencil.name=Sketching Pencil
+item.openblocks.tasty_clay.name=Tasty Clay
+item.openblocks.golden_eye.name=Golden eye
+item.openblocks.pointer.name=Pointer
+item.openblocks.tuned_crystal.name=Tuned Crystal
+item.openblocks.pedometer.name=Pedometer
+
+item.openblocks.wallpaper.name=Wallpaper
+
+itemGroup.tabOpenBlocks=OpenBlocks
+
+entity.OpenBlocks.Luggage.name=生きているチェスト
+entity.OpenBlocks.Cartographer.name=地図製作機
+entity.OpenBlocks.Block.name=浮かぶブロック
+entity.OpenBlocks.MiniMe.name=Mini Me
+
+fluid.OpenBlocks.xpjuice=液体XP
