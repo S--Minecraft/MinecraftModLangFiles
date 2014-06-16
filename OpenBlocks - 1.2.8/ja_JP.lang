@@ -152,15 +152,15 @@ tile.openblocks.tank.description=タンクは液体を保持します。もし�
 tile.openblocks.tank.video=http://www.youtube.com/watch?v=NBcneEthjn0
 
 tile.openblocks.flag.name=旗
-tile.openblocks.flag.description=Flags can be used for decoration or for marking the way back out of a cave you've ventured in to. The flag will point in the direction that you placed it, or you can put it on walls. If you shift-click with a flag in your hand it will change color.
+tile.openblocks.flag.description=旗は装飾品としても入った洞窟から出る道しるべとしても使われます。旗は床にも壁にもつけることができ、置いた向きを指します。もし、旗をシフトしながらクリックしたら手にある旗の色が変わります。
 
 tile.openblocks.beartrap.name=トラバサミ
-tile.openblocks.beartrap.description=Place a bear trap and click on it to open it up. When a mob walks over the trap they'll be unable to move!
+tile.openblocks.beartrap.description=トラバサミを置き、クリックして開いてください。モブがトラバサミの上を歩くと動けなくなります！
 
 tile.openblocks.sponge.name=スポンジ
 tile.openblocks.sponge.description=The sponge is a replacement for the vanilla sponge. Perfect for removing small pockets of lava or water. Be careful when using it on large areas of liquid though as it'll start to get quite messy.
 
-item.openblocks.spongeonastick.name=Sponge
+item.openblocks.spongeonastick.name=スポンジ付き棒
 item.openblocks.spongeonastick.description=The sponge on a stick is a tool for cleaning up liquids. Works just like the sponge, but is more mobile at the expense of wearing out.
 
 tile.openblocks.cannon.name=アイテムキャノン
