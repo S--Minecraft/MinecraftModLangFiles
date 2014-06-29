@@ -1,3 +1,4 @@
+# ja_JP by S,Yukigitsune
 machine.fuel=燃料コア
 machine.control=制御棒
 machine.coolant=冷却セル
@@ -24,8 +25,8 @@ machine.injector=核融合プラズマインジェクター
 machine.fusionheater=水素予熱器
 machine.gasduct=ガスダクト
 machine.ionizer=水素イオン化装置
-machine.absorber=Neutron Absorber
-machine.magnetpipe=Magnetic Containment Pipe
+machine.absorber=中性子吸収器
+machine.magnetpipe=磁気閉鎖パイプ
 machine.solenoid=ソレノイド磁石
 
 ore.pitchblende=ウラン鉱石
@@ -38,7 +39,7 @@ ore.ammonium=塩化アンモニウム
 ore.magnetite=磁鉄鉱石
 
 block.concrete=コンクリート
-block.slag=Corium
+block.slag=炉心溶融物
 block.fluorite=ホタル石ブロック
 block.calcite=方解石ブロック
 block.ferromagnet=強磁性ブロック
@@ -58,7 +59,7 @@ item.thorium=三重水素燃料ペレット
 item.breeder=増殖炉用燃料
 item.magnet=永久磁石
 item.cleaner=放射線クリーンアップツール
-item.remotecpu=Reactor CPU Remote Control
+item.remotecpu=原子炉用リモートコントロールCPU
 
 raw.hf=フッ化水素
 raw.ammonium=塩化アンモニウム
@@ -89,7 +90,7 @@ crafting.magnetic=強磁性パネル
 crafting.magnetcore=磁気コア
 crafting.coolant=冷却パック
 crafting.wire=金ワイヤー
-crafting.shield=Neutron Shielding
+crafting.shield=中性子遮蔽板
 crafting.ferroingot=強磁性インゴット
 crafting.hysteresis=ヒステリシスプレート
 crafting.hysteresisring=ヒステリシスリング
@@ -116,16 +117,16 @@ multiblock.heater.0=レーザー集中レンズ
 multiblock.heater.1=断熱コア
 multiblock.heater.2=予熱器ユニット　ハウジングコーナー
 multiblock.heater.3=予熱器ユニット　ハウジングエッジ
-multiblock.heater.4=Preheater Unit Housing Face
+multiblock.heater.4=予熱器ユニット　ハウジングフェイス
 
-multiblock.injector.0=Plasma Injector Base
-multiblock.injector.1=Plasma Injector Lower Corner
-multiblock.injector.2=Plasma Injector Side Panel
-multiblock.injector.3=Plasma Injector Top
-multiblock.injector.4=Plasma Injector Upper Corner
-multiblock.injector.5=Plasma Injector Induction Coil
-multiblock.injector.6=Plasma Injector Column Piece
-multiblock.injector.7=Plasma Injector Hysteresis Core
+multiblock.injector.0=プラズマ注入器　ベース
+multiblock.injector.1=プラズマ注入器　下の角
+multiblock.injector.2=プラズマ注入器　側板
+multiblock.injector.3=プラズマ注入器　天板
+multiblock.injector.4=プラズマ注入器　上の角
+multiblock.injector.5=プラズマ注入器　誘導コイル
+multiblock.injector.6=プラズマ注入器　コラムピース
+multiblock.injector.7=プラズマ注入器　ヒステリシスコア
 
 multiblock.solenoid.0=強磁性体
 multiblock.solenoid.1=磁気リンケージ
