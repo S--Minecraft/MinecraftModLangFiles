@@ -252,7 +252,7 @@ item.factorization:docbook.name=Factorizationマニュアル
 item.factorization:servo/actuator/item_syringe.name=アイテムシリンジ
 item.factorization:servo/actuator/item_syringe.hint=アイテムを削除または挿入する
 
-death.attack.laceration.1=%1$sが寸断した
+death.attack.laceration.1=%1$sは寸断された
 death.attack.laceration.2=%1$sはドゥームの旋舞翼を見つめるコンテストを落ちた
 death.attack.laceration.3=%1$sはブロックごとなくなった
 death.attack.laceration.4=%1$sは千切りされて亡くなった
