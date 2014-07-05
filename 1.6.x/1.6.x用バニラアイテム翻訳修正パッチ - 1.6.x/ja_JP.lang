@@ -7,6 +7,7 @@ tile.flower.name=花
 tile.rose.name=バラ
 
 #opitifine ja_JP byCrafterKina
+optifine.renderDistance.extreme=凄く遠い
 optifine.fog_fancy=霧の種類
 optifine.fog_start=霧の距離
 optifine.detailsBtn=グラフィックスの詳細設定
@@ -81,5 +82,9 @@ optifine.held_item_tooltips=持ち替え時アイテム名表示
 optifine.dropped_items=落ちてるアイテムの表示
 optifine.lazy_chunk_loading=チャンク読込を遅延
 optifine.custom_sky=カスタムスカイ
-
 optifine.fast_math=処理を早く
+optifine.fast_renderer=描画を早く
+optifine.translucent_blocks=半透明のブロックの設定
+optifine.framerate_limit_fine=パフォーマンス
+optifine.all_on=全てオン
+optifine.all_off=全てオフ

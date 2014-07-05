@@ -1,4 +1,5 @@
-﻿achievement.openblocks.droppedBrick=恐れ！
+﻿# ja_JP byS
+achievement.openblocks.droppedBrick=恐れ！
 achievement.openblocks.droppedBrick.desc=ごめんなさい、それだけで起こりました...
 stat.openblocks.bricksDropped=レンガがドロップされました
 
@@ -158,16 +159,16 @@ tile.openblocks.beartrap.name=トラバサミ
 tile.openblocks.beartrap.description=トラバサミを置き、クリックして開いてください。モブがトラバサミの上を歩くと動けなくなります！
 
 tile.openblocks.sponge.name=スポンジ
-tile.openblocks.sponge.description=The sponge is a replacement for the vanilla sponge. Perfect for removing small pockets of lava or water. Be careful when using it on large areas of liquid though as it'll start to get quite messy.
+tile.openblocks.sponge.description=スポンジはバニラにあるスポンジの置き換えです。少しの溶岩や水を除去するのに最適です。広い領域の液体に向かって使うときは気をつけてください。非情に厄介になります。
 
 item.openblocks.spongeonastick.name=スポンジ付き棒
-item.openblocks.spongeonastick.description=The sponge on a stick is a tool for cleaning up liquids. Works just like the sponge, but is more mobile at the expense of wearing out.
+item.openblocks.spongeonastick.description=スポンジ付き棒は液体を除去するためのツールです。スポンジみたいに使えますが、消耗することでより携帯性があります。
 
 tile.openblocks.cannon.name=アイテムキャノン
-tile.openblocks.cannon.description=When given a redstone signal, the item cannon will shoot items that it finds in an adjacent inventory. Use the 'pointer' item to aim the cannon.
+tile.openblocks.cannon.description=レッドストーン信号が与えられているとき、アイテムキャノンは隣接したインベントリからアイテムを探して投げます。キャノンのねらいを定めるには「ポインター」を利用してください。
 
 tile.openblocks.ropeladder.name=縄はしご
-tile.openblocks.ropeladder.description=When you place a rope ladder it'll roll out all the way to the ground.
+tile.openblocks.ropeladder.description=縄はしごを置いたら地面までずっと伸びていきます。
 
 tile.openblocks.sprinkler.name=スプリンクラー
 tile.openblocks.sprinkler.description=The sprinkler will help fertilize crops up to 4 blocks away. Simply place it above an OpenBlocks tank filled with water! You can also add bonemeal for an even faster rate of growth.\nIt also acts as a water source block!
@@ -311,7 +312,7 @@ item.openblocks.assistant_base.name=Assistant's base
 item.openblocks.sketching_pencil.name=Sketching Pencil
 item.openblocks.tasty_clay.name=Tasty Clay
 item.openblocks.golden_eye.name=Golden eye
-item.openblocks.pointer.name=Pointer
+item.openblocks.pointer.name=ポインター
 item.openblocks.tuned_crystal.name=Tuned Crystal
 item.openblocks.pedometer.name=Pedometer
 
