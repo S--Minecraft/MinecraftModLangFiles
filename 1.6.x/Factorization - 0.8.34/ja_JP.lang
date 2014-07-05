@@ -252,8 +252,7 @@ item.factorization:docbook.name=Factorizationマニュアル
 item.factorization:servo/actuator/item_syringe.name=アイテムシリンジ
 item.factorization:servo/actuator/item_syringe.hint=アイテムを削除または挿入する
 
-death.attack.laceration.1=%1$sは寸断された
-death.attack.laceration.2=%1$sはdeath.attack.laceration.1=％1$ sが寸断した 
+death.attack.laceration.1=%1$sが寸断した
 death.attack.laceration.2=%1$sはドゥームの旋舞翼を見つめるコンテストを落ちた
 death.attack.laceration.3=%1$sはブロックごとなくなった
 death.attack.laceration.4=%1$sは千切りされて亡くなった
@@ -266,13 +265,11 @@ data.label.SocketShifter.mode.MODE_STREAM=単品ストリーム
 data.label.SocketShifter.mode.MODE_PULSE_EXACT=正確な量をパルス
 data.label.SocketShifter.mode.MODE_PULSE_SOME=少量をパルス
 data.label.SocketShifter.exp.name=流れる方向
-後ろからdata.label.SocketShifter.exp.trueは=エクスポート
+data.label.SocketShifter.exp.true=後ろから搬出
 data.label.SocketShifter.exp.false=後ろから搬出
 data.label.SocketShifter.for.name=目標スロット
 data.label.SocketShifter.for.-1=任意のスロット
 data.label.SocketShifter.lim.name=量 
-data.label.SocketFanturpeller.suck.name=何も吸わない
-data.label.SocketFanturpeller.target_speed.name=目標速度
 data.label.SocketFanturpeller.suck.name=何も吸わない
 data.label.SocketFanturpeller.target_speed.name=目標速度
 data.label.PumpLiquids.suck.name=液体を吸う
