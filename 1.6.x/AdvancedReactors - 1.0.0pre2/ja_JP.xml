@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+  <comment>Japanese (ja_JP) Localization File byS</comment>
+
+  <entry key="tile.highTempMachine.name">高温度マシンブロック</entry>
+
+  <entry key="nuclearReactor1.name">第一層原子炉</entry>
+  <entry key="nuclearReactor2.name">第二層原子炉</entry>
+  <entry key="nuclearReactor3.name">第三層原子炉</entry>
+  <entry key="reactorChamberBasic.name">リアクターチャンバー</entry>
+  <entry key="reactorChamberHeat.name">熱容量リアクターチャンバー</entry>
+  <entry key="reactorChamberContainment.name">格納リアクターチャンバー</entry>
+  <entry key="reactorChamberInfernal.name">地獄リアクターチャンバー</entry>
+  <entry key="reactorChamberEnder.name">エンダーリアクターチャンバー</entry>
+
+  <entry key="item.plateDenseLapis.name">ラピスラズリプレート</entry>
+  <entry key="item.infernalReactorVent.name">地獄均等型ヒートベント</entry>
+  <entry key="item.quartzCondensator.name">QZHコンデンサ</entry>
+  <entry key="item.plateInfernal.name">地獄リアクタープレート</entry>
+  <entry key="item.dustObsidian.name">黒曜石の粉</entry>
+  <entry key="item.plateDenseObsidian.name">黒曜石のプレート</entry>
+  <entry key="item.obsidianNeutronReflector.name">黒曜石中性子反射板</entry>
+  <entry key="item.thickObsidianNeutronReflector.name">黒曜石中性子反射厚板</entry>
+  <entry key="item.weepingCoolantCell.name">泣いてる冷却セル</entry>
+  <entry key="item.plateDenseLead.name">濃鉛のプレート</entry>
+  <entry key="item.ingotInfernal.name">地獄インゴット</entry>
+
+  <entry key="itemGroup.Advanced Reactors">Advanced Reactors</entry>
+  <entry key="container.nuclearreactor">原子炉</entry>
+
+  <entry key="tooltip.maxHeat">最大熱量: @AMOUNT</entry>
+  <entry key="tooltip.chamberSize">インベントリの大きさ: @WIDTHx@HEIGHT</entry>
+  <entry key="tooltip.heatBonus">熱ボーナス: @AMOUNT</entry>
+  <entry key="tooltip.heatPenalty">熱ペナルティ: @AMOUNT</entry>
+  <entry key="tooltip.blastResist">爆破耐性ボーナス: @AMOUNT%</entry>
+  <entry key="tooltip.enderChamberBonus">自動的に @AMOUT 各反応ティック、熱を排出する</entry>
+
+  <entry key="tooltip.tier1CellRestriction">シングルセルと冷却セルのみ許可</entry>
+  <entry key="tooltip.tier2CellRestriction">シングル/デュアルセルと冷却セルのみ許可</entry>
+  <entry key="tooltip.tier3CellRestriction">シングル/デュアル/クアッドセルと冷却セルを許可</entry>
+
+</properties>

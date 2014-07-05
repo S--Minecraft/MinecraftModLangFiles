@@ -1,0 +1,14 @@
+tile.chickenChunkLoader|0.name=チャンクローダー
+tile.chickenChunkLoader|1.name=スポットローダー
+
+chickenchunks.gui.name=チャンクローダー
+chickenchunks.gui.showlasers=レーザーを表示
+chickenchunks.gui.hidelasers=レーザーを隠す
+chickenchunks.gui.chunk=%d チャンク
+chickenchunks.gui.chunks=%d チャンク
+chickenchunks.gui.radius=範囲
+
+chickenchunks.shape.square=四角形
+chickenchunks.shape.circle=円形
+chickenchunks.shape.linex=X線上
+chickenchunks.shape.linez=Z線上

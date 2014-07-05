@@ -1,0 +1,13 @@
+#ja_JP byS
+itemGroup.TMechworks=TMechworks
+
+tile.signalbus.name=信号バス
+tile.signalterminal.name=信号ターミナル
+
+item.spoolwire.name=ワイヤーのひと巻き
+item.lengthwire.name=ワイヤーの長さ
+
+block.drawbridge.name=跳ね橋
+block.firestarter.name=点火装置
+block.advdrawbridge.name=高度跳ね橋
+block.extdrawbridge.name=拡張跳ね橋

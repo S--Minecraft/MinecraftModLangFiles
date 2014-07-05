@@ -1,0 +1,38 @@
+#ja_JP language file
+#Translated by Kosaki_Mizuaki
+#version=2.2.2
+
+entity.NetherOres.netherOresHellfish.name = \u30d8\u30eb\u30d5\u30a3\u30c3\u30b7\u30e5
+
+tile.netherores.hellfish.name = \u30CD\u30B6\u30FC\u30E9\u30C3\u30AF
+tile.netherores.ore.coal.name = \u30CD\u30B6\u30FC\u77F3\u70AD\u9271\u77F3
+tile.netherores.ore.diamond.name = \u30CD\u30B6\u30FC\u30C0\u30A4\u30A2\u30E2\u30F3\u30C9\u9271\u77F3
+tile.netherores.ore.gold.name = \u30CD\u30B6\u30FC\u91D1\u9271\u77F3
+tile.netherores.ore.iron.name = \u30CD\u30B6\u30FC\u9244\u9271\u77F3
+tile.netherores.ore.lapis.name = \u30CD\u30B6\u30FC\u30E9\u30D4\u30B9\u30E9\u30BA\u30EA\u9271\u77F3
+tile.netherores.ore.redstone.name = \u30CD\u30B6\u30FC\u30EC\u30C3\u30C9\u30B9\u30C8\u30FC\u30F3\u9271\u77F3
+tile.netherores.ore.tin.name = \u30CD\u30B6\u30FC\u932B\u9271\u77F3
+tile.netherores.ore.copper.name = \u30CD\u30B6\u30FC\u9285\u9271\u77F3
+tile.netherores.ore.emerald.name = \u30CD\u30B6\u30FC\u30A8\u30E1\u30E9\u30EB\u30C9\u9271\u77F3
+tile.netherores.ore.silver.name = \u30CD\u30B6\u30FC\u9280\u9271\u77F3
+tile.netherores.ore.lead.name = \u30CD\u30B6\u30FC\u925B\u9271\u77F3
+tile.netherores.ore.uranium.name = \u30CD\u30B6\u30FC\u30A6\u30E9\u30CB\u30A6\u30E0\u9271\u77F3
+tile.netherores.ore.nikolite.name = \u30CD\u30B6\u30FC\u30CB\u30B3\u30E9\u30A4\u30C8\u9271\u77F3
+tile.netherores.ore.ruby.name = \u30CD\u30B6\u30FC\u30EB\u30D3\u30FC\u9271\u77F3
+tile.netherores.ore.peridot.name = \u30cd\u30b6\u30fc\u30da\u30ea\u30c9\u30c3\u30c8\u9271\u77f3
+tile.netherores.ore.sapphire.name = \u30CD\u30B6\u30FC\u30B5\u30D5\u30A1\u30A4\u30A2\u9271\u77F3
+tile.netherores.ore.platinum.name = \u30CD\u30B6\u30FC\u30D7\u30E9\u30C1\u30CA\u9271\u77F3 
+tile.netherores.ore.nickel.name = \u30CD\u30B6\u30FC\u30CB\u30C3\u30B1\u30EB\u9271\u77F3
+tile.netherores.ore.steel.name = \u30CD\u30B6\u30FC\u9291\u9244\u9271\u77F3
+tile.netherores.ore.iridium.name = \u30CD\u30B6\u30FC\u30A4\u30EA\u30B8\u30A6\u30E0\u9271\u77F3
+tile.netherores.ore.osmium.name = \u30CD\u30B6\u30FC\u30AA\u30B9\u30DF\u30A6\u30E0\u9271\u77F3
+tile.netherores.ore.sulfur.name = \u30cd\u30b6\u30fc\u786b\u9ec4\u9271\u77f3
+tile.netherores.ore.titanium.name = \u30cd\u30b6\u30fc\u30c1\u30bf\u30cb\u30a6\u30e0\u9271\u77f3
+tile.netherores.ore.mythril.name = \u30cd\u30b6\u30fc\u30df\u30b9\u30ea\u30eb\u9271\u77f3
+tile.netherores.ore.adamantium.name = \u30cd\u30b6\u30fc\u30a2\u30c0\u30de\u30f3\u30c1\u30a6\u30e0\u9271\u77f3
+tile.netherores.ore.rutile.name = \u30cd\u30b6\u30fc\u30eb\u30c1\u30eb\u9271\u77f3
+tile.netherores.ore.tungsten.name = \u30cd\u30b6\u30fc\u30bf\u30f3\u30b0\u30b9\u30c6\u30f3\u9271\u77f3
+tile.netherores.ore.amber.name = \u30cd\u30b6\u30fc\u7425\u73c0\u9271\u77f3
+tile.netherores.ore.tennantite.name = \u30cd\u30b6\u30fc\u30c6\u30ca\u30f3\u30bf\u30a4\u30c8\u9271\u77f3
+tile.netherores.ore.salt.name = \u30cd\u30b6\u30fc\u5869\u77f3
+tile.netherores.ore.saltpeter.name = \u30cd\u30b6\u30fc\u785d\u77f3

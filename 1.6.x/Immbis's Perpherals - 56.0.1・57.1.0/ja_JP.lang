@@ -1,0 +1,17 @@
+#ja_JP byS
+tile.immibis_peripherals.rfidwriter.name=非接触IC書込器
+tile.immibis_peripherals.rfidreader.name=非接触IC読取器
+tile.immibis_peripherals.magreader.name=磁気カード読取器
+tile.immibis_peripherals.speaker.name=スピーカー
+tile.immibis_peripherals.nic.name=LANモデム
+tile.immibis_peripherals.crypto.name=暗号化アクセラレータ
+tile.immibis_peripherals.ami.name=アドベンチャーマップインターフェース
+
+tile.immibis_peripherals.cable.0.name=LANケーブル
+item.immibis_peripherals.cable.0.name=LANケーブル
+
+item.immibis_peripherals.rf.name=非接触ICカード
+item.immibis_peripherals.mc.name=磁気カード
+item.immibis_peripherals.core.name=マイクロプロセッサコア
+item.immibis_peripherals.corex8.name=マイクロプロセッサコア x 8
+item.immibis_peripherals.corex64.name=マイクロプロセッサコア x 64

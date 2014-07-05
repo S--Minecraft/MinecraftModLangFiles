@@ -1,0 +1,36 @@
+﻿#ja_JP  byS&Buriareosu
+tile.tubestuff.storage.0.name=銀ブロック
+tile.tubestuff.storage.1.name=スズブロック
+tile.tubestuff.storage.2.name=銅ブロック
+tile.tubestuff.storage.3.name=ニコライトブロック
+tile.tubestuff.storage.4.name=石炭レンガブロック
+tile.tubestuff.storage.5.name=パワードレッドストーンブロック
+tile.tubestuff.storage.6.name=青合金ブロック
+tile.tubestuff.storage.7.name=赤合金ブロック
+tile.tubestuff.storage.8.name=ブラスブロック
+tile.tubestuff.storage.9.name=木炭ブロック
+
+tile.tubestuff.buffer.name=緩衝器
+tile.tubestuff.act2.name=全自動作業台 MkII
+tile.tubestuff.bhc.name=ブラックホールチェスト
+tile.tubestuff.incinerator.name=焼却炉
+tile.tubestuff.duplicator.name=複製器
+tile.tubestuff.retrievulator.name=取寄中継器
+tile.tubestuff.breaker.name=ブロック粉砕器
+tile.tubestuff.liquidincinerator.name=廃液処理器
+tile.tubestuff.liquidduplicator.name=液体複製器
+tile.tubestuff.playerdetector.name=オンラインプレイヤー検出器
+tile.tubestuff.mct2.name=手動作業台MkII
+tile.tubestuff.deployer.name=差配器
+
+item.tubestuff.jammer.name=取寄妨害器
+
+gui.tubestuff.act2.button.clear=C
+gui.tubestuff.act2.button.oredict=OD
+gui.tubestuff.act2.button.stackOn=64
+gui.tubestuff.act2.button.stackOff=1
+
+gui.tubestuff.bhc.page=ページ %1$d / %2$d
+
+tubestuff.duplicator.openFail=管理者のみがGUIを開く事が出来ます。
+tubestuff.duplicator.placeFail=管理者のみが複製器を設置出来ます。

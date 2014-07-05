@@ -1,0 +1,101 @@
+#ja_JP byS&Kuraun
+# Containers
+container.betterstorage.craftingStation=クラフティングステーション
+container.betterstorage.backpack=バックパック
+container.betterstorage.cardboardBox=段ボール箱
+container.betterstorage.crate=ストレージクレート
+container.betterstorage.enderBackpack=エンダーバックパック
+container.betterstorage.keyring=キーホルダー
+container.betterstorage.locker=ロッカー
+container.betterstorage.lockerLarge=ラージロッカー
+container.betterstorage.reinforcedChest=強化チェスト
+container.betterstorage.reinforcedChestLarge=強化ラージチェスト
+container.betterstorage.reinforcedLocker=強化ロッカー
+container.betterstorage.reinforcedLockerLarge=強化ラージロッカー
+container.betterstorage.thaumcraftBackpack=魔術師のバックパック
+container.betterstorage.thaumiumChest=魔法のチェスト
+container.betterstorage.thaumiumChestLarge=魔法のラージチェスト
+
+# Enchantments
+enchantment.betterstorage.key.lockpicking=錠破り
+enchantment.betterstorage.key.morphing=変形鍵
+enchantment.betterstorage.key.unlocking=保護解除
+enchantment.betterstorage.lock.persistance=持続性
+enchantment.betterstorage.lock.security=セキュリティ
+enchantment.betterstorage.lock.shock=衝撃
+enchantment.betterstorage.lock.trigger=引き金
+
+# Entities
+entity.betterstorage.Frienderman.name=友好的なエンダーマン
+
+# Items
+item.betterstorage.bucketSlime.name=スライム入りバケツ
+item.betterstorage.cardboardAxe.name=段ボールの斧
+item.betterstorage.cardboardBoots.name=段ボールのブーツ
+item.betterstorage.cardboardChestplate.name=段ボールのチェストプレート
+item.betterstorage.cardboardHelmet.name=段ボールのヘルメット
+item.betterstorage.cardboardHoe.name=段ボールのクワ
+item.betterstorage.cardboardLeggings.name=段ボールレギンス
+item.betterstorage.cardboardPickaxe.name=段ボールのツルハシ
+item.betterstorage.cardboardSheet.name=段ボールシート
+item.betterstorage.cardboardShovel.name=段ボールのショベル
+item.betterstorage.cardboardSword.name=段ボールの剣
+item.betterstorage.drinkingHelmet.name=段ボールヘルメット
+item.betterstorage.key.name=鍵
+item.betterstorage.keyring.name=キーホルダー
+item.betterstorage.lock.name=錠前
+item.betterstorage.masterKey.name=マスターキー
+
+# Creative tab
+itemGroup.betterstorage=BetterStorage
+
+# Keys
+key.betterstorage.backpackOpen=[BetterStorage] バックパックを開く
+key.betterstorage.drinkingHelmet=[BetterStorage] ドリンキングヘルメットを使う
+
+# Container materials
+material.betterstorage.iron=鉄
+material.betterstorage.gold=金
+material.betterstorage.diamond=ダイヤ
+material.betterstorage.emerald=エメラルド
+material.betterstorage.copper=銅
+material.betterstorage.tin=錫
+material.betterstorage.silver=銀
+material.betterstorage.steel=鋼鉄
+material.betterstorage.zinc=亜鉛
+
+# Thaumcraft
+tc.research_name.betterstorage.magicstorage=魔法のストレージ
+tc.research_text.betterstorage.magicstorage=貴方のコンテナをエンチャント
+tc.research_page.betterstorage.magicstorage.1=魔法で魔法の自然の材料をバックパックに注入すると、その全体的な耐久性とストレージ容量が増加します。アップグレードのおかげで、修理エンチャントなどのエンチャントをより簡単にできるでしょう。バックパックが修理エンチャントを持っている限り、その中のアイテムは遅い速度で、同様に修復されるようになります。<BR>鉄の強化チェストと魔道金属でも同じようなことが可能でより多くのアイテムを収納でき、より耐久性があるでしょう。
+
+# Blocks
+tile.betterstorage.craftingStation.name=クラフティングステーション
+tile.betterstorage.armorStand.name=防具スタンド
+tile.betterstorage.backpack.cantEquip.backpack=すでにバックパックが装備されています
+tile.betterstorage.backpack.cantEquip.chestplate=チェストプレートを着たうえでバックパックは装備できません
+tile.betterstorage.backpack.name=バックパック
+tile.betterstorage.cardboardBox.name=段ボール箱
+tile.betterstorage.crate.name=ストレージクレート
+tile.betterstorage.enderBackpack.name=エンダーバックパック
+tile.betterstorage.flintBlock.name=火打石ブロック
+tile.betterstorage.locker.name=ロッカー
+tile.betterstorage.reinforcedChest.name=強化チェスト
+tile.betterstorage.reinforcedChest.name.full=%MATERIAL%の強化チェスト
+tile.betterstorage.reinforcedLocker.name=強化ロッカー
+tile.betterstorage.reinforcedLocker.name.full=%MATERIAL%の強化ロッカー
+tile.betterstorage.thaumcraftBackpack.name=魔術師のバックパック
+tile.betterstorage.thaumiumChest.name=魔法のチェスト
+
+# Tooltips
+tooltip.betterstorage.backpack.bound=バウンドバックパック。
+tooltip.betterstorage.backpack.containsItems=アイテムを収納する。
+tooltip.betterstorage.backpack.equipHint=装備するにはスニーク状態で#置いて、壊してください。
+tooltip.betterstorage.backpack.equipHint.extended=装備するにはスニークして壊してください#装備を外すには手に何も持たないで#スニークして地面を右クリックしてください。
+tooltip.betterstorage.backpack.openHint=装備中に開くには%KEY%を押してください。
+tooltip.betterstorage.backpack.unequipHint=%REASON% 装備を外すには素手で地面を#スニーク状態で右クリックしてください。
+tooltip.betterstorage.backpack.unequipHint.extended=%INFO% 装備を外すには手に何も持たないで#スニークして地面を右クリックしてください。
+tooltip.betterstorage.backpack.used=プレイヤーによって現在使用されている。
+tooltip.betterstorage.drinkingHelmet.craftHint=二つのポーションで作る
+tooltip.betterstorage.drinkingHelmet.useHint=一口を取るためには%KEY%を押してください。
+tooltip.betterstorage.drinkingHelmet.uses=使用可能回数: %USES%

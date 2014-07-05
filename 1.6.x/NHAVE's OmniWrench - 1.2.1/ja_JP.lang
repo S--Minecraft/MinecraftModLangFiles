@@ -1,0 +1,37 @@
+﻿//ja_JP byS&Samon2go//
+//---Creative Tab---//
+itemGroup.nhave.tabWrench = NHAVE's OmniWrench
+
+//---Items---//
+item.nhave.omniwrench.name = 全能レンチ 12
+item.nhave.component.handle.name = 全能レンチ「ハンドル」
+item.nhave.component.piston.name = 全能レンチ「ピストン」
+item.nhave.component.claw.name = 全能レンチ「爪」
+
+//---Color Mod---//
+item.nhave.mod.color.name = カラーMOD
+wrench.color.name = 色
+wrench.color.code = カラーコード
+wrench.color.black = 黒色
+wrench.color.red = 赤色
+wrench.color.green = 緑色
+wrench.color.brown = 茶色
+wrench.color.blue = 青色
+wrench.color.purple = 紫色
+wrench.color.cyan = 水色
+wrench.color.silver = 薄灰色
+wrench.color.gray = 灰色
+wrench.color.pink = 桃色
+wrench.color.lime = 黄緑色
+wrench.color.yellow = 黄色
+wrench.color.light_blue = 空色
+wrench.color.magenta = 赤紫色
+wrench.color.orange = 橙色
+wrench.color.white = 白色
+
+//---Skin Mod---//
+item.nhave.mod.skin.name = スキンMOD
+wrench.skin.error = !!エラー!!
+wrench.skin = スキン
+item.nhave.mod.skin.special.name = プレミアムスキンMOD
+nhave.mod.skin.special.0 = これを使用できません。

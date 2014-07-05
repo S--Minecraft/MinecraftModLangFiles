@@ -1,0 +1,36 @@
+item.immibis_microblocks.saw.name=手ノコ
+tile.immibis_microblocks.container.name=マイクロブロック コンテナ ブロック
+
+immibis_microblocks.nei.subset=Blocks.Microblocks
+
+immibis_microblocks.nameformat.0=%1$s カバー
+immibis_microblocks.nameformat.1=%1$s パネル
+immibis_microblocks.nameformat.2=%1$s (3/8)板
+immibis_microblocks.nameformat.3=%1$s スラブ
+immibis_microblocks.nameformat.4=%1$s (5/8)板
+immibis_microblocks.nameformat.5=%1$s (6/8)板
+immibis_microblocks.nameformat.6=%1$s (7/8)板
+
+immibis_microblocks.nameformat.8=%1$s (1/8)^2角柱
+immibis_microblocks.nameformat.9=%1$s (1/4)^2角柱
+immibis_microblocks.nameformat.10=%1$s (3/8)^2角柱
+immibis_microblocks.nameformat.11=%1$s (1/2)^2角柱
+immibis_microblocks.nameformat.12=%1$s (5/8)^2角柱
+immibis_microblocks.nameformat.13=%1$s (6/8)^2角柱
+immibis_microblocks.nameformat.14=%1$s (7/8)^2角柱
+
+immibis_microblocks.nameformat.16=%1$s (1/8)^3小片
+immibis_microblocks.nameformat.17=%1$s (1/4)^3小片
+immibis_microblocks.nameformat.18=%1$s (3/8)^3小片
+immibis_microblocks.nameformat.19=%1$s (1/2)^3小片
+immibis_microblocks.nameformat.20=%1$s (5/8)^3小片
+immibis_microblocks.nameformat.21=%1$s (6/8)^3小片
+immibis_microblocks.nameformat.22=%1$s (7/8)^3小片
+
+immibis_microblocks.nameformat.24=穴空き %1$s カバー
+immibis_microblocks.nameformat.25=穴空き %1$s パネル
+immibis_microblocks.nameformat.26=穴空き %1$s (3/8)板
+immibis_microblocks.nameformat.27=穴空き %1$s スラブ
+immibis_microblocks.nameformat.28=穴空き %1$s (5/8)板
+immibis_microblocks.nameformat.29=穴空き %1$s (6/8)板
+immibis_microblocks.nameformat.30=穴空き %1$s (7/8)板

@@ -1,0 +1,91 @@
+//**********//
+//EXTRACELLS//
+//**********//
+//ja_JP byS
+
+//Items
+item.storage.physical.256k=ME 256kストレージ
+item.storage.physical.1024k=ME 1Mストレージ
+item.storage.physical.4096k=ME 4Mストレージ
+item.storage.physical.16348k=ME 16Mストレージ
+item.storage.physical.container=ME ブロックコンテイナ
+item.storage.physical.adjustable=可変 ME ストレージ
+item.storage.fluid.1k=ME 1k液体ストレージ
+item.storage.fluid.4k=ME 4k液体ストレージ
+item.storage.fluid.16k=ME 16k液体ストレージ
+item.storage.fluid.64k=ME 64k液体ストレージ
+item.storage.fluid.256k=ME 256k液体ストレージ
+item.storage.fluid.1m=ME 1M液体ストレージ
+item.storage.fluid.4m=ME 4M液体ストレージ
+item.storage.fluid.16m=ME 16M液体ストレージ
+item.storagecomponent.physical.kilo=キロ ストレージクラスター
+item.storagecomponent.physical.mega=メガ ストレージクラスター
+item.storagecomponent.physical.giga=ギガ ストレージクラスター
+item.storagecomponent.physical.tera=テラ ストレージクラスター
+item.storagecomponent.fluid.cell=液体ストレージセル
+item.storagecomponent.fluid.segment=液体ストレージセグメント
+item.storagecomponent.fluid.block=液体ストレージブロック
+item.storagecomponent.fluid.cluster=液体ストレージクラスター
+item.storage.physical_secure.encrypted=暗号化可能 セル - 暗号化済み
+item.storage.physical_secure.decrypted=暗号化可能 セル - 復号化済み
+item.casing.advanced.physical=発展ストレージセルハウジング
+item.casing.advanced.fluid=発展液体ストレージセルハウジング
+
+//Blocks
+tile.block.solderingstation.name=ソルダリングステーション
+tile.block.mebattery.name=ME バックアップバッテリー
+tile.block.medropper.name=ME アイテムドロッパー
+tile.block.hardmedrive.name=爆破耐性付MEドライブ
+tile.block.fluid.bus.import.name=ME液体入力バス
+tile.block.fluid.bus.export.name=ME液体出力バス
+tile.block.fluid.bus.storage.name=ME液体ストレージバス
+tile.block.bus.supplier.name=MEアイテムサプライバス
+tile.block.fluid.terminal.name=ME 液体 ターミナル
+tile.block.fluid.transitionplane.name=ME 液体 トランセーション プレイン
+tile.block.certustank.name=ME ケルタス タンク
+tile.block.walrus.name=ワルラス
+tile.block.fluid.levelemitter.name=ME液体レベルエミッター
+tile.block.fluid.interface.name=ME液体インターフェース
+tile.block.fluid.void.name=液体削除機
+tile.block.fluid.crafter.name=ME液体クラフティングチャンバー
+tile.block.fluid.monitor.storage.name=ME液体ストレージモニター
+
+//Tooltips and Chat-Messages
+tooltip.belongsto=このストレージの所有者は次の人です:
+tooltip.notyours=あなたはこのストレージの所有者です
+tooltip.accessgranted=アクセスが完了しました
+tooltip.storageencrypted=ストレージが暗号化されました
+tooltip.empty1=空
+tooltip.empty2=空
+tooltip.block=ブロック
+tooltip.equaltrade1=等価交換モード (1*1)
+tooltip.equaltrade3=等価交換モード (3*3)
+tooltip.placement=設置モード
+tooltip.mode=モード
+tooltip.onlyblocks=アイテムを設置できません！ブロックコンテーナにブロックを入れてください
+tooltip.item=アイテム 
+tooltip.dropperlocked=ドロッパーをロックしました
+tooltip.dropperunlocked=ドロッパーをアンロックしました 
+tooltip.dropset=ドロップを次にセットする: 
+tooltip.amount=量 
+tooltip.fluid=液体 
+tooltip.fluidmode=移動モード
+tooltip.fluidmode.move=$amount mb/t 移動させる 
+tooltip.fluidmode.cost=$cost pu/t かかる 
+tooltip.solderingwarning.tutorial=ME可変ストレージをホットバーに入れた状態でソルダリング ステーションを使用してください！
+tooltip.solderingwarning.nospacestoragecell=ME ストレージ セルから取り出すには、インベントリに空きを作ってください！
+tooltip.solderingwarning.nospaceconversionmatrix=ME コンバーション マトリクスから取り出すには、インベントリに空きを作ってください！
+tooltip.solderingwarning.needstoragecell=このストレージの容量をアップグレードするには、2048バイトごとに一つME ストレージ セルが必要です！
+tooltip.solderingwarning.needconversionmatrix=このストレージの種類をアップグレードするには、一種類あたりに一つME コンバーション マトリクスが必要です！
+tooltip.solderingwarning.cellnotempty=このセルは空です！
+tooltip.direction.0=下
+tooltip.direction.1=上
+tooltip.direction.2=北
+tooltip.direction.3=南
+tooltip.direction.4=西
+tooltip.direction.5=東
+tooltip.direction.6=不明
+
+//Fuild API Fix
+fluid.tile.water=水
+fluid.tile.lava=溶岩

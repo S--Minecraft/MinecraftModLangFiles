@@ -1,0 +1,281 @@
+﻿#ja_JP localizations by S
+#You can contribute localizations here: https://github.com/purpleposeidon/FactorizationLocalizations
+
+#Some things:
+#factorization.replace:Oak Wood Barrel=Oaken Barrel
+#will replace the string "Oak Wood Barrel" with "Oaken Barrel".
+#This is only available with substitution translations.
+#
+#item.factorization:someItem.hint=Hint text; always visible
+#item.factorization:someItem.shift=Shift-key text; Thaumcraft's got us well-trained
+
+factorization.factoryBlock.BARREL.name=廃止予定のバレル
+factorization.factoryBlock.DAYBARREL.name=バレル
+factorization.factoryBlock.DAYBARREL.format.name=%2$s バレル
+factorization.factoryBlock.DAYBARREL.format2.name=%1$s %2$s バレル
+factorization.factoryBlock.DAYBARREL.SILKY.name=絹のような
+factorization.factoryBlock.DAYBARREL.HOPPING.name=ホッピング
+factorization.factoryBlock.DAYBARREL.LARGER.name=もっと大きな
+factorization.factoryBlock.DAYBARREL.STICKY.name=スティッキー
+factorization.factoryBlock.DAYBARREL.CREATIVE.name=クリエイティブ
+#factorization.replace:Oak Wood Barrel=Oaken Barrel
+factorization.factoryBlock.STAMPER.name=スタンパー
+factorization.factoryBlock.STAMPER.hint=1種類の1枠のクラフトをする（骨1→骨粉1）
+factorization.factoryBlock.PACKAGER.name=パッケージャー
+factorization.factoryBlock.PACKAGER.hint=1種類の2*2枠/3*3枠のクラフトをする（木材4→作業台1）
+factorization.factoryBlock.SLAGFURNACE.name=スラグかまど
+factorization.factoryBlock.ROUTER.name=ルーター
+#factorization.factoryBlock.ROUTER.hint=Also try Servos!
+factorization.factoryBlock.LAMP.name=激怒のランプ
+factorization.factoryBlock.BATTERY.name=(隠しバッテリー)
+factorization.factoryBlock.BATTERY.hint=クラフティングには良くない
+item.factorization:charge_battery.name=バッテリーブロック
+item.factorization:charge_battery.hint=チャージ境界: 20-30
+item.factorization:charge_battery.perc=%s%%チャージ
+item.factorization:charge_battery.low=低充電
+item.factorization:charge_battery.mid=中充電
+item.factorization:charge_battery.full=満充電
+factorization.factoryBlock.LEYDENJAR.name=ライデン瓶
+factorization.factoryBlock.LEYDENJAR.hint=チャージ境界: 40-70
+factorization.factoryBlock.LEYDENJAR.perc=%s%%チャージ
+factorization.factoryBlock.SOLARBOILER.name=湯沸かし器
+factorization.factoryBlock.SOLARBOILER.hint=\nSucksは水の下からの熱源が必要です
+factorization.factoryBlock.STEAMTURBINE.name=蒸気タービン
+factorization.factoryBlock.STEAMTURBINE.hint=蒸気を電気に変換する
+item.factorization:mirror.name=鏡
+item.factorization:mirror.hint=水ボイラーで日光を反射する
+factorization.factoryBlock.HEATER.name=かまどヒーター
+factorization.factoryBlock.LEADWIRE.name=鉛ワイヤー
+factorization.factoryBlock.GRINDER.name=グラインダー
+factorization.factoryBlock.MIXER.name=ミキサー
+factorization.factoryBlock.MIXER.hint=不定型レシピをクラフト
+factorization.factoryBlock.CRYSTALLIZER.name=クリスタライザー
+factorization.factoryBlock.CERAMIC.name=彫刻
+factorization.factoryBlock.SERVORAIL.name=サーボレール
+factorization.factoryBlock.PARASIEVE.name=パラシーブ
+factorization.factoryBlock.COMPRESSIONCRAFTER.name=圧縮クラフター
+factorization.factoryBlock.COMPRESSIONCRAFTER.hint=\n壁をクラフトする レッドストーンによって有効化
+factorization.factoryBlock.COMPRESSIONCRAFTER.shift=角と中のない5x5の箱をお試しください
+factorization.factoryBlock.CALIOMETRIC_BURNER.name=カリオメトリックバーナー
+factorization.factoryBlock.CALIOMETRIC_BURNER.hint=食べ物を焼くには水ボイラーの隣に\nコンバーターを設置してください
+factorization.factoryBlock.SOCKET_EMPTY.name=ソケット
+item.factorization:socket/SOCKET_LACERATOR.name=破砕機
+item.factorization:socket/SOCKET_ROBOTHAND.name=設置機
+item.factorization:socket/SOCKET_SHIFTER.name=アイテムシフター
+
+tile.factorization.ResourceBlock.SILVERORE.name=銀鉱石
+tile.factorization.ResourceBlock.SILVERBLOCK.name=銀ブロック
+tile.factorization.ResourceBlock.LEADBLOCK.name=鉛ブロック
+tile.factorization.ResourceBlock.DARKIRONBLOCK.name=黒鉄ブロック
+
+fluid.factorization:fluid/steam=蒸気
+
+item.factorization:craftpacket.name=クラフトパケット
+item.factorization:craftpacket_complete.name=クラフトパケット
+item.factorization:tool/bag_of_holding.name=ホールディングバッグ
+item.factorization:tool/pocket_crafting_table.name=ポケットクラフティングテーブル
+item.factorization:tool/pocket_crafting_table.yesNEI=どこからも使う場合、%sを押してください
+item.factorization:tool/pocket_crafting_table.noNEI=使うためには%sを押してください
+item.factorization:tool/wand_of_cooling.name=寒冷化の杖
+item.factorization:diamond_shard.name=ダイヤモンドブロックシャード
+item.factorization:diamond_shard.hint=エクスプローデッドダイヤモンドブロック
+item.factorization:diamond_shard.shift=たぶん溶岩に投げ入れる\nよりもおもしろい！
+item.factorization:tool/wrath_igniter.name=怒りのライター(なくなる!)
+item.factorization:tool/wrath_igniter.hint=黒鉄鉱石は岩盤の近くで発見される。\n激怒のランプのためだけ
+item.factorization:dark_iron_ingot.name=黒鉄インゴット
+item.factorization:lead_ingot.name=鉛インゴット
+item.factorization:silver_ingot.name=銀インゴット
+item.factorization:router/item_filter.name=アイテムフィルター（アップグレード）
+item.factorization:router/machine_filter.name=マシンフィルター（アップグレード）
+item.factorization:router/speed.name=速度増強（アップグレード）
+item.factorization:router/thorough.name=完全（アップグレード）
+item.factorization:router/bandwidth.name=帯域幅（アップグレード）
+item.factorization:acid.name=硫酸
+item.factorization:acid_regia.name=王水
+item.factorization:magnet.name=磁石
+item.factorization:insulated_coil.name=絶縁コイル
+item.factorization:motor.name=モーター
+item.factorization:motor.hint=ソケットに置く
+item.factorization:fan.name=加圧機
+item.factorization:fan.hint=モーターに置く
+item.factorization:tool/charge_meter.name=チャージメーター
+item.factorization:router/eject.name=オートエジェクタ
+item.factorization:barrel_upgrade.name=エクストラディメンションストレージ（バレルアップグレード）
+item.factorization:diamond_cutting_head.name=ダイヤモンドカッティングヘッド
+item.factorization:diamond_cutting_head.hint=モーターに置く
+item.factorization:sludge.name=汚泥
+item.factorization:sludge.hint=鉱石砂利を洗ったときの副産物
+item.factorization:sculptTool.name=スカルプティングツール
+item.factorization:sculptTool.MOVER=動かす
+item.factorization:sculptTool.STRETCHER=伸ばす
+item.factorization:sculptTool.ROTATE_GLOBAL=グローバル回転
+item.factorization:sculptTool.ROTATE_LOCAL=ローカル回転
+item.factorization:sculptTool.RESETTER=回転をリセット
+item.factorization:sculptTool.MOLD=金型彫刻
+item.factorization:ceramics/glaze_bucket.name=上薬のバケツ
+item.factorization:tool/angular_saw.name=キューブソー
+item.factorization:tool/matrix_programmer.name=ロジックマトリックスプログラマー
+item.factorization:tool/matrix_programmer.hint=ダンジョン・図書館で発見される
+item.factorization:tool/matrix_programmer.shift=古代のコードリポジトリ
+item.factorization:logic_matrix.name=ブランクロジックマトリックス
+item.factorization:logic_matrix_identifier.name=ロジックマトリックス: 識別子
+item.factorization:logic_matrix_controller.name=ロジックマトリックス: 制御子
+item.factorization:heat_hole.name=ヒートホール
+item.factorization:nether_powder.name=ネザーラックパウダー
+item.factorization:rocket/rocket_engine.name=ロケットエンジン
+item.factorization:rocket/rocket_fuel.name=ロケット燃料
+item.factorization:rocket/inverium_drop.name=インベリウム
+
+itemGroup.factorizationTab=Factorization
+
+#Ores
+item.factorization:ore/gravel/IRON.name=汚い鉄の砂利
+item.factorization:ore/gravel/GOLD.name=汚い金の砂利
+item.factorization:ore/gravel/TIN.name=汚い錫の砂利
+item.factorization:ore/gravel/COPPER.name=汚い銅の砂利
+item.factorization:ore/gravel/GALENA.name=汚い銀の砂利
+item.factorization:ore/gravel/LEAD.name=汚い鉛の砂利
+item.factorization:ore/gravel/NATURAL_ALUMINUM.name=汚いアルミニウムの砂利
+item.factorization:ore/gravel/COBALT.name=汚いコバルトの砂利
+item.factorization:ore/gravel/ARDITE.name=汚いアルダイトの砂利
+item.factorization:ore/gravel/DARKIRON.name=汚い黒鉄の砂利
+
+item.factorization:ore/clean/IRON.name=きれいな鉄の砂利
+item.factorization:ore/clean/GOLD.name=きれいな金の砂利
+item.factorization:ore/clean/TIN.name=きれいな錫の砂利
+item.factorization:ore/clean/COPPER.name=きれいな銅の砂利
+item.factorization:ore/clean/GALENA.name=きれいな銀の砂利
+item.factorization:ore/clean/LEAD.name=きれいな鉛の砂利
+item.factorization:ore/clean/NATURAL_ALUMINUM.name=きれいなアルミニウムの砂利
+item.factorization:ore/clean/COBALT.name=きれいなコバルトの砂利
+item.factorization:ore/clean/ARDITE.name=きれいなアルダイトの砂利
+item.factorization:ore/clean/DARKIRON.name=きれいな黒鉄の砂利
+
+item.factorization:ore/reduced/IRON.name=還元鉄の塊
+item.factorization:ore/reduced/GOLD.name=還元金の塊
+item.factorization:ore/reduced/TIN.name=還元錫の塊
+item.factorization:ore/reduced/COPPER.name=還元銅の塊
+item.factorization:ore/reduced/SILVER.name=還元銀の塊
+item.factorization:ore/reduced/LEAD.name=還元鉛の塊
+item.factorization:ore/reduced/NATURAL_ALUMINUM.name=還元アルミニウムの塊
+item.factorization:ore/reduced/COBALT.name=還元コバルトの塊
+item.factorization:ore/reduced/ARDITE.name=還元アルダイトの塊
+item.factorization:ore/reduced/DARKIRON.name=還元黒鉄の塊
+
+item.factorization:ore/crystal/IRON.name=結晶鉄
+item.factorization:ore/crystal/GOLD.name=結晶金
+item.factorization:ore/crystal/TIN.name=結晶錫
+item.factorization:ore/crystal/COPPER.name=結晶銅
+item.factorization:ore/crystal/SILVER.name=結晶銅
+item.factorization:ore/crystal/LEAD.name=結晶鉛
+item.factorization:ore/crystal/NATURAL_ALUMINUM.name=結晶アルミニウム
+item.factorization:ore/crystal/COBALT.name=結晶コバルト
+item.factorization:ore/crystal/ARDITE.name=結晶アルダイト
+item.factorization:ore/crystal/DARKIRON.name=結晶黒鉄
+
+#Glazes
+item.factorization:ceramics/glaze_bucket.ST_VECHS_BLACK.name=上薬：St.Vechの黒色
+item.factorization:ceramics/glaze_bucket.TEMPLE_WHITE.name=上薬：神殿の白色
+item.factorization:ceramics/glaze_bucket.SALLYS_WHITE.name=上薬：Sallyの白色
+item.factorization:ceramics/glaze_bucket.CLEAR.name=上薬：透過
+item.factorization:ceramics/glaze_bucket.REDSTONE_OXIDE.name=上薬：酸化レッドストーンの赤灰色
+item.factorization:ceramics/glaze_bucket.LAPIS_OXIDE.name=上薬：酸化ラピスラズリの青灰色
+item.factorization:ceramics/glaze_bucket.PURPLE_OXIDE.name=上薬：酸化紫の紫色
+item.factorization:ceramics/glaze_bucket.LEAD_OXIDE.name=上薬：酸化鉛の紫灰色
+item.factorization:ceramics/glaze_bucket.FIRE_ENGINE_RED.name=上薬：消防車の赤色
+item.factorization:ceramics/glaze_bucket.CELEDON.name=上薬：セレドンの緑色
+item.factorization:ceramics/glaze_bucket.IRON_BLUE.name=上薬：鉄の青色
+item.factorization:ceramics/glaze_bucket.STONEWARE_SLIP.name=上薬：陶器の灰色
+item.factorization:ceramics/glaze_bucket.TENMOKU.name=上薬：天目の茶色
+item.factorization:ceramics/glaze_bucket.PEKING_BLUE.name=上薬：北京の青色
+item.factorization:ceramics/glaze_bucket.SHINO.name=上薬：Malcolmの篠の白色
+
+#Glaze bases
+item.factorization:ceramics/glaze_bucket.base_common.name=上薬: 通常
+item.factorization:ceramics/glaze_bucket.base_matte.name=上薬: マット
+item.factorization:ceramics/glaze_bucket.base_translucent.name=上薬: 半透明
+item.factorization:ceramics/glaze_bucket.base_shiny.name=上薬: シャイニー
+item.factorization:ceramics/glaze_bucket.base_bright.name=上薬: ブライト
+item.factorization:ceramics/glaze_bucket.base_unreal.name=上薬: アンリアル
+item.factorization:ceramics/glaze_bucket.base_mimicry.name=上薬: ミミシング
+
+item.factorization:ceramics/glaze_bucket.mimicry_prefix.name=上薬：擬態
+
+
+#Servos
+factorization:servo/component.name=サーボコンポーネント
+item.factorization:servo/instruction_plate.name=指示板
+item.factorization:servo/commenter.name=コメンター
+item.factorization:servo/servo.name=サーボ
+#item.factorization:servo/servo.hint=チェンジログを見てください。\n意見をください！
+item.factorization:servo/sprocket.name=黒鉄スプロケット
+item.factorization:servo/servo_motor.name=サーボモータ
+item.factorization:servo/component.fz.decorator.equipmentBay.name=ローディングベイ
+item.factorization:servo/component.fz.decorator.equipmentBay.hint=インベントリからの装備または非装備
+item.factorization:servo/component.fz.decorator.servoGrateWood.name=木製サーボ格子
+item.factorization:servo/component.fz.decorator.servoGrateIron.name=鉄製サーボ格子
+item.factorization:servo/component.fz.decorator.servoGrateGlass.name=ガラス製サーボ格子
+item.factorization:servo/decorator.fz.decorator.scancolor.name=カラースキャナー
+item.factorization:servo/component.fz.instruction.pulse.name=アクチュエータ：レッドストーンパルス
+item.factorization:servo/component.fz.instruction.activateactuator.name=アクチュエータ：クリック
+item.factorization:servo/component.fz.instruction.boop.name=アクチュエータ：ブープ
+item.factorization:servo/component.fz.instruction.boop.hint=ブープス
+item.factorization:servo/component.fz.instruction.setdirection.name=アクチュエータ：方向設定
+item.factorization:servo/component.fz.instruction.rotatetop.name=アクチュエータ：ポイントトップ
+item.factorization:servo/component.fz.instruction.sum.name=アクチュエータ：和
+item.factorization:servo/component.fz.instruction.sum.hint=プッシュ (ポップ + ポップ)
+item.factorization:servo/component.fz.instruction.product.name=アクチュエータ：積
+item.factorization:servo/component.fz.instruction.product.hint=プッシュ (ポップ * ポップ)
+item.factorization:servo/component.fz.instruction.integervalue.name=アクチュエータ：整数
+item.factorization:servo/component.fz.instruction.integervalue.hint=数を押してください
+item.factorization:servo/component.fz.instruction.dup.name=アクチュエータ：重複
+item.factorization:servo/component.fz.instruction.dup.hint=整数をコピーする
+item.factorization:servo/component.fz.instruction.drop.name=アクチュエータ：ドロップ
+item.factorization:servo/component.fz.instruction.drop.hint=整数を削除する
+item.factorization:servo/component.fz.instruction.configureactuator.name=アクチュエータの構成
+item.factorization:servo/component.fz.instruction.configureactuator.hint=アクチュエータを構成するかどうか
+item.factorization:servo/component.fz.instruction.spin.name=アクチュエータ：スピン
+item.factorization:servo/component.fz.instruction.setspeed.name=アクチュエータ：速度設定
+item.factorization:servo/component.fz.instruction.cmp.name=アクチュエータ：比較
+item.factorization:servo/component.fz.instruction.jmp.name=アクチュエータ：ジャンプ
+item.factorization:servo/component.fz.instruction.entryControl.name=入力制御
+item.factorization:servo/component.fz.instruction.socketCtrl.name=ソケット信号
+item.factorization:servo/component.fz.instruction.shifterctrl.name=アイテムシフター制御
+item.factorization:servo/component.fz.instruction.trap.name=トラップ
+item.factorization:servo/component.fz.instruction.trap.shift=はい、そうです。
+item.factorization:servo/component.fz.instruction.boolean.name=ブール型
+item.factorization:servo/component.fz.instruction.entryaction.name=エントリーアクション
+item.factorization:servo/component.fz.instruction.valuetransfer.name=スタック転送
+item.factorization:servo/component.fz.instruction.setsegment.name=スタック実行
+item.factorization:docbook.name=Factorizationマニュアル
+
+item.factorization:servo/actuator/item_syringe.name=アイテムシリンジ
+item.factorization:servo/actuator/item_syringe.hint=アイテムを削除または挿入する
+
+death.attack.laceration.1=%1$sは寸断された
+death.attack.laceration.2=%1$sはdeath.attack.laceration.1=％1$ sが寸断した 
+death.attack.laceration.2=%1$sはドゥームの旋舞翼を見つめるコンテストを落ちた
+death.attack.laceration.3=%1$sはブロックごとなくなった
+death.attack.laceration.4=%1$sは千切りされて亡くなった
+death.attack.laceration.5=%1$s鉱石は汚い%1$sの砂利になった
+death.attack.laceration.6=%1$sモブトラップを発見した
+#The code theoretically supports .player variants of these, but I can't think of any I like.
+
+data.label.SocketShifter.mode.name=転送モード
+data.label.SocketShifter.mode.MODE_STREAM=単品ストリーム
+data.label.SocketShifter.mode.MODE_PULSE_EXACT=正確な量をパルス
+data.label.SocketShifter.mode.MODE_PULSE_SOME=少量をパルス
+data.label.SocketShifter.exp.name=流れる方向
+後ろからdata.label.SocketShifter.exp.trueは=エクスポート
+data.label.SocketShifter.exp.false=後ろから搬出
+data.label.SocketShifter.for.name=目標スロット
+data.label.SocketShifter.for.-1=任意のスロット
+data.label.SocketShifter.lim.name=量 
+data.label.SocketFanturpeller.suck.name=何も吸わない
+data.label.SocketFanturpeller.target_speed.name=目標速度
+data.label.SocketFanturpeller.suck.name=何も吸わない
+data.label.SocketFanturpeller.target_speed.name=目標速度
+data.label.PumpLiquids.suck.name=液体を吸う
+data.label.PumpLiquids.target_speed.name=目標速度
+data.label.BlowEntities.suck.name=風を吸う
+data.label.BlowEntities.target_speed.name=目標速度

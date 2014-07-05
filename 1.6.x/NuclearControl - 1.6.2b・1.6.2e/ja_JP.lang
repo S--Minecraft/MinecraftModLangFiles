@@ -1,0 +1,104 @@
+#ja_JP byS
+item.ItemToolThermometer.name=温度計
+item.ItemToolDigitalThermometer.name=デジタル温度計
+item.ItemRemoteSensorKit.name=リモートセンサーキット
+item.ItemEnergySensorKit.name=エネルギーセンサーキット
+item.ItemCounterSensorKit.name=カウンターセンサーキット
+item.ItemLiquidSensorKit.name=液体センサーキット
+item.ItemSensorLocationCard.name=リアクターセンサーロケーションカード
+item.ItemEnergySensorLocationCard.name=エネルギーセンサーロケーションカード
+item.ItemCounterSensorLocationCard.name=カウンターセンサーロケーションカード
+item.ItemLiquidSensorLocationCard.name=液体センサーロケーションカード
+item.ItemEnergyArrayLocationCard.name=エネルギーアレイロケーションカード
+item.ItemRangeUpgrade.name=レンジアップグレード
+item.ItemColorUpgrade.name=カラーアップグレード
+item.ItemWebUpgrade.name=ウェブアップグレード
+item.ItemTimeCard.name=タイムカード
+item.ItemTextCard.name=テキストカード
+
+tile.blockThermalMonitor.name=温度モニター
+tile.blockIndustrialAlarm.name=工業用アラーム
+tile.blockHowlerAlarm.name=アラーム
+tile.blockRemoteThermo.name=リモート温度モニター
+tile.blockInfoPanel.name=工業用情報モニター
+tile.blockInfoPanelExtender.name=パネルエクステンダー
+tile.blockAdvancedInfoPanel.name=工業用発展型情報モニター
+tile.blockAdvancedInfoPanelExtender.name=発展型パネルエクステンダー
+
+tile.blockEnergyCounter.name=エネルギーカウンター
+tile.blockAverageCounter.name=アベレージカウンター
+tile.blockRangeTrigger.name=レンジトリガー
+
+msg.nc.HowlerAlarmSoundRange=サウンドレンジ: %s
+msg.nc.HowlerAlarmSound=サウンド
+msg.nc.ThermalMonitorSave=セーブ設定
+msg.nc.ThermalMonitorSignalAt=熱が%sになったら信号を出す
+msg.nc.Thermo=熱: %s
+msg.nc.ThermoDigital=熱: %s (水の蒸発: %s / 融解: %s)
+msg.nc.SensorKit=リモートセンサが搭載されている、センサーローケーションカードを受信
+
+msg.nc.InfoPanelOutOfRange=射程外
+msg.nc.InfoPanelInvalidCard=無効なカード
+msg.nc.InfoPanelNoTarget=ターゲットが見つかりません
+
+msg.nc.InfoPanelOn=オン
+msg.nc.InfoPanelOff=オフ
+msg.nc.InfoPanelHeat=T: %s
+msg.nc.InfoPanelMaxHeat=最大熱: %s
+msg.nc.InfoPanelMelting=融解: %s
+msg.nc.InfoPanelOutput=出力: %sEU/t
+msg.nc.InfoPanelOutputMJ=出力: %sMJ/t
+msg.nc.InfoPanelOutputSteam=出力: %smB/t
+msg.nc.InfoPanelTimeRemaining=残り時間: %s
+
+msg.nc.InfoPanelEnergyCounter=エネルギー: %sEU
+msg.nc.InfoPanelEnergyCounterMJ=エネルギー: %sMJ
+
+msg.nc.InfoPanelEnergy=エネルギー: %s
+msg.nc.InfoPanelEnergyFree=自由: %s
+msg.nc.InfoPanelEnergyStorage=保管: %s
+msg.nc.InfoPanelEnergyPercentage=パーセント: %s%%
+
+msg.nc.cbInfoPanelLiquidName=液体名
+msg.nc.cbInfoPanelLiquidAmount=量
+msg.nc.cbInfoPanelLiquidCapacity=許容量
+msg.nc.cbInfoPanelLiquidFree=自由
+msg.nc.cbInfoPanelLiquidPercentage=パーセント
+
+msg.nc.InfoPanelLiquidName=名称: %s
+msg.nc.InfoPanelLiquidAmount=量: %s
+msg.nc.InfoPanelLiquidCapacity=許容量: %s
+msg.nc.InfoPanelLiquidFree=自由: %s
+msg.nc.InfoPanelLiquidPercentage=パーセント: %s%%
+
+msg.nc.InfoPanelNotFoundN=#%dが見つかりません
+msg.nc.InfoPanelOutOfRangeN=#%dは射程外です
+msg.nc.InfoPanelEnergyN=#%d エネルギー: %s
+msg.nc.InfoPanelEnergyFreeN=#%d 自由: %s
+msg.nc.InfoPanelEnergyStorageN=#%d 保管: %s
+msg.nc.InfoPanelEnergyPercentageN=#%d パーセント: %s%%
+
+msg.nc.InfoPanelTime=時間: %s
+
+msg.nc.cbInfoPanelOnOff=オン/オフの状態
+msg.nc.cbInfoPanelHeat=熱状態
+msg.nc.cbInfoPanelMaxHeat=最大熱
+msg.nc.cbInfoPanelMelting=融解時の熱
+msg.nc.cbInfoPanelOutput=出力(EU/t)
+msg.nc.cbInfoPanelTimeRemaining=サイクル終了までの時間
+
+msg.nc.cb24h=24時間モード
+
+msg.nc.cbInfoPanelEnergyCurrent=エネルギー
+msg.nc.cbInfoPanelEnergyStorage=保存
+msg.nc.cbInfoPanelEnergyFree=自由
+msg.nc.cbInfoPanelEnergyEach=それぞれのカードの情報
+msg.nc.cbInfoPanelEnergyTotal=概要
+msg.nc.cbInfoPanelEnergyPercentage=パーセント
+msg.nc.EnergyCardQuantity=カードの数量: %d
+msg.nc.AverageCounterPeriod=期間: %s秒
+
+msg.nc.Reset=レセット
+msg.nc.ScreenColor=スクリーンの色
+msg.nc.TextColor=テキストの色
+msg.nc.None=N/A

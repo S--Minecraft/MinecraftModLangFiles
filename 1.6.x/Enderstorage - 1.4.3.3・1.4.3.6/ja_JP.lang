@@ -1,0 +1,6 @@
+﻿//ja_JP
+//by S
+tile.enderchest|0.name=エンダーチェスト
+tile.enderchest|1.name=エンダータンク
+item.enderpouch.name=エンダーポーチ
+enderstorage.serverop=オペレータ

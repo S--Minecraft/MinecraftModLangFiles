@@ -1,0 +1,12 @@
+﻿
+item.wrcbe_addons:sniffer.name=無線状況確認装置
+item.wrcbe_addons:psniffer.name=個人用無線指定機
+item.wrcbe_addons:wirelessmap.name=無線マップ
+item.wrcbe_addons:rep.name=ジャミングボム
+item.wrcbe_addons:triangulator.name=探知機
+item.wrcbe_addons:remote.name=リモコン
+item.wrcbe_addons:tracker.name=発信機
+
+wrcbe_addons.triangulator.short=探知機
+wrcbe_addons.remote.short=リモコン
+wrcbe_addons.tracker.short=発信機

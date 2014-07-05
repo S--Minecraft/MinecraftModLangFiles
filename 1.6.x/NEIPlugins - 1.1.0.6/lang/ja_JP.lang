@@ -1,0 +1,15 @@
+﻿#ja_JP byS
+guilist.prevpagetooltip=戻るには%sキーを押してください
+guilist.page=ページ %d/%d
+OptionsFuelTooltips.settings.fuel_tooltip=燃料ツールヒント
+OptionsFuelTooltips.settings.fuel_context_tooltip=燃料コンテキストツールヒント
+OptionsLists.recipe_list=レシピリスト
+OptionsLists.info_list=情報リスト
+OptionsLists.for_dev=開発者のために
+OptionsLists.settings=設定
+OptionsForge.info_list.fluid_dictionary=液体辞書
+OptionsForge.info_list.chest_loot=チェスト戦利品
+OptionsForge.for_dev.chest_loot=鉱石辞書
+OptionsForge.for_dev.game_registry=フォージゲームレジストリ
+OptionsForge.for_dev.game_registry.custom_item_stack=カスタムアイテムスタック
+

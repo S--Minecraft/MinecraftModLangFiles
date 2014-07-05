@@ -1,0 +1,66 @@
+﻿[C]§f===============
+[C]§eMinecraft クレジット
+[C]§f===============
+
+§7作者:
+§f			Markus Persson
+
+§7ゲームデザイン, プログラミング, デザイン:
+§f			Markus Persson
+§f			Jens Bergensten
+§f			Nathan Adams
+
+§7プログラミング:
+§f			Erik Broes
+
+§7音楽, 効果音:
+§f			Daniel Rosenfeld
+
+§7ゲーム内イラスト, 絵画:
+§f			Kristoffer Zetterstrand
+
+§7エンドゲームの物語:
+§f			Julian Gough
+
+§7ウェブサイト作成:
+§f			Tobias Möllstam
+§f			Daniel Frisk
+§f			Leonard Axelsson
+§f			Jens Bergensten
+§f			Markus Persson
+
+§7ロゴとプロモーションアートワーク:
+§f			Markus Toivonen
+
+§7ビジネスと管理:
+§f			Carl Manneh
+§f			Daniel Kaplan
+
+§7楽しみのディレクター:
+§f			Lydia Winters
+
+§7複雑な計算と統計:
+§f			Patrick Geuder
+
+§7追加プログラミング:
+§f			Paul Spooner
+§f			Ryan 'Scaevolus' Hitchman
+§f			Elliot 'Hippoplatimus' Segal
+
+§7Mo' Creaturesの開発者 (馬など):
+§f			John Olarte (DrZhark)
+§f			Kent Christian Jensen
+§f			Dan Roque
+
+§7使用技術:
+§f			Java by Oracle
+§f			LWJGL by many talented people
+§f			"3d Sound System" by Paul Lamb
+§f			JOrbis by JCraft
+
+
+
+
+
+
+§f"今から20年後、あなたは自分がやったことよりも、やらなかったことに対して、より失望することになるでしょう。だから、もやい綱を解き放って、安全な港から船を出そう。あなた自身の帆に貿易風をいっぱいに受けて、探検して、夢を見て、発見するんだ。" §7- 不明

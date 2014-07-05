@@ -1,0 +1,43 @@
+﻿#PowerConverters ja_JP LanguageFile
+#Made by Kosaki_Mizuaki
+
+powerconverters.inputlimited = 入力不足
+powerconverters.outputlimited = 出力限界
+
+powerconverters.in = 入力
+powerconverters.out = 出力
+powerconverters.none = <なし>
+powerconverters.nolink = 未リンク
+powerconverters.percentfull = 充電済
+
+powerconverters.up = 上面
+powerconverters.down = 底面
+powerconverters.south = 南
+powerconverters.north = 北
+powerconverters.west = 西
+powerconverters.east = 東
+
+powerconverters.common.bridge.name = エネルギーブリッジ
+powerconverters.common.charger.name = 汎用充電機
+
+powerconverters.bc.consumer.name = MJ入力機
+powerconverters.bc.producer.name = MJ出力機
+
+powerconverters.steam.consumer.name = 蒸気入力機
+powerconverters.steam.producer.name = 蒸気出力機
+
+powerconverters.fz.consumer.name = Factorization入力機
+powerconverters.fz.producer.name = Factorization出力機
+
+powerconverters.te.consumer.name = RF入力機
+powerconverters.te.producer.name = RF出力機
+
+powerconverters.ic2.lv.consumer.name = 低圧電力入力機
+powerconverters.ic2.mv.consumer.name = 中圧電力入力機
+powerconverters.ic2.hv.consumer.name = 高圧電力入力機
+powerconverters.ic2.ev.consumer.name = 超高圧電力入力機
+
+powerconverters.ic2.lv.producer.name = 低圧電力出力機
+powerconverters.ic2.mv.producer.name = 中圧電力出力機
+powerconverters.ic2.hv.producer.name = 高圧電力出力機
+powerconverters.ic2.ev.producer.name = 超高圧電力出力機

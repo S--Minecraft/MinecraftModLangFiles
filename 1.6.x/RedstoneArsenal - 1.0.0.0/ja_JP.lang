@@ -1,0 +1,33 @@
+﻿#ja_JP byS&Samon2go
+
+death.attack.flux=%1$sはフラックスによって引き裂かれた！
+death.attack.flux.player=%1$sは%2$sによってフラックスで死んだ！
+
+info.redstonearsenal.tool.chargeOn=強力にサポート
+info.redstonearsenal.tool.chargeOff=鎮めるために
+info.redstonearsenal.tool.energyPerUse=使用毎の消費RF
+info.redstonearsenal.tool.shovel=また、クワとしても機能します。
+info.redstonearsenal.tool.wrench=また、ハサミとしても機能します。
+
+item.redstonearsenal.material.dustElectrumFlux.name=フラックスエレクトラムブレンド
+item.redstonearsenal.material.ingotElectrumFlux.name=フラックスエレクトラムインゴット
+item.redstonearsenal.material.nuggetElectrumFlux.name=フラックスエレクトラムナゲット
+item.redstonearsenal.material.gemCrystalFlux.name=フラックスクリスタル
+item.redstonearsenal.material.rodObsidian.name=黒曜石の棒
+item.redstonearsenal.material.rodObsidianFlux.name=フラックス入り黒曜石の棒
+
+item.redstonearsenal.tool.wrench.name=フラックス入り全能レンチ
+item.redstonearsenal.tool.battleWrench.name=フラックス入り戦闘用レンチ
+item.redstonearsenal.tool.sword.name=フラックスの剣
+item.redstonearsenal.tool.shovel.name=フラックスのシャベル
+item.redstonearsenal.tool.pickaxe.name=フラックスのピッケル
+item.redstonearsenal.tool.axe.name=フラックスの斧
+item.redstonearsenal.tool.sickle.name=フラックスの鎌
+item.redstonearsenal.tool.bow.name=フラックスの弓
+
+itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
+keybind.redstonearsenal.empower=強力にサポート/鎮めるフラックスツール/武器
+
+tile.redstonearsenal.storage.electrumFlux.name=フラックスエレクトラムブロック
+tile.redstonearsenal.storage.crystalFlux.name=フラックスクリスタルブロック

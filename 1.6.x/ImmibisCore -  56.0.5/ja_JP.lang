@@ -1,0 +1,5 @@
+﻿#ja_JP byS
+mods.immibis.core.tps.avg=最後の%1$dティック間の平均TPS: %s
+mods.immibis.core.tps.lastTime=最後の2ティック間の時間: %s (%s TPS)
+mods.immibis.core.tps.tps=%1$.2f
+mods.immibis.core.tps.time=%1$dms

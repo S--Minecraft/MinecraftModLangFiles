@@ -1,0 +1,20 @@
+﻿itemGroup.lasermod=Laser Mod
+
+item.lasermod.laserCrystal.name=レーザークリスタル
+item.lasermod.laserSeekingGoogles.name=光線視認ゴーグル
+item.lasermod.screwdriver.name=スクリュードライバー
+tile.lasermod.basicLaser.name=通常レーザー照射機
+tile.lasermod.advancedLaser.name=強化レーザー照射機
+tile.lasermod.reflector.name=レーザー屈折機
+tile.lasermod.detector.name=レーザー受信機
+tile.lasermod.colorconverter.name=光色コンバーター
+item.lasermod.upgrade.0.name=火炎アップグレード
+item.lasermod.upgrade.1.name=水アップグレード
+item.lasermod.upgrade.2.name=氷結アップグレード
+item.lasermod.upgrade.3.name=不可視アップグレード
+item.lasermod.upgrade.4.name=採掘アップグレード
+item.lasermod.upgrade.5.name=押し込みアップグレード
+item.lasermod.upgrade.6.name=引き寄せアップグレード
+item.lasermod.upgrade.7.name=ダメージアップグレード
+
+death.attack.lasermod.damage=%1$s はレーザーにより死亡した

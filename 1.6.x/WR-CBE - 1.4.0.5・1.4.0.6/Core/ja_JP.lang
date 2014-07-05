@@ -1,0 +1,20 @@
+﻿
+death.attack.bolt=%1$s は赤い雷に打たれた
+item.wrcbe_core:obsidianStick.name=黒曜石の棒
+item.wrcbe_core:stoneBowl.name=石のボウル
+item.wrcbe_core:retherPearl.name=赤色の宝玉
+item.wrcbe_core:wirelessTransceiver.name=発信機
+item.wrcbe_core:blazeTransceiver.name=ブレイズの発信機
+item.wrcbe_core:recieverDish.name=アンテナ
+item.wrcbe_core:blazeRecieverDish.name=ブレイズのアンテナ
+
+wrcbe_core.button.simple=簡易モード
+wrcbe_core.button.advanced=詳細設定
+wrcbe_core.button.set=セット
+wrcbe_core.button.colour=色指定
+wrcbe_core.button.setname=名前を決定
+wrcbe_core.button.remname=名前を削除
+wrcbe_core.label.value=番号指定
+wrcbe_core.label.name=チャンネル名
+wrcbe_core.label.colour=信号の種類
+wrcbe_core.label.freq=チャンネル

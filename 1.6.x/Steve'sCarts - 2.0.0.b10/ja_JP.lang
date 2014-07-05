@@ -1,0 +1,761 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+#ja_JP byS
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=カートアセンブラー
+gui.SC2:basicAssembleInstruction=カートを造るには、決めたカートフレームをフレーム置き場に置いてください。
+gui.SC2:invalidHullError=フレーム置き場に置いたカートフレームは有効ではありません。これは可能であってはならないのでおそらく奇妙な何かをやったのでしょう。
+gui.SC2:hullCapacity=フレーム能力
+gui.SC2:complexityCap=複雑キャップ
+gui.SC2:totalCost=合計コスト
+gui.SC2:totalTime=合計時間
+gui.SC2:readyMessage=カートを組み立てる準備が整いました！
+gui.SC2:assembleProgress=進行状況
+gui.SC2:timeLeft=残り時間
+gui.SC2:idleAssemblerMessage=アセンブラーは現在、アイドル状態です
+gui.SC2:modifyCart=カートを変更する
+gui.SC2:assembleCart=カートを組み立てる
+gui.SC2:fuelLevel=燃料レベル
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=フレームがありません
+gui.SC2:invalidHullErrorShort=追加されたフレームはフレームではありません！
+gui.SC2:busyAssemblerError=アセンブラーはビジー状態です！
+gui.SC2:departureBayError=完成品置き場にカートがあります。
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=マネージャー
+gui.SC2:currentSetting=現在
+gui.SC2:changeTransferDirection=転送方向を変更
+gui.SC2:directionToCart=カートへ
+gui.SC2:directionFromCart=カートから
+gui.SC2:changeTurnBack=折り返し設定を変更
+gui.SC2:turnBackDisabled=向きが選択されていません
+gui.SC2:turnBack=転送後、折り返す
+gui.SC2:continueForward=転送後、そのまま進む
+gui.SC2:changeTransferSize=転送サイズを変更
+gui.SC2:changeSide=面を変更
+gui.SC2:currentSide=現在の面
+gui.SC2:sideRed=赤色
+gui.SC2:sideBlue=青色
+gui.SC2:sideYellow=黄色
+gui.SC2:sideGreen=緑色
+gui.SC2:sideDisabled=無効
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=カーゴ
+gui.SC2:changeSlotLayout=スロットレイアウトを変更
+gui.SC2:layoutShared=すべてのスロットはすべての面で共有されています
+gui.SC2:layoutSide=それぞれの面に1つずつスロットを割り振る
+gui.SC2:layoutColor=それぞれの色にスロットを割り振る
+gui.SC2:transferAll=出来るだけ多く転送する
+gui.SC2:transferItems=最大で [%1] [%2:アイテム] 転送する
+gui.SC2:transferStacks=最大で [%1] [%2:スタック] 転送する
+gui.SC2:transferAllShort=最大
+gui.SC2:transferItemsShort=I
+gui.SC2:transferStacksShort=S
+gui.SC2:changeTransferCartArea=カートの切り替えを変える
+gui.SC2:unknownAreaMessage=不明なオプション
+gui.SC2:cartAreaAll=すべてのスロット
+gui.SC2:cartAreaEngine=エンジン
+gui.SC2:cartAreaRailer=線路
+gui.SC2:cartAreaStorage=ストレージスロット
+gui.SC2:cartAreaTorches=松明
+gui.SC2:cartAreaExplosives=爆薬
+gui.SC2:cartAreaArrows=矢
+gui.SC2:cartAreaBridge=架橋材料
+gui.SC2:cartAreaSeeds=種
+gui.SC2:cartAreaFertilizer=肥料
+gui.SC2:cartAreaSaplings=苗木
+gui.SC2:cartAreaFirework=花火
+gui.SC2:cartAreaBuckets=水
+gui.SC2:cartAreaCakes=ケーキ
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=液体マネージャー
+gui.SC2:changeTankLayout=タンクレイアウトを変更
+gui.SC2:layoutSharedTanks=すべてのタンクはすべての面で共有されています
+gui.SC2:layoutSidedTanks=それぞれの面に1つずつタンクを割り振る
+gui.SC2:layoutColorTanks=それぞれの色にタンクを割り振る
+gui.SC2:transferAllLiquid=出来るだけ多く転送する
+gui.SC2:transferBuckets=最大で[%1]転送する
+gui.SC2:transferAllLiquidShort=最大
+gui.SC2:transferBucketShort=B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=モジュールトグラー
+gui.SC2:optionDrill=ドリル
+gui.SC2:optionShield=絶対障壁
+gui.SC2:optionInvisibility=光学迷彩
+gui.SC2:optionChunk=チャンクロード中
+gui.SC2:optionCageAuto=モブ捕獲檻、自動回収
+gui.SC2:optionCage=モブ捕獲檻、回収
+gui.SC2:settingDisabled=無効
+gui.SC2:settingOrange=橙色の方向
+gui.SC2:settingBlue=青色の方向
+gui.SC2:stateActivate=有効
+gui.SC2:stateDeactivate=無効
+gui.SC2:stateToggle=切替
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=エターナルディストリビュータ
+gui.SC2:distributorNotConnected=マネージャーに接続されていません！
+gui.SC2:sideName=[%1] 面
+gui.SC2:dropInstruction=この設定を追加するにはここに置いてください
+gui.SC2:removeInstruction=取り除くには右クリック
+gui.SC2:distributorAll=すべて
+gui.SC2:distributorRed=赤色
+gui.SC2:distributorBlue=青色
+gui.SC2:distributorYellow=黄色
+gui.SC2:distributorGreen=緑色
+gui.SC2:distributorTopLeft=左上
+gui.SC2:distributorTopRight=右上
+gui.SC2:distributorBottomLeft=左下
+gui.SC2:distributorBottomRight=右下
+gui.SC2:distributorToCart=カートへ
+gui.SC2:distributorFromCart=カートから
+gui.SC2:managerTop=トップマネージャ
+gui.SC2:managerBot=ボットムマネージャ
+gui.SC2:distributorSideOrange=橙色
+gui.SC2:distributorSidePurple=紫色
+gui.SC2:distributorSideYellow=黄色
+gui.SC2:distributorSideGreen=緑色
+gui.SC2:distributorSideBlue=青色
+gui.SC2:distributorSideRed=赤色
+gui.SC2:sideToolTip=面: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=出力
+gui.SC2:operatorAnd=AND
+gui.SC2:operatorOr=OR
+gui.SC2:operatorNot=NOT
+gui.SC2:operatorXor=XOR
+gui.SC2:operatorTopUnit=上のユニット
+gui.SC2:operatorBotUnit=下のユニット
+gui.SC2:operatorNorthUnit=北ユニット
+gui.SC2:operatorWestUnit=西ユニット
+gui.SC2:operatorSouthUnit=南ユニット
+gui.SC2:operatorEastUnit=東ユニット
+gui.SC2:operatorRedstone=レッドストーン入力
+gui.SC2:operatorRedstoneTop=上のレッドストーン入力
+gui.SC2:operatorRedstoneBot=下のレッドストーン入力
+gui.SC2:operatorRedstoneNorth=北のレッドストーン入力
+gui.SC2:operatorRedstoneWest=西のレッドストーン入力
+gui.SC2:operatorRedstoneSouth=南のレッドストーン入力
+gui.SC2:operatorRedstoneEast=東のレッドストーン入力
+gui.SC2:stateRails=レールの供給がある
+gui.SC2:stateTorches=松明の供給がある
+gui.SC2:stateSaplings=苗木の供給がある
+gui.SC2:sateSeeds=種の供給がある
+gui.SC2:stateBridge=架橋の供給がある
+gui.SC2:stateProjectiles=弾丸の供給がある
+gui.SC2:stateFertilizing=肥料の供給がある
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=ケーキの供給がある
+#
+gui.SC2:stateShield=障壁は有効ですか
+gui.SC2:stateChunk=チャンクローダーは有効ですか
+gui.SC2:stateInvisibility=光学迷彩は有効ですか
+gui.SC2:stateDrill=ドリルは有効ですか
+gui.SC2:stateCage=自動回収は有効ですか
+gui.SC2:stateStorageFull=ストレージは完全に満杯ですか
+gui.SC2:stateStorageEmpty=ストレージは完全に空ですか
+gui.SC2:statePassenger=乗客がいます
+gui.SC2:stateAnimal=動物の乗客がいます
+gui.SC2:stateTameable=飼いならせる乗客がいます
+gui.SC2:stateBreedable=飼育できる乗客がいます
+gui.SC2:stateHostile=敵対的な乗客がいます
+gui.SC2:stateCreeper=クリーパーの乗客がいます
+gui.SC2:stateSkeleton=スケルトンの乗客がいます
+gui.SC2:stateSpider=スパイダーの乗客がいます
+gui.SC2:stateZombie=ゾンビの乗客がいます
+gui.SC2:stateZombiePigMan=ゾンビピックマンの乗客がいます
+gui.SC2:stateSilverFish=シルバーフィッシュの乗客がいます
+gui.SC2:stateBlaze=ブレイズの乗客がいます
+gui.SC2:stateBat=コウモリの乗客がいます
+gui.SC2:stateWitch=ウィッチの乗客がいます
+gui.SC2:statePig=豚の乗客がいます
+gui.SC2:stateSheep=羊の乗客がいます
+gui.SC2:stateCow=牛の乗客がいます
+gui.SC2:stateMooshroom=ムーシュルームの乗客がいます
+gui.SC2:stateChicken=ニワトリの乗客がいます
+gui.SC2:stateWolf=オオカミの乗客がいます
+gui.SC2:stateSnowGolem=スノーゴーレムの乗客がいます
+gui.SC2:stateOcelot=ヤマネコの乗客がいます
+gui.SC2:stateVillager=村人の乗客がいます
+gui.SC2:statePlayer=プレイヤーの乗客がいます
+gui.SC2:stateZombieVillager=村人ゾンビの乗客がいます
+gui.SC2:stateChild=子供の乗客がいます
+gui.SC2:stateTamed=飼いならされた乗客がいます
+gui.SC2:statePowerRed=電源オブザーバー[赤]は有効ですか
+gui.SC2:statePowerBlue=電源オブザーバー[青]は有効ですか
+gui.SC2:statePowerGreen=電源オブザーバー[緑]は有効ですか
+gui.SC2:statePowerYellow=電源オブザーバー[黄]は有効ですか
+gui.SC2:stateTanksFull=タンクは完全に満杯ですか
+gui.SC2:stateTanksEmpty=タンクは完全に空ですか
+gui.SC2:stateTankEmpty=タンクは完全に空ですか
+
+
+# ======================================
+				ITEMS
+# ======================================
+
+# Carts
+item.SC2:ModularCart.name=モデュラーカート
+
+# Modules
+item.SC2:unknownmodule.name=不明なSC2モジュール
+item.SC2:coal_engine.name=燃焼エンジン(大)
+item.SC2:solar_engine.name=太陽光エンジン(大)
+item.SC2:side_chests.name=側面チェスト
+item.SC2:top_chest.name=上面チェスト
+item.SC2:front_chest.name=前面チェスト
+item.SC2:internal_storage.name=内部チェスト
+item.SC2:extracting_chests.name=展開型チェスト
+item.SC2:torch_placer.name=松明設置機
+item.SC2:basic_drill.name=ダイヤドリル
+item.SC2:galgadorian_drill.name=ガルガドリル
+item.SC2:railer.name=線路敷設機(小)
+item.SC2:large_railer.name=線路敷設機(大)
+item.SC2:bridge_builder.name=架橋建築機
+item.SC2:track_remover.name=線路撤去機
+item.SC2:basic_farmer.name=農業ツール
+item.SC2:basic_wood_cutter.name=林業ツール
+item.SC2:hydrator.name=散水機
+item.SC2:height_controller.name=高度センサー
+item.SC2:fertilizer.name=骨粉散布機
+item.SC2:entity_detector_animal.name=検知指定:動物
+item.SC2:liquid_sensors.name=液体センサー
+item.SC2:entity_detector_villager.name=検知指定:村人
+item.SC2:entity_detector_player.name=検知指定:プレイヤー
+item.SC2:seat.name=運転席
+item.SC2:entity_detector_monster.name=検知指定:モンスター
+item.SC2:advanced_control_system.name=操縦システム
+item.SC2:brake_handle.name=ブレーキレバー
+item.SC2:advanced_shooter.name=索敵型射撃装置
+item.SC2:shooter.name=射撃装置
+item.SC2:dynamite_carrier.name=ダイナマイト置き場
+item.SC2:cleaning_machine.name=清掃装置
+item.SC2:extreme_melter.name=融雪機(強)
+item.SC2:divine_shield.name=絶対障壁
+item.SC2:melter.name=融雪機(弱)
+item.SC2:standard_hull.name=鉄製フレーム
+item.SC2:reinforced_hull.name=超合金フレーム
+item.SC2:invisibility_core.name=光学迷彩
+item.SC2:wooden_hull.name=木製フレーム
+item.SC2:iron_drill.name=鉄のドリル
+item.SC2:hardened_drill.name=超合金ドリル
+item.SC2:note_sequencer.name=音響装置
+item.SC2:colorizer.name=色調補正機
+item.SC2:pumpkin_chariot.name=カボチャの馬車
+item.SC2:tiny_coal_engine.name=燃焼エンジン(小)
+item.SC2:basic_solar_engine.name=太陽光エンジン(小)
+item.SC2:projectile_potion.name=弾薬追加:ポーション
+item.SC2:gift_storage.name=プレゼントチェスト
+item.SC2:chunk_loader.name=チャンクローダー
+item.SC2:entity_detector_bat.name=検知指定:コウモリ
+item.SC2:freezer.name=降雪機(弱)
+item.SC2:projectile_snowball.name=弾薬追加:雪玉
+item.SC2:projectile_egg.name=弾薬追加:卵
+item.SC2:projectile_fire_charge.name=弾薬追加:チャージ
+item.SC2:firework_display.name=花火打ち上げ機
+item.SC2:crop_nether_wart.name=作物指定:ネザーウォート
+item.SC2:cage.name=モブ捕獲檻
+item.SC2:compact_solar_engine.name=太陽光エンジン(展開型)
+item.SC2:internal_tank.name=内部タンク
+item.SC2:mechanical_pig.name=メカニカルピッグ
+item.SC2:creative_engine.name=クリエイティブ用エンジン
+item.SC2:incinerator.name=焼却炉ツール
+item.SC2:thermal_engine.name=熱動力エンジン(小)
+item.SC2:advanced_thermal_engine.name=熱動力エンジン(大)
+item.SC2:liquid_cleaner.name=液体清掃装置
+item.SC2:side_tanks.name=側面タンク
+item.SC2:top_tank.name=上面タンク
+item.SC2:advanced_tank.name=展開型タンク
+item.SC2:front_tank.name=前面タンク
+item.SC2:creative_hull.name=クリエイティブ用フレーム
+item.SC2:power_observer.name=電源オブザーバー
+item.SC2:steves_arcade.name=スティーブのアーケード
+item.SC2:hardened_wood_cutter.name=強化林業ツール
+item.SC2:creative_tank.name=クリエイティブ用タンク
+item.SC2:open_tank.name=オープンタンク
+item.SC2:egg_basket=卵用バスケット
+item.SC2:drill_intelligence.name=ドリル知能ツール
+item.SC2:lawn_mower.name=芝刈り機
+item.SC2:galgadorian_farmer.name=ガルガ林業ツール
+item.SC2:crafter.name=クラフトツール
+item.SC2:milker.name=搾乳ツール
+item.SC2:galgadorian_hull.name=ガルガ製フレーム
+item.SC2:galgadorian_wood_cutter.name=ガルガ林業ツール
+item.SC2:ore_extractor.name=鉱石抽出ツール
+item.SC2:enchanter.name=エンチャントツール
+item.SC2:advanced_smelter.name=高度かまどツール
+item.SC2:advanced_crafter.name=高度クラフトツール
+item.SC2:experience_bank.name=経験値銀行
+item.SC2:information_provider.name=情報プロバイダー
+item.SC2:planter_range_extender.name=プランター範囲拡大機
+item.SC2:tree_exotic.name=木:エキゾチック
+item.SC2:smelter.name=かまどツール
+item.SC2:projectile_cake.name=弾薬追加: ケーキ
+item.SC2:trick_or_treat_cake_server.name=トリック・オア・トリート・ケーキサーバー
+item.SC2:cake_server.name=ケーキサーバー
+item.SC2:creative_incinerator.name=クリエイティブ用焼却炉ツール
+item.SC2:creative_supplies.name=クリエイティブ用品
+
+# Components
+item.SC2:unknowncomponent.name=不明なSC2部品
+item.SC2:wooden_wheels.name=木の車輪
+item.SC2:iron_wheels.name=鉄の車輪
+item.SC2:red_pigment.name=蛍光色素(赤)
+item.SC2:green_pigment.name=蛍光色素(緑)
+item.SC2:blue_pigment.name=蛍光色素(青)
+item.SC2:glass_o'magic.name=マジックグラス
+item.SC2:dynamite.name=ダイナマイト
+item.SC2:simple_pcb.name=プリント基板(小)
+item.SC2:graphical_interface.name=操作画面
+item.SC2:raw_handle.name=レバーの素
+item.SC2:refined_handle.name=レバー
+item.SC2:speed_handle.name=アクセルレバー
+item.SC2:wheel.name=ハンドル
+item.SC2:saw_blade.name=ダイヤ鋸刃
+item.SC2:advanced_pcb.name=プリント基板(大)
+item.SC2:wood_cutting_core.name=林業コア
+item.SC2:raw_hardener.name=硬化材の素
+item.SC2:refined_hardener.name=硬化材
+item.SC2:hardened_mesh.name=硬化鋼材
+item.SC2:stabilized_metal.name=超合金の素
+item.SC2:reinforced_metal.name=超合金インゴット
+item.SC2:reinforced_wheels.name=超合金の車輪
+item.SC2:pipe.name=射撃筒
+item.SC2:shooting_station.name=射撃コア
+item.SC2:entity_scanner.name=動体検知器
+item.SC2:entity_analyzer.name=動体分析器
+item.SC2:empty_disk.name=空ディスク
+item.SC2:tri-torch.name=三本松明
+item.SC2:chest_pane.name=木板(小)
+item.SC2:large_chest_pane.name=木板(中)
+item.SC2:huge_chest_pane.name=木板(大)
+item.SC2:chest_lock.name=錠前
+item.SC2:iron_pane.name=鉄板(小)
+item.SC2:large_iron_pane.name=鉄板(中)
+item.SC2:huge_iron_pane.name=鉄板(大)
+item.SC2:dynamic_pane.name=可動板(小)
+item.SC2:large_dynamic_pane.name=可動板(中)
+item.SC2:huge_dynamic_pane.name=可動板(大)
+item.SC2:cleaning_fan.name=清掃ファン
+item.SC2:cleaning_core.name=清掃コア
+item.SC2:cleaning_tube.name=清掃チューブ
+item.SC2:fuse.name=導火線
+item.SC2:solar_panel.name=ソーラーパネル
+item.SC2:eye_of_galgador.name=ガルガドールアイ
+item.SC2:lump_of_galgador.name=ガルガドール鋼(小)の素
+item.SC2:galgadorian_metal.name=ガルガドール鋼(小)
+item.SC2:large_lump_of_galgador.name=ガルガドール鋼(大)の素
+item.SC2:enhanced_galgadorian_metal.name=ガルガドール鋼(大)
+item.SC2:stolen_present.name=盗まれたプレゼント
+item.SC2:green_wrapping_paper.name=緑の包装紙
+item.SC2:red_wrapping_paper.name=赤の包装紙
+item.SC2:warm_hat.name=サンタ帽
+item.SC2:red_gift_ribbon.name=赤の包装用リボン
+item.SC2:yellow_gift_ribbon.name=黄の包装用リボン
+item.SC2:sock.name=お菓子入り靴下
+item.SC2:stuffed_sock.name=プレゼント入り靴下
+item.SC2:advanced_solar_panel.name=展開型ソーラーパネル
+item.SC2:blank_upgrade.name=空のアップグレード
+item.SC2:tank_valve.name=タンクバルブ
+item.SC2:tank_pane.name=タンクペイン(小)
+item.SC2:large_tank_pane.name=タンクペイン(中)
+item.SC2:huge_tank_pane.name=タンクペイン(大)
+item.SC2:liquid_cleaning_core.name=液体清掃コア
+item.SC2:liquid_cleaning_tube.name=液体清掃チューブ
+item.SC2:explosive_easter_egg.name=爆発イースターエッグ
+item.SC2:burning_easter_egg.name=炎上イースターエッグ
+item.SC2:glistering_easter_egg.name=発光イースターエッグ
+item.SC2:chocolate_easter_egg.name=チョコレートイースターエッグ
+item.SC2:painted_easter_egg.name=染色済みイースターエッグ
+item.SC2:basket.name=バスケット
+item.SC2:oak_log.name=樫の原木
+item.SC2:oak_twig.name=樫の小枝
+item.SC2:spruce_log.name=松の原木
+item.SC2:spruce_twig.name=松の小枝
+item.SC2:birch_log.name=白樺の原木
+item.SC2:birch_twig.name=白樺の小枝
+item.SC2:jungle_log.name=ジャングルの原木
+item.SC2:jungle_twig.name=ジャングルの小枝
+item.SC2:hardened_saw_blade.name=強化鋸刃
+item.SC2:galgadorian_saw_blade.name=ガルガ鋸刃
+item.SC2:galgadorian_wheels.name=ガルガの車輪
+item.SC2:iron_blade.name=鉄鋸刃
+item.SC2:blade_arm.name=鋸刃の腕
+
+
+
+# ======================================
+				BLOCKS
+# ======================================
+
+tile.SC2:BlockCargoManager.name=カーゴマネージャー
+tile.SC2:BlockJunction.name=切替レール
+tile.SC2:BlockAdvDetector.name=高性能ディテクターレール
+tile.SC2:BlockCartAssembler.name=カートアセンブラー
+tile.SC2:BlockActivator.name=モジュールトグラー
+tile.SC2:BlockDistributor.name=エターナルディストリビューター
+tile.SC2:BlockLiquidManager.name=液体マネージャー
+
+# Storage
+item.SC2:BlockStorage0.name=超合金ブロック
+item.SC2:BlockStorage1.name=ガルガドール鋼(小)ブロック
+item.SC2:BlockStorage2.name=ガルガドール鋼(大)ブロック
+# Upgrades
+item.SC2:batteries.name=アップグレード:バッテリー
+item.SC2:power_crystal.name=アップグレード:パワークリスタル
+item.SC2:module_knowledge.name=アップグレード:モジュール知能
+item.SC2:industrial_espionage.name=アップグレード:産業スパイ
+item.SC2:experienced_assembler.name=アップグレード:経験を積んだアセンブラー
+item.SC2:new_era.name=アップグレード:新時代
+item.SC2:co2_friendly.name=アップグレード:CO2削減
+item.SC2:generic_engine.name=アップグレード:汎用エンジン
+item.SC2:module_input.name=アップグレード:モジュール入力
+item.SC2:production_line.name=アップグレード:生産ライン
+item.SC2:cart_deployer.name=アップグレード:カートデプロイヤー
+item.SC2:cart_modifier.name=アップグレード:カートモディファイヤー
+item.SC2:cart_crane.name=アップグレード:カートクレーン
+item.SC2:redstone_control.name=アップグレード:レッドストーン制御
+item.SC2:creative_mode.name=アップグレード:クリエイティブモード
+item.SC2:quick_demolisher.name=アップグレード:クイックデモリッシャー
+item.SC2:manager_bridge.name=アップグレード:マネージャーブリッジ
+item.SC2:entropy.name=アップグレード:エントロピー
+item.SC2:solar_panel.name=アップグレード:ソーラーパネル
+item.SC2:thermal_engine_upgrade.name=アップグレード:熱動力エンジン
+
+# Detector Units
+item.SC2:BlockDetector0.name=ディテクターマネージャー
+item.SC2:BlockDetector1.name=ディテクターユニット
+item.SC2:BlockDetector2.name=ディテクターステイション
+item.SC2:BlockDetector3.name=ディテクタージャンクション
+item.SC2:BlockDetector4.name=ディテクターレッドストーンユニット
+
+
+
+# ======================================
+				MODULE MISC
+# ======================================
+
+# Categories
+info.SC2:moduleCategoryHull=フレーム
+info.SC2:moduleCategoryEngine=エンジン
+info.SC2:moduleCategoryTool=ツール
+info.SC2:moduleCategoryStorage=ストレージ
+info.SC2:moduleCategoryAddon=アドオン
+info.SC2:moduleCategoryAttachment=アタッチメント
+
+# Groups
+info.SC2:moduleGroupEngine=[%1:エンジン]
+info.SC2:moduleGroupDrill=[%1:ドリル]
+info.SC2:moduleGroupFarmer=[%1:農業ツール]
+info.SC2:moduleGroupCutter=[%1:林業ツール]
+info.SC2:moduleGroupTank=[%1:タンク]
+info.SC2:moduleGroupEntity=[%1:検知指定]
+info.SC2:moduleGroupShooter=[%1:射撃装置]
+info.SC2:moduleGroupTool=[%1:ツール]
+info.SC2:moduleGroupToolShooter=[%1:ツール] か [%1:射撃装置]
+
+# Messages
+info.SC2:pigExtraMessage=VsweのThunderpigアリーナでの勝利の思い出に。\2013Minecraftマラソンで寄付したみんなありがとう
+info.SC2:oceanExtraMessage=平均的なサイズの海の余地
+info.SC2:alphaExtraMessage=アルファで1年間
+info.SC2:storageEmpty=空
+info.SC2:storageFull=満
+info.SC2:giftStorageFull=サプライズを含んでいる場合があります。
+info.SC2:eggStorageFull=卵で満杯
+
+# Labels
+info.SC2:modularCost=搭載コスト
+info.SC2:cartSideTop=上
+info.SC2:cartSideCenter=中
+info.SC2:cartSideBottom=下
+info.SC2:cartSideBack=後
+info.SC2:cartSideLeft=左
+info.SC2:cartSideRight=右
+info.SC2:cartSideFront=前
+info.SC2:occupiedSides=[%1] [%2:面]を占有する
+info.SC2:sidesAnd=と
+info.SC2:noSides=どの面も占有しない
+info.SC2:moduleConflictHowever=しかし、次のものと競合する:
+info.SC2:moduleConflictAlso=また、次のものと競合する:
+info.SC2:moduleRequirement=必要
+info.SC2:moduleCount1=一
+info.SC2:moduleCount2=二
+info.SC2:moduleCount3=三
+info.SC2:allowDuplicates=重複可能
+info.SC2:moduleType=タイプ
+info.SC2:capacityOverloadError=合計搭載コストがフレームの許容搭載コストを超えています。
+info.SC2:impossibleCombinationError=指定したモジュールのモジュールタイプの組み合わせは不可能です。
+info.SC2:complexityOverloadError=[%1]はこのフレームには複雑すぎます。
+info.SC2:missingParentError=[%1]は作動するために[%2]が必要です！
+info.SC2:presentNemesisError=[%1]は[%2]と一緒では作動しません
+info.SC2:presentDuplicateError=[%1]は二回つけられません
+info.SC2:sideClashError=[%1]と[%2]は[%3]で競合します
+# need beta 3 for these ones to show up (remove this note)
+info.SC2:toolUnbreakable=壊れない
+info.SC2:toolDurability=耐久値: [%1]%
+info.SC2:modularCapacity=モジュラー容量: [%1]
+info.SC2:complexityCap=モジュールの複雑上限: [%1]
+info.SC2:maxEngineCount=最大エンジン数: [%1]
+info.SC2:maxAddonCount=最大アドオン数: [%1]
+# end of beta 3 requirement (remove this note)
+
+# ======================================
+				UPGRADES
+# ======================================
+
+info.SC2:effectBlueprint=ブループリントカートの使用を有効にします。
+info.SC2:effectCombustionFuel=標準の燃料源を可能にしました。
+info.SC2:effectDeployer=作成したカートの導入を可能にします。
+info.SC2:effectDisassemble=カートを分解したり変更したりすることができるようになります。
+info.SC2:effectFuelCapacity=燃料容量 [%1].
+info.SC2:effectFuelCost=燃料コスト [%1]%.
+info.SC2:effectInputChest=[%1]個のスロットを持つ入力チェスト。
+info.SC2:effectManagerBridge=マネージャーでアセンブラーを接続します。
+info.SC2:effectGenerator=毎分[%1] [%2:ユニット]の電力を生成します。
+info.SC2:effectRedstone=レッドストーン制御組立を可能にします。
+info.SC2:effectSolar=太陽のの下で、電気を生成します。
+info.SC2:effectThermal=内部タンク内の溶岩でカートアセンブラの電源を入れます。
+info.SC2:effectTimeFlat=モジュール組立時間 [%1] [%1:秒]。
+info.SC2:effectTimeFlatCart=カート組立時間 [%1] [%1:秒]。
+info.SC2:effectTimeFlatRemove=モジュール分解時間 [%1] [%1:秒]。
+info.SC2:effectTransposer=変更するためのカートをとってください。
+info.SC2:effectEfficiency=組立効率 [%1]%。
+
+
+# ======================================
+				MODULES
+# ======================================
+
+# Addons
+modules.addons.SC2:detectorAnimals=動物
+modules.addons.SC2:detectorBats=コウモリ
+modules.addons.SC2:detectorMonsters=モンスター
+modules.addons.SC2:detectorPlayers=プレイヤー
+modules.addons.SC2:detectorVillagers=村人
+modules.addons.SC2:planterRangeExtenderTitle=プランター範囲
+modules.addons.SC2:saplingPlantAmount=現在の苗木量
+modules.addons.SC2:controlLeverTitle=コントロールレバー
+modules.addons.SC2:leverStartCart=カートを走り始めされる
+modules.addons.SC2:leverStopCart=カートを止める
+modules.addons.SC2:leverTurnAroundCart=カートを周りに回す
+modules.addons.SC2:colorizerRgbRed=赤
+modules.addons.SC2:colorizerRgbGreen=緑
+modules.addons.SC2:colorizerRgbBlue=青
+modules.addons.SC2:intelligenceLockedBlock=ドリルは常にこのブロックを削除します
+modules.addons.SC2:intelligenceChange=ドリル知能を変更
+modules.addons.SC2:intelligenceCurrent=現在: [%1->有効|無効]
+modules.addons.SC2:enchanterInstruction=左側のスロットにエンチャントの本を入れます。
+modules.addons.SC2:invisibilityToggle=光学迷彩を[%1->有効|無効]
+modules.addons.SC2:informationProviderLabelName=名前
+modules.addons.SC2:informationProviderLabelDistance=距離
+modules.addons.SC2:informationProviderMessageDistance=距離: [%1]m
+modules.addons.SC2:informationProviderLabelPosition=位置
+modules.addons.SC2:informationProviderMessagePosition=X: [%1] Y: [%2] Z: [%3]
+modules.addons.SC2:informationProviderLabelFuel=残り燃料
+modules.addons.SC2:informationProviderMessageFuel=残り燃料時間
+modules.addons.SC2:informationProviderMessageNoConsumption=無消費
+modules.addons.SC2:informationProviderLabelStorage=使用されているストレージ
+modules.addons.SC2:informationProviderLabelDurability=耐久性
+modules.addons.SC2:informationProviderMessageToolBroken=ツールが壊れています。
+modules.addons.SC2:informationProviderMessageToolNotBroken=ツールは壊れていません。材料を除去してください
+modules.addons.SC2:informationProviderMessageRepair=ツールは修理されています。
+modules.addons.SC2:informationProviderMessageUnbreakable=ツールは壊れません。
+modules.addons.SC2:informationProviderLabels=ラベル
+modules.addons.SC2:powerThousandSuffix=K
+modules.addons.SC2:powerObserverInstruction=クリックして、目的の領域にドラッグして配置してください。
+modules.addons.SC2:powerObserverRemoveInstruction=取り除くには右クリック
+modules.addons.SC2:powerObserverDropInstruction=エンジンをここに置いてください。
+modules.addons.SC2:powerObserverChangeInstruction=最大パワーを変更するにはここをクリック
+modules.addons.SC2:powerObserverChangeInstruction10=10Kずつ変更するにはシフトクリック
+modules.addons.SC2:recipeOutput=出力先を変更
+modules.addons.SC2:recipeCurrentSelection=現在
+modules.addons.SC2:recipeInvalidOutput=不明
+modules.addons.SC2:recipeChangeMode=モードを変更
+modules.addons.SC2:recipeNoLimit=上限なし
+modules.addons.SC2:recipeLimit=スロックされたアイテムを制限
+modules.addons.SC2:recipeDisabled=何も生産しない
+modules.addons.SC2:recipeChangeLimit=ストレージに保つアイテムを[%1->増やす|減らす]。
+modules.addons.SC2:recipeChangeLimit10=10ずつ変更するにはシフトクリック。
+modules.addons.SC2:recipeChangeLimit64=64ずつ変更するにはコントロールクリック。
+modules.addons.SC2:shieldToggle=光学迷彩を[%1->有効|無効]
+
+# Engines
+modules.engines.SC2:creativePowerLevel=パワーレベル: [%1]
+modules.engines.SC2:coalEngineTitle=燃焼エンジン
+modules.engines.SC2:outOfFuel=燃料切れ
+modules.engines.SC2:fuelLevel=燃料: [%1]
+modules.engines.SC2:solarEngineTitle=太陽光エンジン
+modules.engines.SC2:outOfPower=出力なし
+modules.engines.SC2:powerLevel=パワー: [%1]
+modules.engines.SC2:thermalEngineTitle=熱動力エンジン
+modules.engines.SC2:thermalPowered=出力あり
+modules.engines.SC2:outOfWater=水不足
+modules.engines.SC2:outOfLava=溶岩不足
+# need beta 3 for these ones to show up (remove this note)
+modules.engines.SC2:engineDisabledMessage=無効
+modules.engines.SC2:enginePriorityMessage=優先度は[%1->高|中|低]
+# end of beta 3 requirement (remove this note)
+
+# Tanks
+modules.tanks.SC2:creativeTankMode=現在クリエイティブモード: [%1][%2->通常|常に満タン|常に空|常に半分]
+modules.tanks.SC2:creativeTankChangeMode=変更するには右クリック
+modules.tanks.SC2:creativeTankResetMode=通常に変更するにはシフト右クリック
+modules.tanks.SC2:tankLocked=この液体にロック
+modules.tanks.SC2:tankLock=この液体にロックするにはクリック
+modules.tanks.SC2:tankUnlock=アンロックするにはクリック
+modules.tanks.SC2:tankEmpty=空
+modules.tanks.SC2:tankInvalidFluid=不明
+
+# Tools
+modules.tools.SC2:toolDurability=耐久値
+modules.tools.SC2:toolBroken=壊れている
+modules.tools.SC2:toolRepairing=現在ツール修理中
+modules.tools.SC2:toolDecent=修理用金属を取り除いてください。このツールは大丈夫です。
+modules.tools.SC2:toolRepairInstruction=[%1]でこのツールを修理する
+modules.tools.SC2:toolUnbreakable=このツールは壊れません。
+modules.tools.SC2:toolUnbreakableRepairError=修理用金属を取り除いてください
+modules.tools.SC2:drillTitle=ドリル
+modules.tools.SC2:drillToggle=ドリルを[%1->有効|無効]
+modules.tools.SC2:repairDiamonds=ダイヤモンド
+modules.tools.SC2:repairIron=鉄インゴット
+modules.tools.SC2:farmerTitle=農業
+modules.tools.SC2:cutterTitle=林業
+
+# Attachments
+modules.attachments.SC2:fertilizers=骨粉散布機
+modules.attachments.SC2:railerTitle=線路敷設機
+modules.attachments.SC2:controlSystemTitle=操縦システム
+modules.attachments.SC2:controlSystemDistanceUnits=[%1->|k|M|G|T|P]m
+modules.attachments.SC2:controlSystemOdoMeter=ODO
+modules.attachments.SC2:controlSystemTripMeter=TRIP
+modules.attachments.SC2:cageAutoPickUp=自動回収を[%1->有効|無効]
+modules.attachments.SC2:cagePickUp=モンスターを[%1->捕獲|離す]
+modules.attachments.SC2:cakeServerTitle=ケーキサーバー
+modules.attachments.SC2:cakesLabel=ケーキ: [%1] / [%2]
+modules.attachments.SC2:slicesLabel=スライス: [%1] / [%2]
+modules.attachments.SC2:explosivesTitle=爆発物
+modules.attachments.SC2:experienceTitle=経験値
+modules.attachments.SC2:experienceLevel=経験値レベル: [%1] / [%2]
+modules.attachments.SC2:experienceExtract=50xpを抽出するにはクリック
+modules.attachments.SC2:experiencePlayerLevel=あなたの現在のレベルは[%1]です
+modules.attachments.SC2:shooterTitle=射撃装置
+modules.attachments.SC2:shooterFrequency=#/s
+modules.attachments.SC2:shooterSeconds=s
+modules.attachments.SC2:shooterDelay=遅延
+modules.attachments.SC2:notePiano=ピアノ
+modules.attachments.SC2:noteBassDrum=バスドラム
+modules.attachments.SC2:noteSnareDrum=スネアドラム
+modules.attachments.SC2:noteSticks=スティック
+modules.attachments.SC2:noteBassGuitar=ベースギター
+modules.attachments.SC2:noteCreateTrack=新しいトラックを作成
+modules.attachments.SC2:noteRemoveTrack=最後のトラックを削除
+modules.attachments.SC2:noteActivateInstrument=[%1]を有効化
+modules.attachments.SC2:noteDeactivateInstrument=音符ブロック設定を削除
+modules.attachments.SC2:noteDelay=遅延を変更。現在の遅延: [%1]
+modules.attachments.SC2:noteAdd=トラック #[%1]に音符を追加
+modules.attachments.SC2:noteRemove=トラック #[%1]の一番右の音符を取り除く
+modules.attachments.SC2:noteVolume=トラック音量: [%1->無音|低|中|高]
+# need beta 3 for these ones to show up (remove this note)
+modules.attachments.SC2:seatStateMessage=[%1->このカートは使用中|カートに乗る|カートから降りる]
+modules.attachments.SC2:controlSystemReset=Tripメーターをリセット
+# end of beta 3 requirement (remove this note)
+
+# ======================================
+				Steve's Arcade 
+# ======================================
+# need beta 3 for these ones to show up (remove this note)
+# Ghast Invaders
+arcade.SC2:ghastInvaders=ガストインベーダー
+arcade.SC2:ghastLives=追加敵数
+arcade.SC2:highScore=ハイスコア: [%1]
+arcade.SC2:score=スコア: [%1]
+arcade.SC2:instructionShoot=攻撃
+arcade.SC2:instructionLeft=左移動
+arcade.SC2:instructionRight=右移動
+arcade.SC2:instructionRestart=リスタート
+arcade.SC2:creeperSweeper=クリーパースウィーパー
+arcade.SC2:creeperMapName1=小
+arcade.SC2:creeperMapName2=中
+arcade.SC2:creeperMapName3=大
+arcade.SC2:creepersLeft=残りクリーパー:  [%1]
+arcade.SC2:creeperTime=所要時間: [%1]s
+arcade.SC2:instructionChangeMap=大きさを変更
+arcade.SC2:creeperCurrentMap=現在 [%1]
+arcade.SC2:creeperHighScores=ハイスコア
+arcade.SC2:creeperHighScore=[%1]: [%2]s
+arcade.SC2:mobStacker=モブスタッカー
+arcade.SC2:stackerRemovedLines=消した行: [%1]
+arcade.SC2:stackerRemovedLinesCombo=同時に [%1->1|2|3|4] 行消した: [%2]
+arcade.SC2:instructionRotate=回転
+arcade.SC2:instructionDrop=落とす
+arcade.SC2:trackOperator=トラックオペレーター
+arcade.SC2:operatorSaveError=セーブに失敗しました
+arcade.SC2:operatorSave=セーブ
+arcade.SC2:operatorUserCreatedMaps=ユーザー作成マップ
+arcade.SC2:operatorStories=ストーリー
+arcade.SC2:operatorHelp=開始する方法についての詳細は、ただストーリーモードに入って、「はじまり」の話を始めてください。自分のマップを作成するには、マップエディタに移動して、そこで新しいマップを作成してください。そこに説明はあるでしょう。ディテクターレールと接続する場合は、隣り合わせてクリックしてください。もっと情報が必要な場合は、wikiを確認してください。
+arcade.SC2:instructionTrackShape=トラックの形を選択
+arcade.SC2:instructionRotateTrack=トラックを回転
+arcade.SC2:instructionFlipTrack=トラックを裏返す
+arcade.SC2:instructionDefaultDirection=既定の方向を変更
+arcade.SC2:instructionTrackType=トラックのタイプを変更
+arcade.SC2:instructionDeleteTrack=トラックを削除
+arcade.SC2:instructionCopyTrack=トラックをコピー
+arcade.SC2:instructionMoveSteve=スティーブを動かす・回転させる
+arcade.SC2:instructionMoveMap=マップを動かす
+arcade.SC2:instructionPlaceTrack=トラックを置く
+arcade.SC2:instructionDeselectTrack=トラックを選択し直す
+arcade.SC2:leftMouseButton=左クリック
+arcade.SC2:rightMouseButton=右クリック
+arcade.SC2:buttonStart=スタート
+arcade.SC2:buttonMenu=メニュー
+arcade.SC2:buttonStop=ストップ
+arcade.SC2:buttonNextLevel=次のレベル
+arcade.SC2:buttonStartLevel=レベルスタート
+arcade.SC2:buttonSelectStory=ストーリーを選択
+arcade.SC2:buttonSelectStoryOther=別のストーリーを選択
+arcade.SC2:buttonCreateLevel=新しいレベルを作成
+arcade.SC2:buttonEditLevel=レベルを編集
+arcade.SC2:buttonRefreshList=リストを更新
+arcade.SC2:buttonSave=セーブ
+arcade.SC2:buttonSaveAs=名前を付けてセーブ
+arcade.SC2:buttonCancel=キャンセル
+#This one is slightly ugly, will probably be re-named later
+stories.beginning.SC2:mapEditor=マップエディター
+
+# Story - The beginning
+stories.beginning.SC2:title=はじまり
+stories.beginning.SC2:mission=スティーブはミッションをしている。次のレベルを見つけるためにマップを取得しなければならない。
+stories.beginning.SC2:start=右にある「スタート」ボタンを押してください。
+stories.beginning.SC2:stop=必要であれば、彼を止めるために「ストップ」ボタンを押せます。
+stories.beginning.SC2:map=スティーブはマップを持ちました。次に進むには「次のレベル」ボタンを押してください。
+stories.beginning.SC2:trackOperator=あなたはトラックオペレータです。あなたの仕事はレールが正しく設定されていることを確認することです。「スタート」ボタンを押す前に、レールの方向を結合部をクリックして正しく変更してください。
+stories.beginning.SC2:goodJob=よくできました。そのように行います。
+stories.beginning.SC2:changeJunctions=あなたはいつでも「ストップ」ボタンを押して、結合を変更できます。
+stories.beginning.SC2:blast=スティーブはカートに乗る爆風を、たまにあまりに多くも得られてしまうと思っている。たとえば、彼が永遠にループしたときなどに。幸運を祈ります。
+stories.beginning.SC2:steel=道のバンプにはトラックオペレーターにスチールレールと呼ばれるものが常にあります。スチールレールは方向を変更できません。幸運を祈ります。
+stories.beginning.SC2:detector=ディテクターレールはあなたの友でも敵でも敵でもあります。スティーブがディテクターレールの上を通過すると、いくつかの結合が変更される可能性があります。スチールレールもこれによって変更される可能性があります。影響される結合を確認するには、ディテクターレールの上にカーソルを載せてください。
+stories.beginning.SC2:outOfReach=ちょうど手が届かない...
+stories.beginning.SC2:outOfReach2=...しかし、あなたを停止しません。
+stories.beginning.SC2:longJourney=長い旅の後にスティーブは彼の長いパスの最後を見ることができます...
+stories.beginning.SC2:end=...しかし、すべてが常に計画通りに進むわけではありません。新しいストーリーを待っている間に新しいマップを作成して、共有できます。マップを作り始めるにはメニューの「マップエディタ」タブに移動してください。
+stories.beginning.SC2:thanks=遊んでくれてありがとう！ (^v^)
+stories.beginning.SC2:level1=新しい日
+stories.beginning.SC2:level2=オペレーター
+stories.beginning.SC2:level3=ループから逃れろ
+stories.beginning.SC2:level4=スチールほど硬い
+stories.beginning.SC2:level5=ワールド移動
+stories.beginning.SC2:level6=コードロック
+stories.beginning.SC2:level7=近すぎる
+stories.beginning.SC2:level8=狂気
+stories.beginning.SC2:level9=ケーキ
+
+
