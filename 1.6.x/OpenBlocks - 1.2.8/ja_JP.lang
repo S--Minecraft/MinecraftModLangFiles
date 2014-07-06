@@ -23,7 +23,7 @@ openblocks.gui.autoenchantmenttable=自動エンチャント台
 openblocks.gui.donationstation=寄付所
 openblocks.gui.itemdropper=アイテムドロッパー
 openblocks.gui.blockplacer=ブロックプレーサー
-openblocks.gui.paintmixer=ペイントミキサー
+openblocks.gui.paintmixer=塗料混合器
 openblocks.gui.drawingtable=描画台
 openblocks.gui.blocks=ブロック
 openblocks.gui.items=アイテム
@@ -171,30 +171,30 @@ tile.openblocks.ropeladder.name=縄はしご
 tile.openblocks.ropeladder.description=縄はしごを置いたら地面までずっと伸びていきます。
 
 tile.openblocks.sprinkler.name=スプリンクラー
-tile.openblocks.sprinkler.description=The sprinkler will help fertilize crops up to 4 blocks away. Simply place it above an OpenBlocks tank filled with water! You can also add bonemeal for an even faster rate of growth.\nIt also acts as a water source block!
+tile.openblocks.sprinkler.description=スプリンクラーは4ブロック離れた作物までを肥やします。水の入ったOpenBlocksのタンクの上に置いてください！骨粉も一緒にやるとより早く育ちます。\n水源としても動作します！
 
-tile.openblocks.paintmixer.name=Paint Mixer
-tile.openblocks.paintmixer.description=The paint mixer can mix any colour of paint you want! Drop either an existing paint bucket or a bucket of milk into the top slot, then cyan, magenta, yellow and black dyes into the other four slots and click mix!
+tile.openblocks.paintmixer.name=塗料混合器
+tile.openblocks.paintmixer.description=塗料混合器はどんな塗料の色も混ぜられます！塗料のバケツもしくは牛乳入りバケツを上のスロットに入れ、水色、赤紫色、黄色、黒色の染料を他の4つのスロットに入れてクリックして混ぜてください！
 tile.openblocks.paintmixer.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 tile.openblocks.canvas.name=カンバス
-tile.openblocks.canvas.description=The canvas is a perfectly white block that's perfect for painting. See the Paint Mixer for information about making paints.
+tile.openblocks.canvas.description=カンバスは完全に真っ白なブロックでものを描くのに最適です。塗料をつくる方法については塗料混合器を見てください。
 tile.openblocks.canvas.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 tile.openblocks.fan.name=扇風機
-tile.openblocks.fan.description=The fan will blow players, mobs or entities in the direction it's facing.
+tile.openblocks.fan.description=扇風機はプレイヤー、モブ、エンティティーを向いている方向に飛ばします。
 
 tile.openblocks.target.name=的
-tile.openblocks.target.description=The target will give out a redstone signal of a strength relative to the accuracy of the players aim. Give the target a redstone signal to make it pop up!
+tile.openblocks.target.description=的はプレイヤーの狙いの精度によってレッドストーン信号を出力します。的にレッドストーン信号を出力して不意に現れさせてください！
 
 tile.openblocks.path.name=飛び石
-tile.openblocks.path.description=The path doesn't do anything. It just looks nice!
+tile.openblocks.path.description=飛び石は何もしません。すてきに見えるだけです。
 
 tile.openblocks.itemDropper.name=アイテムドロッパー
-tile.openblocks.itemDropper.description=The item dropper is similar to the vanilla dropper, except it drops items directly down in a straight line.
+tile.openblocks.itemDropper.description=アイテムドロッパーは直線状にアイテムを落とすということ以外はバニラのドロッパーと似ています。
 
 tile.openblocks.bigbutton.name=大きなボタン
-tile.openblocks.bigbutton.description=The big button is a large button that can be placed on walls. If you shift-click on the button with an empty hand it will bring up an inventory with a single slot. You can put items into this slot to increase the length of time the button is pressed - one item increases the button press by one tick.
+tile.openblocks.bigbutton.description=大きなボタンは壁につけられます。ボタンを何も持っていない状態でシフトクリックすると1つのスロットのインベントリが表示されます。このスロットにアイテムを置くとボタンが押される時間が延びます - 1アイテムにつき1クリック分増加させる。
 
 tile.openblocks.xpdrain.name=XPドレイン
 tile.openblocks.xpdrain.description=Place the XP drain above an OpenBlocks tank and stand on it. Your XP will drain into the tank, which can then be used for blocks such as the auto enchantment table or the auto anvil.
