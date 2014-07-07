@@ -197,37 +197,37 @@ tile.openblocks.bigbutton.name=大きなボタン
 tile.openblocks.bigbutton.description=大きなボタンは壁につけられます。ボタンを何も持っていない状態でシフトクリックすると1つのスロットのインベントリが表示されます。このスロットにアイテムを置くとボタンが押される時間が延びます - 1アイテムにつき1クリック分増加させる。
 
 tile.openblocks.xpdrain.name=XPドレイン
-tile.openblocks.xpdrain.description=Place the XP drain above an OpenBlocks tank and stand on it. Your XP will drain into the tank, which can then be used for blocks such as the auto enchantment table or the auto anvil.
+tile.openblocks.xpdrain.description=XPドレインはOpenblocksのタンクの上に置いてください。あなたのXPはタンクの中へ流され、自動エンチャント台や自動金床などのブロックで使えるようになります。
 
 tile.openblocks.vacuumhopper.name=バキュームホッパー
-tile.openblocks.vacuumhopper.description=The vacuum hopper will suck up items and XP orbs around it. You can use the tabs on the right of the interface to select which sides to output to.
+tile.openblocks.vacuumhopper.description=バキュームホッパーは周りのアイテムやXPオーブを吸います。インターフェースの右のタブから出力するか決められます。
 
 tile.openblocks.village_highlighter.name=村マーカー
-tile.openblocks.village_highlighter.description=Drop the village highlighter down in a village and give it a redstone signal. It will outline the perimeter of the village and draw a box in the iron golem spawning area. Useful if you want to make sure villages don't merge into each other or you're making an iron farm!
+tile.openblocks.village_highlighter.description=村マーカーを村に置き、レッドストーン信号を送って下さい。すると、村の輪郭とアイアンゴーレムのスポーンエリアが表示されます。村同士をくっつけたくないときや製鉄所をつくるときに便利です！
 
 tile.openblocks.donationStation.name=寄付所
-tile.openblocks.donationStation.description=Love a block or item and want to show the mod developer some appreciation? Drop it into the donation station and if we know the authors donation page we'll give you a link.
+tile.openblocks.donationStation.description=ブロックやアイテムが大好きで、modderさんに少し感謝がしたいですか？寄付所にブロックやアイテムを入れると私たちが知っていれば、そのmodderさんの寄付ページへのリンクを表示します。
 
 tile.openblocks.blockPlacer.name=ブロックプレーサー
-tile.openblocks.blockPlacer.description=When given a redstone pulse the block placer will place an item in the direction it's facing.
+tile.openblocks.blockPlacer.description=ブロックプレーサーにレッドストーン信号のパルスを送ると正面にアイテムを設置します。
 
 tile.openblocks.blockbreaker.name=ブロックブレーカー
-tile.openblocks.blockbreaker.description=When given a redstone pulse the block breaker will break the block it's facing.
+tile.openblocks.blockbreaker.description=ブロックブレーカーにレッドストーン信号のパルスを送ると正面のブロックを破壊します。
 
 tile.openblocks.projector.name=高さ地図プロジェクター
 tile.openblocks.projector.description=I'll let you write this one boq!
 
 tile.openblocks.autoenchantmenttable.name=自動エンチャント台
-tile.openblocks.autoenchantmenttable.description=The auto enchantment table works in a similar way to the vanilla enchantment table except it runs off XP juice. Use the tabs on the right side of the interface to select where items or xp can be pulled from. Just like with the vanilla table bookshelves are required for higher levels.
+tile.openblocks.autoenchantmenttable.description=自動エンチャント台はXPジュースで動くこと以外はバニラのエンチャント台のように動作します。インターフェースの右のタブでどこからアイテムやXPをとるかを設定できます。高レベルのエンチャントをするにはバニラのように本棚が必要です。
 
 tile.openblocks.xpbottler.name=XP瓶詰め機
-tile.openblocks.xpbottler.description=The XP bottler will take XP juice and bottle it up into glass bottles to create bottles o' enchanting.
+tile.openblocks.xpbottler.description=XP瓶詰め機はXPジュースをガラス瓶に詰めてエンチャント瓶をつくります。
 
 tile.openblocks.autoanvil.name=自動金床
-tile.openblocks.autoanvil.description=The auto anvil works just like the vanilla anvil, except it runs from XP juice and can be fully automated.\n\nUse the tabs on the right of the GUI to select which sides of the anvil items or liquid can be inserted or extracted. Right click and drag the anvil in the tab to spin it around and select other sides!
+tile.openblocks.autoanvil.description=自動金床はXPジュースで動き全自動にできること以外はバニラの金床のように動作します。\n\nGUIの右のタブでどの方向から金床に使うアイテムや液体を搬入出するかを設定できます。右クリックして金床をタブにドラッグすると、回して他の面を設定できます！
 
 tile.openblocks.drawingtable.name=描画台
-tile.openblocks.drawingtable.description=The drawing table is for creating stencils which can be used while painting. Insert an Unprepared Stencil into the drawing table then use the arrows to select which stencil you want!
+tile.openblocks.drawingtable.description=描画台は描くための型板をつくります。未準備型板を描画台に入れて、どの型板がほしいかを矢印で選択してください！
 tile.openblocks.drawingtable.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 tile.openblocks.grave.name=墓
@@ -235,22 +235,22 @@ tile.openblocks.trophy.name=トロフィー
 tile.openblocks.canvasglass.name=ガラスカンバス
 tile.openblocks.paintcan.name=ペイント缶
 
-tile.openblocks.sky.normal.name=Sky Block
-tile.openblocks.sky.normal.description=Bring the outside inside with the new Sky block! Just apply a redstone signal. We also offer an inverted version.
-tile.openblocks.sky.inverted.name=Inverted Sky Block
+tile.openblocks.sky.normal.name=空ブロック
+tile.openblocks.sky.normal.description=新しい空ブロックで外を内にもっていきましょう！ただ単にレッドストーン信号を流してください。反転バージョンもあります。
+tile.openblocks.sky.inverted.name=反転空ブロック
 
-tile.openblocks.radio.name=Radio
-tile.openblocks.radio.description=The radio allows you to stream internet radio! First, you need some tuned crystals which you can find in dungeon chests or from a special villager. Place the crystal in the radio and supply it with a redstone signal to turn it on.  The redstone strength controls the volume.\n\nYou can configure which radio stations are available in the servers config file.
+tile.openblocks.radio.name=ラジオ
+tile.openblocks.radio.description=ラジオはインターネットラジオを聞けます！まず、ダンジョンのチェストまたは特別な村人から得られる同調されたクリスタルが必要です。クリルタルをラジオに置き、レッドストーン信号でスイッチを入れてください。レッドストーン信号の強さで音量を制御できます。\n\nサーバーのコンフィグファイルでどのラジオ局を取得するかを設定できます。
 tile.openblocks.radio.video=http://www.youtube.com/watch?v=qvIg8VodnqU
 
-tile.openblocks.xpshower.name=XP Shower
-tile.openblocks.xpshower.description=Attach an XP shower to a tank of XP juice and it'll pour out XP orbs. These orbs can be collected by an XP Drain or an MFR Sewer.
+tile.openblocks.xpshower.name=XPシャワー
+tile.openblocks.xpshower.description=XPジュースの入ったタンクの隣にシャワーを置くと、XPオーブを浴びれます。これらのオーブはXPドレインやMFRのスーワーで収集できます。
 
-tile.openblocks.goldenegg.name=Golden Egg
+tile.openblocks.goldenegg.name=ゴールデンエッグ
 
-tile.openblocks.digitalfuse.name=Digital Fuse
-item.openblocks.cursor.name=Cursor
-item.openblocks.cursor.description=The cursor will let you click on blocks remotely.\nSimply shift-click onto a block to link the cursor, then use the cursor wherever you like to click on the target block. Be warned, by default the cursor uses up your XP relative to how far you are from the block you're clicking.
+tile.openblocks.digitalfuse.name=デジタルヒューズ
+item.openblocks.cursor.name=カーソル
+item.openblocks.cursor.description=カーソルを使うとブロックに遠隔からクリックができます。\nブロックにシフトクリックして、カーソルにリンクするといつでもカーソルを使ってそのブロックをクリックできます。警告です。通常カーソルはそのブロックから遠いほどクリックするときにXPを多く消費します。
 item.openblocks.cursor.video=http://www.youtube.com/watch?v=bhl1adRz1wo
 
 item.openblocks.devnull.name=/dev/null
