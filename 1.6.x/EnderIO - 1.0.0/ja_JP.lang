@@ -1,4 +1,4 @@
-//***  Ender IO *****//
+﻿//***  Ender IO *****//
 //ja_JP byS
 //Fixed to version 0.10.0 by Kosaki_Mizuaki
 //Fixed to version 1.0.0 byS
@@ -162,7 +162,7 @@ enderio.gui.powerMonitor.engineSection2=よりも
 enderio.gui.powerMonitor.engineSection3=% たまっている。
 enderio.gui.powerMonitor.engineSection4=右の値よりも多いとき止める:
 enderio.gui.powerMonitor.engineSection5=もしくは等しいとき
-enderio.gui.powerMonitor.of=の
+enderio.gui.powerMonitor.of=/
 enderio.gui.powerMonitor.monHeading1=導管容量
 enderio.gui.powerMonitor.monHeading2=蓄電機容量
 enderio.gui.powerMonitor.monHeading3=機械バッファ
