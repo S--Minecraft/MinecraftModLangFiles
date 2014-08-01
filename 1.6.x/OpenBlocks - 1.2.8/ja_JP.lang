@@ -215,7 +215,7 @@ tile.openblocks.blockbreaker.name=ブロックブレーカー
 tile.openblocks.blockbreaker.description=ブロックブレーカーにレッドストーン信号のパルスを送ると正面のブロックを破壊します。
 
 tile.openblocks.projector.name=高さ地図プロジェクター
-tile.openblocks.projector.description=I'll let you write this one boq!
+tile.openblocks.projector.description=この一つのboqを書かせてあげます。(I'll let you write this one boq!)[翻訳募集中]
 
 tile.openblocks.autoenchantmenttable.name=自動エンチャント台
 tile.openblocks.autoenchantmenttable.description=自動エンチャント台はXPジュースで動くこと以外はバニラのエンチャント台のように動作します。インターフェースの右のタブでどこからアイテムやXPをとるかを設定できます。高レベルのエンチャントをするにはバニラのように本棚が必要です。
@@ -254,13 +254,13 @@ item.openblocks.cursor.description=カーソルを使うとブロックに遠隔
 item.openblocks.cursor.video=http://www.youtube.com/watch?v=bhl1adRz1wo
 
 item.openblocks.devnull.name=/dev/null
-item.openblocks.devnull.description=Click using /dev/null to open the inventory. There's a single inventory slot - put an item in there - dirt, for example. As you gather dirt from the ground this slot will fill up. Once it's full, any more dirt you pick up will be automatically discarded. You can shift-click with the item in your hand as though you were placing the block!
+item.openblocks.devnull.description=インベントリを開くには/dev/nullをクリクして使用してください。インベントリには一つスロットがあります - そこにアイテムを置いてください - 例として、土など。地面から土を集めてこのスロットを埋めてください。一度いっぱいになったら、もっと土を拾っても自動的に破棄されます。シフトクリックするとブロックを設置できます！
 
-item.openblocks.slimalyzer.name=Slimalyzer
-item.openblocks.slimalyzer.description=Walk around with the slimalyzer in your hand and it'll light up whenever you're in a slime spawning chunk.
+item.openblocks.slimalyzer.name=スライム検知器
+item.openblocks.slimalyzer.description=このスライム検知器を手にして歩き回るとスライム湧きチャンクの上を過ぎているときに光ります。
 
-item.openblocks.hangglider.name=Hang Glider
-item.openblocks.hangglider.description=The hang glider is self explanatory. Hold it in your hand and click to place it on your back. Now jump!\nTo increase your speed you can press shift while gliding, but watch out, you'll lose altitude faster!
+item.openblocks.hangglider.name=ハンググライダー
+item.openblocks.hangglider.description=ハンググライダーは名前の通りです。手にもってクリックすると装着できます。今こそジャンプする時です！\n加速するには滑空中にシフトを押してください。でも、注意してください。地面がより早く近くなります！
 item.openblocks.hangglider.video=http://www.youtube.com/watch?v=SfX4jM7XrRY
 
 item.openblocks.gliderwing.name=Glider Wing
@@ -288,8 +288,8 @@ item.openblocks.unprepared_stencil.description="What are these pesky stencils I 
 item.openblocks.unprepared_stencil.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 item.openblocks.stencil.name=Stencil
-item.openblocks.crayon.name=Magic Crayon
-item.openblocks.pencil.name=Magic Pencil
+item.openblocks.crayon.name=魔法のクレヨン
+item.openblocks.pencil.name=魔性の鉛筆
 item.openblocks.glasses.pencil.name=Pencil Glasses
 item.openblocks.glasses.crayon.name=Crayon Glasses
 item.openblocks.glasses.technicolor.name=Amazing Technicolor Glasses
@@ -300,23 +300,23 @@ item.openblocks.crane_engine.name=Crane Engine
 item.openblocks.crane_magnet.name=Crane Magnet
 item.openblocks.beam.name=Beam
 item.openblocks.line.name=Line
-item.openblocks.miracle_magnet.name=§5Miracle Magnet§r
+item.openblocks.miracle_magnet.name=§5奇跡の磁石§r
 item.openblocks.info_book.name=World Domination with OpenBlocks
 item.openblocks.xpbucket.name=XP Bucket
-item.openblocks.height_map.name=Height Map
-item.openblocks.empty_map.name=Empty Map
+item.openblocks.height_map.name=高さ地図
+item.openblocks.empty_map.name=空の地図
 item.openblocks.map_controller.name=Map Controller Module
 item.openblocks.map_memory.name=Map Memory Module
 item.openblocks.cartographer.name=Cartographer
 item.openblocks.assistant_base.name=Assistant's base
 item.openblocks.sketching_pencil.name=Sketching Pencil
 item.openblocks.tasty_clay.name=Tasty Clay
-item.openblocks.golden_eye.name=Golden eye
+item.openblocks.golden_eye.name=ゴールデンアイ
 item.openblocks.pointer.name=ポインター
 item.openblocks.tuned_crystal.name=Tuned Crystal
 item.openblocks.pedometer.name=Pedometer
 
-item.openblocks.wallpaper.name=Wallpaper
+item.openblocks.wallpaper.name=壁紙
 
 itemGroup.tabOpenBlocks=OpenBlocks
 
