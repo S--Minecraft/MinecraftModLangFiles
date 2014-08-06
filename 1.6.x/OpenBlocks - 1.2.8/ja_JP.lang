@@ -263,16 +263,16 @@ item.openblocks.hangglider.name=ハンググライダー
 item.openblocks.hangglider.description=ハンググライダーは名前の通りです。手にもってクリックすると装着できます。今こそジャンプする時です！\n加速するには滑空中にシフトを押してください。でも、注意してください。地面がより早く近くなります！
 item.openblocks.hangglider.video=http://www.youtube.com/watch?v=SfX4jM7XrRY
 
-item.openblocks.gliderwing.name=Glider Wing
+item.openblocks.gliderwing.name=グライダーの翼
 
-item.openblocks.sleepingbag.name=Sleeping Bag
-item.openblocks.sleepingbag.description=The sleeping bag lets you sleep out in the wilderness without having to reset your spawn location. To sleep, simply wear it on your back.
+item.openblocks.sleepingbag.name=寝袋
+item.openblocks.sleepingbag.description=寝袋があれば、リスポーン地点を変えずに荒野でも寝られます。寝るには、背に着てください。
 
-item.openblocks.luggage.name=Luggage
-item.openblocks.luggage.description=Luggage is your new friend. He'll follow you around anywhere you go collecting any items he finds on the floor. Nom nom nom!\nTo dismantle him just shift-click on him and he'll turn into an item that you can carry around.\nIf he ever gets struck by lightning he'll be able to carry even more items!
+item.openblocks.luggage.name=旅行かばんくん
+item.openblocks.luggage.description=旅行かばんくんは新しい友達です。どこでもあなたを追いかけて床にある周囲のアイテムを拾います。ノムノムノム！\n彼に向かってシフトクリックすると解体でき、アイテムにして持ち歩けるようになります。\n雷に打たれてしまうと、そのとき以上のアイテムを持つことはできなくなってしまいます！
 item.openblocks.luggage.video=http://www.youtube.com/watch?v=hEWvvVrD14Q
 
-item.openblocks.sonicglasses.name=Sonic Glasses
+item.openblocks.sonicglasses.name=音メガネ
 item.openblocks.sonicglasses.description=Introducing the fantabulous new Sonic Glasses!\nThis new and exciting technology from OpenMods Inc allow you see what you hear!
 
 item.openblocks.squeegee.name=Squeegee
