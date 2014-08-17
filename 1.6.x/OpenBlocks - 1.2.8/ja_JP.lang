@@ -273,14 +273,14 @@ item.openblocks.luggage.description=旅行かばんくんは新しい友達で�
 item.openblocks.luggage.video=http://www.youtube.com/watch?v=hEWvvVrD14Q
 
 item.openblocks.sonicglasses.name=音メガネ
-item.openblocks.sonicglasses.description=Introducing the fantabulous new Sonic Glasses!\nThis new and exciting technology from OpenMods Inc allow you see what you hear!
+item.openblocks.sonicglasses.description=信じられないほど素晴らしい新しいソニックメガネをご紹介！\nOpenMods社からのこの新しいエキサイティングな技術は、聞いたことを見ることができるようにさせます！!
 
-item.openblocks.squeegee.name=Squeegee
-item.openblocks.squeegee.description=The squeegee removes paint from any painted blocks. Just click on the side of the block you want to remove the paint from, or alternative shift-click the block to remove paint from all sides!
+item.openblocks.squeegee.name=ゴムぞうきん
+item.openblocks.squeegee.description=ゴムぞうきんはペイントされたどんなブロックからもペイントを取り除きます。ただ、ブロックのペイントを取り除きたい面をクリックしてください。もしくは、シフトクリックをすると全面から取り除けます！
 item.openblocks.squeegee.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
-item.openblocks.paintbrush.name=Paint Brush
-item.openblocks.paintbrush.description=Paint brushes let you paint blocks in whatever color you like!\n\nDab your paint brush in a Paint Can made in the Paint Mixer then click on a block to paint it.\n\nCanvas blocks are perfect for painting, but you can also paint quite a few vanilla blocks and even some blocks from other mods. You can also place stencils on blocks and then paint over the stencil!
+item.openblocks.paintbrush.name=ペイントブラシ
+item.openblocks.paintbrush.description=ペイントブラシで、あなたが好きな色にブロックをペイントしましょう！\n\nペイントブラシをペイント缶Dab your paint brush in a Paint Can made in the Paint Mixer then click on a block to paint it.\n\nCanvas blocks are perfect for painting, but you can also paint quite a few vanilla blocks and even some blocks from other mods. You can also place stencils on blocks and then paint over the stencil!
 item.openblocks.paintbrush.video=http://www.youtube.com/watch?v=M8LVLw-d100
 
 item.openblocks.unprepared_stencil.name=Unprepared Stencil
