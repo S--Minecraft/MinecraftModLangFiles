@@ -80,6 +80,7 @@ item.projectred.transportation.routingchip|3.name=アイテムターミネータ
 item.projectred.transportation.routingchip|4.name=アイテムエクストラクタチップ
 item.projectred.transportation.routingchip|5.name=アイテムブロードキャスタチップ
 item.projectred.transportation.routingchip|6.name=アイテムストックキーパーチップ
+item.projectred.transportation.routingchip|7.name=アイテムクラフティングチップ
 
 item.projectred.transportation.routerutil.name=ルーターユーティリティ
 
@@ -418,6 +419,7 @@ item.projectred.transmission.wire|30.name=茶色のケーブル束
 item.projectred.transmission.wire|31.name=緑色のケーブル束
 item.projectred.transmission.wire|32.name=赤色のケーブル束
 item.projectred.transmission.wire|33.name=黒色のケーブル束
+item.projectred.transmission.wire|34.name=100V電力線
 item.projectred.transmission.framewire|0.name=フレーム赤合金ワイヤー
 item.projectred.transmission.framewire|1.name=白色のフレーム絶縁ワイヤー
 item.projectred.transmission.framewire|2.name=橙色のフレーム絶縁ワイヤー
@@ -436,6 +438,7 @@ item.projectred.transmission.framewire|14.name=緑色のフレーム絶縁ワイ
 item.projectred.transmission.framewire|15.name=赤色のフレーム絶縁ワイヤー
 item.projectred.transmission.framewire|16.name=黒色のフレーム絶縁ワイヤー
 item.projectred.transmission.framewire|17.name=フレームケーブル束
+item.projectred.transmission.framewire|34.name=フレーム100V電力線
 
 
 
