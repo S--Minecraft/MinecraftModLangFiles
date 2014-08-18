@@ -8,6 +8,9 @@ item.redlogic.photomask.name=フォトマスク
 item.redlogic.schematic.name=設計図
 tile.redlogic.custom-circuit.name=統合型回路
 item.redlogic.custom-circuit.name=統合型回路
+item.redlogic.old-circuit.name=統合型回路
+item.redlogic.old-circuit.line1=古いアイテム！
+item.redlogic.old-circuit.line2=変換するにはどこかに右クリックしてください。
 
 item.redlogic.wire.red-alloy.name=赤合金ワイヤー
 item.redlogic.wire.insulated-0.name=白色 絶縁ワイヤー
@@ -334,14 +337,20 @@ tile.redlogic.plate.sl.f.name=黒色 自己保持型 発光プレート
 
 tile.redlogic.cleanwall.name=クリーンルーム用外壁
 tile.redlogic.cleanfilter.name=クリーンルーム用空気フィルター
+tile.redlogic.cleanglass.name=クリーンルーム用ガラス
 tile.redlogic.chipscanner.name=赤石設計図読取装置
 tile.redlogic.chipiomarker.name=I/O ピン製作器
 tile.redlogic.chipcompiler.name=設計図コンパイラー
 tile.redlogic.chipfabricator.name=チップ加工機
 
+tile.redlogic.array.0.name=空セル
+tile.redlogic.array.1.name=反転セル
+tile.redlogic.array.2.name=非反転セル
+
 redlogic.chipscanner.chunkloaderror=チャンク読み込みエラー: ブロック %d,%d,%d 読み込み不可
 redlogic.chipscanner.containmenterror=封鎖エラー %d,%d,%d
 redlogic.chipscanner.toobig=室内が大きすぎます! 構成 %d ブロック、最大サイズは合計 %d ブロックです。
+redlogic.chipscanner.invalidrange=クリーンルームは有効ではありません。赤石設計図読取装置はクリーンルーム用外壁でできたクリーンルームの上部に置かれるべきです。
 redlogic.chipscanner.exception1=回路生成にクラッシュしました! 例外の詳細: %s
 redlogic.chipscanner.exception2=詳細はコンソールを参照してください。
 redlogic.chipscanner.unimplemented.gate=%s このバージョンのゲートはスキャン出来ません。
