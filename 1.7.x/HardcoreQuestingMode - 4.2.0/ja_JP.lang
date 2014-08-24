@@ -1,0 +1,22 @@
+# ======================================
+#				BLOCKS
+# ======================================
+tile.hqm:item_barrel.name=クエスト配信システム
+tile.hqm:quest_tracker.name=クエスト追跡システム
+tile.hqm:quest_portal_0.name=クエストゲートシステム
+tile.hqm:quest_portal_1.name=ソリッドウォール
+tile.hqm:quest_portal_2.name=マジカルボーダー
+
+
+
+# ======================================
+#				ITEMS
+# ======================================
+item.hqm:quest_book_0.name=クエストブック
+item.hqm:quest_book_1.name=クエストブック - OP版
+item.hqm:hearts_quarterheart.name=1/4ハート
+item.hqm:hearts_halfheart.name=1/2ハート
+item.hqm:hearts_threequarts.name=3/4ハート
+item.hqm:hearts_heart.name=完全なハート
+item.hqm:hearts_rottenheart.name=腐ったハート
+item.hqm:bags.name=報酬バッグ
