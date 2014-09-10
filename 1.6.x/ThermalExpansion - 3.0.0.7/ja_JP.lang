@@ -136,8 +136,9 @@ info.thermalexpansion.transposer.toggleWait=トグル
 
 info.thermalexpansion.workbench.gridClear=クラフトマスをクリア
 info.thermalexpansion.workbench.gridSet=概略図からクラフト内容を読み込む
-info.thermalexpansion.workbench.writeTrue=概略図を白紙に戻す
-info.thermalexpansion.workbench.writeFalse=レシピはありません
+info.thermalexpansion.workbench.noRecipe=レシピがありません
+info.thermalexpansion.workbench.noSchematic=概略図がありません
+info.thermalexpansion.workbench.writeSchematic=概略図を白紙に戻す
 
 info.thermalexpansion.capacitor1=有効化するために持っているアイテムをチャージする
 info.thermalexpansion.capacitor2=有効化するためにスニーク状態で使う

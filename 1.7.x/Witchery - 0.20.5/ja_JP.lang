@@ -1,0 +1,858 @@
+itemGroup.tabWitchery=Witchery
+
+item.witchery:ingredient.candelabra.name=燭台
+item.witchery:ingredient.chalice.name=杯
+item.witchery:ingredient.chaliceFull.name=満たされた杯
+item.witchery:ingredient.weaveMoveFast.name=韋駄天のドリームウィーバー
+item.witchery:ingredient.weaveDigFast.name=鉄腕のドリームウィーバー
+item.witchery:ingredient.weaveSaturation.name=断食のドリームウィーバー
+item.witchery:ingredient.weaveNightmares.name=悪夢のドリームウィーバー
+item.witchery:ingredient.boneNeedle.name=骨の針
+item.witchery:ingredient.broom.name=箒
+item.witchery:ingredient.broomEnchanted.name=魔法の箒
+item.witchery:ingredient.attunedStone.name=調律石
+item.witchery:ingredient.attunedStoneCharged.name=充填された調律石
+item.witchery:ingredient.waystone.name=途の石
+item.witchery:ingredient.waystoneBound.name=刻まれた途の石
+item.witchery:ingredient.mutandis.name=ミュータンディス
+item.witchery:ingredient.mutandisExtremis.name=ミュータンディス・イクストリミス
+item.witchery:ingredient.quicklime.name=生石灰
+item.witchery:ingredient.gypsum.name=石膏
+item.witchery:ingredient.ashWood.name=木灰
+item.witchery:ingredient.seedsBelladonna.name=ベラドンナの種
+item.witchery:ingredient.seedsMandrake.name=マンドレイクの種
+item.witchery:ingredient.belladonna.name=ベラドンナの花
+item.witchery:ingredient.mandrakeRoot.name=マンドレイクの根
+item.witchery:ingredient.demonHeart.name=悪魔の心臓
+item.witchery:ingredient.batWool.name=コウモリの毛
+item.witchery:ingredient.dogTongue.name=犬の舌
+item.witchery:ingredient.clayJarSoft.name=焼入れ前の粘土の瓶
+item.witchery:ingredient.clayJar.name=粘土の瓶
+item.witchery:ingredient.foulFume.name=不快な臭気
+item.witchery:ingredient.diamondVapour.name=ダイヤの蒸気
+item.witchery:ingredient.oilOfVitriol.name=礬油
+item.witchery:ingredient.exhaleOfTheHornedOne.name=有角神の吐息
+item.witchery:ingredient.breathOfTheGoddess.name=女神の息吹
+item.witchery:ingredient.hintOfRebirth.name=復活の暗示
+item.witchery:ingredient.whiffOfMagic.name=魔法のひと吹き
+item.witchery:ingredient.reekOfMisfortune.name=不幸の臭い
+item.witchery:ingredient.odourOfPurity.name=純潔の薫り
+item.witchery:ingredient.tearOfTheGoddess.name=女神の涙
+item.witchery:ingredient.refinedEvil.name=精錬された邪悪
+item.witchery:ingredient.dropOfLuck.name=幸運の滴
+item.witchery:ingredient.redstoneSoup.name=レッドストーンスープ
+item.witchery:ingredient.flyingOintment.name=飛行の軟膏
+item.witchery:ingredient.ghostOfTheLight.name=光の幽霊
+item.witchery:ingredient.soulOfTheWorld.name=世界の魂魄
+item.witchery:ingredient.spiritOfOtherwhere.name=異界の霊魂
+item.witchery:ingredient.infernalAnimus.name=地獄の精霊
+item.witchery:ingredient.bookOven.name=ウィッチクラフト：燻香集め
+item.witchery:ingredient.bookDistilling.name=ウィッチクラフト：蒸留
+item.witchery:ingredient.bookCircleMagic.name=ウィッチクラフト：魔法円
+item.witchery:ingredient.bookInfusions.name=ウィッチクラフト：調合と注入
+item.witchery:ingredient.oddPorkchopRaw.name=生のポークチョップ?
+item.witchery:ingredient.oddPorkchopCooked.name=ポークチョップ?
+item.witchery:ingredient.doorRowan.name=ナナカマドのドア
+item.witchery:ingredient.doorAlder.name=ハンノキのドア
+item.witchery:ingredient.doorKey.name=ナナカマドのドアの鍵
+item.witchery:ingredient.rock.name=岩
+item.witchery:ingredient.web.name=高密度な蜘蛛の巣
+item.witchery:ingredient.brewVines.name=蔦の秘薬
+item.witchery:ingredient.brewWeb.name=蜘蛛の巣の秘薬
+item.witchery:ingredient.brewThorns.name=茨の秘薬
+item.witchery:ingredient.brewInk.name=墨の秘薬
+item.witchery:ingredient.brewSprouting.name=萌芽の秘薬
+item.witchery:ingredient.brewErosion.name=腐食の秘薬
+item.witchery:ingredient.berriesRowan.name=ナナカマドの実
+item.witchery:ingredient.necroStone.name=屍術の石
+item.witchery:ingredient.brewRaising.name=復活の秘薬
+item.witchery:ingredient.spectralDust.name=幽体の粉
+item.witchery:ingredient.enderDew.name=エンダーデュー
+item.witchery:ingredient.seedsArtichoke.name=ミズアザミの種
+item.witchery:ingredient.artichoke.name=ミズアザミの蕾
+item.witchery:ingredient.seedsTreefyd.name=トリフィドの種
+item.witchery:ingredient.brewGrotesque.name=グロテスクな秘薬
+item.witchery:ingredient.fumeFilter.name=煙霧フィルタ
+item.witchery:ingredient.impregnatedLeather.name=魔法の皮
+item.witchery:arthana.name=アルサナ
+item.witchery:witchhand.name=魔女の手
+item.witchery:taglockkit.name=毛玉キット
+item.witchery:poppet.name=人形
+item.witchery:poppet.protectEarth.name=大地のお守り人形
+item.witchery:poppet.protectWater.name=水のお守り人形
+item.witchery:poppet.protectStarvation.name=飢餓のお守り人形
+item.witchery:poppet.protectFire.name=火のお守り人形
+item.witchery:poppet.protectTool.name=道具のお守り人形
+item.witchery:poppet.protectDeath.name=死のお守り人形
+item.witchery:poppet.protectVoodoo.name=ヴードゥーのお守り人形
+item.witchery:poppet.voodoo.name=ヴードゥー人形
+item.witchery:poppet.vampiric.name=血吸い人形
+item.witchery:circletalisman.name=魔法円のタリスマン
+item.witchery:divinerwater.name=水脈用ダウジングロッド
+item.witchery:divinerlava.name=溶岩用ダウジングロッド
+item.witchery:chalkheart.name=金のチョーク
+item.witchery:chalkritual.name=儀式のチョーク
+item.witchery:chalkotherwhere.name=異世界のチョーク
+item.witchery:chalkinfernal.name=地獄のチョーク
+item.witchery:polynesiacharm.name=ポリネシアのお守り
+item.witchery:polynesiacharm.tip=He talks to the animals...
+item.witchery:devilstonguecharm.name=悪魔の舌のお守り
+item.witchery:devilstonguecharm.tip=Even demons find your wit|irresistible... most of the time.
+item.witchery:witchhat.name=魔女の帽子
+item.witchery:witchhat.tip=How original... a pointy hat.||{9+35% chance of second brew{0
+item.witchery:seedsbelladonna.name=ベラドンナの種
+item.witchery:seedsmandrake.name=マンドレイクの種
+item.witchery:seedsartichoke.name=ミズアザミの種
+
+circletalisman.small.1=Small Ritual
+circletalisman.small.2=Small Otherwhere
+circletalisman.small.3=Small Infernal
+circletalisman.medium.1=Medium Ritual
+circletalisman.medium.2=Medium Otherwhere
+circletalisman.medium.3=Medium Infernal
+circletalisman.large.1=Large Ritual
+circletalisman.large.2=Large Otherwhere
+circletalisman.large.3=Large Infernal
+
+tile.witchery:rowanwooddoor.name=ナナカマドのドア
+tile.witchery:alderwooddoor.name=ハンノキのドア
+tile.witchery:rowandoorwood.name=ナナカマドのドア
+tile.witchery:alderdoorwood.name=ハンノキのドア
+tile.witchery:altar.name=祭壇
+tile.witchery:witchesovenidle.name=魔女のオーブン
+tile.witchery:witchesovenburning.name=魔女のオーブン
+tile.witchery:distilleryidle.name=蒸留器
+tile.witchery:distilleryburning.name=蒸留器
+tile.witchery:kettle.name=鍋
+tile.witchery:poppetshelf.name=人形棚
+container.witchery:poppetshelf=人形棚
+tile.witchery:witchlog.rowan.name=ナナカマドの原木
+tile.witchery:witchlog.alder.name=ハンノキの原木
+tile.witchery:witchlog.hawthorn.name=サンザシの原木
+tile.witchery:witchwood.rowan.name=ナナカマドの木材
+tile.witchery:witchwood.alder.name=ハンノキの木材
+tile.witchery:witchwood.hawthorn.name=サンザシの木材
+tile.witchery:witchsapling.rowan.name=ナナカマドの苗木
+tile.witchery:witchsapling.alder.name=ハンノキの苗木
+tile.witchery:witchsapling.hawthorn.name=サンザシの苗木
+tile.witchery:witchleaves.rowan.name=ナナカマドの葉
+tile.witchery:witchleaves.alder.name=ハンノキの葉
+tile.witchery:witchleaves.hawthorn.name=サンザシの葉
+tile.witchery:belladonna.name=ベラドンナ
+tile.witchery:mandrake.name=マンドレイク
+tile.witchery:barrier.name=Barrier
+tile.witchery:dreamcatcher.name=ドリームウィーバー
+tile.witchery:candelabra.name=燭台
+tile.witchery:chalice.name=杯
+tile.witchery:circle.name=心臓
+tile.witchery:circleglyphritual.name=儀式
+tile.witchery:circleglyphotherwhere.name=異世界
+tile.witchery:circleglyphinfernal.name=地獄
+tile.witchery:stairswoodrowan.name=ナナカマドの階段
+tile.witchery:stairswoodalder.name=ハンノキの階段
+tile.witchery:stairswoodhawthorn.name=サンザシの階段
+tile.witchery:witchwoodslab.name=木材ハーフブロック
+tile.witchery:witchwoodslab.rowan.name=ナナカマドの木材ハーフブロック
+tile.witchery:witchwoodslab.alder.name=ハンノキの木材ハーフブロック
+tile.witchery:witchwoodslab.hawthorn.name=サンザシの木材ハーフブロック
+tile.witchery:witchwooddoubleslab.name=木材ハーフブロック
+tile.witchery:spanishmoss.name=サルオガセモドキ
+tile.witchery:leapinglily.name=トビハス
+tile.witchery:plantmine.rose_webs.name=Poppy of Webs
+tile.witchery:plantmine.rose_ink.name=Poppy of Ink
+tile.witchery:plantmine.rose_sprouting.name=Poppy of Sprouting
+tile.witchery:plantmine.rose_thorns.name=Poppy of Thorns
+tile.witchery:plantmine.dandelion_webs.name=Dandelion of Webs
+tile.witchery:plantmine.dandelion_ink.name=Dandelion of Ink
+tile.witchery:plantmine.dandelion_sprouting.name=Dandelion of Sprouting
+tile.witchery:plantmine.dandelion_thorns.name=Dandelion of Thorns
+tile.witchery:plantmine.grass_webs.name=Shrub of Webs
+tile.witchery:plantmine.grass_ink.name=Shrub of Ink
+tile.witchery:plantmine.grass_sprouting.name=Shrub of Sprouting
+tile.witchery:plantmine.grass_thorns.name=Shrub of Thorns
+tile.witchery:embermoss.name=オキビゴケ
+tile.witchery:artichoke.name=ミズアザミ
+tile.witchery:alluringskull.name=魅惑の髑髏
+tile.witchery:fumefunnel.name=煙突
+tile.witchery:filteredfumefunnel.name=フィルタ付き煙突
+
+entity.witchery.demon.name=デーモン
+entity.demon.name=デーモン
+entity.witchery.broom.name=魔法の箒
+entity.broom.name=魔法の箒
+entity.witchery.familiar.name=幽体の使い魔
+entity.familiar.name=幽体の使い魔
+entity.witchery.mandrake.name=マンドレイク
+entity.mandrake.name=マンドレイク
+entity.witchery.treefyd.name=トリフィド
+entity.treefyd.name=トリフィド
+
+witchery.book.mushroomred=赤キノコ
+witchery.book.mushroombrown=茶キノコ
+witchery.book.altarpower=祭壇
+witchery.book.oven1={o{lWitchcraft{r{r{o: Collecting Fumes{r||The witches oven gives a practitioner of the art, the opportunity to collect the fumes that may be produced when cooking.||Remember that the oven cannot smelt ore, but it does cook a little faster than a furnace.
+witchery.book.oven2=Place {8Clay Jars{0 into the oven when cooking to collect the fumes:||Food  {6Foul Fume{0|Wood  {6Foul Fume{0||Cooking {2Saplings{0 produces {8Wood Ash{0 and may also release the gaseous essence of the tree.
+witchery.book.oven3={nSapling Fumes{r||Oak  {8Exhale of the Horned One{0|Birch  {8Breath of the Goddess{0|Spruce  {8Hint of Rebirth{0|Rowan  {8Whiff of Magic{0|Hawthorn  {8Odour of Purity{0|Alder  {8Reek of Misfortune{0
+witchery.book.distillery1={o{lWitchcraft{r{r{o: Distilling{r||{81.{0 Ensure the distillery is near to an Altar to get power.|{82.{0 Place the items into the distillery along with the required number of clay jars.|{83.{0 Wait for the distillation process to complete.
+witchery.book.distillery.jars=粘土の瓶
+witchery.book.distillery.items={nDistill these items{r
+witchery.book.distillery.results={nResultant distillates{r
+witchery.book.brews1={o{lWitchcraft{r{r{o: Brews & Infusions{r||{81.{0 Throw the ingredients into a heated, water-filled kettle. Altars provide power, if needed.|{82.{0 Fill the brew into an empty glass bottle.|{83.{0 Use infusions in a Rite of Infusion; but remember, {0Death is almost always assured{0.
+witchery.book.rites1={o{lWitchcraft{r{r{o: Circle Magic{r||{81.{0 Draw circles using colored chalk, with a heart glyph at the centre. An altar is often needed for power.|{82.{0 Drop the foci items into the circle.|{83.{0 Activate the heart glyph.
+witchery.book.rites2=チョークと大きさ:|7x7, 11x11, 15x15|{7Ritual{0, {5Otherwhere{0, {4Infernal{0
+witchery.book.rites.anycircle=Any circles allowed
+
+witchery.rite.bindcircle=結合の儀式{r||Pulls the circles into the talisman.
+witchery.rite.bindcircleportable=結合の儀式{r||Pulls the circles into the talisman.
+witchery.rite.bindwaystone=結合の儀式{r||Binds the Waystone to the location of the ritual.
+witchery.rite.chargestone=充填の儀式{r||Charges the Attuned Stone.
+witchery.rite.infusionrecharge=充填の儀式{r||Recharge infused power by standing in the circle.  Lasts indefinitely, but requires 40 power/s.
+witchery.rite.teleporttowaystone=転移の儀式{r||Teleport to the bound Waystone's location.
+witchery.rite.teleportentity=転移の儀式{r||Summon the taglock kit's bound creature or player.
+witchery.rite.teleportironore=転移の儀式{r||Transpose iron from the ore below.
+witchery.rite.protection=聖域の儀式{r||Monsters cannot enter the circle. Lasts indefinitely, but requires 16 power/s.
+witchery.rite.imprisonment=封印の儀式{r||Monsters cannot leave the circle. Lasts indefinitely, but requires 16 power/s.
+witchery.rite.barrier=守護の儀式{r||Conjure a dome, impenetrable to monsters. Lasts indefinitely, but requires 24 power/s.
+witchery.rite.barrierlarge=守護の儀式{r||Conjure a dome, impenetrable to all. Lasts indefinitely, but requires 28 power/s.
+witchery.rite.barrierportable=守護の儀式{r||Conjure an impenetrable dome for 60 seconds.
+witchery.rite.volcano=大地の怒りの儀式{r||Raise a volcano. A lava pool must lie below.
+witchery.rite.storm=天の怒りの儀式{r||Call a focused lightning storm inside the circle.
+witchery.rite.stormlarge=天の怒りの儀式{r||Call a focused lightning storm outside the circle.
+witchery.rite.stormportable=天の怒りの儀式{r||Call a focused lightnig storm outside the circle.
+witchery.rite.eclipse=皆既日蝕の儀式{r||Block out the sun.
+witchery.rite.eclipseportable=皆既日蝕の儀式{r||Block out the sun.
+witchery.rite.partearth=地割の儀式{r||Part the earth, the position of the foci controls the direction.
+witchery.rite.raiseearth=地殻変動の儀式{r||Raise a column of earth.
+witchery.rite.banishdemonportable=消失の儀式{r||Send nearby Demons back to the Pit.
+witchery.rite.banishdemon=消失の儀式{r||Send nearby Demons back to the Pit.
+witchery.rite.summondemon=召喚の儀式{r||Call forth a Demon. The inner area must be clear 7x7x4 blocks!
+witchery.rite.summondemonexpensive=召喚の儀式{r||Call forth a Demon. The inner area must be clear 7x7x4 blocks!
+witchery.rite.summonwither=召喚の儀式{r||Call forth a Wither. The inner area must be clear 7x7x4 blocks!
+witchery.rite.summonwitherexpensive=召喚の儀式{r||Call forth a Wither. The inner area must be clear 7x7x4 blocks!
+witchery.rite.infusionlight=注入の儀式{r||You must stand in the circle.
+witchery.rite.infusionearth=注入の儀式{r||You must stand in the circle.
+witchery.rite.infusionender=注入の儀式{r||You must stand in the circle.
+witchery.rite.infusionhell=注入の儀式{r||You must stand in the circle.
+witchery.rite.infusionsky=注入の儀式{r||Perform at night.
+witchery.rite.necrostone=屍霊の儀式{r||Creates a Necromantic Stone. Perform at night.
+witchery.rite.summonfamiliar=召喚の儀式{r||Summons a familiar to find things. Try giving the familiar a diamond! The inner area must be clear 7x7x4 blocks!
+witchery.rite.bindwaystonecopy=結合の儀式{r||Binds the Waystone location on one waystone to another waystone.
+witchery.rite.fertility=繁殖の儀式{r||Makes nearby land fertile. Heals sick villagers.
+witchery.rite.fertilityportable=繁殖の儀式{r||Makes nearby land fertile. Heals sick villagers.
+witchery.rite.curseblight=荒廃の呪い{r||Makes nearby land infertile and causes sickness.
+witchery.rite.curseblindness=盲目の呪い{r||Makes nearby creatures blind.
+witchery.rite.hellonearth=地上の地獄の呪い{r||Only works in the Overworld at night, requires 200 power/s. 
+witchery.rite.summonwitch=召喚の儀式{r||Summon a witch. The inner area must be clear 7x7x4 blocks!
+witchery.rite.bindwaystoneportable=結合の儀式{r||Binds the Waystone to the location of the ritual.
+witchery.rite.bindwaystonecopyportable=結合の儀式{r||Binds the Waystone location on one waystone to another waystone.
+
+witchery.infuse.cansetrecall=Release mouse button to set Recall Point.
+witchery.infuse.setrecall=- Recall Point set to %s (%s, %s, %s).
+witchery.infuse.canteleport=Teleport charged, release mouse button to teleport.
+witchery.infuse.cannotteleport=Too far, hold mouse button longer to teleport further!
+
+witchery.familiar.foundsomething=OINK! %s, %s, %s.
+
+witchery.rite.nullfield=Ritual cannot begin, circle magic is being nullified in this area.
+tile.witchery:voidbramble.name=ウツロイバラ
+
+witchery.rite.naturespower=自然の力の儀式{r||Release nature on a barren area.
+
+item.witchery:witchrobe.name=魔女のローブ
+item.witchery:witchrobe.tip=For the discerning witch about town.||{5Creepers will ignore the wearer.{0||{9+35% chance of second brew (except necromantic){0
+
+item.witchery:necromancerrobe.name=屍術師のローブ
+item.witchery:necromancerrobe.tip=Keeps the undead at bay.||{5Undead will generally ignore the wearer.{0||{9+35% chance of second necromantic brew{0
+
+item.witchery:ingredient.creeperHeart.name=クリーパーの心臓
+tile.witchery:glintweed.name=グリントウィード
+item.witchery:ingredient.brewLove.name=愛の秘薬
+
+witchery.rite.priorincarnation=前世の儀式{r||Summon a prior incarnation of a player (and their items) near to where they died.
+
+witchery.structure.apothecary.name=Apothecary
+
+witchery.rite.disabled=Ritual cannot begin, the rite has been disabled on this server.
+witchery.rite.unknownritual=Unknown rite.
+witchery.rite.missingitem=Missing foci item.
+witchery.rite.missinglivingsacrifice=Missing creature sacrifice.
+witchery.rite.missingpowersource=No altar nearby.
+witchery.rite.insufficientpower=Altar has insufficient power.
+witchery.rite.missinglava=No lava below.
+
+item.witchery:ingredient.brewIce.name=霜の秘薬
+item.witchery:ingredient.brewDepths.name=深淵の秘薬
+item.witchery:ingredient.icyNeedle.name=氷のトゲ
+item.witchery:ingredient.frozenHeart.name=凍った心臓
+item.witchery:iceslippers.name=氷の履物
+item.witchery:seedssnowbell.name=スノウベルの種
+tile.witchery:snowbell.name=スノウベル
+tile.witchery:wickerbundle.plain.name=枝束
+tile.witchery:wickerbundle.bloodied.name=血まみれの枝束
+item.witchery:ingredient.infernalBlood.name=悪魔の血
+entity.witchery.hornedHuntsman.name=有角の狩人
+
+
+
+item.witchery:ingredient.bookHerbology.name=ウィッチクラフト：薬草学
+item.witchery:mysticbranch.name=神秘の小枝
+item.witchery:ingredient.mysticunguent.name=秘伝の膏薬
+item.witchery:ingredient.entbranch.name=エントの枝
+item.witchery:mutator.name=変異の小枝
+
+tile.witchery:glowglobe.name=輝くグローブ
+tile.witchery:leechchest.name=吸血チェスト
+
+tile.witcheryLeechChest.playernotloggedin=Cannot get taglocks for the following players not in this world: %s.
+tile.witcheryLeechChest.onlyowntaglock=Cannot remove your own taglock from the chest.
+
+witchery.book.herbology1={o{lWitchcraft{r{r{o: Herbology{r||Many common plants are used in the preparation of brews and magicks, this book details those rare or exceptional plants not known to the common folk.
+witchery.book.herbology.mandrake=It's parsnip-shaped root has the look of a man. Harvest at night, lest it waken and scream. It grows in tilled earth in stages. Tall grass yields seeds. 
+witchery.book.herbology.belladonna=Deadly nightshade, so is this plant known, and deadly poisons from it grown. It grows in tilled earth in stages. Tall grass yields seeds.
+witchery.book.herbology.snowbell=A curious plant, cold as the snow, freezes moisture as it grows. It grows in tilled earth in stages. Tall grass yields seeds.
+witchery.book.herbology.artichoke=A water-bred plant with strange effect, fills the belly then empties it. It grows on still water in stages. Tall grass yields seeds.
+witchery.book.herbology.glintweed=Emits an unearthly glow that illuminates it's surround. It can live anywhere, but spreads only on grass, dirt and sand. Mutate this plant from another with Mutandis.
+witchery.book.herbology.spanishmoss=A creeper-like moss that grows best on trees, forms the best poppets that can be. Harvest with shears to keep it intact. Mutate this plant from another with Mutandis.
+witchery.book.herbology.embermoss=A plant with a unique defense, when disturbed it bursts into flames. Harvest with shears. It can live anywhere, but spreads only on grass, dirt and sand. Mutate this plant from another with Mutandis. 
+witchery.book.herbology.voidbramble=This strange bramble keeps creatures at bay; for when they get close it teleports them away. Created and fueled with magic no rituals will function near to it. 
+witchery.book.herbology.rowan=The rowan, or mountain-ash has an affinity with magic other trees seldom match. Mutate the sapling from another plant with Mutandis.
+witchery.book.herbology.alder=The alder wood appears to bleed when cut, this tree brings misfortune to all. Mutate the sapling from another plant with Mutandis.
+witchery.book.herbology.hawthorn=Hawthorn is the tree of purity, it has a long history in the field of herbalism. Mutate the sapling from another plant with Mutandis.
+
+witchery.rite.infusiontree=注入の儀式{r||Infuse a mystic branch. Perform at night.
+witchery.rite.cursecreature1=不幸の呪い{r||Curse the taglocked being. Perform in a storm.
+witchery.rite.removecurse1=浄化の儀式{r||Cleanse the taglocked being of misfortune. Things may get worse.
+witchery.rite.cookfood=火炙りの儀式{r||Cooks any food placed in the circle. May overcook food.
+witchery.rite.obstructedcircle=The area around the central glyph is not clear of blocks. 
+
+witchery.infuse.branch.nocharges=You are too low on power to draw this symbol.
+witchery.infuse.branch.infusionrequired=You must be infused to perform symbol magic.
+witchery.infuse.branch.unknownsymbol=Unknown symbol drawn.
+witchery.infuse.branch.infernalrequired=Infernal infusion is required to draw forbidden symbols.
+
+witchery.pott.accio=Accio
+witchery.pott.aguamenti=Aguamenti
+witchery.pott.alohomora=Alohomora
+witchery.pott.avadakedavra=Avada Kedavra
+witchery.pott.caveinimicum=Cave Inimicum
+witchery.pott.colloportus=Colloportus
+witchery.pott.confundus=Confundus
+witchery.pott.crucio=Crucio
+witchery.pott.defodio=Defodio
+witchery.pott.ennervate=Ennervate
+witchery.pott.episkey=Episkey
+witchery.pott.expelliarmus=Expelliarmus
+witchery.pott.flagrate=Flagrate
+witchery.pott.flipendo=Flipendo
+witchery.pott.impedimenta=Impedimenta
+witchery.pott.imperio=Imperio
+witchery.pott.incendio=Incendio
+witchery.pott.lumos=Lumos
+witchery.pott.meteolojinxrecanto=Meteolojinx Recanto
+witchery.pott.nox=Nox
+witchery.pott.protego=Protego
+witchery.pott.stupefy=Stupefy
+
+entity.witchery.ent.name=エント
+
+witchery.taglockkit.taglockfailed=Failed to get taglock, other player noticed!
+witchery.taglockkit.taglockdiscovered=Someone just tried to take a taglock from you, but failed!
+
+
+item.witchery:ingredient.doorKeyring.name=ナナカマドのキーリング
+tile.witchery:statuegoddess.name=女神像
+witchery.rite.curseinsanity1=狂気の呪い{r||Curse the taglocked being with monster visions. Perform in a storm.
+witchery.rite.removeinsanity1=浄化の儀式{r||Cleanse the taglocked being of insanity. Things may get worse.
+tile.witcheryStatusGoddess.curemisfortune=The Goddess cures your misfortune.
+tile.witcheryStatusGoddess.cureinsanity=The Goddess cures your insanity.
+entity.witchery.illusionCreeper.name=クリーパー
+entity.witchery.illusionSpider.name=クモ
+entity.witchery.illusionZombie.name=ゾンビ
+
+
+
+witchery.book.herbology.enderbramble=This strange bramble keeps creatures at bay; for when they get close it teleports them away. Mutate this plant from sugar cane and spanish moss.
+witchery.book.herbology.grassper=A curious plant that holds whatever it is given. Mutate this plant from tall grass and an empty chest.
+witchery.book.herbology.crittersnare=Small creatures are this plants prey, it snaps them up - never to get away. Mutate this plant from alder saplings, a web and a zombie.
+
+entity.witchery.owl.name=フクロウ
+entity.witchery.toad.name=ヒキガエル
+entity.witchery.cat.name=猫
+entity.witchery.louse.name=寄生虫
+
+item.witchery:louse.name=寄生虫
+
+witchery.rite.bindfamiliar=結合の儀式{r||Bind a tamed owl, toad or cat as a familiar.
+witchery.rite.callfamiliar=召喚の儀式{r||Summon your familiar that has been dismissed or killed. 
+witchery.rite.corruptvoodooprotection=人形破壊の呪い{r||Destroy voodoo protection of taglocked being. Needs cat familiar. 
+witchery.rite.requirescursemastery=This rite can only be performed with a cat familiar.
+
+item.witchery:ingredient.brewFrogsTongue.name=蛙舌の秘薬
+item.witchery:ingredient.brewCursedLeaping.name=呪い跳びの秘薬
+item.witchery:ingredient.brewHitchcock.name=ボデガの秘薬
+item.witchery:ingredient.brewInfection.name=感染の秘薬
+item.witchery:ingredient.owletsWing.name=ミミズクの翼
+item.witchery:ingredient.toeOfFrog.name=カエルの脚
+item.witchery:ingredient.appleWormy.name=虫喰いリンゴ
+tile.witchery:grassper.name=グラスパー
+item.witchery:poppet.protectPoppet.name=人形のお守り人形
+tile.witchery:crittersnare.name=クリッタースネア
+tile.witchery:crittersnare.empty.name=クリッタースネア
+tile.witchery:crittersnare.bat.name=クリッタースネア(コウモリ)
+tile.witchery:crittersnare.silverfish.name=クリッタースネア(シルバーフィッシュ)
+tile.witchery:crittersnare.slime.name=クリッタースネア(スライム)
+tile.witchery:crittersnare.magmacube.name=クリッタースネア(マグマキューブ)
+
+
+entity.witchery.babayaga.name=バーバ・ヤーガ
+
+tile.witchery:crystalball.name=ガラス球
+item.witchery:ingredient.quartzSphere.name=ガラス球
+item.witchery:ingredient.happenstanceOil.name=偶然の香油
+witchery.rite.infusionfuture=注入の儀式{r||Infuse a Crystal Ball to see the future. Perform at night.
+
+witchery.prediction.recharging=The crystal ball is inert for the moment.
+witchery.prediction.nopower=The crystal ball cannot get enough power from a nearby altar.
+witchery.prediction.unskilled=You gaze into the crystal ball, but do not know how to interpret what you see.
+witchery.prediction.none=You gaze into the crystal ball, but %s's future is too murky at the moment.
+witchery.prediction.zombie=You gaze into the crystal ball: %s will chance upon the undead.
+witchery.prediction.arrowhit=You gaze into the crystal ball: %s will be struck by an arrow.
+witchery.prediction.ent=You gaze into the crystal ball: %s will encounter a walking tree.
+witchery.prediction.fall=You gaze into the crystal ball: %s will stumble and fall.
+witchery.prediction.treasure=You gaze into the crystal ball: %s will find buried treasure.
+witchery.prediction.iron=You gaze into the crystal ball: %s will be inundated with iron.
+witchery.prediction.diamond=You gaze into the crystal ball: %s will find shinies.
+witchery.prediction.emerald=You gaze into the crystal ball: %s will find shinies.
+witchery.prediction.love=You gaze into the crystal ball: %s will meet a dark and handsome stranger.
+witchery.prediction.babagood=You gaze into the crystal ball: %s has sparked the interest of the crone (and her sisters).
+witchery.prediction.bababad=You gaze into the crystal ball: %s has angered the crone (and her sisters).
+witchery.prediction.friend=You gaze into the crystal ball: %s will make a new friend.
+witchery.prediction.rescued=You gaze into the crystal ball: %s will be saved by a stranger.
+witchery.prediction.tothenether=You gaze into the crystal ball: %s will take a trip to the nether.
+witchery.prediction.tothenether.summoned=A demon has been watching you and transposed you to the nether.
+witchery.prediction.wet=You gaze into the crystal ball: %s will get wet.
+witchery.prediction.coal=You gaze into the crystal ball: %s will collect a cache of coal.
+
+tile.witchery:bramble.ender.name=エンダーイバラ
+tile.witchery:bramble.wild.name=ノイバラ
+tile.witchery:bloodrose.name=吸血花
+
+witchery.rite.cursesinking1=水没の呪い{r||Curse the taglocked being with extra weight. Perform in a storm.
+witchery.rite.removesinking1=浄化の儀式{r||Cleanse the taglocked being of sinking. Things may get worse.
+tile.witcheryStatusGoddess.curesinking=The Goddess cures your sinking problem.
+
+witchery.book.herbology.wildbramble=This thorny bramble spreads around, when you try to pull it down. Mutate this plant from cactus and spanish moss.
+witchery.book.herbology.bloodrose=In a witches garden keep in mind, a scratch from this rose leaves your blood behind. Mutate this plant from roses and a leech chest.
+
+entity.witchery.covenwitch.name=カヴンの魔女
+item.witchery:ingredient.seerStone.name=観察者の石
+witchery.rite.infusionseerstone=注入の儀式{r||Infuse a stone to communicate in a coven. Perform at night.
+witchery.rite.climatechange=季節の移り変わりの儀式{r||Pick Biome with biome foci and glowstone. Coven of 4 or more.
+witchery.rite.iceshell=氷の膨張の儀式{r||Create an icy sphere. Coven of 2 or more.
+witchery.rite.curseoverheating=過熱の呪い{r||Curse the taglocked being to overheat.
+witchery.rite.cureoverheating=浄化の儀式{r||Cleanse the taglocked being of overheating. Things may get worse.
+tile.witcheryStatusGoddess.cureoverheating=The Goddess cures your temperature problem.
+witchery.rite.wrongdimension=The rite cannot be performed in this dimension.
+witchery.rite.coventoosmall=You require more coven members to perform this rite.
+witchery.rite.missingbiomefoci=Missing an item to represent the desired biome.
+witchery.rite.rainoffrogs=カエルの雨の呪い{r||Rain poisonous toads. Coven of 1 or more.
+witchery.rite.glyphictransform=文字変えの儀式{r||Drop chalk of the desired color, 1=small, 2=medium, 3=large.
+witchery.rite.callbeasts=咆哮の儀式{r||Call animals. Coven of 3 or more.
+
+witchery.witch.pet=%s's pet
+witchery.witch.petflesh=%s's pet's flesh
+witchery.witch.peteye=%s's pet's eye
+witchery.witch.say.covenfull=Your coven is full. Begone!
+witchery.witch.say.joinedcoven=I will join your coven. Call me when you have need.
+witchery.witch.say.questitemsremaining=%s more to go.
+witchery.witch.say.questnotfinished=You have not completed my task!
+witchery.witch.say.begone=Begone!
+witchery.witch.say.notinterested1=You do not interest me!
+witchery.witch.say.notinterested2=Why do you waste my time!
+witchery.witch.say.notinterested3=You are not skilled in the Art!
+witchery.witch.say.tricked=Just what I needed... a gullible fool... now you die!
+
+witchery.witch.quest.fightspider=我がしもべを打ち破り、その瞳を持って来れたら再び話しかけるがよい！
+witchery.witch.quest.fightzombie=我がしもべを打ち破り、その生肉を持って来れたら再び話しかけるがよい！
+witchery.witch.quest.getdemonheart=地獄の主を倒した証拠を持って来れたら再び私に話しかけるがよい！
+witchery.witch.quest.makecrystalball=私は未来を覗き見たい、分かったら再び私に話しかけるがよい！
+witchery.witch.quest.getbones=30体のスケルトンを殺し、その骨を持ってこれたら再び私に話しかけるがよい！
+witchery.witch.quest.makegrotesquebrew=私は数多くの呪術を実行せねばならぬゆえ、それに必要な調薬を持ってこれたら再び私に話しかけるがよい！
+witchery.witch.quest.makenecrostone=死者を操る術を身につけたら、再び私に話しかけるがよい！
+witchery.witch.quest.go=行くがいい!
+
+witchery.item.seerstone.misfortune=Curse of Misfortune (%d)
+witchery.item.seerstone.insanity=Curse of Insanity (%d)
+witchery.item.seerstone.sinking=Curse of Sinking (%d)
+witchery.item.seerstone.overheating=Curse of Overheating (%d)
+witchery.item.seerstone.notcursed=No curses.
+
+entity.witchery.corpse.name=Body
+entity.witchery.nightmare.name=ナイトメア
+
+tile.witchery:somniancotton.name=小さなワタ
+tile.witchery:spiritflowing.name=精神流体
+tile.witchery:spiritportal.name=精神の門
+tile.witchery:spinningwheel.name=糸車
+
+item.witchery:ingredient.brewSleep.name=眠りの秘薬
+item.witchery:ingredient.brewWasting.name=荒廃の秘薬
+item.witchery:ingredient.sleepingApple.name=眠りのリンゴ
+item.witchery:ingredient.disturbedCotton.name=狂気のワタ
+item.witchery:ingredient.fancifulThread.name=架空の糸
+item.witchery:ingredient.tormentedTwine.name=苦悶の撚り糸
+item.witchery:ingredient.goldenThread.name=金の糸
+item.witchery:ingredient.mellifluousHunger.name=甘美な空腹
+item.witchery:ingredient.brewFlowingSpirit.name=精神流体の秘薬
+item.witchery:ingredient.weaveIntensity.name=強化のドリームウィーバー
+item.witchery:bucketspirit.name=精神流体のバケツ
+item.witchery:bitingbelt.name=噛み付くベルト
+item.witchery:bitingbelt.tip=Careful... it bites.||{5Craft with up to 2 potions that get{0|{5administered when hit.{0
+
+witchery.brew.flowingspirit=Only brew in the Spirit World
+
+witchery.rite.manifest=顕現の儀式{r||Manifest as a ghost from the Spirit World.
+
+witchery.book.herbology.somniancotton=A make-believe plant that only grows, in the deepest of sleep, where ones dreams go.
+
+
+tile.witchery:demonheart.name=悪魔の心臓
+
+witchery.rite.optional=(optional)
+witchery.rite.noplacelikehome=there's no place like home
+witchery.rite.unknownchant=Unknown chant
+witchery.rite.manifestation.countdown=You feel more corporeal, only %s seconds remain.
+witchery.rite.slippersoncooldown=Nothing happens (wait %s minute(s)).
+witchery.rite.forestation=森の儀式{r||Grow a forest, replace the sapling for the desired type.
+witchery.rite.toofaraway=The rite cannot be performed so far away (a large coven may be needed).
+
+item.witchery:iceslippers.tip=Cool to the touch.||{5Freezes nearby water and{0|{5turns lava to obsidian (damages shoes){0
+item.witchery:brewbag.name=薬かばん
+item.witchery:huntsmanspear.name=狩人の槍
+item.witchery:huntsmanspear.tip={5Can summon a wolf, if struck while blocking{0.
+item.witchery:barkbelt.name=樹皮のベルト
+item.witchery:barkbelt.tip=So this is how an Ent feels.||{5Grow bark pieces when standing on grass or mycellium{0|{5Bark pieces mitigate hits.{0
+item.witchery:rubyslippers.name=ルビーの履物
+item.witchery:rubyslippers.tip=There's no place like home.||{5Teleport using a waystone (1 min cooldown){0|{5Teleport to bed (30 min cooldown){0
+item.witchery:seepingshoes.name=滲出の靴
+item.witchery:seepingshoes.tip=Cave spider's bane.||{5Remove poison effects when standing on ground{0
+item.witcheryTaglockKit.boundto=Bound: {5%s{0
+item.witcheryTaglockKit.unbound=Not bound
+
+item.witchery:ingredient.bookBiomes.name=バイオームの書
+item.witchery:ingredient.bookWands.name=ウィッチクラフト：記号論
+item.witchery:ingredient.batBall.name=圧縮コウモリ玉
+item.witchery:ingredient.brewBats.name=蝙蝠の秘薬
+item.witchery:ingredient.purifiedMilk.name=精製牛乳
+item.witchery:ingredient.charmDisruptedDreams.name=空想のお守り
+
+tile.witcheryStatusGoddess.curenightmare=The Goddess cures your nightmare.
+witchery.item.seerstone.nightmare=Curse of Waking Nightmare (%d)
+
+witchery.rite.cursenightmare=ナイトメア覚醒の呪い{r||Perform in a storm.
+witchery.rite.curenightmare=浄化の儀式{r||Cleanse the taglocked being of nightmares. Things may get worse.
+
+witchery.book.biomes1={o{lBook of Biomes{r{r||Understanding the biomes of the world is the first step to changing them. In these pages can be found the foci items and glowstone dust cost of each biome needed for the {oRite of Shifting Seasons{r.
+witchery.book.biomes.foci=Foci
+witchery.book.biomes.forest.name=Forest
+witchery.book.biomes.forest.item=Oak Sapling
+witchery.book.biomes.plains.name=Plains
+witchery.book.biomes.plains.item=Tall Grass
+witchery.book.biomes.mountain.name=Mountain
+witchery.book.biomes.mountain.item=Obsidian
+witchery.book.biomes.hills.name=Hills
+witchery.book.biomes.hills.item=Stone
+witchery.book.biomes.swamp.name=Swamp
+witchery.book.biomes.swamp.item=Slimeball
+witchery.book.biomes.water.name=Water
+witchery.book.biomes.water.item=Water Bucket
+witchery.book.biomes.desert.name=Desert
+witchery.book.biomes.desert.item=Cactus
+witchery.book.biomes.frozen.name=Frozen
+witchery.book.biomes.frozen.item=Icy Needle
+witchery.book.biomes.jungle.name=Jungle
+witchery.book.biomes.jungle.item=Jungle Sapling
+witchery.book.biomes.wasteland.name=Wasteland
+witchery.book.biomes.wasteland.item=Netherrack
+witchery.book.biomes.beach.name=Beach
+witchery.book.biomes.beach.item=Sand
+witchery.book.biomes.mushroom.name=Mushroom
+witchery.book.biomes.mushroom.item=Red Mushroom
+witchery.book.biomes.magical.name=Magical
+witchery.book.biomes.magical.item=Skeleton Skull
+
+witchery.book.wands1={o{lWitchcraft{r{r{o: Symbology{r||Drawing symbols with a {oMystic Branch{r, allows a practitioner to sculpt natural energies.||Only {oInfused{r practitioners can use this type of magic.||Forbidden curses require the {oInfernal Infusion{r.
+witchery.book.wands.strokes=Strokes
+witchery.book.wands.stroke.0=Up
+witchery.book.wands.stroke.1=Down
+witchery.book.wands.stroke.2=Right
+witchery.book.wands.stroke.3=Left
+witchery.book.wands.stroke.4=Up-Right
+witchery.book.wands.stroke.5=Down-Left
+witchery.book.wands.stroke.6=Up-Left
+witchery.book.wands.stroke.7=Down-Right
+
+witchery.pott.accio.info=Pull a dropped item.
+witchery.pott.aguamenti.info=Create water.
+witchery.pott.alohomora.info=Open a locked door.
+witchery.pott.avadakedavra.info={4Forbidden{0: Killing curse.
+witchery.pott.caveinimicum.info=Strengthen a block.
+witchery.pott.colloportus.info=Lock a door.
+witchery.pott.confundus.info=Cause confusion.
+witchery.pott.crucio.info={4Forbidden{0: Torture.
+witchery.pott.defodio.info=Dig.
+witchery.pott.ennervate.info=Counter Stupify.
+witchery.pott.episkey.info=Minor healing.
+witchery.pott.expelliarmus.info=Disarm the target.
+witchery.pott.flagrate.info=Draw an infernal rune.
+witchery.pott.flipendo.info=Push the target away.
+witchery.pott.impedimenta.info=Slows the target.
+witchery.pott.imperio.info={4Forbidden{0: Mind control.
+witchery.pott.incendio.info=Start a fire.
+witchery.pott.lumos.info=Create light.
+witchery.pott.nox.info=Extinguish light.
+witchery.pott.protego.info=Shield (ground target).
+witchery.pott.stupefy.info=Stun the target.
+
+item.witchery:poppet.protectArmor.name=鎧のお守り人形
+
+
+
+item.witchery:babashat.name=バーバ・ヤーガの帽子
+item.witchery:babashat.tip={5Infused players have a chance to be{0|{5teleported instead of taking a hit{0||{9+25% chance of second brew{0|{9+25% chance of third brew{0
+item.witchery:boline.name=ボーリーン
+item.witchery:boline.tip=Like shears, but can harvest|trapped plants and cobwebs.
+
+witchery.infuse.infusionrequired=You must be infused to use this ability.
+witchery.infuse.nocharges=You are too low on power to use this ability.
+
+item.witchery:ingredient.brewSolidStone.name=固形化の秘薬(石)
+item.witchery:ingredient.brewSolidDirt.name=固形化の秘薬(土)
+item.witchery:ingredient.brewSolidSand.name=固形化の秘薬(砂)
+item.witchery:ingredient.brewSolidSandstone.name=固形化の秘薬(砂岩)
+item.witchery:ingredient.brewSolidErosion.name=固形化の秘薬(腐食)
+item.witchery:ingredient.brewHollowTears.name=うつろな涙の秘薬
+item.witchery:ingredient.brewSubstitution.name=置換の秘薬
+item.witchery:ingredient.condensedFear.name=濃縮された恐怖
+item.witchery:ingredient.focusedWill.name=ひたむきな意思
+item.witchery:ingredient.brewGrave.name=死の注入薬
+item.witchery:ingredient.brewSoaring.name=飛翔の注入薬
+item.witchery:ingredient.infusionBase.name=注入薬ベース
+item.witchery:ingredient.brewRevealing.name=暴露の秘薬
+item.witchery:ingredient.wormwood.name=ニガヨモギ
+item.witchery:ingredient.subduedSpirit.name=服従した霊魂
+item.witchery:ingredient.brewCongealedSpirit.name=凝固した霊魂
+item.witchery:seedswormwood.name=ニガヨモギの種
+item.witchery:spectralstone.name=幽体の石
+
+item.witchery:buckethollowtears.name=うつろな涙のバケツ
+
+witchery.brew.solidification=Substitute Dirt with Stone, Sand, Sandstone or a Brew of Erosion.
+
+tile.witchery:wormwood.name=ニガヨモギ
+
+entity.witchery.spectre.name=亡霊
+entity.witchery.poltergeist.name=ポルターガイスト
+entity.witchery.banshee.name=泣き女
+entity.witchery.spirit.name=霊魂
+entity.witchery.death.name=死神
+
+tile.witchery:brazier.name=篝
+tile.witchery:scarecrow.name=カカシ
+tile.witchery.scarecrow.operation.playerwhitelist=Activate for PLAYERS not in whitelist: %s
+tile.witchery.scarecrow.operation.playerblacklist=Activate for PLAYERS in blacklist: %s
+tile.witchery.scarecrow.operation.creaturewhitelist=Activate for ANYTHING not in whitelist: %s.
+tile.witchery.scarecrow.operation.allnotfound=Activate if all in whitelist not found: %s.
+tile.witchery.scarecrow.operation.onenotfound=Activate if one in whitlelist not found: %s.
+tile.witchery.scarecrow.operation.off=Disabled. [%s]
+
+tile.witchery:trent.name=樹精の像
+tile.witchery:witchsladder.name=魔女のはしご
+
+witchery.fetish.enhancedpoppets.name=Voodoo Protection
+witchery.fetish.enhancedpoppets.desc=The properties of a carried Voodoo Protection Poppet become stronger.
+witchery.fetish.screamer.name=Shrieking
+witchery.fetish.screamer.desc=Screams when specific beings are near by.
+witchery.fetish.sentinal.name=Sentinel
+witchery.fetish.sentinal.desc=Launches a spectral assault on unwanted beings.
+witchery.fetish.twister.name=Disorientation
+witchery.fetish.twister.desc=Confuses approaching beings.
+witchery.fetish.ghostwalker.name=Ghost Walking
+witchery.fetish.ghostwalker.desc=Sustains manifested creatures from the Spirit World.
+
+item.witchery:ingredient.seerstone.manifestationtime=Can manifest for %s second(s).
+item.witchery:ingredient.seerstone.nomanifestationtime=Cannot manifest.
+item.witchery:ingredient.seerstone.covensize=%s witch(es) in coven.
+item.witchery:ingredient.seerstone.nocoven=No coven.
+item.witchery:ingredient.seerstone.nofamiliar=No familiar.
+item.witchery:ingredient.seerstone.familiar=Familiar called %s.
+item.witchery:ingredient.bookBurning.name=ウィッチクラフト：降霊術＆呪物
+item.witchery:ingredient.graveyardDust.name=墓所の粉
+
+item.witchery.swordofdeath.customname=死神の剣
+item.witchery.horseofdeath.customname=ビンキー
+
+witchery.rite.infusebrewsoaring=注入の儀式{r||Infuse the Brew of Soaring.
+witchery.rite.infusebrewgrave=注入の儀式{r||Infuse the Brew of the Grave.
+witchery.rite.spectralstone=屍霊の儀式{r||Infuse a Spectral Stone. Perform at night.
+witchery.rite.bindspectral=結合の儀式{r||Bind up to three spectral creatures of the same type into a Spectral Stone.
+witchery.rite.bindfetish=結合の儀式{r||Bind spectral creatures to a Scarecrow, Trent Effigy or Witch's Ladder to create an effect.
+witchery.rite.voodooprotectionactivated=Rite failed, player had voodoo protection.
+
+witchery.brazier.smoke.name=Graveyard Mist
+witchery.brazier.smoke.desc=Call forth a thick mist that lingers for some minutes.
+
+witchery.brazier.spectre.name=Summon Spectre
+witchery.brazier.spectre.desc=Pull a dead being back into this world from beyond.
+
+witchery.brazier.banshee.name=Summon Banshee
+witchery.brazier.banshee.desc=Pull a screaming being back into this world from beyond.
+
+witchery.brazier.strong.name=Anguish of the Dead
+witchery.brazier.strong.desc=Inflict the pain of the dead when striking creatures near to the brazier.
+
+witchery.brazier.tough.name=Fortification of the Corpse
+witchery.brazier.tough.desc=Let the dead feel your pain while standing near the brazier.
+
+witchery.brazier.invisible.name=Deathly Veil
+witchery.brazier.invisible.desc=Vanish from sight while standing near to the brazier.
+
+witchery.brazier.wilting.name=Drain Growth
+witchery.brazier.wilting.desc=Suck the life from crops to heal nearby undead.
+
+witchery.book.burning1={o{lWitchcraft: Conjuration & Fetishes{r{r||A witch may use a Brazier to burn materials with magical purpose, and conjure that which is no longer of this world.||Place the ingredients into the brazier and ignite with a flint and tinder.
+witchery.book.burning2={o{lFetish Binding{r{r||A witch may use the Rite of Binding to bind spectral creatures to a fetish to create permanent effects.||The following pages show which beings must be bound for which effect.
+witchery.book.burning3=Beings required:
+
+
+entity.witchery.witchhunter.name=魔女狩人
+
+item.witchery:handbow.name=魔女狩人のクロスボウ
+item.witchery:hunterhat.name=魔女狩人の帽子
+item.witchery:hunterhat.tip={9Set bonuses: Protection from curses.{0|{9Enables draining bolts.{0|{9Cannot use poppets.{0
+item.witchery:huntercoat.name=魔女狩人のコート
+item.witchery:huntercoat.tip={9Set bonuses: Protection from curses.{0|{9Enables draining bolts.{0|{9Cannot use poppets.{0
+item.witchery:hunterlegs.name=魔女狩人のズボン
+item.witchery:hunterlegs.tip={9Set bonuses: Protection from curses.{0|{9Enables draining bolts.{0|{9Cannot use poppets.{0
+item.witchery:hunterboots.name=魔女狩人のブーツ
+item.witchery:hunterboots.tip={9Set bonuses: Protection from curses.{0|{9Enables draining bolts.{0|{9Cannot use poppets.{0
+item.witchery:shelfcompass.name=人形棚コンパス
+item.witchery:ingredient.boltStake.name=木製ボルト
+item.witchery:ingredient.boltAntiMagic.name=虚無のボルト
+item.witchery:ingredient.boltHoly.name=骨製ボルト
+item.witchery:ingredient.boltSplitting.name=分裂ボルト
+item.witchery:ingredient.nullifiedleather.name=虚無の皮
+item.witchery:ingredient.nullcatalyst.name=虚無の触媒
+item.witchery:ingredient.binkyhead.name=ビンキーの頭骨
+item.witchery:potion.antidote.name=万能薬
+
+item.witchery:deathscowl.name=死神のフード
+item.witchery:deathscowl.tip={9Its gaze instils fear, causing victims to freeze.{0
+item.witchery:deathsrobe.name=死神のローブ
+item.witchery:deathsrobe.tip={9Resistant to fire.{0
+item.witchery:deathsfeet.name=死神の履物
+item.witchery:deathsfeet.tip={9Walk on water.{0
+item.witchery:deathshand.name=死神の手
+item.witchery:deathshand.tip={9Spectral touch ignores armor.{0|{9Death set bonus: Summon Death's Scythe{9|{9for AOE and hunger-based damage.{9
+
+witchery.rite.blackmagicdampening=Something is dissipating the magic.
+
+fluid.witchery:hollowtears=うつろな涙
+fluid.witchery:flowingspirit=精神流体
+
+tile.witchery:hollowtears.name=精神流体
+
+
+
+entity.witchery.lordoftorment.name=苦悩の王
+
+entity.witchery.imp.name=炎のインプ
+entity.witchery.imp.goodbye=<%s> Contract is fulfilled!
+entity.witchery.imp.contract.notowners=<%s> This contract is not signed with your blood!
+entity.witchery.imp.contract.unsigned=<%s> Sign the contract with your blood!
+entity.witchery.imp.contract.noxp=<%s> You have too little experience for me to feed!
+entity.witchery.imp.contract.deal=<%s> We have a deal!
+entity.witchery.imp.gift.like=<%s> Shinies!
+entity.witchery.imp.gift.hate=<%s> Me not like! Just new shiny things!
+entity.witchery.imp.gift.reciprocate=<%s> I has secret to share!
+entity.witchery.imp.gift.toomany=<%s> Shinies... yawn...
+entity.witchery.imp.gift.power=<%s> POWER OVERWHELMING!
+entity.witchery.imp.gift.powerloss=<%s> Why you do that?
+entity.witchery.imp.spell.feelthefire=<%s> %s will feel my flames! 
+entity.witchery.imp.spell.cannotfind=<%s> Cannot find %s!
+entity.witchery.imp.spell.failed=<%s> Something not right.
+entity.witchery.imp.spell.notliked=<%s> Why should I do this?
+entity.witchery.imp.spell.toooften=<%s> Wait little bit.
+entity.witchery.imp.spell.toomuchpower=<%s> Too much POWER to think!
+
+tile.witchery:force.name=個体
+tile.witchery:tormentportal.name=苦悩の門
+tile.witchery:refillingchest.name=チェスト
+
+witchery.infuse.branch.unknowneffect=You have not learned this effect!
+witchery.infuse.branch.effectoncooldown=Effect not ready, %s second(s) remain.
+
+item.witchery:ingredient.seerstone.knownspells=Knows: %s.
+item.witchery:ingredient.seerstone.nospells=No mystic branch knowledge.
+
+item.witchery:ingredient.brewSoulHunger.name=飢えた悪魔の魂
+item.witchery:ingredient.brewSoulAnguish.name=苦しみの悪魔の魂
+item.witchery:ingredient.brewSoulFear.name=恐怖の悪魔の魂
+item.witchery:ingredient.brewSoulTorment.name=苦悩の悪魔の魂
+item.witchery:ingredient.contract.name=悪魔の契約
+item.witchery:ingredient.contractTorment.name=苦悩
+item.witchery:ingredient.contractTorment.tip=Read this text in a circle|of standing stones. Beware its|explosive entrance.
+item.witchery:ingredient.contractTorment.nostones=Must stand in the dead centre of a stone circle.
+item.witchery:ingredient.contractBlaze.name=生きている炎
+item.witchery:ingredient.contractResistFire.name=炎の耐性
+item.witchery:ingredient.contractEvaporate.name=水の蒸発
+item.witchery:ingredient.contractFieryTouch.name=炎の手
+item.witchery:ingredient.contractSmelting.name=精錬の手
+
+witchery.pott.tormentum=Tormentum
+witchery.pott.tormentum.info=Cast the victim into eternal Torment.
+witchery.pott.carnosadiem=Carnosa Diem
+witchery.pott.carnosadiem.info=Fleshy feast.
+witchery.pott.ignianima=Ignianima
+witchery.pott.ignianima.info=Soulfire: cause pain equivalent to your own.
+witchery.pott.morsmordre=Morsmordre
+witchery.pott.morsmordre.info=Conjure the Dark Mark.
+
+witchery.rite.summonimp=召喚の儀式{r||Call forth an Imp. The inner area must be clear 7x7x4 blocks!
+
+
+tile.witchery:decurseteleport.name=Statue of Occluded Summons
+tile.witchery:decursedirected.name=Statue of Broken Curses
+entity.witchery.mindrake.name=マンドレイク
+entity.witchery.darkmark.name=モースモドラ
+item.witchery:seedsmindrake.name=マンドレイクの球根
+tile.witchery:mindrake.name=マンドレイク
+
+witchery.rite.bindstatuetoplayer=結合の儀式{r||Binds a person in the circle to the statue.
+witchery.rite.bindwaystonetoplayer=結合の儀式{r||Create a Blooded Waystone bound to the location of a creature.
+entity.witchery.goblin.name=ホブゴブリン
+entity.witchery.goblinmog.name=モグ
+entity.witchery.goblingulg.name=グルグ
+item.witchery:ingredient.waystoneCreatureBound.name=血染めの途の石
+item.witchery:quiverofmog.name=モグの矢筒
+item.witchery:quiverofmog.tip={9Limitless fast arrows that obliterate airborne targets.{0|{5Become tougher when close to a player with Gulg's Gurdle.{0
+item.witchery:gurdleofgulg.name=グルグの腰帯
+item.witchery:gurdleofgulg.tip={9Smash enemies into the air with your bare fists.{0|{5Become tougher when close to a player with Mog's Quiver.{0
+tile.witchery:stockade.oak.name=オークの木の柵
+tile.witchery:stockade.spruce.name=松の木の柵
+tile.witchery:stockade.birch.name=白樺の木の柵
+tile.witchery:stockade.jungle.name=ジャングルの木の柵
+tile.witchery:stockade.rowan.name=ナナカマドの柵
+tile.witchery:stockade.alder.name=ハンノキの柵
+tile.witchery:stockade.hawthorn.name=サンザシの柵
+tile.witchery:stockade.acacia.name=アカシアの木の柵
+tile.witchery:stockade.big_oak.name=ダークオークの木の柵
+item.witchery:dupstaff.name=複製の杖
+tile.witchery:statueofworship.name=ホブゴブリンパトロンの女神
+item.witchery:ingredient.kobolditedust.name=コボルダイトの粉
+item.witchery:ingredient.kobolditenugget.name=コボルダイトの粒
+item.witchery:ingredient.kobolditeingot.name=コボルタイトインゴット
+item.witchery:kobolditepickaxe.name=コボルタイトのつるはし
+item.witchery:ingredient.pentacle.name=五芒星形
+tile.witchery:perpetualice.name=永遠の氷
+tile.witchery:tormentstone.name=苦悩の石
