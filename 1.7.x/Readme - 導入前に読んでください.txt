@@ -60,11 +60,23 @@ langファイルのトピックをご覧ください。
 CustomNPCsのlangファイル
 -tokikome様がゲスト様のものを元に作られました
 
+EnhancedBiomesのlangファイル
+-Mintmoon様のものです
+
+FallingMeteorsのlangファイル
+-Mintmoon様のものです
+
+Metallurgy・MetallurgyCoreのlangファイル
+-hyakulei0743様のものです
+
+Pam'sHarvestCraftのlangファイル
+-Mintmoon様のものです
+
 Tinker'sConstructのlangファイル
 -dentigami様のものを元に作らさせていただきました
 
 TwilightForestのlangファイル
--Sdaru241様のものを元に作らさせていただきました
+-tokikome様がSdaru241様のものを元に作られました
 
 Witcheryのlangファイル
 -tokikome様のものです

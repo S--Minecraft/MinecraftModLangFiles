@@ -1,0 +1,7 @@
+itemGroup.metallurgyCore.items=冶金学コア:アイテム
+
+chat.info.metallurgyCore.orefinder.area=現在のチャンクは (%d, %d) から (%d, %d) です
+chat.info.metallurgyCore.orefinder.found= %d 個の %s を発見しました
+chat.info.metallurgyCore.orefinder.radius=半径: %d チャンク
+
+item.metallurgyCore.oreFinder.name=鉱石検索機
