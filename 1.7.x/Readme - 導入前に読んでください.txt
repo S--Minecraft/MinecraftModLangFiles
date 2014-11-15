@@ -69,6 +69,9 @@ FallingMeteorsのlangファイル
 Metallurgy・MetallurgyCoreのlangファイル
 -hyakulei0743様のものです
 
+MrCrayfish'sFirnitureModのlangファイル
+-akstn37様のものです
+
 Pam'sHarvestCraftのlangファイル
 -Mintmoon様のものです
 
