@@ -1,0 +1,7 @@
+《MineFactoryReloaded日本語翻訳ファイル導入時の注意》
+MineFactoryReloadedの日本語翻訳ファイルは
+zip/jarに導入しても意味がありません。
+
+この日本語翻訳ファイルは.minecraftフォルダの下の
+configフォルダの下のpowercrystalsフォルダの
+さらに下のMineFactoryReloadedフォルダに導入してください。

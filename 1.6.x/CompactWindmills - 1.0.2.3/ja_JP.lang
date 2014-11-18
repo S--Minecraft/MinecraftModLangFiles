@@ -1,0 +1,24 @@
+﻿#ja_JP byS
+creativetab.compactwindmills:creativetab.name=CompactWindmills
+
+
+tile.compactwindmills:windmill.name.ELV=超低圧風力発電機
+tile.compactwindmills:windmill.name.LV=低圧風力発電機
+tile.compactwindmills:windmill.name.MV=中圧風力発電機
+tile.compactwindmills:windmill.name.HV=高圧風力発電機
+tile.compactwindmills:windmill.name.EV=超高圧風力発電機
+
+
+info.compactwindmills:tooltip.ticksleft=このローターはあと%sティック分残っている
+info.compactwindmills:tooltip.timeleft=%s時間%s分%s秒
+info.compactwindmills:tooltip.infinite=無限
+info.compactwindmills:tooltip.efficiency=効率: %s
+
+info.compactwindmills:gui.rotor=ローター:
+info.compactwindmills:gui.output=現在の出力: %s EU/t
+
+item.compactwindmills:rotor.WOOD=木製のローター
+item.compactwindmills:rotor.WOOL=革製のローター
+item.compactwindmills:rotor.CARBON=カーボン製のローター
+item.compactwindmills:rotor.ALLOY=合金製のローター
+item.compactwindmills:rotor.IRIDIUM=イリジウム製のローター

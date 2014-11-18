@@ -1,0 +1,60 @@
+﻿#ja_JP byS&123okop
+commands.myst.tpx.usage=/tpx [subject:player] <target:player | target:dim [x y z]>
+commands.myst.tpx.fail.nosubject=テレポートするものが無効です。TPがありません。
+commands.myst.tpx.fail.noworld=「%d」ディメンションの世界を取得できませんでした。TPがありません。
+
+commands.myst.time.usage=/time <set|add> <value> [dim]
+commands.myst.time.fail.noworld=使ったディメンションはロードされていません
+commands.myst.time.set=「%d」ディメンションの時間を%dにセットする
+commands.myst.time.set.all=すべてのディメンションの時間を%dにセットする
+commands.myst.time.added=「%d」ディメンションで%dだけ時間を早めました
+commands.myst.time.added.all=すべてのディメンションで%dだけ時間を早めました
+
+commands.myst.toggledownfall.usage=/toggledownfall [dim]
+commands.myst.downfall.success=「%d」ディメンションをトグルダウンフォールしました
+commands.myst.downfall.fail.nodim=ディメンションが設定されていません
+
+commands.myst.agebook.usage=/myst-agebook [dim]
+commands.myst.twi.usage=/myst-twi [dim] [true|false]
+commands.myst.meteor.usage=/myst-spawnmeteor
+commands.myst.permissions.usage=/myst-permissions <player> <restrict|permit> <entry|depart> <all|dimid>
+commands.myst.chunkregen.usage=/myst-regenchunk [range] [dimId] [chunkX] [chunkZ]
+
+tile.myst.receptacle.name=接続書ソケット
+tile.myst.unstable.name=崩壊因子
+tile.myst.unstable.blue.name=崩壊因子・青
+tile.myst.unstable.red.name=崩壊因子・赤
+tile.myst.unstable.purple.name=崩壊因子・紫
+tile.myst.unstable.white.name=崩壊因子・白
+tile.myst.unstable.black.name=崩壊因子・黒
+tile.myst.crystal.name=クリスタルブロック
+tile.myst.lectern.name=書見台
+tile.myst.bookstand.name=ブックスタンド
+tile.myst.linkmodifier.name=接続調整装置
+tile.myst.bookbinder.name=ブックバインダー
+tile.myst.inkmixer.name=インク混合器
+tile.myst.linkportal.name=リンクポータル
+tile.myst.starfissure.name=星の裂け目
+tile.myst.writing_desk.name=書き物机
+
+item.myst.agebook.name=時代の書
+item.myst.linkbook.name=接続書
+item.myst.notebook.name=メモ帳
+item.myst.page.name=ページ
+item.myst.unlinkedbook.name=未接続の接続書
+item.myst.writingdesk.name=書き物机
+item.myst.vial.name=インク瓶
+
+fluid.myst.ink.black=黒いインク
+tile.myst.fluid.myst.ink.black.name=黒いインク
+
+achievement.myst.symbol=旅の小さな一歩
+achievement.myst.symbol.desc=シンボルを見つける
+achievement.myst.write=アート：プライマー
+achievement.myst.write.desc=シンボルをコピーする
+achievement.myst.agebook=片道切符
+achievement.myst.agebook.desc=時代の書を作る それは片道です忘れないでください！
+achievement.myst.linkbook=文字列を結ぶ
+achievement.myst.linkbook.desc=接続書を作る よし、今あなたは戻ることができます！
+achievement.myst.quinn=クインと呼んで
+achievement.myst.quinn.desc=接続書なしで次元に移動する よりよい実施方法があることを望む！

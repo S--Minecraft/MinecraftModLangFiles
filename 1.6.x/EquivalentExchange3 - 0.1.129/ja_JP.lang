@@ -1,0 +1,73 @@
+﻿# EE3 ja_JP by鮭[WIP]
+# Key localizations
+key.charge=チャージ
+key.extra=エクストラ
+key.release=リリース
+key.toggle=トグル
+
+# Item localizations
+item.ee3:alchemicalBag.name=錬金バッグ [WIP]
+item.ee3:alchemicalDust.ash.name=灰
+item.ee3:alchemicalDust.verdant.name=深緑の粉
+item.ee3:alchemicalDust.azure.name=紺碧の粉
+item.ee3:alchemicalDust.minium.name=鉛丹の粉
+item.ee3:alchemicalFuel.alchemicalCoal.name=錬金石炭
+item.ee3:alchemicalFuel.mobiusFuel.name=メビウス燃料
+item.ee3:alchemicalFuel.aeternalisFuel.name=無限の燃料
+item.ee3:chalk.name=チョーク [WIP]
+item.ee3:diviningRod.name=占い棒 [WIP]
+item.ee3:shardMinium.name=鉛丹の破片
+item.ee3:stoneInert.name=不活性の石
+item.ee3:stoneMinium.name=鉛丹の石 [WIP]
+item.ee3:stonePhilosophers.name=賢者の石 [WIP]
+
+# Block localizations
+tile.ee3:alchemicalChest.name=錬金チェスト
+tile.ee3:alchemicalFuelBlock.alchemicalCoal.name=錬金石炭ブロック
+tile.ee3:alchemicalFuelBlock.mobiusFuel.name=メビウス燃料ブロック
+tile.ee3:alchemicalFuelBlock.aeternalisFuel.name=無限の燃料ブロック
+tile.ee3:aludel.name=アルデルベース
+tile.ee3:calcinator.name=焼却炉
+tile.ee3:chalk.name=チョーク
+tile.ee3:glassBell.name=ガラスベル
+tile.ee3:researchStation.name=研究ステーション [WIP]
+tile.ee3:infusedCloth.name=注入された布
+tile.ee3:infusedWood.name=注入された原木
+tile.ee3:infusedPlanks.name=注入された木材
+
+# GUI localizations
+container.ee3:alchemicalBag=錬金バッグ [WIP]
+container.ee3:alchemicalChest=錬金チェスト
+container.ee3:aludel=アルデル
+container.ee3:calcinator=焼却炉
+container.ee3:glassBell=ガラスベル
+container.ee3:researchStation=研究ステーション [WIP]
+
+# Command localizations
+command.ee3:overlay.turned_on=ターゲット変換オーバーレイがオン
+command.ee3:overlay.turned_off=ターゲット変換オーバーレイがオフ
+command.ee3:overlay.position.top_left=ターゲット変換オーバーレイのターゲットの位置を左上に設定
+command.ee3:overlay.position.top_right=ターゲット変換オーバーレイのターゲットの位置を右上に設定
+command.ee3:overlay.position.bottom_left=ターゲット変換オーバーレイのターゲットの位置を左下に設定
+command.ee3:overlay.position.bottom_right=ターゲット変換オーバーレイのターゲットの位置を左下に設定
+command.ee3:overlay.opacity.usage.additional_text=（###は0.0と1.0の間の進数値です） 
+command.ee3:overlay.opacity.updated=ターゲット変換オーバーレイの不透明度は正常に更新されました
+command.ee3:overlay.scale.usage.additional_text=%s（###は0.0よりも大きいです）
+command.ee3:overlay.scale.updated=ターゲット変換オーバーレイスケールが正常に更新されました
+command.ee3:particles.turned_on=Equivalent Exchange 3 パーティカルがオン
+command.ee3:particles.turned_off=Equivalent Exchange 3 パーティカルがオフ
+command.ee3:sounds.set_to_all=Equivalent Exchange 3 のすべてのプレイヤーからの音を再生する
+command.ee3:sounds.set_to_self=Equivalent Exchange 3 の自身のみからの音を再生する
+command.ee3:sounds.turned_off=Equivalent Exchange 3 の音を再生しない
+
+# Version check localizations
+version.ee3:init_log_message=右の機関あてのリモートバージョンチェックを初期化中: %s
+version.ee3:uninitialized=リモートバージョンチェックを正しく初期化できませんでした
+version.ee3:current=現在 Equivalent Exchange 3 最新バージョン(%s)を利用中(MC %s 用)
+version.ee3:outdated=新しい %s バジョンが存在します (%s)（MC %s 用）。右へ行ってください: %s
+version.ee3:general_error=リモートバージョン権限ファイル接続中にエラーが発生しました;再試行中
+version.ee3:final_error=バージョンチェック試行3回接続失敗後に停止する
+version.ee3:mc_version_not_found=リモートバージョン権限で%s（MC %s 用）が見つかりません
+
+# Tooltip localizations
+tooltip.ee3:infusedPrefix=右のもので注入された:

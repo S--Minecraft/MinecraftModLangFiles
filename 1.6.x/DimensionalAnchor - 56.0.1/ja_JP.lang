@@ -1,0 +1,16 @@
+﻿//ja_JP byS
+tile.dimanchor.name=ディメンショナルアンカー
+gui.dimanchor.setOwnerToYou=所有者をあなたにする
+gui.dimanchor.setOwnerToServer=所有者をサーバーにする
+gui.dimanchor.shape=形: %1$s
+gui.dimanchor.shape.square=正方形
+gui.dimanchor.shape.lineX=X軸上
+gui.dimanchor.shape.lineZ=Z軸上
+gui.dimanchor.owner.server=サーバーが所有している
+gui.dimanchor.owner=所有者: %1$s
+gui.dimanchor.unlimited=無限
+gui.dimanchor.limit.yours=あなたの読み込みチャンク限界: %1$s / %2$s
+gui.dimanchor.limit.other=彼らの読み込みチャンク限界: %1$s / %2$s
+gui.dimanchor.area=エリア: %1$s
+gui.dimanchor.area.none=エリア: なし
+gui.dimanchor.lastline=opsと所有者のみがこれを見れます

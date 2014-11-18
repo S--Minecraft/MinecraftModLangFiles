@@ -1,0 +1,187 @@
+#ja_JP byS
+
+fluid.molten.angmallen=融解アングマレン
+fluid.molten.damascus.steel=融解ダマスカス鋼
+fluid.molten.hepatizon=融解ブラックコリントブロンズ
+fluid.molten.manganese=融解マンガン
+
+fluid.molten.brass=融解黄銅
+fluid.molten.platinum=融解プラチナ
+fluid.molten.zinc=融解亜鉛
+
+fluid.molten.amordrine=融解アモードリン
+fluid.molten.alduorite=融解アドゥロライト
+fluid.molten.ceruclase=融解ケルクレウス
+fluid.molten.ignatius=融解イグネイティウス
+fluid.molten.inolashite=融解アイノラシト
+fluid.molten.kalendrite=融解カレンドライト
+fluid.molten.lemurite=融解レムライト
+fluid.molten.midasium=融解ミダシウム
+fluid.molten.sanguinite=融解サンギナイト
+fluid.molten.shadow.iron=融解暗黒鉄
+fluid.molten.shadow.steel=融解暗黒鋼鉄
+fluid.molten.vulcanite=融解ヴァルカナイト
+fluid.molten.vyroxeres=融解ヴァイロキセレス
+
+fluid.molten.adamantine=融解アダマンタイン
+fluid.molten.astral.silver=融解アストラルシルバー
+fluid.molten.atlarus=融解アトラルス
+fluid.molten.black.steel=融解黒鋼鉄
+fluid.molten.carmot=融解カーモット
+fluid.molten.celenegil=融解セレネギル
+fluid.molten.deep.iron=融解黒鉄
+fluid.molten.haderoth=融解ハデロス
+fluid.molten.infuscolium=融解インフスコリウム
+fluid.molten.mithril=融解ミスリル
+fluid.molten.orichalcum=融解オリハルコン
+fluid.molten.oureclase=融解樹鉄
+fluid.molten.prometheum=融解プロメテウム
+fluid.molten.quicksilver=融解水銀
+fluid.molten.rubracium=融解ルブラシウム
+fluid.molten.tartarite=融解タルタライト
+
+fluid.molten.desichalkos=融解デシカルコス
+fluid.molten.eximite=融解エクシマイト
+fluid.molten.meutoite=融解ミュートイト
+
+fluid.molten.refined.glowstone=融解精製グロウストーン
+fluid.molten.osmium=融解オスミウム
+
+fluid.molten.pokefennium=融解ポケフェニウム
+fluid.molten.fairy=融解妖精金属
+
+tile.molten.angmallen.name=融解アングマレン
+tile.molten.damascus.steel.name=融解ダマスカス鋼
+tile.molten.hepatizon.name=融解ブラックコリントブロンズ
+tile.molten.manganese.name=融解マンガン
+
+tile.molten.brass.name=融解黄銅
+tile.molten.platinum.name=融解プラチナ
+tile.molten.zinc.name=融解亜鉛
+
+tile.molten.amordrine.name=融解アモードリン
+tile.molten.alduorite.name=融解アドゥロライト
+tile.molten.ceruclase.name=融解ケルクレウス
+tile.molten.ignatius.name=融解イグネイティウス
+tile.molten.inolashite.name=融解アイノラシト
+tile.molten.kalendrite.name=融解カレンドライト
+tile.molten.lemurite.name=融解レムライト
+tile.molten.midasium.name=融解ミダシウム
+tile.molten.sanguinite.name=融解サンギナイト
+tile.molten.shadow.iron.name=融解暗黒鉄
+tile.molten.shadow.steel.name=融解暗黒鋼鉄
+tile.molten.vulcanite.name=融解ヴァルカナイト
+tile.molten.vyroxeres.name=融解ヴァイロキセレス
+
+tile.molten.adamantine.name=融解アダマンタイン
+tile.molten.astral.silver.name=融解アストラルシルバー
+tile.molten.atlarus.name=融解アトラルス
+tile.molten.black.steel.name=融解黒鋼鉄
+tile.molten.carmot.name=融解カーモット
+tile.molten.celenegil.name=融解セレネギル
+tile.molten.deep.iron.name=融解黒鉄
+tile.molten.haderoth.name=融解ハデロス
+tile.molten.infuscolium.name=融解インフスコリウム
+tile.molten.mithril.name=融解ミスリル
+tile.molten.orichalcum.name=融解オリハルコン
+tile.molten.oureclase.name=融解樹鉄
+tile.molten.prometheum.name=融解プロメテウム
+tile.molten.quicksilver.name=融解水銀
+tile.molten.rubracium.name=融解ルブラシウム
+tile.molten.tartarite.name=融解タルタライト
+
+tile.molten.desichalkos.name=融解デシカルコス
+tile.molten.eximite.name=融解エクシマイト
+tile.molten.meutoite.name=融解ミュートイト
+
+tile.molten.refined.glowstone.name=融解精製グロウストーン
+tile.molten.osmium.name=融解オスミウム
+
+tile.molten.pokefennium.name=融解ポケフェニウム
+tile.molten.fairy.name=融解妖精金属
+
+material.angmanllen=アングマレン
+material.damascus.steel=ダマスカス鋼
+material.hepatizon=ブラックコリントブロンズ
+
+material.brass=黄銅
+material.electrum=エレクトラム
+material.platinum=プラチナ
+material.silver=銀
+
+material.amordrine=アモードリン
+material.ceruclase=ケルクレウス
+material.ignatius=イグネイティウス
+material.inolashite=アイノラシト
+material.kalendrite=カレンドライト
+material.midasium=ミダシウム
+material.sanguinite=サンギナイト
+material.shadow.iron=暗黒鉄
+material.shadow.steel=暗黒鋼鉄
+material.vulcanite=ヴァルカナイト
+material.vyroxeres=ヴァイロキセレス
+
+material.adamantine=アダマンタイン
+material.astral.silver=アストラルシルバー
+material.atlarus=アトラルス
+material.black.steel=黒鋼鉄
+material.carmot=カーモット
+material.celenegil=セレネギル
+material.deep.iron=黒鉄
+material.haderoth=ハデロス
+material.mithril=ミスリル
+material.orichalcum=オリハルコン
+material.oureclase=樹鉄
+material.prometheum=プロメテウム
+material.quicksilver=水銀
+material.tartarite=タルタライト
+
+material.desichalkos=デシカルコス
+material.eximite=エクシマイト
+
+material.bloodwood=血の木
+material.darkwood=闇の木
+material.fusewood=火の木
+material.ghostwood=霊の木
+material.nether.quartz=ネザー水晶
+
+material.refined.glowstone=精製グロウストーン
+material.osmium=オスミウム
+
+material.pokefennium=ポケフェニウム
+material.fairy=妖精金属
+
+material.certus.quartz=ケルタスクォーツ
+
+material.amethyst=アメジスト
+
+part.arrowhead=@material@ の矢尻
+part.axe.head=@material@ の斧頭
+part.battle.sign=@material@ の看板
+part.binding=@material@ の締め具
+part.chisel.head=@material@ ののみ頭
+part.chunk=@material@ の塊
+part.crossbar=@material@ のクロスバー
+part.excavator.head=@material@ のエクスカベーター頭
+part.frypan.head=@material@ の鍋底
+part.full.guard=@material@ のフルガード
+part.hammer.head=@material@ のハンマー頭
+part.knife.blade=@material@ のナイフ刀身
+part.large.guard=@material@ のワイドガード
+part.large.sword.blade=@material@ の大きい刀身
+part.largeplate=@material@ の大板
+part.lumberaxe.head=@material@ の大斧頭
+part.medium.guard=@material@ のハンドガード
+part.pickaxe.head=@material@ のツルハシ頭
+part.scythe.head=@material@ の大鎌頭
+part.shovel.head=@material@ のシャベル頭
+part.sword.blade=@material@ の刀身頭
+part.toolrod=@material@ の柄
+part.toughbind=@material@ の頑丈な締め具
+part.toughrod=@material@ の頑丈な柄
+
+tile.fairy.block.name=妖精金属ブロック
+tile.pokefennium.block.name=ポケフェニウムブロック
+
+item.fairy.ingot.name=妖精金属インゴット
+item.pokefennium.ingot.name=ポケフェニウムブロック

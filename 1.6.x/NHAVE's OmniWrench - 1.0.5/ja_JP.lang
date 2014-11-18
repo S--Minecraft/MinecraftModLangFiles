@@ -1,0 +1,6 @@
+﻿//ja_JP byS&Samon2go//
+//---Tools---//
+item.nhave.omniWrench.name = 全能レンチ 12
+item.nhave.component.handle.name = 全能レンチ「ハンドル」
+item.nhave.component.piston.name = 全能レンチ「ピストン」
+item.nhave.component.claw.name = 全能レンチ「爪」

@@ -1,0 +1,199 @@
+﻿# Underground Biomes localization
+# ===============================
+#
+
+Blocks
+
+tile.igneousStone.redGranite.name=赤色花崗岩(Red Granite)
+
+tile.igneousStone.blackGranite.name=黒色花崗岩(Black Granite)
+
+tile.igneousStone.rhyolite.name=流紋岩(Rhyolite)
+
+tile.igneousStone.andesite.name=安山岩(Andesite)
+
+tile.igneousStone.gabbro.name=斑れい岩(Gabbro)
+
+tile.igneousStone.basalt.name=玄武岩(Basalt)
+
+tile.igneousStone.komatiite.name=コマチアイト(Komatiite)
+
+tile.igneousStone.dacite.name=デイサイト(Dacite)
+
+
+tile.igneousCobblestone.redGranite.name=赤色花崗岩の丸石(Red Granite Cobblestone)
+
+tile.igneousCobblestone.blackGranite.name=黒色花崗岩の丸石(Black Granite Cobblestone)
+
+tile.igneousCobblestone.rhyolite.name=流紋岩の丸石(Rhyolite Cobblestone)
+
+tile.igneousCobblestone.andesite.name=安山岩の丸石(Andesite Cobblestone)
+
+tile.igneousCobblestone.gabbro.name=斑れい岩の丸石(Gabbro Cobblestone)
+
+tile.igneousCobblestone.basalt.name=玄武岩の丸石(Basalt Cobblestone)
+
+tile.igneousCobblestone.komatiite.name=コマチアイトの丸石(Komatiite Cobblestone)
+
+tile.igneousCobblestone.dacite.name=デイサイトの丸石(Dacite Cobblestone)
+
+
+tile.igneousStoneBrick.redGranite.name=赤色花崗岩レンガ(Red Granite Brics)
+
+tile.igneousStoneBrick.blackGranite.name=黒色花崗岩レンガ(Black Granite Brics)
+tile.igneousStoneBrick.rhyolite.name=流紋岩レンガ(Rhyolite Brics)
+
+tile.igneousStoneBrick.andesite.name=安山岩レンガ(Andesite Brics)
+
+tile.igneousStoneBrick.gabbro.name=斑れい岩レンガ(Gabbro Brics)
+
+tile.igneousStoneBrick.basalt.name=玄武岩レンガ(Basalt Brics)
+
+tile.igneousStoneBrick.komatiite.name=コマチアイトレンガ(Komatiite Brics)
+
+tile.igneousStoneBrick.dacite.name=デイサイトレンガ(Dacite Brics)
+
+
+tile.metamorphicStone.gneiss.name=片麻岩(Gneiss)
+
+tile.metamorphicStone.eclogite.name=エクロジャイト(Eclogite)
+
+tile.metamorphicStone.marble.name= 大理石(Marble)
+
+tile.metamorphicStone.quartzite.name=珪岩(Quartzite)
+
+tile.metamorphicStone.blueschist.name=青色片岩(Blue Schist)
+
+tile.metamorphicStone.greenschist.name=緑色片岩(Green Schist)
+
+tile.metamorphicStone.soapstone.name=石鹸石(Soapstone)
+
+tile.metamorphicStone.migmatite.name=ミグマタイト(Migmatite)
+
+
+tile.metamorphicCobblestone.gneiss.name=片麻岩の丸石(Gneiss Cobblestone)
+
+tile.metamorphicCobblestone.eclogite.name=エクロジャイトの丸石(Eclogite Cobblestone)
+
+tile.metamorphicCobblestone.marble.name= 大理石の丸石(Marble Cobblestone)
+
+tile.metamorphicCobblestone.quartzite.name=珪岩(Quartzite Cobblestone)
+
+tile.metamorphicCobblestone.blueschist.name=青色片岩の丸石(Blue Schist Cobblestone)
+
+tile.metamorphicCobblestone.greenschist.name=緑色片岩の丸石(Green Schist Cobblestone)
+
+tile.metamorphicCobblestone.soapstone.name=石鹸石の丸石(Soapstone Cobblestone)
+
+tile.metamorphicCobblestone.migmatite.name=ミグマタイト(Migmatite Cobblestone)
+
+
+tile.metamorphicStoneBrick.gneiss.name=片麻岩レンガ(Gneiss Brics)
+
+tile.metamorphicStoneBrick.eclogite.name=エクロジャイトレンガ(Eclogite Brics)
+
+tile.metamorphicStoneBrick.marble.name= 大理石レンガ(Marble Brics)
+
+tile.metamorphicStoneBrick.quartzite.name=珪岩レンガ(Quartzite Brics)
+
+tile.metamorphicStoneBrick.blueschist.name=青色片岩(Blue Schist Brics)
+
+tile.metamorphicStoneBrick.greenschist.name=緑色片岩レンガ(Green Schist Brics)
+
+tile.metamorphicStoneBrick.soapstone.name=石鹸石レンガ(Soapstone Brics)
+
+tile.metamorphicStoneBrick.migmatite.name=ミグマタイトレンガ(Migmatite Brics)
+
+
+tile.sedimentaryStone.limestone.name=石灰岩(Limestone)
+
+tile.sedimentaryStone.chalk.name=チョーク石灰岩(Chalk)
+
+tile.sedimentaryStone.shale.name=頁岩(Shale)
+
+tile.sedimentaryStone.siltstone.name=泥岩(Siltstone)
+
+tile.sedimentaryStone.ligniteBlock.name=褐炭ブロック(Lignite Block)
+
+tile.sedimentaryStone.dolomite.name=ドロマイト(Dolomite)
+
+tile.sedimentaryStone.greywacke.name=硬砂岩(Greywacke)
+
+tile.sedimentaryStone.chert.name=チャート岩(Chert)
+
+
+tile.igneousBrickSlab.redGranite.name=赤色花崗岩のハーフブロック(Red Granite Brick Slab)
+
+tile.igneousBrickSlab.blackGranite.name=黒色花崗岩のハーフブロック(Black Granite Brick Slab)
+
+tile.igneousBrickSlab.rhyolite.name=流紋岩のハーフブロック(Rhyolite Brick Slab)
+
+tile.igneousBrickSlab.andesite.name=安山岩のハーフブロック(Andesite Brick Slab)
+
+tile.igneousBrickSlab.gabbro.name=斑れい岩のハーフブロック(Gabbro Brick Slab)
+
+tile.igneousBrickSlab.basalt.name=玄武岩のハーフブロック(Basalt Brick Slab)
+
+tile.igneousBrickSlab.komatiite.name=コマチアイトのハーフブロック(Komatiite Brick Slab)
+
+tile.igneousBrickSlab.dacite.name=デイサイトのハーフブロック(Dacite Brick Slab)
+
+
+tile.metamorphicBrickSlab.gneiss.name=片麻岩のハーフブロック(Gneiss Brick Slab)
+
+tile.metamorphicBrickSlab.eclogite.name=エクロジャイトのハーフブロック(Eclogite Brick Slab)
+
+tile.metamorphicBrickSlab.marble.name= 大理石のハーフブロック(Marble Brick Slab)
+
+tile.metamorphicBrickSlab.quartzite.name=珪岩のハーフブロック(Quartzite Brick Slab)
+
+tile.metamorphicBrickSlab.blueschist.name=青色片岩のハーフブロック(Blue Schist Brick Slab)
+
+tile.metamorphicBrickSlab.greenschist.name=緑色片岩のハーフブロック(Green Schist Brick Slab)
+
+tile.metamorphicBrickSlab.soapstone.name=石鹸石のハーフブロック(Soapstone Brick Slab)
+
+tile.metamorphicBrickSlab.migmatite.name=ミグマタイトのハーフブロック(Migmatite Brick Slab)
+
+
+tile.anthraciteCoal.name=無煙炭ブロック(Anthracite Coal Block)
+
+
+
+# Items
+
+
+
+item.ligniteCoal.name=褐炭(Lignite)
+
+item.fossilPiece.ammonite.name=アンモナイトの化石(Ammonite fossil)
+
+item.fossilPiece.shell.name=貝殻の化石(Shell fossil)
+
+item.fossilPiece.bone.name=骨の化石(Bone fossil)
+
+item.fossilPiece.boneshard.name=骨片の化石(Bone shard fossil)
+
+item.fossilPiece.rib.name=あばら骨の化石(Rib fossil)
+
+item.fossilPiece.skull.name=頭骨の化石(Skull fossil)
+
+
+
+# Creative Tabs
+
+
+
+itemGroup.undergroundBiomesBlocks=Underground Biomes Blocks
+
+itemGroup.undergroundBiomesItems=Underground Biomes Items
+
+
+
+# Commands
+
+commands.oredictifystone.ok=Stone
+
+OreDictify complete, modified %d recipes.
+
+commands.oredictifystone.fail=Stone OreDictify has failed!

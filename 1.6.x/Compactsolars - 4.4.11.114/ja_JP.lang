@@ -1,0 +1,8 @@
+﻿#ja_JP byS
+tile.compactsolars:HV_block.name=HVソーラーアレイ
+tile.compactsolars:MV_block.name=MVソーラーアレイ
+tile.compactsolars:LV_block.name=LVソーラーアレイ
+
+item.compactsolars:solarHatHV.name=HVソーラーハット
+item.compactsolars:solarHatMV.name=MVソーラーハット
+item.compactsolars:solarHatLV.name=LVソーラーハット
