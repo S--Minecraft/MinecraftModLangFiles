@@ -273,7 +273,7 @@ item.giantPick.tooltip=巨大ブロックを壊した
 
 item.tfspawnegg.name=スポーン
 
-enchantment.tfFireReact=炎のオーラ
+enchantment.tfFireReact=炎の刻印
 enchantment.tfChillAura=凍えるオーラ
 
 itemGroup.twilightForest=Twilight Forest
@@ -354,7 +354,7 @@ achievement.twilightLich.desc=リッチを倒す
 achievement.twilightLichScepters=杖の収集家
 achievement.twilightLichScepters.desc=3つすべての杖を獲得する
 achievement.twilightHill1=ブーツは私のものだ！
-achievement.twilightHill1.desc=小さな亡霊鉱山でレッドキャップのボブリンを倒す
+achievement.twilightHill1.desc=小さな亡霊鉱山でレッドキャップのゴブリンを倒す
 achievement.twilightHill2=何の騒音だ？
 achievement.twilightHill2.desc=中くらいの亡霊鉱山でレッドキャップ工兵を倒す
 achievement.twilightHill3=私には、お見通し
@@ -364,9 +364,9 @@ achievement.twilightHedge.desc=生垣迷路でクモを倒す
 achievement.twilightMagicMap=何マイル先も見える
 achievement.twilightMagicMap.desc=魔法の地図(地上)をクラフトする
 achievement.twilightMazeMap=そして今、出口を見つけるために
-achievement.twilightMazeMap.desc=ゴブリンから魔法の金貨を獲得し、魔法の地図(迷宮)をクラフトする
+achievement.twilightMazeMap.desc=から魔法の金貨を獲得し、魔法の地図(迷宮)をクラフトする
 achievement.twilightOreMap=そんなに価値があるのか？
-achievement.twilightOreMap.desc=魔法の地図(鉱石)をクラフトする
+achievement.twilightOreMap.desゴブリンc=魔法の地図(鉱石)をクラフトする
 achievement.twilightKillHydra=ヒドラスレイヤー
 achievement.twilightKillHydra.desc=強大なヒドラを倒す。
 achievement.twilightHydraChop=巨大な肉！
@@ -401,7 +401,7 @@ achievement.twilightProgressTroll.desc=トロールの洞窟のシンダーの�
 achievement.twilightProgressThorns=いばらの過去 
 achievement.twilightProgressThorns.desc=トゲの大地を越え、お城の鍵を開ける。
 achievement.twilightProgressCastle=とても、とても・・・
-achievement.twilightProgressCastle.desc=でも、この城なんだ!?
+achievement.twilightProgressCastle.desc=でも、この城はなんだ!?
 
 
 
