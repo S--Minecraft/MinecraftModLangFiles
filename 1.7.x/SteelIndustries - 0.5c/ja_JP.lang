@@ -1,0 +1,108 @@
+﻿--If Derp Then--
+tile.null.name=Bro, you fucked up
+item.null.name=Bro, missed something?
+
+--Items--
+
+item.steelindustries:ingotSteel.name=鋼鉄インゴット
+item.steelindustries:nuggetSteel.name=鋼鉄塊
+item.steelindustries:nuggetIron.name=鉄塊
+item.steelindustries:itemIronCompound.name=炭素鋼
+item.steelindustries:itemSteelMesh.name=鋼鉄の鎖布
+item.steelindustries:rawSilicon.name=シリコン原料
+item.steelindustries:refinedSilicon.name=シリコンウェハー
+item.steelindustries:chunkGraphite.name=グラファイトの延べ棒
+item.steelindustries:dustTitanium.name=チタンの粉
+item.steelindustries:ingotTitanium.name=チタンインゴット
+item.steelindustries:nuggetTitanium.name=チタン塊
+
+--AddonItems--
+
+item.steelindustries:wandcapSteel.name=鋼鉄の石突
+item.wandcapSteel.name=鋼鉄の石突
+item.steelindustries:wandcapTitanium.name=チタンの石突
+item.wandcapTitanium.name=チタンの石突
+
+--Blocks--
+tile.steelindustries:oreRutile.name=ルチル鉱石
+tile.steelindustries:oreGraphite.name=石墨
+tile.steelindustries:blockTitanium.name=チタンブロック
+tile.steelindustries:blockSteel.name=鋼鉄ブロック
+tile.steelindustries:blockMiners.name=マイナーズブロック
+
+//Only one that's a bit wonky since it does not extend block but blockFalling//
+tile.oreSilicon.name=シリコン砂
+
+--Fancy Stuff--
+//Same story here, they don't extend Block, but others.//
+tile.barSteel.name=鋼鉄格子
+tile.wallSteel.name=鋼鉄の壁
+tile.slabSteel.name=鋼鉄ハーフブロック
+tile.doubleSlabSteel.name=重ね置きした鋼鉄ハーフブロック
+tile.stairsSteel.name=鋼鉄の階段
+tile.wallTitanium.name=チタンの壁
+tile.slabTitanium.name=チタンハーフブロック
+tile.stairsTitanium.name=チタンの階段
+
+--Tools--
+//Same for tools and armor//
+
+item.swordSteel.name=鋼鉄の剣
+item.pickaxeSteel.name=鋼鉄のツルハシ
+item.axeSteel.name=鋼鉄の斧
+item.shovelSteel.name=鋼鉄のシャベル
+item.hoeSteel.name=鋼鉄のクワ
+item.shearsSteel.name=鋼鉄のハサミ
+item.SteelIndustries:sickleSteel.name=鋼鉄の鎌
+item.swordTitanium.name=チタンの剣
+item.pickaxeTitanium.name=チタンのツルハシ
+item.axeTitanium.name=チタンの斧
+item.shovelTitanium.name=チタンのシャベル
+item.hoeTitanium.name=チタンのクワ
+item.shearsTitanium.name=チタンのハサミ
+item.SteelIndustries:sickleTitanium.name=チタンの鎌
+
+--Armor--
+
+item.helmetSteel.name=鋼鉄のヘルメット
+item.chestplateSteel.name=鋼鉄のチェストプレート
+item.legsSteel.name=鋼鉄のレギンス
+item.bootsSteel.name=鋼鉄のブーツ
+item.helmetTitanium.name=チタンのヘルメット
+item.chestplateTitanium.name=チタンのチェストプレート
+item.legsTitanium.name=チタンのレギンス
+item.bootsTitanium.name=チタンのブーツ
+
+--Misc--
+itemGroup.steelindustriesitems=Steel Industries:アイテム
+itemGroup.steelindustriesblock=Steel Industries:ブロック
+
+--Config--
+graphiteBurnTimeName=Graphite Burn Time
+oreRutileSpawnChance=生成率: ルチル鉱石
+oreGraphiteSpawnChance=生成率: 石墨
+oreSiliconSpawnChance=生成率: シリコン鉱石
+useTERecipes=Thermal Expansion のレシピを使用
+
+--TC Stuff--
+
+-Category
+tc.research_category.STEELINDUSTRIES=工業的魔術
+
+-Prefixes
+item.Wand.steel.cap=Steel Reinforced
+item.Wand.titanium.cap=Titanium Reinforced
+
+-Research
+
+tc.research_name.CAP_steel=鋼鉄の石突
+tc.research_name.CAP_titanium=チタンの石突
+
+tc.research_name.TRANSSTEEL=Steel Transmutation
+tc.research_name.TRANSTITANIUM=Titanium Transmutation
+
+tc.research_text.CAP_steel=FullMetal Wand Caps: Does not make you an alchemist....
+tc.research_text.TRANSSTEEL=FullMetal Transmutation: But this does!
+
+SteelCap.research.text=While researching you found a way to infuse non magical steel with magic to create magical wand caps. <BR><BR><BR>These caps do not take any penalty when used to channel magic, but they do not have any benefits.<BR><BR><BR>But hey! At least it didn't cost you an arm and a leg!
+SteelTrans.research.text=You have refined your transmutation research in such a way so that you can also transmute metals WITHOUT magical properties!<BR><BR><BR>WARNING: While performing the transmutation accidents may happen, don't come crying to me if you lose an arm or a leg, go and make your own replacement!
