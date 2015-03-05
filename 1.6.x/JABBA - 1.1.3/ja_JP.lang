@@ -1,0 +1,83 @@
+﻿item.upgrade.core.storage.name=容量増加チップ
+item.upgrade.core.storage3.name=容量増加チップx3
+item.upgrade.core.storage9.name=容量増加チップx9
+item.upgrade.core.storage27.name=容量増加チップx27
+item.upgrade.core.storage81.name=容量増加チップx81
+item.upgrade.core.storage243.name=容量増加チップx243
+item.upgrade.core.ender.name=リンクチップ
+item.upgrade.core.redstone.name=RS信号チップ
+item.upgrade.core.hopper.name=ホッパーチップ
+item.upgrade.core.void.name=虚空チップ
+item.upgrade.core.creative.name=クリエイティブチップ
+
+text.jabba.ubgrade.core.ender=音叉を使用し、バレル同士をリンク可能にします。
+text.jabba.ubgrade.core.redstone=バレルが満タンになったらRS信号を出力します。
+text.jabba.ubgrade.core.hopper=バレルからの自動搬出を可能にします。
+text.jabba.ubgrade.core.storage=バレル容量 %s スタック増加
+text.jabba.ubgrade.core.void=バレルが満タンの時、余分なスタックを削除します。
+text.jabba.ubgrade.core.creative=バレルから無限に引き出せるようになります。
+
+item.upgrade.side.sticker.name=ステッカー
+item.upgrade.side.hopper.name=ホッパーシール
+item.upgrade.side.redstone.name=RS信号シール
+
+item.upgrade.structural=Structural MK
+
+item.hammer.normal.name=バレルハンマー
+item.hammer.bspace.name=バレルハンマー(リンク)
+item.hammer.redstone.name=バレルハンマー(RS信号)
+item.hammer.hopper.name=バレルハンマー(ホッパー)
+item.hammer.storage.name=バレルハンマー(容量)
+item.hammer.structural.name=バレルハンマー(Structural)
+item.hammer.void.name=バレルハンマー(虚空)
+item.hammer.creative.name=バレルハンマー(クリエイティブ)
+
+item.dolly.normal.empty.name=台車
+item.dolly.normal.full.name=台車(使用済み)
+item.dolly.diamond.empty.name=ダイヤの台車
+item.dolly.diamond.full.name=ダイヤの台車(使用済み)
+item.fork.name=音叉
+
+tile.blockbarrel.name=大容量バレル
+
+text.jabba.bonk=無効な操作!
+text.jabba.downgrade=ダウングレードすることはできません。
+text.jabba.coreupgrade_exists=そのチップは既に使用済みです。
+text.jabba.upgrade_exists=そのチップは既に使用済みです。
+text.jabba.upgrade_remove=先に他のチップを外してください。
+text.jabba.upgrade_insufficient=チップスロット語りません。 %s スロット空けてから使用してください。         
+text.jabba.upgrade_required=先にStructural MK %s を使用してください。
+text.jabba.facade_redstone=先にRS信号チップを使用してください。
+text.jabba.facade_hopper=先にホッパーチップを使用してください。
+text.jabba.stack_remove=先にスタック数を減らしてください。
+text.jabba.bspace_prevent=The resonance prevents you from doing that.
+text.jabba.bspace_remove=リンクが削除されました。
+text.jabba.bspace_noreact=このバレルはリンクできません。
+text.jabba.bspace_content=内容物が違うためリンクグできません
+text.jabba.bsapce_structure=バレルの構成が一致しないためリンクできません。
+text.jabba.bspace_fork_resonating=リンクを開始します。
+text.jabba.bspace_fork_lost=リンク元を見失いました。
+text.jabba.bspace_resonating=バレルのリンクに成功しました。
+text.jabba.hammer_normal=Your hammer returns to normal.
+text.jabba.hammer_bspace=You feel your hammer begin to resonate.
+text.jabba.hammer_redstone=Your hammer begins emitting a red glow.
+text.jabba.hammer_hopper=You begin to have trouble holding onto your hammer.
+text.jabba.hammer_storage=Your hammer begins to grow.
+text.jabba.hammer_structural=Your hammer becomes a precision tool to destruct.
+text.jabba.hammer_void=Your hammer seems to disappear.
+text.jabba.hammer_creative=You seem to suddenly have an endless supply of hammers.
+
+itemGroup.jabba=Better Barrels
+
+text.jabba.waila.structural=Structural Level : %s
+text.jabba.waila.upgrades=チップスロット : %s / %s
+text.jabba.waila.items=%s / %s アイテム
+text.jabba.waila.stacks=%s 最高スタック数
+text.jabba.waila.empty=< 空 >
+text.jabba.waila.key.content=Barrel content
+text.jabba.waila.key.quantity=Items quantity
+text.jabba.waila.key.stacks=Max stacks
+
+text.jabba.tooltip.slots.used=使用スロット : 
+text.jabba.tooltip.slots.provided=チップスロット追加数 : 
+text.jabba.tooltip.empty=< 空 >
