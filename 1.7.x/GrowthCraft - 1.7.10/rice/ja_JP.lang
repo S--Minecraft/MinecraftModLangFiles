@@ -1,0 +1,17 @@
+﻿
+tile.grc.paddyField.name=米
+tile.grc.riceBlock.name=米
+
+item.grc.rice.name=米
+item.grc.riceBall.name=おにぎり
+	
+fluid.grc.riceSake=日本酒
+fluid.grc.riceSake0=日本酒
+fluid.grc.riceSake1=日本酒	
+fluid.grc.riceSake2=日本酒
+fluid.grc.riceSake3=日本酒
+
+fluid.grc.riceSake0.modifier=未発酵
+fluid.grc.riceSake1.modifier=発酵
+fluid.grc.riceSake2.modifier=強発酵
+fluid.grc.riceSake3.modifier=熟成

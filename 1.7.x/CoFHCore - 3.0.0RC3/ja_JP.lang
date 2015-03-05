@@ -1,0 +1,173 @@
+﻿#ja_JP
+
+# Config GUI Tooltips
+config.Client.tooltip=クライアント側のみのオプションの設定
+config.Common.tooltip=一般的なオプションの設定
+config.Core.tooltip=コアモジュールオプションの設定
+config.Loot.tooltip=戦利品モジュールオプションの設定
+
+chat.cofh.secure.0=注意: サーバーOP権限者はこのサーバー上で自由に「安全な」ブロックにアクセスすることができます
+chat.cofh.secure.1=これはプライベートであり、属しています
+chat.cofh.secure.2=あなたの手を失っている可能性があります！
+
+enchant.cofh.holding=保持
+enchant.cofh.multishot=マルチショット
+
+info.cofh.access=アクセス
+info.cofh.accessMode=アクセスモード
+info.cofh.accessPublic=共有アクセス
+info.cofh.accessRestricted=制限されました
+info.cofh.accessPrivate=所有者のみ
+info.cofh.all=全て
+info.cofh.amount=数
+info.cofh.angle=角度
+info.cofh.anotherplayer=他のプレイヤー
+info.cofh.augmentation=増補
+info.cofh.blank=空白
+info.cofh.capacity=容量
+info.cofh.charge=チャージ
+info.cofh.configuration=設定
+info.cofh.contents=コンテンツ
+info.cofh.controlStatus=コントロールステータス
+info.cofh.damageAttack=攻撃ダメージ
+info.cofh.damageFlux=フラックスダメージ
+info.cofh.disabled=無効化
+info.cofh.distance=距離
+info.cofh.dry=ドライ
+info.cofh.duration=期間
+info.cofh.empty=空
+info.cofh.enabled=有効化
+info.cofh.energy=エネルギー
+info.cofh.energyConsume=電力使用量
+info.cofh.energyProduce=電力出力
+info.cofh.energyStored=エネルギーストレージ
+info.cofh.fluid=液体
+info.cofh.fluids=液体
+info.cofh.force=強制
+info.cofh.forDetails=の詳細
+info.cofh.frequency=周波数
+info.cofh.friendsList=フレンドリスト
+info.cofh.hasInfo=情報はあります
+info.cofh.high=高
+info.cofh.hold=保持
+info.cofh.ignored=無視されました
+info.cofh.information=情報
+info.cofh.infinite=無限
+info.cofh.item=アイテム
+info.cofh.items=アイテム
+info.cofh.level=レベル
+info.cofh.locked=ロックされました
+info.cofh.low=低
+info.cofh.maxEnergyPerTick=最大電力
+info.cofh.none=なし
+info.cofh.owner=所有者
+info.cofh.perUse=読む
+info.cofh.press=押す
+info.cofh.receive=受け取る
+info.cofh.receiving=受け取り中
+info.cofh.redstoneControl=レッドストーン操作
+info.cofh.security=セキュリティ
+info.cofh.send=送信
+info.cofh.sending=送信中
+info.cofh.shift=Shift
+info.cofh.signal=信号
+info.cofh.signalRequired=信号を要求しました
+info.cofh.soaked=ずぶ濡れ
+info.cofh.source=ソース
+info.cofh.stored=格納済
+info.cofh.strength=強さ
+info.cofh.transfer=転送
+info.cofh.tutorial=チュートリアル
+info.cofh.unlocked=ロック解除
+info.cofh.success=成功！
+
+info.cofh.command.friend=フレンドリストにフレンドを追加、除外するコマンドです。
+info.cofh.command.help=他のコマンドで役立つコマンドです！
+info.cofh.command.syntax=他のコマンドのシンタックスで役立つコマンドです！
+info.cofh.command.killall=指定したエンティティをすべて殺し、標準ですべての敵対mobを殺します
+info.cofh.command.tps=サーバーのTPSを取得します 値が20であればサーバーは快適です
+info.cofh.command.tpx=ディメンション間で機能する/tpコマンドの改良版です
+info.cofh.command.version=このmodのバージョンを表示します
+info.cofh.command.enchant=/enchantの改善版です レベルや適応可能数に制限がありません
+info.cofh.command.clearblocks=ワールドの指定した場所から指定したブロックまでを消去します
+info.cofh.command.replaceblocks=ワールドの指定した場所から指定したブロックまでを置き換えます
+info.cofh.command.reloadworldgen=ディスクからワールドの生成を再読み込みします
+info.cofh.command.unloadchunk=プレイヤーが見ているチャンクをアンロードします
+
+info.cofh.command.friend.syntax=/cofh friend {gui | add <ユーザー名> | remove <ユーザー名>}
+info.cofh.command.help.syntax=/cofh help [コマンド]
+info.cofh.command.syntax.syntax=/cofh syntax [コマンド]
+info.cofh.command.killall.syntax=/cofh killall [名前の一部]
+info.cofh.command.tps.syntax=/cofh tps [{o | a | <dim ID>}]
+info.cofh.command.tpx.syntax=/cofh tpx [プレイヤー] {(<プレイヤー> | <ディメンション>) | <x> <y> <z> [ディメンション]}
+info.cofh.command.version.syntax=/cofh version
+info.cofh.command.enchant.syntax=/cofh enchant [プレイヤー] <エンチャントID> [レベル]
+info.cofh.command.clearblocks.syntax=/cofh clearblocks {<ユーザー> <x半径> <y半径> <z半径> | <x始点> <y始点> <z始点> <x終点> <y終点> <z終点>} [ブロック#メタ] [ブロック#メタ] ...
+info.cofh.command.replaceblocks.syntax=/cofh replaceblocks {<ユーザー> <x半径> <y半径> <z半径> | <x始点> <y始点> <z始点> <x終点> <y終点> <z終点>} <置き換えるブロック#メタ> [ブロック#メタ] [ブロック#メタ] ...
+info.cofh.command.reloadworldgen.syntax=/cofh reloadworldgen
+info.cofh.command.unloadchunk.syntax=/cofh unloadchunk
+
+info.cofh.command.syntaxError=無効なシンタックスです。
+info.cofh.command.notFound=未知のコマンドです。/cofh helpでコマンドを確認して下さい
+info.cofh.command.world.notFound=ワールドが存在しません。
+
+info.cofh.command.friend.0=フレンドリストに追加しました
+info.cofh.command.friend.1=申し訳ありませんが、リストへの
+info.cofh.command.friend.2=追加に問題があります
+info.cofh.command.friend.3=有効なユーザー名ではありません
+info.cofh.command.friend.4=フレンドリストからフレンドを除外しました
+info.cofh.command.friend.5=フレンドではありませんでした
+
+info.cofh.command.help.0=使用できるコマンドは以下のとおりです:
+info.cofh.command.version.0=このmodのバージョン: 
+
+info.cofh.command.killall.success='%d'のエンティティを削除しました(%s体)
+info.cofh.command.killall.successHostile='%d'の敵対mobを削除しました(%s体)
+info.cofh.command.killall.noMatch=一致するエンティティは見つかりませんでした"ｧe%sｧf"！
+info.cofh.command.killall.noHostile=一致する敵対mobは見つかりませんでした！
+
+info.cofh.command.tpx.snark.0=自分自身にあなたをテレポートしました！
+info.cofh.command.tpx.snark.1=自分自身へうまくテレポートしました！
+info.cofh.command.tpx.self=%.2f %.2f %.2fにテレポートしました
+info.cofh.command.tpx.dimensionSelf=%2$.2f %3$.2f %4$.2fの%1$sにテレポートしました
+info.cofh.command.tpx.other=%sが%.2f %.2f %.2fにテレポートしました
+info.cofh.command.tpx.otherTo=%sが%.2f %.2f %.2fの%sにテレポートしました
+info.cofh.command.tpx.dimensionOther=%sが%3$.2f %4$.2f %5$.2fの%2$sにテレポートしました
+info.cofh.command.tpx.dimensionOtherTo=%sが%4$.2f %5$.2f %6$.2fの%3$sの%sにテレポートしました
+info.cofh.command.tpx.otherToSelf=%sが%.2f %.2f %.2fに居る自分自身にテレポートしました
+info.cofh.command.tpx.dimensionOtherToSelf=%sが%3$.2f %4$.2f %5$.2fの%2$sに居る自分自身にテレポートしました
+
+info.cofh.command.reloadworldgen.success=ワールド生成を再読み込みに成功しました
+
+info.cofh.command.replaceblocks.failure=置き換えるブロックがありません
+info.cofh.command.replaceblocks.start=%s:%s:%sから%s:%s:%sまでの%sのブロックを%sに置き換えました
+info.cofh.command.replaceblocks.success=%s:%s:%sから%s:%s:%sまでの%sのブロックを%sに置き換えました
+
+info.cofh.command.clearblocks.failure=消去するブロックがありません
+info.cofh.command.clearblocks.start=%s:%s:%sから%s:%s:%sまでの%sのブロックを消去しました
+info.cofh.command.clearblocks.success=%s:%s:%sから%s:%s:%sまでの%sのブロックを消去しました
+
+info.cofh.command.unloadchunk.success=%s:%sのチャンクをアンロードしました
+
+info.cofh.updater.download=ダウンロード
+info.cofh.updater.tooltip=最新バージョンをダウンロードするにはクリックしてください
+info.cofh.updater.version=新バージョンがリリースされています
+
+info.cofh.tutorial.fluxRequired=動作するレッドストーンフラックスが必要です
+info.cofh.tutorial.tabAugment=増補タブでは、モジュール式の追加が可能になります
+info.cofh.tutorial.tabConfiguration.0=設定タブでは、アイテムがデバイスに入って残す方法を設定します
+info.cofh.tutorial.tabConfiguration.1=設定タブでは、このデバイスの動作モードを設定します
+info.cofh.tutorial.tabRedstone=レッドストーン操作タブでは、このデバイスがレッドストーン信号をどのように反応するかを設定します
+info.cofh.tutorial.tabSecurity=セキュリティタブでは、所有者がこのデバイスにアクセスできるユーザーを許可させます
+
+item.invalid.name=無効なアイテム(破壊)
+
+tab.cofh.friend.0=フレンドの追加/除外！
+tab.cofh.friend.1=フレンドは提供されていません。
+
+#Fluid Name Fixes
+
+fluid.tile.water=水
+fluid.tile.lava=溶岩
+fluid.fuel=燃料
+fluid.oil=オイル

@@ -1,0 +1,17 @@
+﻿
+tile.grc.appleBlock.name=りんご
+tile.grc.appleSapling.name=りんごの苗木
+tile.grc.appleLeaves.name=りんごの葉
+
+item.grc.appleSeeds.name=りんごの芯
+	
+fluid.grc.appleCider=アップルサイダー
+fluid.grc.appleCider0=アップルサイダー
+fluid.grc.appleCider1=アップルサイダー
+fluid.grc.appleCider2=アップルサイダー
+fluid.grc.appleCider3=アップルサイダー
+
+fluid.grc.appleCider0.modifier=未発酵
+fluid.grc.appleCider1.modifier=発酵
+fluid.grc.appleCider2.modifier=強発酵
+fluid.grc.appleCider3.modifier=熟成

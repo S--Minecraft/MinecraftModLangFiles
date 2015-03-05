@@ -1,0 +1,12 @@
+﻿
+itemGroup.tabGrowthCraft=Growthcraft
+
+tile.grc.fenceRope.name=ロープ
+tile.grc.ropeBlock.name=ロープ
+
+item.grc.rope.name=ロープ
+
+fluid.tile.water=水
+fluid.tile.lava=溶岩
+
+achievementPage.pageGrowthCraft=Growthcraft
