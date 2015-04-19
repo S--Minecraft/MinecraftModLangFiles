@@ -1,0 +1,67 @@
+powerconverters.inputlimited=入力上限
+powerconverters.outputlimited=出力上限
+
+powerconverters.in=イン
+powerconverters.out=アウト
+powerconverters.none=<NONE>
+powerconverters.nolink=NO LINK
+powerconverters.percentfull=full
+
+powerconverters.up=上
+powerconverters.down=下
+powerconverters.south=南
+powerconverters.north=北
+powerconverters.west=西
+powerconverters.east=東
+
+powerconverters.common.bridge.name=エネルギーブリッジ
+powerconverters.common.charger.name=汎用充電器
+
+powerconverters.bc.consumer.name=MJ 入力
+powerconverters.bc.producer.name=MJ 出力
+
+powerconverters.steam.consumer.name=スチーム 入力
+powerconverters.steam.producer.name=スチーム 出力 (%s)
+
+powerconverters.factorization.consumer.name=Factorization 入力
+powerconverters.factorization.producer.name=Factorization 出力
+
+powerconverters.te.consumer.name=RF 入力
+powerconverters.te.producer.name=RF 出力
+
+powerconverters.ic2.lv.consumer.name=EU LV 入力
+powerconverters.ic2.mv.consumer.name=EU MV 入力
+powerconverters.ic2.hv.consumer.name=EU HV 入力
+powerconverters.ic2.ev.consumer.name=EU EV 入力
+powerconverters.ic2.uv.consumer.name=EU UV 入力
+
+powerconverters.ic2.lv.producer.name=EU LV 出力
+powerconverters.ic2.mv.producer.name=EU MV 出力
+powerconverters.ic2.hv.producer.name=EU HV 出力
+powerconverters.ic2.ev.producer.name=EU EV 出力
+powerconverters.ic2.uv.producer.name=EU UV 出力
+
+powerconverters.gt.ulv.consumer.name=GT ULV 入力
+powerconverters.gt.lv.consumer.name=GT LV 入力
+powerconverters.gt.mv.consumer.name=GT MV 入力
+powerconverters.gt.hv.consumer.name=GT HV 入力
+powerconverters.gt.ev.consumer.name=GT EV 入力
+powerconverters.gt.iv.consumer.name=GT IV 入力
+powerconverters.gt.luv.consumer.name=GT LuV 入力
+powerconverters.gt.zpm.consumer.name=GT ZPM 入力
+powerconverters.gt.uv.consumer.name=GT UV 入力
+
+powerconverters.gt.ulv.producer.name=GT ULV 出力
+powerconverters.gt.lv.producer.name=GT LV 出力
+powerconverters.gt.mv.producer.name=GT MV 出力
+powerconverters.gt.hv.producer.name=GT HV 出力
+powerconverters.gt.ev.producer.name=GT EV 出力
+powerconverters.gt.iv.producer.name=GT IV 出力
+powerconverters.gt.luv.producer.name=GT LuV 出力
+powerconverters.gt.zpm.producer.name=GT ZPM 出力
+powerconverters.gt.uv.producer.name=GT UV 出力
+powerconverters.gt.producer.amperageChanged=Output Amperage Changed to %1$s Ampere
+
+powerconverters.mffs.producer.name=MFFS Fortron 出力
+powerconverters.mffs.consumer.name=MFFS Fortron 入力
+

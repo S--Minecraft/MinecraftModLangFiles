@@ -1,0 +1,435 @@
+# Misc
+itemGroup.atum=アトゥム
+biome.desert.name=砂漠
+
+# Blocks
+block.portal.name=アトゥムのポータル
+tile.chestSpawner.name=アトゥムのチェスト
+tile.sand.name=不思議な砂
+block.stone.name=石灰岩
+tile.cobble.name=ひび割れた石灰岩
+tile.largeBrick.name=大きな石灰岩レンガ
+tile.smallBrick.name=小さな石灰岩レンガ
+tile.carvedBrick.name=石灰岩のひび割れたレンガ
+tile.smoothSlab.name=滑らかな石灰岩のハーフブロック
+tile.crackedSlab.name=ひび割れた石灰岩のハーフブロック
+tile.largeBrickSlab.name=大きな石灰岩レンガのハーフブロック
+tile.smallBrickSlab.name=小さな石灰岩レンガのハーフブロック
+tile.doubleSlab.name=石灰岩のハーフブロック
+tile.smoothStairs.name=石灰岩の階段
+tile.cobbleStairs.name=石灰岩の丸石の階段
+tile.largeStairs.name=大きな石灰岩レンガの階段
+tile.smallStairs.name=小さな石灰岩レンガの階段
+tile.sandLayer.name=砂層
+tile.crackedLargeBrick.name=石灰岩のひび割れた大きなレンガ
+tile.smoothWall.name=滑らかな石灰岩の壁
+tile.crackedWall.name=ひび割れた石灰岩の壁
+tile.largeBrickWall.name=大きな石灰岩レンガの壁
+tile.smallBrickWall.name=小さな石灰岩レンガの壁
+tile.crystalGlass.name=クリスタルガラス
+tile.framedGlass.name=枠付きガラス
+tile.palmSapling.name=ヤシの苗木
+tile.date.name=ヤシの実
+tile.shrub.name=低木
+tile.weed.name=雑草
+tile.papyrus.name=パピルス
+tile.flax.name=亜麻
+tile.fertileSoil.name=肥沃土
+tile.fertileSoilTilled.name=耕された肥沃土
+tile.palmLog.name=ヤシの丸太
+tile.palmLeaves.name=ヤシの葉
+tile.palmPlanks.name=ヤシの木材
+tile.thinCrystalGlass.name=クリスタルガラス板
+tile.thinFramedGlass.name=枠付きガラス板
+tile.burningTrap.name=灼熱の罠
+tile.pharaohChest.name=ファラオのチェスト
+tile.redstoneOre.name=レッドストーン鉱石
+tile.coalOre.name=石炭鉱石
+tile.ironOre.name=鉄鉱石
+tile.goldOre.name=金鉱石
+tile.lapisOre.name=ラピスラズリ鉱石
+tile.diamondOre.name=ダイヤモンド鉱石
+tile.furnaceIdle.name=石灰岩のかまど
+tile.furnaceBurning.name=石灰岩のかまど
+
+# Stained Glass
+tile.crystalStainedGlassBlack.name=黒色の色付きクリスタルガラス
+tile.crystalStainedGlassRed.name=赤色の色付きクリスタルガラス
+tile.crystalStainedGlassGreen.name=緑色の色付きクリスタルガラス
+tile.crystalStainedGlassBrown.name=茶色の色付きクリスタルガラス
+tile.crystalStainedGlassBlue.name=青色の色付きクリスタルガラス
+tile.crystalStainedGlassPurple.name=紫色の色付きクリスタルガラス
+tile.crystalStainedGlassCyan.name=水色の色付きクリスタルガラス
+tile.crystalStainedGlassSilver.name=薄灰色の色付きクリスタルガラス
+tile.crystalStainedGlassGray.name=灰色の色付きクリスタルガラス
+tile.crystalStainedGlassPink.name=桃色の色付きクリスタルガラス
+tile.crystalStainedGlassLime.name=黄緑色の色付きクリスタルガラス
+tile.crystalStainedGlassYellow.name=黄色の色付きクリスタルガラス
+tile.crystalStainedGlassLightBlue.name=空色の色付きクリスタルガラス
+tile.crystalStainedGlassMagenta.name=赤紫色の色付きクリスタルガラス
+tile.crystalStainedGlassOrange.name=橙色の色付きクリスタルガラス
+tile.crystalStainedGlassWhite.name=白色の色付きクリスタルガラス
+
+tile.framedStainedGlassBlack.name=黒色の色付き枠付きガラス
+tile.framedStainedGlassRed.name=赤色の色付き枠付きガラス
+tile.framedStainedGlassGreen.name=緑色の色付き枠付きガラス
+tile.framedStainedGlassBrown.name=茶色の色付き枠付きガラス
+tile.framedStainedGlassBlue.name=青色の色付き枠付きガラス
+tile.framedStainedGlassPurple.name=紫色の色付き枠付きガラス
+tile.framedStainedGlassCyan.name=水色の色付き枠付きガラス
+tile.framedStainedGlassSilver.name=薄灰色の色付き枠付きガラス
+tile.framedStainedGlassGray.name=灰色の色付き枠付きガラス
+tile.framedStainedGlassPink.name=桃色の色付き枠付きガラス
+tile.framedStainedGlassLime.name=黄緑色の色付き枠付きガラス
+tile.framedStainedGlassYellow.name=黄色の色付き枠付きガラス
+tile.framedStainedGlassLightBlue.name=空色の色付き枠付きガラス
+tile.framedStainedGlassMagenta.name=赤紫色の色付き枠付きガラス
+tile.framedStainedGlassOrange.name=橙色の色付き枠付きガラス
+tile.framedStainedGlassWhite.name=白色の色付き枠付きガラス
+
+tile.thinCrystalStainedGlassBlack.name=黒色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassRed.name=赤色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassGreen.name=緑色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassBrown.name=茶色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassBlue.name=青色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassPurple.name=紫色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassCyan.name=水色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassSilver.name=薄灰色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassGray.name=灰色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassPink.name=桃色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassLime.name=黄緑色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassYellow.name=黄色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassLightBlue.name=空色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassMagenta.name=赤紫色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassOrange.name=橙色の色付きクリスタルガラス板
+tile.thinCrystalStainedGlassWhite.name=白色の色付きクリスタルガラス板
+
+tile.thinFramedStainedGlassBlack.name=黒色の色付き枠付きガラス板
+tile.thinFramedStainedGlassRed.name=赤色の色付き枠付きガラス板
+tile.thinFramedStainedGlassGreen.name=緑色の色付き枠付きガラス板
+tile.thinFramedStainedGlassBrown.name=茶色の色付き枠付きガラス板
+tile.thinFramedStainedGlassBlue.name=青色の色付き枠付きガラス板
+tile.thinFramedStainedGlassPurple.name=紫色の色付き枠付きガラス板
+tile.thinFramedStainedGlassCyan.name=水色の色付き枠付きガラス板
+tile.thinFramedStainedGlassSilver.name=薄灰色の色付き枠付きガラス板
+tile.thinFramedStainedGlassGray.name=灰色の色付き枠付きガラス板
+tile.thinFramedStainedGlassPink.name=桃色の色付き枠付きガラス板
+tile.thinFramedStainedGlassLime.name=黄緑色の色付き枠付きガラス板
+tile.thinFramedStainedGlassYellow.name=黄色の色付き枠付きガラス板
+tile.thinFramedStainedGlassLightBlue.name=空色の色付き枠付きガラス板
+tile.thinFramedStainedGlassMagenta.name=赤紫色の色付き枠付きガラス板
+tile.thinFramedStainedGlassOrange.name=橙色の色付き枠付きガラス板
+tile.thinFramedStainedGlassWhite.name=白色の色付き枠付きガラス板
+
+# Containers
+container.limestoneFurnace=石灰岩のかまど
+
+# Item
+item.scarab.name=スカラベ
+item.loot.name=戦利品
+item.scimitar.name=シミター
+item.greatsword.name=グレートソード
+item.scepter.name=杖
+item.stoneSoldierSword.name=石のソルジャーソード
+item.bow.name=ショートボウ
+item.limestoneShovel.name=石灰岩のシャベル
+item.limestonePickaxe.name=石灰岩のツルハシ
+item.limestoneAxe.name=石灰岩の斧
+item.limestoneSword.name=石灰岩の剣
+item.limestoneHoe.name=石灰岩のクワ
+item.mummyHelmet.name=ミイラのヘルメット
+item.mummyChest.name=ミイラのチェストプレート
+item.mummyLegs.name=ミイラのレギンス
+item.mummyBoots.name=ミイラのブーツ
+item.wandererHelmet.name=放浪者のヘルメット
+item.wandererChest.name=放浪者のチェストプレート
+item.wandererLegs.name=放浪者のレギンス
+item.wandererBoots.name=放浪者のブーツ
+item.desertHelmet.name=砂漠のヘルメット
+item.desertChest.name=砂漠のチェストプレート
+item.desertLegs.name=砂漠のレギンス
+item.desertBoots.name=砂漠のブーツ
+item.papyrusPlant.name=パピルス
+item.ectoplasm.name=エクトプラズム
+item.stoneChunk.name=石のかたまり
+item.clothScrap.name=布のスクラップ
+item.scroll.name=巻物
+item.wolfPelt.name=オオカミの皮
+item.date.name=ヤシの実
+item.linen.name=麻布
+item.flax.name=亜麻
+item.flaxSeeds.name=亜麻の種
+item.fish.0.name=見捨てられた魚
+item.fish.1.name=ミイラ化した魚
+item.fish.2.name=宝石で飾られた魚
+item.fish.3.name=骨の魚
+
+item.ptahsDecadence.name=プタハの堕落
+item.soteksRage.name=ソーテックの怒り
+item.osirisWill.name=オシリスの意志
+item.akersToil.name=アケルの苦労
+item.gebsBlessing.name=ゲブの祝福
+item.atensFury.name=アテンの激怒
+item.rasGlory.name=ラーの栄光
+item.sekhmetsWrath.name=セクメトの逆襲
+item.nutsAgility.name=ヌトの敏捷
+item.horusFlight.name=ホルスの飛行
+item.monthusStrike.name=モントゥの打撃
+item.anhursMight.name=アンフルの可能性
+item.hedetetsSting.name=ヘデテトの刺し傷
+item.horusSoaring.name=ホルスの高騰
+item.shusBreath.name=シューの吐息
+item.ptahsDestruction.name=プタハの破壊
+item.monthusBlast.name=モントゥの爆発
+item.nusFlux.name=ヌトの流動
+item.mnevisHorns.name=ムネヴィスの角
+item.isisEmbrace.name=イシスの抱擁
+item.maatsBalance.name=マアトの天秤
+item.hedetetsVenom.name=ヘデテトの毒
+item.gebsSolidarity.name=ゲブの結束
+item.nutsCall.name=ヌトの予言
+item.anuketsBounty.name=アヌケトの博愛
+item.mafdetsQuickness.name=マフデトの短気
+item.isisHealing.name=イシスの治癒
+item.amunetsHomecoming.name=アマウネトの帰郷
+item.anubisMercy.name=アヌビスの慈悲
+item.neithsAudacity.name=ネイトの大胆
+
+
+# Item Information
+item.akersToil.line1=性能 I: より早く、
+item.akersToil.line2=体力を消費しません
+item.akersToil.line3=性能 I
+
+item.amunetsHomecoming.line1=帰還 I: テレポートで
+item.amunetsHomecoming.line2=スポーンポイントに戻ります
+item.amunetsHomecoming.line3=帰還 I
+
+item.anhursMight.line1=強大 I: プレイヤーを遅くし
+item.anhursMight.line2=敵を気絶させる可能性があります
+item.anhursMight.line3=強大 I
+
+item.ptahsDecadence.line1=豊富 I: 各鉱石から多めに
+item.ptahsDecadence.line2=ダイヤモンドを獲得できます
+item.ptahsDecadence.line3=豊富 I
+
+item.soteksRage.line1=亡命 I: 敵を大きく後ろに
+item.soteksRage.line2=ノックバックさせます
+item.soteksRage.line3=亡命 I
+
+item.osirisWill.line1=追放 I: アンデッドに追加ダメージ、
+item.osirisWill.line2=エクトプラズムをドロップする可能性があります
+item.osirisWill.line3=追放 I
+
+item.gebsBlessing.line1=種蒔 I: 耕作地は祝福され、
+item.gebsBlessing.line2=成長速度の増加させる効果があります
+item.gebsBlessing.line3=種蒔 I
+
+item.atensFury.line1=ファイアーショット I: 燃える矢が
+item.atensFury.line2=ブロックと敵を燃やします
+item.atensFury.line3=ファイアーショット I
+
+item.rasGlory.line1=神の視覚 I: 夜間視力、
+item.rasGlory.line2=アトゥムによる視覚範囲の増加
+item.rasGlory.line3=神の視覚 I
+
+item.sekhmetsWrath.line1=犠牲 I: 炎からの保護、
+item.sekhmetsWrath.line2=攻撃者を燃やす可能性があります
+item.sekhmetsWrath.line3=犠牲 I
+
+item.nutsAgility.line1=敏捷性 I: 走る速度と
+item.nutsAgility.line2=泳ぐ速度の増加
+item.nutsAgility.line3=敏捷性 I
+
+item.horusFlight.line1=敏捷性 I: ジャンプ力の増加、
+item.horusFlight.line2=落下ダメージからの保護
+item.horusFlight.line3=敏捷性 I
+
+item.monthusStrike.line1=酷評 I: ダメージの増加、
+item.monthusStrike.line2=AOEノックバックをチャージ
+item.monthusStrike.line3=酷評 I
+
+item.hedetetsSting.line1=毒 II: 敵を
+item.hedetetsSting.line2=毒状態にする可能性があります
+item.hedetetsSting.line3=毒 II
+
+item.horusSoaring.line1=速度 I: 矢の速度、
+item.horusSoaring.line2=矢の速度を 50% 増加します
+item.horusSoaring.line3=速度 I
+
+item.shusBreath.line1=クイックドロー I: 弓を引く
+item.shusBreath.line2=速度が増加
+item.shusBreath.line3=クイックドロー I
+
+item.ptahsDestruction.line1=岩石カッター I: 石系モンスター
+item.ptahsDestruction.line2=へのダメージが増加
+item.ptahsDestruction.line3=岩石カッター I
+
+item.monthusBlast.line1=爆発ショット I: 矢が爆発し
+item.monthusBlast.line2=衝撃を与えます
+item.monthusBlast.line3=爆発ショット I
+
+item.nusFlux.line1=掃除 I: 空中へ敵を
+item.nusFlux.line2=打ち上げる可能性があります
+item.nusFlux.line3=掃除 I
+
+item.mnevisHorns.line1=近接ダメージ反射 I: 攻撃者への
+item.mnevisHorns.line2=ダメージを与える
+item.mnevisHorns.line3=近接ダメージ反射 I
+
+item.isisEmbrace.line1=再生 I: 体力を
+item.isisEmbrace.line2=ゆっくりと再生
+item.isisEmbrace.line3=再生 I
+
+item.maatsBalance.line1=バランス I: ダメージを分配して減少、
+item.maatsBalance.line2=ダメージの取得を減少
+item.maatsBalance.line3=バランス I
+
+item.hedetetsVenom.line1=毒の矢 I: 敵に
+item.hedetetsVenom.line2=毒の矢を発射
+item.hedetetsVenom.line3=毒の矢 I
+
+item.gebsSolidarity.line1=屈強 I: 移動スピードの減少、
+item.gebsSolidarity.line2=ノックバックの減少 (開発途中)
+item.gebsSolidarity.line3=屈強 I
+
+item.nutsCall.line1=激怒 I: 雷で
+item.nutsCall.line2=敵を攻撃する可能性があります
+item.nutsCall.line3=激怒 I
+
+item.anuketsBounty.line1=魅惑 I: アトゥムで
+item.anuketsBounty.line2=特別な魚を得る可能性があります
+item.anuketsBounty.line3=魅惑 I
+
+item.mafdetsQuickness.line1=迅速性 I: 身に付けている間
+item.mafdetsQuickness.line2=より早く走ることができます
+item.mafdetsQuickness.line3=迅速性 I
+
+item.isisHealing.line1=リジェネーション I: 身に付けている間
+item.isisHealing.line2=ゆっくりと体力が回復します
+item.isisHealing.line3=リジェネーション I
+
+item.anubisMercy.line1=帰還 I: 死ぬとすぐに
+item.anubisMercy.line2=スポーンポイントへ帰還テレポート
+item.anubisMercy.line3=帰還 I
+
+item.neithsAudacity.line1=ダブルショット I: 矢を
+item.neithsAudacity.line2=2本発射
+item.neithsAudacity.line3=ダブルショット I
+
+# Loot
+item.loot.dirty.name=見窄らしい
+item.loot.silver.name=銀の
+item.loot.gold.name=金の
+item.loot.sapphire.name=サファイアの
+item.loot.ruby.name=ルビーの
+item.loot.emerald.name=エメラルドの
+item.loot.diamond.name=ダイアモンドの
+
+item.loot.idol.name=崇拝物
+item.loot.necklace.name=ネックレス
+item.loot.ring.name=指輪
+item.loot.broach.name=ブローチ
+item.loot.scepter.name=杖
+
+# Individual loot names
+item.loot.gold.idol.name=金の崇拝物
+item.loot.gold.broach.name=金のブローチ
+item.loot.gold.scepter.name=金の杖
+
+# Entity
+entity.atum.mummy.name=ミイラ
+entity.atum.banditWarrior.name=盗賊の戦士
+entity.atum.banditArcher.name=盗賊の射手
+entity.atum.pharaoh.name=ファラオ
+entity.atum.dustySkeleton.name=埃まみれのスケルトン
+entity.atum.desertGhost.name=砂漠の亡霊
+entity.atum.stoneSoldier.name=石のソルジャー
+entity.atum.desertWolf.name=砂漠のオオカミ
+entity.atum.banditWarlord.name=盗賊の頭
+entity.atum.barbarian.name=蛮族
+
+# Pharaoh Names
+entity.atum.pharaoh.Ama=アマ'
+entity.atum.pharaoh.Ata=アタ'
+entity.atum.pharaoh.Ato=アト'
+entity.atum.pharaoh.Bak=バク'
+entity.atum.pharaoh.Cal=カル'
+entity.atum.pharaoh.Djet=ジェト'
+entity.atum.pharaoh.Eje=エジェ'
+entity.atum.pharaoh.For=フォル'
+entity.atum.pharaoh.Gol=ゴル'
+entity.atum.pharaoh.Gut=ゴト'
+entity.atum.pharaoh.Hop=ホプ'
+entity.atum.pharaoh.Hor=ホル'
+entity.atum.pharaoh.Huni=フニ'
+entity.atum.pharaoh.Iam=イアム'
+entity.atum.pharaoh.Jor=ジョル'
+entity.atum.pharaoh.Kal=カル'
+entity.atum.pharaoh.Khas=カス'
+entity.atum.pharaoh.Khor=コル'
+entity.atum.pharaoh.Lat=ラト'
+entity.atum.pharaoh.Mal=マル'
+entity.atum.pharaoh.Not=ノト'
+entity.atum.pharaoh.Oap=オアプ'
+entity.atum.pharaoh.Pra=プラ'
+entity.atum.pharaoh.Qo=クオ'
+entity.atum.pharaoh.Ras=ラス'
+entity.atum.pharaoh.Shas=シャス'
+entity.atum.pharaoh.Thoth=トト'
+entity.atum.pharaoh.Tui=ツイ'
+entity.atum.pharaoh.Uld=ウルド'
+entity.atum.pharaoh.Ver=ベル'
+entity.atum.pharaoh.Wot=ヲト'
+entity.atum.pharaoh.Xo=ゾ'
+entity.atum.pharaoh.Yat=ヤト'
+entity.atum.pharaoh.Zyt=ザイト'
+entity.atum.pharaoh.Khep=ケプ'
+
+entity.atum.pharaoh.Ahat=アハト
+entity.atum.pharaoh.Amesh=アメシュ
+entity.atum.pharaoh.Amon=アモン
+entity.atum.pharaoh.Anut=アヌト
+entity.atum.pharaoh.Baroom=バルーム
+entity.atum.pharaoh.Chanta=カンタ
+entity.atum.pharaoh.Erant=エラント
+entity.atum.pharaoh.Funam=フナム
+entity.atum.pharaoh.Daresh=ダレシュ
+entity.atum.pharaoh.Djer=ジェル
+entity.atum.pharaoh.Hotesh=ホテシュ
+entity.atum.pharaoh.Khaden=カデン
+entity.atum.pharaoh.Kron=カロン
+entity.atum.pharaoh.Gorkum=ゴルクム
+entity.atum.pharaoh.Ialenter=イアレンテル
+entity.atum.pharaoh.Ma'at=マアト
+entity.atum.pharaoh.Narmer=ナメール
+entity.atum.pharaoh.Radeem=ラデーム
+entity.atum.pharaoh.Jaloom=ジャルーム
+entity.atum.pharaoh.Lepsha=レプシャ
+entity.atum.pharaoh.Quor=クオル
+entity.atum.pharaoh.Oleshet=オレシェト
+entity.atum.pharaoh.Peput=ペプト
+entity.atum.pharaoh.Talat=タラト
+entity.atum.pharaoh.Ulam=ウラム
+entity.atum.pharaoh.Veresh=ベレシュ
+entity.atum.pharaoh.Ranesh=ラネシュ
+entity.atum.pharaoh.Snef=スネフ
+entity.atum.pharaoh.Wollolo=ヲルロロ
+entity.atum.pharaoh.Hathor=ハトホル
+entity.atum.pharaoh.Intef=アンテフ
+entity.atum.pharaoh.Neferk=ネフェルク
+entity.atum.pharaoh.Khatne=カトネ
+entity.atum.pharaoh.Tepy=ティピ
+entity.atum.pharaoh.Moret=モレト
+
+# Chat
+chat.atum.disabled=スカラベポータルの作成が無効になっています
+chat.atum.enemies=このチェストを調べるには近くに敵が多すぎます
+chat.atum.summonPharaoh=が次の者により召喚されました
+chat.atum.killPharaoh=が次の者により殺されました
+
+# GUI
+atum.configGui.portalCreation=アトゥムポータル
+atum.configGui.fog=アトゥムの霧
+atum.configGui.dimensionID=アトゥムのディメンションID
+atum.configGui.biomeID=アトゥムの砂漠バイオームID

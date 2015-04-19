@@ -1,0 +1,94 @@
+# Options GUI
+smartcursor.gui.title=SmartCursor 設定
+smartcursor.gui.isEnabled=有効:
+smartcursor.gui.showBlockDamage=現在のブロックダメージを表示:
+smartcursor.gui.showMobHealth=モンスターの体力を表示:
+smartcursor.gui.showDropInfo=ドロップアイテムの情報を表示:
+smartcursor.gui.showDropEnchantments=ドロップアイテムのエンチャント情報を表示:
+smartcursor.gui.showDurability=ドロップアイテムの耐久度情報を表示:
+smartcursor.gui.showXPorbInfo=経験値オーブの情報を表示:
+smartcursor.gui.showPlayerInfo=プレイヤーの情報を表示:
+smartcursor.gui.showBlockInfo=ブロックの情報を表示:
+smartcursor.gui.advanced=詳細
+# Advanced GUI
+smartcursor.gui.advancedTitle=詳細設定
+smartcursor.gui.showAdvancedInfoMobs=モンスターの詳細な情報を表示:
+smartcursor.gui.maxHeartCount=行内に表示されるのハートアイコンの最大数:
+smartcursor.gui.showAdvancedDropInfo=ドロップアイテムの詳細な情報を表示:
+smartcursor.gui.lookingDistance=視界に入ったモンスターの情報が表示される距離:
+smartcursor.gui.transparent=ツールチップの透明度:
+smartcursor.gui.styleOfPlayerInfo=プレイヤー情報のスタイル:
+smartcursor.gui.tooltipPosition=次の位置にツールチップを表示:
+smartcursor.gui.heartCount=ハートアイコンの数
+smartcursor.gui.distance=距離
+smartcursor.gui.transparent=透明度
+smartcursor.gui.rightCorner=右隅
+smartcursor.gui.leftCorner=左隅
+smartcursor.gui.tooltipDelta=表示時間
+smartcursor.gui.displayTime=表示する時間:
+# Module List
+smartcursor.gui.moduleList=読み込まれたモジュール
+smartcursor.gui.loadedModules=読み込まれたすべてのモジュール
+smartcursor.gui.switch=ON/OFF
+smartcursor.gui.class=モジュールのクラス
+smartcursor.gui.name=簡略説明
+smartcursor.gui.author=作成者
+# Items
+smartcursor.item.enchBook=この本には次のエンチャントがあります:
+smartcursor.item.healAmount=体力: 
+smartcursor.item.useInPotions=ポーションに使用することができます
+smartcursor.item.wolfsMeat=オオカミが大好きな肉です！
+smartcursor.item.enchItem=このアイテムは次のエンチャントがされています:
+smartcursor.item.count=数量: 
+smartcursor.item.hasEffect=このアイテムは効果があります
+smartcursor.item.hasSubtypes=このアイテムはサブタイプがあります
+smartcursor.item.enchantable=このアイテムはエンチャントできます
+smartcursor.item.isDamaged=このアイテムは消耗しています！
+smartcursor.item.stackable=スタック可能
+smartcursor.item.in=な数 
+smartcursor.item.items= 個
+# Blocks
+smartcursor.block.harvestBlock=このブロックを回収することができます
+smartcursor.block.growable=成長することができます
+smartcursor.block.shearable=刈り取ることができます
+smartcursor.block.cantHarvestBlock=ツールを選択し、このブロックを回収することができます
+smartcursor.block.inventorySize=スロット数: 
+# Players
+smartcursor.player.score=スコア: 
+smartcursor.player.equipment=装備:
+smartcursor.player.team=チーム: 
+smartcursor.player.ench= [エンチャント]
+# Entity
+smartcursor.mob.tamedBy=次の人に飼い慣らされています: 
+smartcursor.mob.tamed=飼い慣らされています！
+smartcursor.mob.notTamed=飼い慣らされていません！
+smartcursor.mob.isSitting=このモンスターは座っています
+smartcursor.mob.horseSpeed=移動速度: 
+smartcursor.mob.jumpStrength=ジャンプ力: 
+smartcursor.mob.trade=お待ちください。トレード中です...
+smartcursor.mob.profession_0=職業: 農民
+smartcursor.mob.profession_1=職業: 司書
+smartcursor.mob.profession_2=職業: 司祭
+smartcursor.mob.profession_3=職業: 鍛冶屋
+smartcursor.mob.profession_4=職業: 肉屋
+smartcursor.mob.profession=職業: 一般
+smartcursor.mob.isWet=このモンスターは濡れています
+smartcursor.mob.isSprinting=このモンスターは走っています
+smartcursor.mob.isRiding=このモンスターは騎乗しています
+smartcursor.mob.isBurning=このモンスターは燃えています
+smartcursor.mob.isEntityInvulnerable=このモンスターは不死身です
+smartcursor.mob.isUndead=このモンスターはアンデッドです
+smartcursor.mob.isImmuneToFire=このモンスターは火に耐性があります
+smartcursor.mob.isAgressive=このモンスターは攻撃的です！
+smartcursor.mob.isPassive=このモンスターは平和的です
+smartcursor.mob.child=子供です。次に成長するまで
+smartcursor.mob.seconds= 秒
+# Styles, positions
+smartcursor.pos.inCorner=隅に
+smartcursor.pos.center=カーソルの近く
+smartcursor.style.numeric=数値
+smartcursor.style.icons=アイコン
+smartcursor.style.progressBar=プログレスバー
+smartcursor.style.percents=パーセント
+#
+smartcursor.update.url=MODのアップデートはこちら:

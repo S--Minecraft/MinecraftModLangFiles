@@ -1,0 +1,9 @@
+(JP) Localization File
+tile.wirelessredstone.receiver.name=無線受信器
+tile.wirelessredstone.transmitter.name=無線発信機
+item.wirelessredstone.name=Example Item
+itemGroup.wirelessredstone=無線レッドストーン
+wirelessredstone.device.receiver=無線受信用機器
+wirelessredstone.device.transmitter=無線発信用機器
+wirelessredstone.receiver=無線受信器
+wirelessredstone.transmitter=無線発信機

@@ -1,0 +1,7 @@
+tile.compactsolars:HV_block.name=高圧ソーラーパネル
+tile.compactsolars:MV_block.name=中圧ソーラーパネル
+tile.compactsolars:LV_block.name=低圧ソーラーパネル
+
+item.compactsolars:solarHatHV.name=高圧ソーラーヘルメット
+item.compactsolars:solarHatMV.name=中圧ソーラーヘルメット
+item.compactsolars:solarHatLV.name=低圧ソーラーヘルメット

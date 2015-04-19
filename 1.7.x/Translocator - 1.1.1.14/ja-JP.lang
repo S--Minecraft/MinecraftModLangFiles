@@ -1,0 +1,39 @@
+tile.router.name=ルーター
+
+item.speedupgrade.name=Router: 速度アップグレード
+item.machineupgrade.name=Router: 範囲アップグレード
+item.bandwidthupgrade.name=Router: Bandwidth upgrade
+item.ejectupgrade.name=Router: 自動搬出アップグレード
+item.itemfilterupgrade.name=Router: 振り分けアップグレード
+item.thoroughupgrade.name=Router: Thorough upgrade
+
+routerreborn:tab.main.name=搬入/搬出
+routerreborn:tab.speed.name=速度アップグレード
+routerreborn:tab.machinefilter.name=装置振り分け
+routerreborn:tab.itemfilter.name=アイテム振り分け
+routerreborn:tab.bandwidth.name=Bandwidth upgrade
+routerreborn:tab.autoeject.name=自動搬出
+routerreborn:tab.thorough.name=Thorough upgrade
+routerreborn:tab.redstone.name=赤石動力
+
+
+msg.speed_error.txt=速度アップグレードは既にセットされてます
+msg.speed_installed.txt=速度アップグレードをセットしました
+
+msg.machine_error.txt=範囲アップグレードは既にセットされてます
+msg.machine_installed.txt=範囲アップグレードをセットしました
+
+msg.bandwidth_error.txt=Bandwidth upgradeは既にセットされてます
+msg.bandwidth_installed.txt=Bandwidth upgradeをセットしました
+
+msg.eject_error.txt=自動搬出アップグレードは既にセットされてます
+msg.eject_installed.txt=自動搬出アップグレードをセットしました
+
+msg.ItemFilter_error.txt=振り分けアップグレードは既にセットされてます
+msg.ItemFilter_installed.txt=振り分けアップグレードをセットしました
+
+msg.thorough_error.txt=Thorough upgradeは既にセットされてます
+msg.thorough_installed.txt=Thorough upgradeをセットしました
+
+
+

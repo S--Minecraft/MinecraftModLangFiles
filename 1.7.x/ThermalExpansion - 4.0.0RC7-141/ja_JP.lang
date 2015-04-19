@@ -1,0 +1,508 @@
+#ja_JP
+
+achievement.thermalexpansion.base=Thermal Expansion へようこそ!
+achievement.thermalexpansion.base.desc=さあ始まりです。
+achievement.thermalexpansion.machineFrame=枠にはめられた!
+achievement.thermalexpansion.machineFrame.desc=多分これを大量に作ることになるでしょう。
+
+achievement.thermalexpansion.furnace=石炭なんてばかげてる
+achievement.thermalexpansion.furnace.desc=流行りのやり方で精錬しましょう!
+achievement.thermalexpansion.pulverizer=マシンスマッシュ!
+achievement.thermalexpansion.pulverizer.desc=ちっぽけな鉱石です。
+achievement.thermalexpansion.sawmill=樹木は嫌い、木材が好き
+achievement.thermalexpansion.sawmill.desc=木を殴るようなものです、でもこっちの方がいい。
+achievement.thermalexpansion.smelter=二つのインゴットが入り、一つのインゴットが残る
+achievement.thermalexpansion.smelter.desc=絶対に食用ではありません。
+achievement.thermalexpansion.crucible=全てを融かす
+achievement.thermalexpansion.crucible.desc=はい、溶岩を作ることが出来ます。この人でなしめ。
+achievement.thermalexpansion.transposer=(たいていは) おかわり自由
+achievement.thermalexpansion.transposer.desc=手作業でバケツを満たすのは辛い作業です。
+achievement.thermalexpansion.precipitator=雪合戦!
+achievement.thermalexpansion.precipitator.desc=黄色い雪を作っちゃダメですよ。
+achievement.thermalexpansion.extruder=これぞ まさに 岩!
+achievement.thermalexpansion.extruder.desc=黒曜石もあるよ!
+achievement.thermalexpansion.accumulator=水、どこにでも水
+achievement.thermalexpansion.accumulator.desc=いや、これは溶岩は扱いませんよ。この人でなしめ。
+achievement.thermalexpansion.assembler=悪循環
+achievement.thermalexpansion.assembler.desc=いえ、それを作り出すことはないでしょう。
+achievement.thermalexpansion.charger=フラックスって何?
+achievement.thermalexpansion.charger.desc=フラックスは限界を知りません。そう、あなたの手を見て。
+achievement.thermalexpansion.insolator=箱の中の太陽!
+achievement.thermalexpansion.insolator.desc=断じて有機的なものではありません。
+
+achievement.thermalexpansion.wrench=釘みたいな見た目!
+achievement.thermalexpansion.wrench.desc=あなたが "本当に" 望んでいるなら、どんな道具だってハンマーになります。
+achievement.thermalexpansion.multimeter=B.S.E.E.
+achievement.thermalexpansion.multimeter.desc=事故なんかじゃありません、まぐれなだけです。
+achievement.thermalexpansion.schematic=複雑な概略図なんてない
+achievement.thermalexpansion.schematic.desc=計画していたよりは複雑です。
+achievement.thermalexpansion.florb=これを投げられるってこと?!
+achievement.thermalexpansion.florb.desc=液体が入っています。投げることができます。
+achievement.thermalexpansion.florbMagmatic=世界が燃えるさまを見よ
+achievement.thermalexpansion.florbMagmatic.desc=フローブ。そうです、溶岩が入っています。この人でなしめ。
+
+achievement.thermalexpansion.capacitorPotato=Half-Baked な発想!
+achievement.thermalexpansion.capacitorPotato.desc=ポーォ、テーィ、トーゥ
+
+achievement.thermalexpansion.fluidRedstone=レッドストーン革命!
+achievement.thermalexpansion.fluidRedstone.desc=上がるものは上がったまま、下がるものは下がったまま。そしてこれは素晴らしいまま。
+achievement.thermalexpansion.fluidGlowstone=浮き上がるのか?!
+achievement.thermalexpansion.fluidGlowstone.desc=だからあの形が生まれているのです! もはや全くナンセンスだ!
+achievement.thermalexpansion.fluidEnder=ウィブリー・ウォブリー、タイミー・ワイミー。
+achievement.thermalexpansion.fluidEnder.desc=ジ・エンドはまさにちょうど始まったところです。
+achievement.thermalexpansion.fluidPyrotheum=おお神よ、なぜだ?!
+achievement.thermalexpansion.fluidPyrotheum.desc=これは本当に溶岩よりもなお悪いものです。この人でなしめ。
+achievement.thermalexpansion.fluidCryotheum=冬が来る
+achievement.thermalexpansion.fluidCryotheum.desc=これも溶岩よりなお悪いものです、冷たいこと以外は。この雪男め。
+achievement.thermalexpansion.fluidMana=魔法と技術が出会う時。
+achievement.thermalexpansion.fluidMana.desc=この釣り合いを取らないものはなんですか?
+achievement.thermalexpansion.fluidCoal=液化こそが救いだ!
+achievement.thermalexpansion.fluidCoal.desc=これは "ひょっとしたら" 環境に良くないかもしれません。
+
+chat.thermalexpansion.light.0=モード: 切替式 (デフォルト: オフ)
+chat.thermalexpansion.light.1=モード: 切替式 (デフォルト: オン)
+chat.thermalexpansion.light.2=モード: 調整式 (比例)
+chat.thermalexpansion.light.3=モード: 調整式 (反比例)
+chat.thermalexpansion.light.4=モード: 常にオフ
+chat.thermalexpansion.light.5=モード: 常にオン
+
+#Cell
+info.thermalexpansion.decRecv=RF入力が減少: 
+info.thermalexpansion.decSend=RF出力が減少: 
+info.thermalexpansion.incRecv=RF入力が増加: 
+info.thermalexpansion.incSend=RF出力が増加: 
+info.thermalexpansion.maxIn=最大入力
+info.thermalexpansion.maxOut=最大出力
+
+#Workbench
+info.thermalexpansion.gridClear=製作グリッドをクリアする
+info.thermalexpansion.gridSet=概略図を元に製作グリッドをセットする
+info.thermalexpansion.noRecipe=レシピがありません
+info.thermalexpansion.noSchematic=概略図がありません
+info.thermalexpansion.writeSchematic=概略図を描く
+
+#Activator
+info.thermalexpansion.angleLevel=エイムレベル
+info.thermalexpansion.angleLow=エイムを低くする
+info.thermalexpansion.angleHigh=エイムを高くする
+info.thermalexpansion.clickLeft=左クリック
+info.thermalexpansion.clickRight=右クリック
+info.thermalexpansion.slotsFirst=最初のスロットのみ
+info.thermalexpansion.slotsRand=ランダムにアイテムを使う
+info.thermalexpansion.slotsRR=代わる代わるアイテムを使う
+info.thermalexpansion.sneakOff=非スニーク
+info.thermalexpansion.sneakOn=スニーク
+
+#Tesseract
+info.thermalexpansion.inactive=非稼働
+info.thermalexpansion.modeBlocked=閉鎖状態
+info.thermalexpansion.modeEnergy=エネルギーモード
+info.thermalexpansion.modeFluid=液体モード
+info.thermalexpansion.modeItem=アイテムモード
+info.thermalexpansion.modeRecv=受信のみ
+info.thermalexpansion.modeSend=送信のみ
+info.thermalexpansion.modeSendRecv=送信 / 受信
+
+#Smelter
+info.thermalexpansion.toggleSmelterLock=RFスロットをロック
+info.thermalexpansion.toggleSmelterUnlock=RFスロットをロック解除
+
+#Transposer
+info.thermalexpansion.toggleEmpty=トグル: 機械側を空にする
+info.thermalexpansion.toggleFill=トグル: 機械側に充填する
+info.thermalexpansion.toggleWait=切り替え
+
+#Insolator
+info.thermalexpansion.toggleInsolatorLock=肥料スロットをロック
+info.thermalexpansion.toggleInsolatorUnlock=肥料スロットをロック解除
+
+#Plates
+info.thermalexpansion.distance=距離
+info.thermalexpansion.intensitySignal=信号強度
+info.thermalexpansion.intensityImpulse=発射力
+info.thermalexpansion.duration=持続時間
+
+#Tier Localization
+info.thermalexpansion.creative=クリエイティブ用
+info.thermalexpansion.basic=基本
+info.thermalexpansion.hardened=硬化
+info.thermalexpansion.reinforced=増強
+info.thermalexpansion.resonant=共振
+
+info.thermalexpansion.augment=オーグメント
+info.thermalexpansion.augment.energyProduced=エネルギー生産
+info.thermalexpansion.augment.energyUsed=エネルギー使用
+info.thermalexpansion.augment.fuelConsumed=燃料消費
+info.thermalexpansion.augment.fuelEnergy=基本燃料エネルギー
+info.thermalexpansion.augment.levels.0=前段階レベルの装着が必要です。
+info.thermalexpansion.augment.levels.1=最上位レベルのオーグメントが使用されています。
+info.thermalexpansion.augment.machine.0=必要: 
+info.thermalexpansion.augment.machine.1=の機械
+info.thermalexpansion.augment.secondaryChance=二次生産確率
+info.thermalexpansion.augment.perOperation=作動ごとに
+info.thermalexpansion.augment.production=製作
+info.thermalexpansion.augment.speed=速度
+info.thermalexpansion.augment.upTo=Up to
+info.thermalexpansion.augment.waterConsumed=水消費
+
+info.thermalexpansion.augment.dynamoCoilDuct=ダイナモ: 側面の接続性
+info.thermalexpansion.augment.dynamoCoilDuct.0=ダイナモのコイルを通したアイテムや液体の挿入と取出を可能にします。
+info.thermalexpansion.augment.dynamoEfficiency=ダイナモ: 燃料効率
+info.thermalexpansion.augment.dynamoOutput=ダイナモ: 強化出力
+info.thermalexpansion.augment.dynamoOutput.0=追加の RF/t
+info.thermalexpansion.augment.dynamoThrottle=ダイナモ: 発展した絞り制御
+info.thermalexpansion.augment.dynamoThrottle.0=エネルギー出力を 0 RF/t まで減少させられるようにダイナモの絞り制御を改良します。
+
+info.thermalexpansion.augment.generalAutoTransfer=自動搬出
+info.thermalexpansion.augment.generalAutoTransfer.0=アイテムや液体の装置からの自動搬出を可能にします。
+info.thermalexpansion.augment.generalReconfigSides=面の設定切替
+info.thermalexpansion.augment.generalReconfigSides.0=装置の面の設定切り替えを可能にします。
+info.thermalexpansion.augment.generalRedstoneControl=レッドストーン制御
+info.thermalexpansion.augment.generalRedstoneControl.0=装置に関してレッドストーン制御設定を利用できるようにします。
+
+info.thermalexpansion.augment.machineSecondary=機械: 二次的産出
+info.thermalexpansion.augment.machineSpeed=機械: 処理速度
+
+info.thermalexpansion.augment.machineFurnaceFood=動力かまど: 特化
+info.thermalexpansion.augment.machineFurnaceFood.0=食品産出が増加します。
+info.thermalexpansion.augment.machineFurnaceFood.1=食品の調理のみが可能です。
+
+info.thermalexpansion.augment.machineExtruderBoost=火成岩成形機: 一処理分の量
+
+info.thermalexpansion.capacitor.0=作動させると手に持ったアイテムを充電します。
+info.thermalexpansion.capacitor.1=作動させるにはスニーク中に使用してください。
+info.thermalexpansion.capacitor.2=手に持ったアイテムを充電しています。
+info.thermalexpansion.capacitor.3=停止するにはスニーク中に使用してください。
+info.thermalexpansion.capacitor.4=ホットバーに設置したままでないといけません。
+info.thermalexpansion.capacitor.potato=賢い! でも再充電は出来ません。
+
+info.thermalexpansion.device.workbench=物の製作に青写真を使用できます。
+info.thermalexpansion.device.activator=ツールチップで説明できる以上のことができます。
+info.thermalexpansion.device.breaker=ブロックを壊します。十分にシンプルです。
+info.thermalexpansion.device.nullifier=物を除去し、存在しない状態にします。
+
+info.thermalexpansion.diagram.0=消去するにはスニーク中に使用してください。
+info.thermalexpansion.diagram.1=装置に対して使用するとその設定をコピーします。
+info.thermalexpansion.diagram.2=装置に対して使用すると保存された設定を移行します。
+
+info.thermalexpansion.dynamo.generate=エネルギー (レッドストーンフラックス) を生成します。
+info.thermalexpansion.dynamo.steam=水と固形燃料が必要です。
+info.thermalexpansion.dynamo.steam.0=代わりに蒸気を注入することも出来ます。
+info.thermalexpansion.dynamo.magmatic=熱い液体が必要です。
+info.thermalexpansion.dynamo.compression=液体燃料と冷却剤が必要です。
+info.thermalexpansion.dynamo.reactant=燃料と固形の反応物質が必要です。
+info.thermalexpansion.dynamo.enervation=様々なオブジェクトからRFを抽出します。
+
+info.thermalexpansion.ender.tesseract.0=四次元時空の統合点です。
+info.thermalexpansion.ender.tesseract.1=アイテム、液体、そしてRFを転送することができます。
+
+info.thermalexpansion.light.0=レッドストーン信号に基づき光を発します。
+info.thermalexpansion.light.1=あなたの望むほぼ全ての色になります。
+
+info.thermalexpansion.machine.furnace=アイテムを精錬します。
+info.thermalexpansion.machine.pulverizer=アイテムを粉砕します。
+info.thermalexpansion.machine.sawmill=追加の木材を提供します。
+info.thermalexpansion.machine.smelter=合金や金属を精錬します。二つ投入します。
+info.thermalexpansion.machine.crucible=アイテムを液体に溶かします。
+info.thermalexpansion.machine.transposer=液体と液体容器の操作を行います。
+info.thermalexpansion.machine.precipitator=液体を凍結させ個体にします。
+info.thermalexpansion.machine.extruder=熱い液体と冷たい液体を混ぜ合わせます。
+info.thermalexpansion.machine.accumulator=周囲から水を引き込みます。
+info.thermalexpansion.machine.assembler=アイテムを製作します。
+info.thermalexpansion.machine.charger=アイテムに RF をチャージします。
+info.thermalexpansion.machine.insolator=植物に "太陽" と RF を浸透させます。
+
+info.thermalexpansion.plate.signal=接触時にレッドストーン信号を発します。
+info.thermalexpansion.plate.impulse=接触時に動きを加えます。
+info.thermalexpansion.plate.translocate=接触時に物を転移させます。
+
+info.thermalexpansion.florb.0=ほとんどの液体が 1000 mB 入ります。
+info.thermalexpansion.florb.1=ほとんどの高熱の液体が 1000 mB 入ります。
+info.thermalexpansion.florb.2=内容物: 
+info.thermalexpansion.florb.3=はい、投げることが出来ます。
+info.thermalexpansion.florb.4=この液体は空気より軽いです。
+info.thermalexpansion.florb.5=フローブはより遠くに届きます。
+
+info.thermalexpansion.tool.battleWrench=90% がハンマー、10% がレンチです。
+info.thermalexpansion.tool.wrench.0=もちろん、レンチです。
+info.thermalexpansion.tool.wrench.1=でもあらゆるツールはハンマーになります。
+info.thermalexpansion.tool.wrench.2=あなたがそれを必要としているのであれば。
+
+info.thermalexpansion.multimeter=設定を行うにはスニーク中にマルチメーターを使用してください。
+info.thermalexpansion.securable=鍵によって安全を確保できます。
+info.thermalexpansion.storage.enchant=より多くのアイテムが入るようエンチャントできます。
+info.thermalexpansion.wrench=取り外すにはスニーク時にレンチを使ってください。
+
+#Items
+item.thermalexpansion.augment.dynamoCoilDuct.name=伝送コイルへの配管
+item.thermalexpansion.augment.dynamoEfficiency0.name=第2ギアボックス
+item.thermalexpansion.augment.dynamoEfficiency1.name=フラックス結合最適化
+item.thermalexpansion.augment.dynamoEfficiency2.name=低温コイル調節器
+item.thermalexpansion.augment.dynamoOutput0.name=第2送信コイル
+item.thermalexpansion.augment.dynamoOutput1.name=フラックス変圧ブースター
+item.thermalexpansion.augment.dynamoOutput2.name=低温コイルフラックス増幅器
+item.thermalexpansion.augment.dynamoThrottle.name=励起場リミッター
+
+item.thermalexpansion.augment.generalAutoTransfer.name=統合自動制御機構
+item.thermalexpansion.augment.generalReconfigSides.name=統合モジュール構造
+item.thermalexpansion.augment.generalRedstoneControl.name=統合レッドストーン回路
+
+item.thermalexpansion.augment.machineSecondary0.name=第2フィルター
+item.thermalexpansion.augment.machineSecondary1.name=安定フレーム
+item.thermalexpansion.augment.machineSecondary2.name=ジャイロ制御フィードバック
+item.thermalexpansion.augment.machineSpeed0.name=第2受信コイル
+item.thermalexpansion.augment.machineSpeed1.name=オーバークロック仕様ギアボックスユニット
+item.thermalexpansion.augment.machineSpeed2.name=時空フラックス統合器
+
+item.thermalexpansion.augment.machineFurnaceFood.name=トリヴェクション室
+
+item.thermalexpansion.augment.machineExtruderBoost0.name=加速成形
+item.thermalexpansion.augment.machineExtruderBoost1.name=火成触媒
+item.thermalexpansion.augment.machineExtruderBoost2.name=高熱砕屑生成
+
+item.thermalexpansion.capacitor.creative.name=クリエイティブ用RF電池
+item.thermalexpansion.capacitor.potato.name=ジャガイモRF電池
+item.thermalexpansion.capacitor.basic.name=鉛石RF電池
+item.thermalexpansion.capacitor.hardened.name=硬化RF電池
+item.thermalexpansion.capacitor.reinforced.name=レッドストーンRF電池
+item.thermalexpansion.capacitor.resonant.name=共振RF電池
+
+item.thermalexpansion.diagram.schematic.name=概略図
+item.thermalexpansion.diagram.redprint.name=赤写真
+
+item.thermalexpansion.florb.florb.name=フローブ
+item.thermalexpansion.florb.florbMagmatic.name=マグマフローブ
+
+item.thermalexpansion.material.pneumaticServo.name=空圧制御機構
+item.thermalexpansion.material.powerCoilGold.name=レッドストーン受信コイル
+item.thermalexpansion.material.powerCoilSilver.name=レッドストーン送信コイル
+item.thermalexpansion.material.powerCoilElectrum.name=レッドストーン伝導コイル
+item.thermalexpansion.material.lock.name=シグナラム安全鍵
+
+item.thermalexpansion.material.dustWood.name=おがくず
+item.thermalexpansion.material.dustWoodCompressed.name=圧縮おがくず
+item.thermalexpansion.material.slag.name=鉱滓
+item.thermalexpansion.material.slagRich.name=上質な鉱滓
+item.thermalexpansion.material.fertilizer.name=肥料
+item.thermalexpansion.material.fertilizerRich.name=上質な肥料
+
+item.thermalexpansion.satchel.creative.name=クリエイティブ用かばん
+item.thermalexpansion.satchel.basic.name=かばん
+item.thermalexpansion.satchel.hardened.name=硬化かばん
+item.thermalexpansion.satchel.reinforced.name=増強かばん
+item.thermalexpansion.satchel.resonant.name=共振かばん
+
+item.thermalexpansion.tool.invarBattleWrench.name=インバーバトルレンチ
+
+item.thermalexpansion.tool.wrench.name=モンキーレンチ
+item.thermalexpansion.tool.multimeter.name=マルチメーター
+item.thermalexpansion.tool.debugger.name=デバッガー
+item.thermalexpansion.tool.igniter.name=RF点火装置
+
+itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: ブロック
+itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: ツール
+itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: アイテム
+itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: フローブ
+
+#NEI Recipes
+recipe.thermalexpansion.machine=Machine Crafting
+recipe.thermalexpansion.upgrade=Upgrade Crafting
+recipe.thermalexpansion.secure=Security Crafting
+
+#Info Tabs
+tab.thermalexpansion.cell.0=レッドストーンフラックスを貯蔵します。
+tab.thermalexpansion.cell.1=Shift または Ctrl を押すとエネルギー制御を微調整できます。
+
+tab.thermalexpansion.device.workbench.0=物品を製作します!
+tab.thermalexpansion.device.workbench.1=製作レシピを概略図に書き込んだり、逆に読み取ることができます。
+tab.thermalexpansion.device.workbench.2=保存されたレシピを直接製作するには概略図に対して Shift + 右クリックしてください。
+tab.thermalexpansion.device.activator.0=薄切りにします! さいの目切りにします! 注いで、投げます!
+tab.thermalexpansion.device.activator.1=ランダムもしれませんし、そうでないかもしれません。隠密かも知れませんし、そうでないかもしれません。
+tab.thermalexpansion.device.activator.2=一見したところではなんでもできます!
+tab.thermalexpansion.device.breaker.0=あらゆるものを破壊します!
+tab.thermalexpansion.device.breaker.1=装置の前面に顔を近づけないでください。
+tab.thermalexpansion.device.nullifier.0=あらゆるものを /dev/null に送ります!
+tab.thermalexpansion.device.nullifier.1=それは恐ろしい場所です。液体さえも逃れることはできません。
+
+tab.thermalexpansion.dynamo.0= 生成率はエネルギー需要に従って変動します。
+tab.thermalexpansion.dynamo.steam.0=蒸気を利用してレッドストーンフラックスを発生させます。
+tab.thermalexpansion.dynamo.steam.1=固形燃料と水を使って蒸気を生成することができます。
+tab.thermalexpansion.dynamo.magmatic.0=極度に熱い液体を利用してレッドストーンフラックスを発生させます。
+tab.thermalexpansion.dynamo.compression.0=液体燃料と冷却剤を利用してレッドストーンフラックスを発生させます。
+tab.thermalexpansion.dynamo.reactant.0=錬金反応を利用してレッドストーンフラックスを発生させます。
+tab.thermalexpansion.dynamo.reactant.1=固形の反応物質と液体燃料を供給しなくてはなりません。
+tab.thermalexpansion.dynamo.enervation.0=天然資源やオブジェクトから蓄えているレッドストーンフラックスを直接抽出します。
+
+tab.thermalexpansion.ender.tesseract.0=これを複数利用することではるかな距離や次元を超えた場所に即座に物を運ぶことができます。
+tab.thermalexpansion.ender.tesseract.1=エンダーパールの振動数を調整して連結を決定します。
+
+tab.thermalexpansion.light.0=高度に調整が可能な、レッドストーンの繊細な明かりです。
+tab.thermalexpansion.light.1=色とモードはスライダーで調整することができます。
+tab.thermalexpansion.light.2=暗闇を素晴らしいものに置き換えます!
+
+tab.thermalexpansion.machine.furnace.0=レッドストーンフラックスを利用して精錬します。
+tab.thermalexpansion.machine.furnace.1=食品の調理にはごくわずかなエネルギーを使います。
+tab.thermalexpansion.machine.furnace.2=ムシャムシャムシャ。
+tab.thermalexpansion.machine.pulverizer.0=物を粉砕して別の物にします。
+tab.thermalexpansion.machine.pulverizer.1=鉱石の処理やアイテムの変換に有用です。
+tab.thermalexpansion.machine.pulverizer.2=これは概して逆転はできません。
+tab.thermalexpansion.machine.sawmill.0=原木を切って木材にしたり木製品を再処理します。
+tab.thermalexpansion.machine.sawmill.1=木を最大限活用するのに非常に有用です。
+tab.thermalexpansion.machine.sawmill.2=あなたの手を見てください。
+tab.thermalexpansion.machine.smelter.0=金属や高温を必要とする物質を精錬します。
+tab.thermalexpansion.machine.smelter.1=鉱石を処理したり発展した装置を組み上げる上で有用です。
+tab.thermalexpansion.machine.smelter.2=左のスロットはある一定のアイテムが入れている場合のみロックできます。
+tab.thermalexpansion.machine.smelter.3=絶対に調理に使わないでください。
+tab.thermalexpansion.machine.crucible.0=個体の原料を液体に変化させます!
+tab.thermalexpansion.machine.crucible.1=発展した装置を組み上げる上で非常に有用です。
+tab.thermalexpansion.machine.crucible.2=小さなお子様やペットを近づけないでください。
+tab.thermalexpansion.machine.transposer.0=液体を収容する物を満たしたり空にしたりします。
+tab.thermalexpansion.machine.transposer.1=ボタンをクリックすると充填モードと抽出モードを切り替えられます。
+tab.thermalexpansion.machine.transposer.2=一般的に逆転できます。
+tab.thermalexpansion.machine.precipitator.0=レッドストーンフラックスを使って様々な液体を凍らせます!
+tab.thermalexpansion.machine.precipitator.1=タンクの中の液体が十分であれば、選択したアイテムが手に入ります。
+tab.thermalexpansion.machine.precipitator.2=雪合戦をしましょう。
+tab.thermalexpansion.machine.extruder.0=水と溶岩を混ぜ合わせて異なるタイプの火成岩を作成します。
+tab.thermalexpansion.machine.extruder.1=もしタンクの水と溶岩が十分であれば、選択したアイテムが手に入ります。
+tab.thermalexpansion.machine.extruder.2=マインクラフトの物理は面白い!
+tab.thermalexpansion.machine.accumulator.0=周囲から水を抽出します。
+tab.thermalexpansion.machine.accumulator.1=水がたまっている場所に設置するとこれのスピードは上昇します。
+tab.thermalexpansion.machine.accumulator.2=溺れないでください。
+tab.thermalexpansion.machine.assembler.0=製作レシピを概略図に保存します。
+tab.thermalexpansion.machine.assembler.1=アイテム1個ごとにレッドストーンフラックスを20消費します。
+tab.thermalexpansion.machine.assembler.2=いえ、それは制作しません。
+tab.thermalexpansion.machine.charger.0=互換性のあるアイテムにエネルギーを充填します。
+tab.thermalexpansion.machine.charger.1=充填率はアイテムによって制限されます。
+tab.thermalexpansion.machine.charger.2=うなりを感じましょう。
+tab.thermalexpansion.machine.insolator.0=レッドストーンフラックスを使い植物に栄養素と日光を注入します。
+tab.thermalexpansion.machine.insolator.1="必ずしも "有機" 農業というわけではありません。
+tab.thermalexpansion.machine.insolator.2=左のスロットはある一定のアイテムが入っている場合にのみロックできます。
+tab.thermalexpansion.machine.insolator.3=見事に白熱しています!
+
+tab.thermalexpansion.plate.signal.0=接触時に遠隔レッドストーン信号を発します。
+tab.thermalexpansion.plate.signal.1=信号パラメーターは調整できます。
+tab.thermalexpansion.plate.impulse.0=接触時に推進力を与えます。
+tab.thermalexpansion.plate.impulse.1=強さと角度は調整できます。
+tab.thermalexpansion.plate.translocate.0=接触時にオブジェクトやエンティティを転移させます。
+tab.thermalexpansion.plate.translocate.1=距離は調整できます。
+
+tab.thermalexpansion.satchel.0=かばんです。一部のオブジェクトは入れられません。
+tab.thermalexpansion.satchel.1=払い戻しはありません。
+tab.thermalexpansion.satchel.creative=一つだけです……大体は。
+
+tab.thermalexpansion.storage.enchant=もっと多くのものを入れられるようエンチャントができます!
+
+tab.thermalexpansion.strongbox.0=箱です! 物を保管します。まあ、ほとんどの物を。
+tab.thermalexpansion.strongbox.creative=1種類のものを無尽蔵に入れられます!
+
+#Blocks
+tile.thermalexpansion.cache.creative.name=クリエイティブ用貯蔵庫
+tile.thermalexpansion.cache.basic.name=貯蔵庫
+tile.thermalexpansion.cache.hardened.name=硬化貯蔵庫
+tile.thermalexpansion.cache.reinforced.name=増強貯蔵庫
+tile.thermalexpansion.cache.resonant.name=共振貯蔵庫
+
+tile.thermalexpansion.cell=エネルギーセル
+tile.thermalexpansion.cell.creative.name=クリエイティブ用エネルギーセル
+tile.thermalexpansion.cell.basic.name=鉛石エネルギーセル
+tile.thermalexpansion.cell.hardened.name=硬化エネルギーセル
+tile.thermalexpansion.cell.reinforced.name=レッドストーンエネルギーセル
+tile.thermalexpansion.cell.resonant.name=共振エネルギーセル
+
+tile.thermalexpansion.device.workbench.name=機械工用作業台
+tile.thermalexpansion.device.activator.name=自律アクティベーター
+tile.thermalexpansion.device.breaker.name=地形粉砕機
+tile.thermalexpansion.device.nullifier.name=消滅装置
+
+tile.thermalexpansion.dynamo=ダイナモ
+tile.thermalexpansion.dynamo.steam.name=蒸気ダイナモ
+tile.thermalexpansion.dynamo.magmatic.name=溶岩ダイナモ
+tile.thermalexpansion.dynamo.compression.name=圧縮ダイナモ
+tile.thermalexpansion.dynamo.reactant.name=反応ダイナモ
+tile.thermalexpansion.dynamo.enervation.name=動力吸収ダイナモ
+
+tile.thermalexpansion.ender.tesseract.name=テッセラクト
+
+tile.thermalexpansion.frame.machineBasic.name=マシンフレーム(基本)
+tile.thermalexpansion.frame.machineHardened.name=マシンフレーム(硬化)
+tile.thermalexpansion.frame.machineReinforced.name=マシンフレーム(増強)
+tile.thermalexpansion.frame.machineResonant.name=マシンフレーム(共振)
+tile.thermalexpansion.frame.cellBasic.name=鉛石エネルギーセルのフレーム
+tile.thermalexpansion.frame.cellHardened.name=硬化エネルギーセルのフレーム
+tile.thermalexpansion.frame.cellReinforcedEmpty.name=レッドストーンエネルギーセルのフレーム(空)
+tile.thermalexpansion.frame.cellReinforcedFull.name=レッドストーンエネルギーセルのフレーム(充填済)
+tile.thermalexpansion.frame.cellResonantEmpty.name=共振エネルギーセルのフレーム(空)
+tile.thermalexpansion.frame.cellResonantFull.name=共振エネルギーセルのフレーム(充填済)
+tile.thermalexpansion.frame.tesseractEmpty.name=テッセラクトフレーム(空)
+tile.thermalexpansion.frame.tesseractFull.name=テッセラクトフレーム(充填済)
+tile.thermalexpansion.frame.illuminator.name=イルミネーターフレーム
+
+tile.thermalexpansion.glass.name=強化ガラス
+
+tile.thermalexpansion.light.name=6つの照明モード
+tile.thermalexpansion.light.illuminator.name=グロウストーンイルミネーター
+tile.thermalexpansion.light.lampLumiumRadiant.name=放射ルミウムランプ
+tile.thermalexpansion.light.lampLumium.name=ルミウムランプ
+
+tile.thermalexpansion.machine.furnace.name=動力かまど
+tile.thermalexpansion.machine.pulverizer.name=粉砕機
+tile.thermalexpansion.machine.sawmill.name=製材機
+tile.thermalexpansion.machine.smelter.name=融剤かまど
+tile.thermalexpansion.machine.crucible.name=溶岩るつぼ
+tile.thermalexpansion.machine.transposer.name=液体転置機
+tile.thermalexpansion.machine.precipitator.name=製氷機
+tile.thermalexpansion.machine.extruder.name=火成岩成形機
+tile.thermalexpansion.machine.accumulator.name=水集積機
+tile.thermalexpansion.machine.assembler.name=自動製作機
+tile.thermalexpansion.machine.charger.name=RF充填機
+tile.thermalexpansion.machine.insolator.name=日光植物成長機
+
+tile.thermalexpansion.plate.frame.name=プレートフレーム
+tile.thermalexpansion.plate.impulse.name=推進力プレート
+tile.thermalexpansion.plate.signal.name=レッドストーンプレート
+tile.thermalexpansion.plate.translocate.name=転移プレート
+
+tile.thermalexpansion.rockwool.black.name=黒色の岩綿
+tile.thermalexpansion.rockwool.red.name=赤色の岩綿
+tile.thermalexpansion.rockwool.green.name=緑色の岩綿
+tile.thermalexpansion.rockwool.brown.name=茶色の岩綿
+tile.thermalexpansion.rockwool.blue.name=青色の岩綿
+tile.thermalexpansion.rockwool.purple.name=紫色の岩綿
+tile.thermalexpansion.rockwool.cyan.name=水色の岩綿
+tile.thermalexpansion.rockwool.silver.name=薄灰色の岩綿
+tile.thermalexpansion.rockwool.gray.name=灰色の岩綿
+tile.thermalexpansion.rockwool.pink.name=桃色の岩綿
+tile.thermalexpansion.rockwool.lime.name=黄緑色の岩綿
+tile.thermalexpansion.rockwool.yellow.name=黄色の岩綿
+tile.thermalexpansion.rockwool.lightBlue.name=空色の岩綿
+tile.thermalexpansion.rockwool.magenta.name=赤紫色の岩綿
+tile.thermalexpansion.rockwool.orange.name=橙色の岩綿
+tile.thermalexpansion.rockwool.white.name=白色の岩綿
+
+tile.thermalexpansion.sponge.creative.name=クリエイティブ用スポンジ
+tile.thermalexpansion.sponge.basic.name=普通のスポンジ
+tile.thermalexpansion.sponge.magmatic.name=マグマスポンジ
+
+tile.thermalexpansion.strongbox.creative.name=クリエイティブ用金庫
+tile.thermalexpansion.strongbox.basic.name=金庫
+tile.thermalexpansion.strongbox.hardened.name=硬化金庫
+tile.thermalexpansion.strongbox.reinforced.name=増強金庫
+tile.thermalexpansion.strongbox.resonant.name=共振金庫
+
+tile.thermalexpansion.tank.creative.name=クリエイティブ用携帯タンク
+tile.thermalexpansion.tank.basic.name=携帯タンク
+tile.thermalexpansion.tank.hardened.name=硬化携帯タンク
+tile.thermalexpansion.tank.reinforced.name=増強携帯タンク
+tile.thermalexpansion.tank.resonant.name=共振携帯タンクk
+
+#TCon compat
+material.thermalexpansion.invar=インバー
+material.thermalexpansion.nickel=フェローズ
+material.thermalexpansion.lead=鉛
+material.thermalexpansion.lead.ability=重い
+material.thermalexpansion.silver=銀
+material.thermalexpansion.silver.ability=輝く
+material.thermalexpansion.platinum=輝く
+material.thermalexpansion.platinum.ability=大比重
+material.thermalexpansion.electrum=エレクトラム
+material.thermalexpansion.electrum.ability=きらびやかな

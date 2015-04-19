@@ -1,0 +1,38 @@
+# keys
+key.categories.mineshot=Mineshot
+
+key.mineshot.capture=巨大なスクリーンショットを撮る
+key.mineshot.ortho.toggle=カメラモード
+key.mineshot.ortho.zoom_in=ズームイン
+key.mineshot.ortho.zoom_out=ズームアウト
+key.mineshot.ortho.rotate_l=左折
+key.mineshot.ortho.rotate_r=右折
+key.mineshot.ortho.rotate_u=上昇
+key.mineshot.ortho.rotate_d=下降
+key.mineshot.ortho.rotate_t=上面図
+key.mineshot.ortho.rotate_f=正面図
+key.mineshot.ortho.rotate_s=側面図
+key.mineshot.ortho.clip=クリッピングを変更
+
+mineshot.orthomp=マルチプレイでは、正面からの視点は利用できません
+
+# gui
+mineshot.gui.title=Mineshotの設定
+mineshot.gui.filesize=ファイルサイズ: %s
+mineshot.gui.warn.tiled=タイルレンダリングが必要です！
+mineshot.gui.warn.shaders=ピクセルシェーダーが破損している可能性があります！
+mineshot.gui.warn.gui=GUIをキャプチャすることはできません！
+mineshot.gui.err.toolarge.targa=Targaファイル形式に対して大きすぎます！
+
+# config
+mineshot.config.captureWidth=幅
+mineshot.config.captureWidth.tooltip=スクリーンショットのキャプチャの幅
+
+mineshot.config.captureHeight=高さ
+mineshot.config.captureHeight.tooltip=スクリーンショットのキャプチャの高さ
+
+mineshot.config.captureTiled=タイルレンダリング
+mineshot.config.captureTiled.tooltip=複数の小規模なスクリーンショットからスクリーンショットを作成します これは、通常よりも非常に大きなスクリーンショットをキャプチャすることができますが、シェーダーで問題が発生する可能性があり、またGUIを無効にします
+
+mineshot.config.preloadChunks=チャンクをプリロード
+mineshot.config.preloadChunks.tooltip=完全にスクリーンショットをキャプチャする前に、すべての目に見える範囲のチャンクを読む込みます
