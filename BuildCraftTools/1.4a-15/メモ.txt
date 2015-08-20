@@ -1,3 +1,0 @@
-assets/bctools/lang
-
-UTF-8でエスケープ

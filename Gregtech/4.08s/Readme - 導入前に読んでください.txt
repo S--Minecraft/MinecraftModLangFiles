@@ -1,5 +1,0 @@
-《Gregtech日本語翻訳ファイル導入時の注意》
-Gregtechの日本語翻訳ファイルはzip/jarに導入しても意味がありません。
-
-この日本語翻訳ファイルは.minecraftフォルダの下の
-configフォルダの下のgregtechフォルダに導入してください。

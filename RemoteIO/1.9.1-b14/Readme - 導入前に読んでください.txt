@@ -1,5 +1,0 @@
-《RemoteIO日本語翻訳ファイル導入時の注意》
-RemoteIOの日本語翻訳ファイルはzip/jarに導入しても意味がありません。
-
-この日本語翻訳ファイルは.minecraftフォルダの下の
-configフォルダの下のremoteioフォルダのさらに下のlangフォルダに導入してください。
