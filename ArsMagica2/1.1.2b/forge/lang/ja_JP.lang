@@ -1,0 +1,6 @@
+#ja_JP byS
+commands.forge.usage=/forge <サブコマンド>を使ってください。サブコマンドはTPSです。
+commands.forge.usage.tracking=/forge track <タイプ> <持続時間>を使ってください。タイプは (Tile Entities)。持続時間は< 60にするべきです
+commands.forge.tps.summary=%s : ティックを表します: %d ms。TPSを表します: %d
+
+commands.forge.tracking.te.enabled=タイルエンティティの追跡は%d秒に対して有効です。
