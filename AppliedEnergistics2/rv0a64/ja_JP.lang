@@ -130,10 +130,10 @@ gui.appliedenergistics2.StoredSize=格納サイズ
 gui.appliedenergistics2.SkyChest=スカイストーンチェスト
 
 gui.tooltips.appliedenergistics2.FuzzyMode=ファジー比較
-gui.tooltips.appliedenergistics2.FZPercent_25=25%の分離損失
-gui.tooltips.appliedenergistics2.FZPercent_50=50%の分離損失
-gui.tooltips.appliedenergistics2.FZPercent_75=75%の分離損失
-gui.tooltips.appliedenergistics2.FZPercent_99=99%の分離損失
+gui.tooltips.appliedenergistics2.FZPercent_25=25%%の分離損失
+gui.tooltips.appliedenergistics2.FZPercent_50=50%%の分離損失
+gui.tooltips.appliedenergistics2.FZPercent_75=75%%の分離損失
+gui.tooltips.appliedenergistics2.FZPercent_99=99%%の分離損失
 gui.tooltips.appliedenergistics2.SortOrder=昇順/降順
 gui.tooltips.appliedenergistics2.SortBy=並び替え方法
 gui.tooltips.appliedenergistics2.FZIgnoreAll=すべてマッチする
