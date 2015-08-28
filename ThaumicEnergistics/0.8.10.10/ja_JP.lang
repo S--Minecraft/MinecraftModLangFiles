@@ -1,0 +1,160 @@
+﻿#Group names
+itemGroup.ThaumicEnergistics=Thaumic Energistics
+thaumicenergistics.group.essentia.transport=ME エッセンシア 搬入/搬出 バス
+
+#Fluids
+thaumicenergistics.fluid.gaseous=ガス
+
+#Blocks
+thaumicenergistics.block.essentia.provider.name=エッセンシアプロバイダー
+thaumicenergistics.block.infusion.provider.name=インフュージョンプロバイダー
+thaumicenergistics.block.gear.box.name=鉄の歯車
+thaumicenergistics.block.golem.gear.box.name=ソウミウムギアボックス
+thaumicenergistics.block.essentia.cell.workbench.name=エッセンシア作業台
+thaumicenergistics.block.arcane.assembler.name=エッセンシア分子組立機
+thaumicenergistics.block.knowledge.inscriber.name=知識書写機
+thaumicenergistics.block.essentia.vibration.chamber.name=エッセンシア振動チャンバー
+
+#Cable parts
+thaumicenergistics.aeparts.essentia.ImportBus.name=エッセンシア搬入バス
+thaumicenergistics.aeparts.essentia.ExportBus.name=エッセンシア搬出バス
+thaumicenergistics.aeparts.essentia.levelemitter.name=エッセンシアレベルエミッター
+thaumicenergistics.aeparts.essentia.StorageBus.name=エッセンシアストレージバス
+thaumicenergistics.aeparts.essentia.terminal.name=エッセンシアターミナル
+thaumicenergistics.aeparts.arcane.crafting.terminal.name=エッセンシアクラフトターミナル
+thaumicenergistics.aeparts.vis.interface.name=ビス中継インターフェイス
+thaumicenergistics.aeparts.essentia.storage.monitor.name=エッセンシアストレージモニター
+thaumicenergistics.aeparts.essentia.conversion.monitor.name=エッセンシア変換モニター
+
+#Items
+thaumicenergistics.item.essentia.cell.1k.name=1k エッセンシアストレージ
+thaumicenergistics.item.essentia.cell.4k.name=4k エッセンシアストレージ
+thaumicenergistics.item.essentia.cell.16k.name=16k エッセンシアストレージ
+thaumicenergistics.item.essentia.cell.64k.name=64k エッセンシアストレージ
+thaumicenergistics.item.essentia.cell.creative.name=クリエイティブエッセンシアセル
+thaumicenergistics.item.storage.casing.name=エッセンシアストレージセル筐体
+thaumicenergistics.item.storage.component.1k.name=1k エッセンシアセル
+thaumicenergistics.item.storage.component.4k.name=4k エッセンシアセル
+thaumicenergistics.item.storage.component.16k.name=16k エッセンシアセル
+thaumicenergistics.item.storage.component.64k.name=64k エッセンシアセル
+thaumicenergistics.item.material.diffusion.core.name=普及コア
+thaumicenergistics.item.material.coalescence.core.name=融合コア
+thaumicenergistics.item.material.iron.gear.name=鉄の歯車
+thaumicenergistics.item.wireless.essentia.terminal.name=無線エッセンシアターミナル
+thaumicenergistics.item.knowledge.core.name=知識のコア
+thaumicenergistics.item.focus.aewrench.name=杖のフォーカス:ソームレンチ
+thaumicenergistics.item.focus.aewrench.disabled.name=杖のフォーカス：ソーム レンチ - レンチ モード無効
+
+#Tooltips
+thaumicenergistics.tooltip.essentia.cell.bytes=%d of %d bytes used.
+thaumicenergistics.tooltip.essentia.cell.types=%d of %d essentia types stored.
+thaumicenergistics.tooltip.essentia.cell.details=Hold §eshift§f for details.
+thaumicenergistics.tooltip.button.clear.crafting=Deposit Crafting Grid
+thaumicenergistics.tooltip.button.void=Allow Void?
+thaumicenergistics.tooltip.button.void.disabled=Do not void essentia
+thaumicenergistics.tooltip.button.void.allowed=Void essentia if jar is full
+thaumicenergistics.tooltip.button.void.note=Only applies to void jars
+thaumicenergistics.tooltip.button.inscriber.invalid=Invalid Recipe
+thaumicenergistics.tooltip.button.inscriber.full=Knowledge Core Is Full
+thaumicenergistics.tooltip.button.inscriber.delete=Erase Pattern From Knowledge Core
+thaumicenergistics.tooltip.button.inscriber.save=Save Pattern To Knowledge Core
+thaumicenergistics.tooltip.button.inscriber.missing=Requires Knowledge Core
+thaumicenergistics.tooltip.button.swap.armor=Swaps your currently equipped armor with the armor stored in the terminal.
+thaumicenergistics.tooltip.button.swap.armor.title=Swap Armor
+
+#GUI
+thaumicenergistics.gui.arcane.crafting.terminal.title=エッセンシアターミナル
+thaumicenergistics.gui.essentia.cell.title=エッセンシアセル
+thaumicenergistics.gui.selected.amount=量
+thaumicenergistics.gui.selected.aspect=エッセンシア
+thaumicenergistics.gui.digivis.source.name=DigiVis Source
+thaumicenergistics.gui.essentia.cell.workbench.title=エッセンシア作業台
+thaumicenergistics.gui.arcane.assembler.title=エッセンシア分子組み立て機
+
+#Research Tab
+tc.research_category.thaumicenergistics=Energistics
+
+# Research basics
+tc.research_name.thaumicenergistics.TERESEARCH=Thaumic Energistics
+tc.research_text.thaumicenergistics.TERESEARCH=魔法のデジタル時代に入る
+thaumicenergistics.research_page.TERESEARCH.1=科学者と不可解な学者として、テクノロジーと魔法を安定し、生産的な方向に組み込むことが出来なければならないとあなたは仮定した。<BR>これを達成する為には詳細に物質エネルギー転換の主体を研究する必要がある...。
+
+# Research conversion cores
+tc.research_name.thaumicenergistics.TECORES=Digi-sentia
+tc.research_text.thaumicenergistics.TECORES=エッセンシアをデジタル化
+thaumicenergistics.research_page.TECORES.1=私はエッセンシアを蒸留し、保存する方法を見つけられた気がする。<BR>方法は§l形成コア§rと§l消滅コア§r をベースに、水銀と結晶片で作ることだ。<BR>だがコレは...周りの環境値に影響が出るようだ......。
+thaumicenergistics.research_page.TECORES.2=§lDiffusion Core§r<BR>The relatively high volatility and immense energy in distilled essentia requires that it first be diffused then digitized. A buffer chamber of some kind will likely be required to hold the diffused essentia.<LINE>§lCoalescence Core§r<BR>Compresses and binds re-materialized essentia diffusion back into its raw form. A buffer chamber will also likely be needed.
+
+# Research storage
+tc.research_name.thaumicenergistics.TESTORAGE=Digi-sentia Storage
+tc.research_text.thaumicenergistics.TESTORAGE=コレは本当にエッセンシアを保存できますか?
+thaumicenergistics.research_page.TESTORAGE.1=やっとだ...やっと私はエッセンシアを格納する入れ物を作り出すことに成功した。<BR>まさか、そのへんに浮かんでいるオーラ節を壊した時に出る§lエッセンス§r各種を使うとは思ってもいなかった...。<BR>が、それをベースにもっと容量を増やすには§lサリス・ムンドゥス§rが必要なのは更に思っていなかった...。
+thaumicenergistics.research_page.TESTORAGE.2=§lComponents§r<BR>Stores the essentia in its digital format. Non-operational unless a cell casing is used to interface with a digital network.<BR>§lCell Casing§r<BR>Provides an interface and protects a storage component.<BR>§lEssentia Cell Workbench§r<BR>The cell workbench allows you to partition a cell, specifying what essentia types are allowed to be stored.
+
+# Research IO
+tc.research_name.thaumicenergistics.TEIO=Digi-sentia Transportation
+tc.research_text.thaumicenergistics.TEIO=エッセンシアをデジタルに移動!!
+thaumicenergistics.research_page.TEIO.1=この前作った§l普及コア§rと§融合コアl§rのおかげか、搬入装置と搬出装置は簡単に作成できた。
+thaumicenergistics.research_page.TEIO.2=§lStorage Bus§r<BR>Combining the import and export buses into a single device allows you to use external essentia containers as network storage.<BR>As well as storage, the bus can also be used to remove excess essentia from the network by using a void jar or ME Condenser. If using a void jar, you must select the allow void button in the GUI. Setting a low priority on the storage bus is recommended here.
+
+# Research Arcane crafting terminal
+tc.research_name.thaumicenergistics.TEARCANETERM=Arcane Crafting Terminal
+tc.research_text.thaumicenergistics.TEARCANETERM=魔法の§oand technology.§rによって精密につくる
+thaumicenergistics.research_page.TEARCANETERM.1=よし。コレがあればターミナルにアクセスしながら、魔法でのクラフトが出来るはずだ。
+
+# Research Essentia terminal
+tc.research_name.thaumicenergistics.TEESSTERM=Essentia Monitoring
+tc.research_text.thaumicenergistics.TEESSTERM=あなたが持っているのがどのくらい知っている
+thaumicenergistics.research_page.TEESSTERM.1=エッセンスの量をディスプレイに表示させることが出来るようになった。<BR>使い方は中身が入っている§l薬瓶§rを持って、モニターに登録するだけだ。って、私は一体誰に説明してるのやら...。
+thaumicenergistics.research_page.TEESSTERM.2=The §lEssentia Storage Monitor§r & §lEssentia Conversion Monitor§r allow you to see how much of an aspect is in the network at a glance. The conversion monitor also allows you to insert and extract essentia from the network.<BR>Right-clicking with a wrench will lock/unlock the monitor.<BR>Right-clicking an unlocked monitor with a label or filled jar or phial will set the displayed aspect, and right-clicking with an empty hand will clear aspect.<BR>Right-clicking a locked conversion monitor will fill jar or phial and Shift-Right-Clicking will empty them.<BR>Shift-Double-Right-Click will empty all essentia from your inventory.
+
+# Research Essentia Provider
+tc.research_name.thaumicenergistics.TEESSPROV=Essentia Provider
+tc.research_text.thaumicenergistics.TEESSPROV=受け渡す技術
+thaumicenergistics.research_page.TEESSPROV.1=While import and export buses are useful for an array of jobs, they lack the flexibility to interface with complex alchemical constructs. To overcome this limitation you have created a device that will allow these constructs to request any essentia directly from the network.<BR>Using the §lEssentia Provider§r should prove to be a simple task. Simply connect it to both the network and construct, and it will do the rest.<BR>Like an essentia buffer it has a small amount of suction(8).
+
+# Research Infusion Provider
+tc.research_name.thaumicenergistics.TEINFPROV=Infusion Provider
+tc.research_text.thaumicenergistics.TEINFPROV=容易に注入。
+thaumicenergistics.research_page.TEINFPROV.1=By researching the process of essentia infusion, you have discovered a method for instantaneous conversion between digi-sentia and essentia that can be used for infusion.<BR>By placing the §lInfusion Provider§r near a thaumic device, the device can draw essentia directly from the network as if it were a warded jar.<BR>This could prove to be very useful for the infusion alter.
+
+# Research Vis Interface
+tc.research_name.thaumicenergistics.TEVISINT=Vis Relay Interface
+tc.research_text.thaumicenergistics.TEVISINT=デジタルビスを使用
+thaumicenergistics.research_page.TEVISINT.1=Having discovered the vis power network, you now pursue the means of linking your digital system to this network.<BR>After observing how vis flows through the network of §lvis relays§r, you believe you can construct a digital device to harness the vis. By utilizing the peer-to-peer capabilities of the digital network, vis can be imported, tunnelled, and used by your digital devices.<BR>Storing it however, will require more research.
+thaumicenergistics.research_page.TEVISINT.2=To use the §lVis Relay Interface§r, attach it to the digital network and place a vis relay on it. The base of the relay must be against the interface.<BR>In order for a device to receive vis it must be linked with the interface. Linking other devices to the interface will require the use of a §lMemory Card§r. Each device can only be linked with one interface.<BR>Shift right-click on the interface with a memory card, then right-click on a device to create the link.<BR>Right clicking the other device with a blank memory card will remove the link.
+thaumicenergistics.research_page.TEVISINT.3=§lLinks§r<LINE>§lVis Relay Interface§r.Constructs a P2P vis tunnel.<BR>§lArcane Crafting Terminal§r. Charges the wand in the A.C.T.<BR>§lArcane Assembler§r. Fills vis storage, used for crafting.
+
+# Research Iron Gear Box
+tc.research_name.thaumicenergistics.TEIRONGEARBOX=Iron Gear Box
+tc.research_text.thaumicenergistics.TEIRONGEARBOX=一度に 1 つのターン
+thaumicenergistics.research_page.TEIRONGEARBOX.1=Your experiences with the §lWooden Crank§r has left you to wonder, could this be improved?<BR>You have devised a way of setting up a series of gears in a box so that when any side is turned, all other sides will also turn. However you will need a stronger material than wood, to that end you have created the §lIron Gear§r by bonding iron to a wooden gear.<BR>The §lIron Gear Box§r will allow you to crank multiple devices simultaneously. You will need to orient the devices so that their input faces the gearbox.
+thaumicenergistics.research_page.TEIRONGEARBOX.2=When cranking multiple devices, such as a two grinders & a charger, the crank power will be split evenly between all devices that are currently able to be cranked.<BR>Another advantage of the gearbox is that it can be used by multiple people simultaneously. Each person cranking the gearbox will add to the crank power output.<BR>Now if only you had someone who would stand around all day and crank this for you...
+
+# Research Thaumium Gear Box
+tc.research_name.thaumicenergistics.TETHAUMGBOX=Thaumium Gear Box
+tc.research_text.thaumicenergistics.TETHAUMGBOX=少しの労働力
+thaumicenergistics.research_page.TETHAUMGBOX.1=前に作った§l鉄のギアボックス§rをソウミウムで作り変えてみた。どこまで変わるか楽しみだ。
+
+# Research Certus Quartz Duplication
+tc.research_name.thaumicenergistics.TECERTUSDUPE=Quartz Duplication
+tc.research_text.thaumicenergistics.TECERTUSDUPE=そのままの不純物
+thaumicenergistics.research_page.TECERTUSDUPE.1=You are now able to alchemically duplicate §lCertus Quartz Crystal§r and §lNether Quartz§r.
+
+# Research Knowledge Inscriber + Core
+tc.research_name.thaumicenergistics.TEKNOWLEDGEINSCRIBER=Knowledge Inscription
+tc.research_text.thaumicenergistics.TEKNOWLEDGEINSCRIBER=魔法のパターン
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.1=With the §lArcane Assembler§r constructed, you will need a way to teach it what it will be assembling.<BR>You have devised the §lKnowledge Core§r, a device capable of storing arcane recipes. The core serves as pattern storage, giving the assembler instructions on how to build items.<BR>To encode recipe patterns on the core, you will need to use the §lKnowledge Inscriber§r.
+thaumicenergistics.research_page.TEKNOWLEDGEINSCRIBER.2=Using The §lKnowledge Inscriber§r<BR>First place a §lKnowledge Core§r into the top-right slot. Next, use the crafting grid to setup the recipe for the item. If you have the required knowledge(research) for the recipe, the resulting item will be displayed. Pressing the save button will then inscribe the recipe onto the core. The finished product will then show in the stored-pattern area.<BR>To remove an inscribed recipe from the core, first select a pattern from the stored-pattern area. The selected patterns recipe will then display in the crafting area. Finally, clicking the delete button will remove the pattern from the core.
+
+# Research Arcane Assembler
+tc.research_name.thaumicenergistics.TEARCANEASSEMBLER=Arcane Assembler
+tc.research_text.thaumicenergistics.TEARCANEASSEMBLER=魔法の分子組み立て機
+thaumicenergistics.research_page.TEARCANEASSEMBLER.1=コレでひと通りの機械は揃った。この装置を使えば魔術のアスペクトを使う道具や装置を注文して、自動で作れるようになるはずだ。<BR>だが、§l無線エッセンシアターミナル§rを使って遠隔地で作成出来るようにしたかったが、どうも連結がうまくいかない...それに、無線装置も完全ではないし......。
+thaumicenergistics.research_page.TEARCANEASSEMBLER.2=§lPattern Storage§r<BR>The assembler itself does not store crafting recipes. Further research may be required to devise a pattern storage medium.<BR>§lVis Replenishment§r<BR>Replenishing the assembler's internal vis storage will require the services of a §lVis Relay Interface§r.<BR>§lAcceleration Cards§r<BR>Each card decreases crafting time by 20% and increases power required by 50%.
+thaumicenergistics.research_page.TEARCANEASSEMBLER.3=§lVis Discounts§r<BR>Due to the inclusion of the crafting scepter, the assembler has a base vis discount equal to that of the scepter. The discount can be further enhanced by providing the assembler vis discount armor. The discount for each aspect can be viewed by hovering over the aspect in the GUI.<BR>The assembler is not immune to the effects of warping gear; For each point of warp the assembler must draw an additional 15% power to remain stable while crafting.
+
+# Research Wrench Focus
+tc.research_name.thaumicenergistics.TEFOCUSWRENCH=Wand Focus: AE Wrench
+tc.research_text.thaumicenergistics.TEFOCUSWRENCH=Some Assembly Required
+thaumicenergistics.research_page.TEFOCUSWRENCH.1=This wand focus interacts with blocks and machinery as if it were an AE2 wrench.<BR>Sneak + left click: Rotate.<BR>Sneak + right click: Dismantle.

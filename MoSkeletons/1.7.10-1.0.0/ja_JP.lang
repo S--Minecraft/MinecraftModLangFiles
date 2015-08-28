@@ -1,0 +1,18 @@
+# translated by Mintmoon
+itemGroup.Mo' Skeletons=Mo' Skeleton
+
+entity.FireSkeleton.name=炎のスケルトン
+entity.CreeperSkeleton.name=クリーパーのスケルトン
+entity.FrozenSkeleton.name=凍結したスケルトン
+entity.JungleSkeleton.name=ジャングルのスケルトン
+entity.MinerSkeleton.name=鉱夫のスケルトン
+entity.EnderSkeleton.name=エンダースケルトン
+entity.PirateSkeleton.name=海賊スケルトン
+entity.Skelebrine.name=Skelebrine
+entity.ObsidianSkeleton.name=黒曜石のスケルトン
+
+item.FlameBone.name=炎の骨
+item.FrozenBone.name=凍結した骨
+item.MinerHelmet.name=鉱夫のヘルメット
+item.PirateSword.name=海賊の剣
+item.ObsidianBone.name=黒曜石の骨

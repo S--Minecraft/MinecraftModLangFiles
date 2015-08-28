@@ -1,0 +1,44 @@
+bdew.neiaddons.genetics=Forestry Genetics
+bdew.neiaddons.exnihilo=Ex Nihilo
+
+bdew.neiaddons.breeding.beebreeding=蜂の繁殖
+bdew.neiaddons.produce.beeproduce=蜂の生産物
+
+bdew.neiaddons.breeding.treebreeding=樹木の育種
+bdew.neiaddons.produce.treeproduce=樹木の生産物
+
+bdew.neiaddons.breeding.flowerbreeding=花の育種
+
+bdew.neiaddons.breeding.butterflybreeding=蝶の繁殖
+
+bdew.exnihilo.hammer.label=ExNihilo - ハンマー
+bdew.exnihilo.sieve.label=ExNihilo - ふるい
+
+bdew.exnihilo.barrel.burn=%s秒で燃焼します
+bdew.exnihilo.beetrap.spawn=スポーン: %s%%
+bdew.exnihilo.crucible.fluid=液体: %s %s mB
+bdew.exnihilo.crucible.solid=固体: %s %s
+
+bdew.neiaddons.noserver=この機能を使用するには、サーバーに NEI Addons を導入している必要があります
+
+nei.subsets.Forestry=Forestry
+nei.subsets.Forestry.Bees=蜂
+nei.subsets.Forestry.Bees.Combs=くし
+nei.subsets.Forestry.Bees.Drones=雄蜂
+nei.subsets.Forestry.Bees.Princesses=雌蜂
+nei.subsets.Forestry.Bees.Queens=女王蜂
+nei.subsets.Forestry.Blocks=ブロック
+nei.subsets.Forestry.Butterflies=蝶
+nei.subsets.Forestry.Butterflies.Butterflies=蝶
+nei.subsets.Forestry.Butterflies.Caterpillars=毛虫
+nei.subsets.Forestry.Butterflies.Serums=血清
+nei.subsets.Forestry.Items=アイテム
+nei.subsets.Forestry.Trees=樹木
+nei.subsets.Forestry.Trees.Pollen=花粉
+nei.subsets.Forestry.Trees.Saplings=苗木
+
+nei.options.tools.dump.neiaddons=NEI Addons
+nei.options.tools.dump.neiaddons.dumped=%s を %s にダンプしました
+nei.options.tools.dump.neiaddons.bee_mutations=蜂の突然変異
+nei.options.tools.dump.neiaddons.tree_mutations=樹木の突然変異
+nei.options.tools.dump.neiaddons.flower_mutations=花の突然変異

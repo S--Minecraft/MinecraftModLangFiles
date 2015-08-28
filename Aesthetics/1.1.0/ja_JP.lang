@@ -1,0 +1,80 @@
+//Minecraft Blocks
+tile.iron_bricks.name=鉄のレンガ
+tile.gold_bricks.name=金のレンガ
+tile.diamond_bricks.name=ダイヤモンドレンガ
+	
+tile.iron_brick_stairs.name=鉄のレンガの階段
+tile.gold_brick_stairs.name=金のレンガの階段
+tile.diamond_brick_stairs.name=ダイヤモンドレンガの階段
+
+//SimpleOres Blocks
+tile.copper_bricks.name=銅のレンガ
+tile.tin_bricks.name=錫のレンガ
+tile.mythril_bricks.name=ミスリルレンガ
+tile.adamantium_bricks.name=アダマンチウムレンガ
+tile.onyx_bricks.name=オニキスレンガ
+	
+tile.copper_brick_stairs.name=銅のレンガの階段
+tile.tin_brick_stairs.name=錫のレンガの階段
+tile.mythril_brick_stairs.name=ミスリルレンガの階段
+tile.adamantium_brick_stairs.name=アダマンチウムレンガの階段
+tile.onyx_brick_stairs.name=オニキスレンガの階段
+
+tile.copper_bars.name=銅の延べ棒
+tile.tin_bars.name=錫の延べ棒
+tile.mythril_bars.name=ミスリルの延べ棒
+tile.adamantium_bars.name=アダマンチウムの延べ棒
+tile.onyx_bars.name=オニキスの延べ棒
+
+//SimpleOres Items
+item.mythril_door.name=ミスリルのドア
+item.adamantium_door.name=アダマンチウムのドア
+item.onyx_door.name=オニキスのドア
+
+//Fusion Blocks
+tile.steel_bricks.name=鋼鉄のレンガ
+tile.bronze_bricks.name=青銅のレンガ
+tile.thyrium_bricks.name=タイリウムレンガ
+tile.sinisite_bricks.name=サイニサイトレンガ
+	
+tile.steel_brick_stairs.name=鋼鉄のレンガの階段
+tile.bronze_brick_stairs.name=青銅のレンガの階段
+tile.thyrium_brick_stairs.name=タイリウムレンガの階段
+tile.sinisite_brick_stairs.name=サイニサイトレンガの階段
+
+tile.steel_bars.name=鋼鉄の延べ棒
+tile.bronze_bars.name=青銅の延べ棒
+tile.thyrium_bars.name=タイリウムの延べ棒
+tile.sinisite_bars.name=サイニサイトの延べ棒
+
+//Fusion Items
+item.bronze_door.name=青銅のドア
+
+//Netherrocks Blocks
+tile.fyrite_bricks.name=ファイライトレンガ
+tile.malachite_bricks.name=マカライトレンガ
+tile.ashstone_bricks.name=灰石レンガ
+tile.illumenite_bricks.name=イルメナイトレンガ
+tile.dragonstone_bricks.name=ドラゴンストーンレンガ
+tile.argonite_bricks.name=アラゴナイトレンガ
+	
+tile.fyrite_brick_stairs.name=ファイライトレンガの階段
+tile.malachite_brick_stairs.name=マカライトレンガの階段
+tile.ashstone_brick_stairs.name=灰石レンガの階段
+tile.illumenite_brick_stairs.name=イルメナイトレンガの階段
+tile.dragonstone_brick_stairs.name=ドラゴンストーンレンガの階段
+tile.argonite_brick_stairs.name=アラゴナイトレンガの階段
+
+tile.fyrite_bars.name=ファイライトの延べ棒
+tile.malachite_bars.name=マカライトの延べ棒
+tile.ashstone_bars.name=灰石の延べ棒
+tile.illumenite_bars.name=イルメナイトの延べ棒
+tile.dragonstone_bars.name=ドラゴンストーンの延べ棒
+tile.argonite_bars.name=アラゴナイトの延べ棒
+
+//Netherrocks Items
+item.dragonstone_door.name=ドラゴンストーンのドア
+
+//Update Messages
+aesthetics.updateMessage1=§3Aesthetics §rのバージョンが古くなっています 現在の最新バージョンは §c
+aesthetics.updateMessage2=§rです §9http://bit.ly/SimpleOres §rからダウンロードしてください

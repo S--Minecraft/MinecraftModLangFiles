@@ -1,0 +1,11 @@
+tile.trapcraft.magneticchest.name=アイテム吸引チェスト
+tile.trapcraft.fan.name=送風機
+tile.trapcraft.grasscovering.name=草カバー
+tile.trapcraft.igniter.name=点火装置
+tile.trapcraft.spikes.name=針
+tile.trapcraft.beartrap.name=虎ばさみ
+
+item.trapcraft.igniterrange.name=点火装置範囲モジュール
+
+container.magneticchest=アイテム吸引チェスト
+container.igniter=アップグレード！

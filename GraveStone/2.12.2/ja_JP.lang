@@ -1,0 +1,163 @@
+# translated by Mintmoon
+# Tabs
+itemGroup.tabGraveStone=Gravestone
+
+
+# Blocks
+## Graves
+block.gravestone.gravestone=墓石
+block.gravestone.cross=十字架
+block.gravestone.plate=墓標
+block.gravestone.dog_statue=イヌの像
+block.gravestone.cat_statue=ネコの像
+block.gravestone.wooden_sword=木の剣の墓石
+block.gravestone.stone_sword=石の剣の墓石
+block.gravestone.iron_sword=鉄の剣の墓石
+block.gravestone.golden_sword=金の剣の墓石
+block.gravestone.diamond_sword=ダイヤの剣の墓石
+block.gravestone.horse_statue=ウマの像
+block.gravestone.sword=倒れた戦士の剣
+
+## Memorials
+block.memorial.cross=十字架の記念碑
+block.memorial.obelisk=オベリスク
+block.memorial.steve_statue=スティーブの像
+block.memorial.villager_statue=村人の像
+block.memorial.angel_statue=天使の像
+block.memorial.dog_statue=イヌの像
+block.memorial.cat_statue=ネコの像
+block.memorial.creeper_statue=クリーパーの像
+block.memorial.celtic_cross=ケルト十字
+block.memorial.gibbet=絞首台
+block.memorial.stocks=さらし台
+block.memorial.burning_stake=火炙り
+
+## Traps
+tile.trap.night.name=夜の石
+tile.trap.thunder.name=雷の石
+block.trap.curse=闇が来る！
+
+## Spawners
+block.spawner.wither=ウィザースポナー
+block.spawner.skeleton=スケルトンスポナー
+block.spawner.zombie=ゾンビスポナー
+
+# Bone Blocks
+tile.bone_block.name=骨ブロック
+tile.bone_block.skull_name=頭蓋骨と骨のブロック
+tile.bone_block.crawler_name=スカルクロウラーの骨ブロック
+tile.bone_block.crawler_skull_name=頭蓋骨とスカルクロウラーの骨ブロック
+tile.bone_slab.name=骨ハーフブロック
+tile.bone_stairs.name=骨の階段
+
+#Pile of Bones
+block.pile_of_bones.name=骨の山
+block.pile_of_bones_with_skull.name=頭蓋骨と骨の山
+
+## Chests
+block.haunted_chest.bats_chest=コウモリのいるチェスト
+block.haunted_chest.skeleton_chest=スケルトンのいるチェスト
+block.haunted_chest.raven_chest=カラスのいるチェスト
+block.haunted_chest.ghost_chest=幽霊のいるチェスト
+
+##Candles
+tile.candle.name=ロウソク
+block.skull_candle.skeleton.name=スカルキャンドル
+block.skull_candle.wither_skeleton.name=ウィザースカルキャンドル
+block.skull_candle.zombie.name=ゾンビスカルキャンドル
+
+
+# Items
+## Chisel
+item.gravestone chisel.name=墓石用彫刻刀
+
+## Graves
+item.grave.age=生存期間
+item.grave.days=日
+item.grave.sword_name=剣の銘
+item.grave.sword_damage=剣のダメージ
+
+## Corpses
+item.corpse.villager=村人の死体
+item.corpse.horse=ウマの死体
+item.corpse.dog=イヌの死体
+item.corpse.cat=ネコの死体
+item.corpse.entity_name=名前
+item.corpse.villager_type=職業
+item.corpse.villager_type.farmer=農夫
+item.corpse.villager_type.librarian=司書
+item.corpse.villager_type.priest=司祭
+item.corpse.villager_type.smith=鍛冶屋
+item.corpse.villager_type.butcher=肉屋
+item.corpse.villager_type.undertaker=葬儀屋
+item.corpse.villager_type.brewer=醸造者
+item.corpse.villager_type.thaumaturge=魔術師
+item.corpse.villager_type.beekeeper=養蜂家
+item.corpse.villager_type.lumberjack=木こり
+item.corpse.villager_type.Unknown=不明
+item.corpse.horse_type=ウマの種類
+item.corpse.horse_type.horse=馬
+item.corpse.horse_type.donkey=ロバ
+item.corpse.horse_type.mule=ラバ
+item.corpse.horse_type.zombie=ゾンビホース
+item.corpse.horse_type.skeleton=スケルトンホース
+item.corpse.horse_type.unknown=不明
+item.corpse.horse_variant=ウマの変種
+item.corpse.health=最大体力
+item.corpse.speed=スピード
+item.corpse.jump_strength=ジャンプ力
+item.corpse.collar=首輪
+item.corpse.collar.white=白色
+item.corpse.collar.orange=橙色
+item.corpse.collar.purple=赤紫色
+item.corpse.collar.azure=空色
+item.corpse.collar.yellow=黄色
+item.corpse.collar.lime=黄緑色
+item.corpse.collar.pink=桃色
+item.corpse.collar.grey=灰色
+item.corpse.collar.light_grey=薄灰色
+item.corpse.collar.turquoise=水色
+item.corpse.collar.violet=紫色
+item.corpse.collar.blue=青色
+item.corpse.collar.brown=茶色
+item.corpse.collar.green=緑色
+item.corpse.collar.red=赤色
+item.corpse.collar.black=黒色
+item.corpse.collar.unknown=不明
+item.corpse.dog_type=イヌの種類
+item.corpse.cat_type=ネコの種類
+item.corpse.cat_type.ocelot=ヤマネコ
+item.corpse.cat_type.black=黒色
+item.corpse.cat_type.red=赤色
+item.corpse.cat_type.siamese=シャムネコ
+item.corpse.cat_type.unknown=不明
+
+##Backpacks
+item.backpack.undertaker.t1=葬儀屋のリュック
+item.backpack.undertaker.t2=葬儀屋の織られたリュック
+
+
+# GUI
+gui.edit_grave.title=墓へのテキストを入力
+gui.edit_grave.close=完了
+gui.edit_grave.randomText=ランダムなテキストを入力
+gui.altar.resurrect=復活
+gui.altar.requirements=%dレベルが必要です
+
+
+# Entity
+entity.GSZombieDog.name=ゾンビドッグ
+entity.GSSkeletonDog.name=スケルトンドッグ
+entity.GSZombieCat.name=ゾンビキャット
+entity.GSSkeletonCat.name=スケルトンキャット
+entity.GSSkullCrawler.name=スカルクロウラー
+entity.GSWitherSkullCrawler.name=ウィザースカルクロウラー
+entity.GSZombieSkullCrawler.name=ゾンビスカルクロウラー
+entity.GSRaven.name=カラス
+
+
+# Death Messages
+death.GS.Herobrine=%1$sはHerobrineによって容赦なく殺害された
+death.GS.death_sentence=%1$sは死刑を受けた
+death.GS.tortures=%1$sは残虐な拷問で死亡した
+death.GS.mom=あなたのお母さん

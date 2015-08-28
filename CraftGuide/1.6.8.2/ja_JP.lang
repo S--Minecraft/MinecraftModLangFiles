@@ -1,0 +1,33 @@
+item.craftguide_item.name=Crafting Guide
+
+craftguide.gui.filter_type.input=入力
+craftguide.gui.filter_type.output=出力
+craftguide.gui.filter_type.machine=機械
+
+craftguide.gui.tab_tooltip.recipe_list=レシピ一覧
+craftguide.gui.tab_tooltip.type_visibility_list=クラフトタイプ別のレシピを表示/非表示
+craftguide.gui.tab_tooltip.options=設定
+
+craftguide.gui.filter=フィルター
+craftguide.gui.search=検索
+
+craftguide.gui.config.pause=開いている間にゲームを一時停止する (シングルプレイのみ)
+craftguide.gui.config.show_ids=アイテムIDとダメージ値を表示する
+craftguide.gui.config.enable_keybind=キーボードショートカットを有効にする
+craftguide.gui.config.enable_item_recipe=CraftGuideアイテムレシピを有効にする (要再起動)
+craftguide.gui.config.hide_mundane_potions=失敗した醸造のレシピからありふれたポーションのレシピを非表示にする (要レシピ再読み込み)
+craftguide.gui.config.theme_debugging=CraftGuide.log に詳細情報を出力する
+craftguide.gui.config.textinput_clear_on_right_click=右クリックで入力した内容を消去する
+craftguide.gui.config.ae2_workaround=AE2とレシピの再読み込みの遅延の回避策
+
+craftguide.gui.config.reload_recipes.button=再読み込み
+craftguide.gui.config.reload_recipes=レシピを再読み込み
+
+craftguide.gui.config.export_displayed_recipes.button=エクスポート
+craftguide.gui.config.export_displayed_recipes=CraftGuideに表示されているレシピをエクスポートする
+
+craftguide.gui.config.export_crafting_recipes.button=エクスポート
+craftguide.gui.config.export_crafting_recipes=すべてのレシピをエクスポートする
+
+craftguide.gui.config.current_theme.button=テーマを切り替える
+craftguide.gui.config.current_theme.format_string=現在のテーマ: %s

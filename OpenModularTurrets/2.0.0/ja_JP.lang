@@ -1,0 +1,176 @@
+# translated by Mintmoon
+item.bulletThrowable.name=投擲可能な弾丸
+item.grenadeThrowable.name=投擲可能なグレネード
+item.bulletCraftable.name=弾薬 - 弾丸
+item.grenadeCraftable.name=弾薬 - グレネード
+item.rocketCraftable.name=弾薬 - ロケット弾
+item.ferroSlug.name=弾薬 - 強磁性弾
+item.blazingClayCraftable.name=弾薬 - 燃える粘土
+item.upgFire.name=アップグレード - 射撃速度
+item.upgEff.name=アップグレード - 効率
+item.upgRan.name=アップグレード - 範囲
+item.upgAcc.name=アップグレード - 精度
+item.upgScatter.name=アップグレード - 乱射
+item.addonReactor.name=アドオン - レッドストーンリアクター
+item.addonDam.name=アドオン - ダメージブースト
+item.addonSolar.name=アドオン - ソーラー発電機
+item.addonPotentia.name=アドオン - 電力変換装置
+item.addonSerialPort.name=アドオン - シリアルポート
+item.sensorOne.name=センサー (1段階)
+item.sensorTwo.name=センサー (2段階)
+item.sensorThree.name=センサー (3段階)
+item.sensorFour.name=センサー (4段階)
+item.sensorFive.name=センサー (5段階)
+item.chamberTierOne.name=薬室 (1段階)
+item.chamberTierTwo.name=薬室 (2段階)
+item.chamberTierThree.name=薬室 (3段階)
+item.chamberTierFour.name=薬室 (4段階)
+item.chamberTierFive.name=薬室 (5段階)
+item.barrelTierOne.name=銃砲身 (1段階)
+item.barrelTierTwo.name=銃砲身 (2段階)
+item.barrelTierThree.name=銃砲身 (3段階)
+item.barrelTierFour.name=銃砲身 (4段階)
+item.barrelTierFive.name=銃砲身 (5段階)
+item.ioBus.name=入出力バス
+tile.baseTierWood.name=砲台基礎 (1段階) 
+tile.baseTierOneBlock.name=砲台基礎 (2段階) 
+tile.baseTierTwoBlock.name=砲台基礎 (3段階) 
+tile.baseTierThreeBlock.name=砲台基礎 (4段階) 
+tile.baseTierFourBlock.name=砲台基礎 (5段階) 
+
+tile.disposeItemTurret.name=使い捨てアイテム砲台
+tile.potatoCannonTurret.name=ポテトキャノン砲台
+tile.rocketTurret.name=ロケットランチャー砲台
+tile.teleporterTurret.name=テレポーター砲塔
+tile.machineGunTurret.name=マシンガン砲台
+tile.incendiaryTurret.name=焼夷弾砲台
+tile.grenadeTurret.name=グレネードランチャー砲台
+tile.relativisticTurret.name=相対論的砲台
+tile.laserTurret.name=レーザー砲台
+tile.railGunTurret.name=レールガン砲台
+tile.leverBlock.name=基本砲台ベースクランク
+
+itemGroup.openmodularturrets=Open Modular Turrets
+
+tooltip.tier=段階
+tooltip.range=範囲 (ブロック内)
+tooltip.accuracy=精度
+tooltip.ammo=弾薬の種類
+tooltip.tierRequired=基本最小段階
+tooltip.damage.label=ダメージ出力
+tooltip.damage.stat=発射体ダメージ
+tooltip.aoe=効果エリア半径
+tooltip.firerate=発/秒
+tooltip.energy.stat=1発ごとのエネルギー使用量
+tooltip.info=情報
+tooltip.health=ハート
+
+tooptip.energy.label=エネルギー
+tooltip.rf.max=最大容量
+tooltip.rf.io=最大入出力
+tooltip.extras.label=補足
+tooltip.extras.addons.0=なし
+tooltip.extras.addons.1=アドオンスロットx1
+tooltip.extras.addons.2=アドオンスロットx2
+tooltip.extras.upgrade.0=なし
+tooltip.extras.upgrade.1=アップグレードスロットx1
+tooltip.extras.upgrade.2=アップグレードスロットx2
+
+flavour.base.0=木はどこにでもありますが...
+flavour.base.1=私はあなたの血を引いているだろう。
+flavour.base.2=私は良い日と言ったのであります！！
+flavour.base.3=攻撃しろ！
+flavour.base.4a=こんなことでバレルロール
+flavour.base.4b=が出来るのだろうか...
+
+flavour.turret.0=貧乏人の睡眠を援助。
+flavour.turret.1=TRRRAA!! TRRAATRRAA!!
+flavour.turret.2a=別の例は馬人の
+flavour.turret.2b=誘導型形態です。
+flavour.turret.3=赤い霧。
+flavour.turret.4=先に行け、ニュートンは気にしていない。
+flavour.turret.5=大きなフザけた銃。
+flavour.turret.6=PVCの傑作。
+flavour.turret.7=炎による切断。
+flavour.turret.8=基準点。
+flavour.turret.9a=それはスパゲッティのような長い鎖だが、
+flavour.turret.9b=11次元です。
+
+turret.accuracy.low=低
+turret.accuracy.medium=中
+turret.accuracy.high=高
+turret.accuracy.exact=ピンポイント
+
+turret.ammo.0=任意のブロック/アイテム
+turret.ammo.1=弾丸
+turret.ammo.2=グレネード
+turret.ammo.3=ホーミングロケット弾
+turret.ammo.4=なし
+turret.ammo.5=強磁性弾
+turret.ammo.6=ポテト
+turret.ammo.7=燃える粘土
+
+base.tier.1=第1段階砲台基礎
+base.tier.2=第2段階砲台基礎
+base.tier.3=第3階砲台基礎
+base.tier.4=第4段階砲台基礎
+base.tier.5=第5段階砲台基礎
+
+turret.addon.label=砲台アドオン
+turret.addon.amp.a.label=1発ごとに
+turret.addon.amp.b.label=ダメージを追加。
+turret.addon.amp.flavour=ここでは私達はジャガーノートだ。
+turret.addon.redstone.a=弾薬インベントリ内のレッドストーン粉塵1個につき
+turret.addon.redstone.b=RF
+turret.addon.redstone.c=を生成します。
+turret.addon.redstone.flavour=昇華、洗練されました。
+turret.addon.solar.a=日光の下で
+turret.addon.solar.b=RF/t 生成します。
+turret.addon.solar.flavour=グッドヘリオス！
+turret.addon.potentia.a=RF内のPotentiaをパイプに接続し変換。
+turret.addon.potentia.b=(単位あたりのRF)
+turret.addon.potentia.c=ネットワークを介してOrdo visの追加により
+turret.addon.potentia.d=内部のPotentia容量に
+turret.addon.potentia.e=RF変換率10倍乗算を追加。
+turret.addon.potentia.flavour=Eskomはその権利を取得できないので...
+turret.addon.serial.a=OpenComputersとComputerCraftの
+turret.addon.serial.b=互換性を有効。
+turret.addon.serial.flavour=誰がOOPを必要とするの？
+
+turret.upgrade.label=砲台アップグレード
+turret.upgrade.stacks=4回までスタック可能。
+
+turret.upgrade.range=ブロック、範囲を追加 (1アップグレードごとに)。
+turret.upgrade.range.flavour=あなたは私にフォークを渡すのだろうか？
+
+turret.upgrade.rof=発射速度を追加 (1アップグレードごとに)。
+turret.upgrade.rof.flavour=時間消費者、時間がかかります。
+
+turret.upgrade.eff=RF/発 消費 (1アップグレードごとに)。
+turret.upgrade.eff.flavour=見つけた！
+
+turret.upgrade.acc=の精度追加 (1アップグレードごとに)。
+turret.upgrade.acc.flavour.a=目の良いスナイパー、
+turret.upgrade.acc.flavour.b=私は撃つぞ、あなたは走れ。
+
+turret.upgrade.scatter.a=一度に2発の発射を追加。
+turret.upgrade.scatter.b=RFの消費が増加、精度が低下、+2発の消費が増加。
+turret.upgrade.scatter.flavour=あなたは多くの弾丸を撃つ必要があります。
+
+status.ownership=あなたはこの砲台の所有者ではありません。または、あなたに操作する権限がありません。
+status.missingBase=そこには砲台ベースがありません。
+status.warning=あなたは砲台の守備範囲に侵入しています。各自の責任で続行してください。
+
+gui.openmodularturrets:owner=所有者
+gui.openmodularturrets:invert=反転
+gui.openmodularturrets:active=アクティブ
+gui.openmodularturrets:mode=モード
+gui.openmodularturrets:true=有効
+
+death.attack.disposable=とても%s、多くの死者、凄いです...
+death.attack.bullet=%sは美味しい鉛を食べました。
+death.attack.blazingclay=%sはジューシーなミディアムレアに調理されました。
+death.attack.grenade=%sはいくらか組み立てが必要かもしれません。
+death.attack.rocket=%sはロケットの形の中に虹の接続を見つけました。
+death.attack.laser=％sは崩壊しました。
+death.attack.ferroslug=%sは霧状のミネルヴァを見つけました。

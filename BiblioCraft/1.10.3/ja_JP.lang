@@ -1,0 +1,531 @@
+//translated by Mintmoon
+language.name=Japanese
+language.region=JP
+language.code=ja_JP
+
+// Tab Names
+itemGroup.BiblioCraft=BiblioCraft
+itemGroup.BiblioCraftLights=BiblioCraft 照明
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=深さ
+item.PlumbLine.name=測鉛線
+item.FramingSaw.name=フレーム用ノコギリ
+item.FramingBoard.name=フレーム用板
+item.FramingSheet.name=フレーム用薄板
+
+OakPaneler.name=家具用パネル作業台 (オーク木材)
+SprucePaneler.name=家具用パネル作業台 (マツ木材)
+BirchPaneler.name=家具用パネル作業台 (シラカバ木材)
+JunglePaneler.name=家具用パネル作業台 (ジャングル木材)
+AcaciaPaneler.name=家具用パネル作業台 (アカシア木材)
+OldOakPaneler.name=家具用パネル作業台 (ダークオーク木材)
+FramedPaneler.name=家具用パネル作業台 (骨組みだけ)
+
+FramedClock.name=時計 (骨組みだけ)
+FrameBookcase.name=本棚 (骨組みだけ)
+FramedWorkbench.name=装飾作業台 (骨組みだけ)
+FramedSign.name=装飾看板 (骨組みだけ)
+FramedShelf.name=棚 (骨組みだけ)
+FramedPotionShelf.name=ポーション棚 (骨組みだけ)
+FramedLabel.name=ラベル (骨組みだけ)
+FramedMapFrame.name=地図用の額 (骨組みだけ)
+FramedPaintingFrame.name=絵画用の額 (骨組みだけ)
+FramedDesk.name=机 (骨組みだけ)
+FramedWeaponRack.name=工具棚 (骨組みだけ)
+FramedCase.name=ケース (骨組みだけ)
+FramedTable.name=テーブル (骨組みだけ)
+FramedSeat.name=座席 (骨組みだけ)
+item.seatBack.FramedSeatBack.name=背もたれ (骨組みだけ)
+
+gui.painting.showFrame=枠を表示
+gui.painting.hideFrame=枠を非表示
+
+screwgun.selected.desk1=最初の机が選択されました。
+screwgun.selected.desk2=机を取り付けて/取り外しています。
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=地図帳
+item.AtlasPlate.name=チェース (地図の組版付き)
+item.DeathCompass.name=不滅のコンパス
+enchant.deathcompass=不滅のコンパス
+gui.atlas.zoom=ズームレベル
+gui.atlas.center=自動的に中心
+gui.atlas.create=自動的に作成
+gui.atlas.mapXcenter=地図X座標の中心:
+gui.atlas.mapZcenter=地図Z座標の中心:
+gui.atlas.mapZoom=地図ズームレベル:
+gui.atlas.yes=はい
+gui.atlas.no=いいえ
+gui.atlas.atlas=地図帳
+
+gui.atlas.select.tt1=地点情報選択モード
+gui.atlas.select.tt2=地点情報の上にカーソルを
+gui.atlas.select.tt3=移動し、左クリックで
+gui.atlas.select.tt4=地点情報を選択します。
+gui.atlas.select.tt5=現実世界の座標を表示するには
+gui.atlas.select.tt6=Ctrlキーを押しながら地図上にカーソルを移動します。
+gui.atlas.select.tt7=地図上の任意の点を選択するには
+gui.atlas.select.tt8=Ctrlキーを押しながら左クリックします。
+
+gui.atlas.edit.tt1=地点情報ピン編集モード
+gui.atlas.edit.tt2=ピン名称や色を編集したり、
+gui.atlas.edit.tt3=選択したピンを削除する
+gui.atlas.edit.tt4=地点情報をクリックします。
+gui.atlas.edit.tt5=すぐにウェイポイントを削除するには、
+gui.atlas.edit.tt6=SHIFTキーを押しながら地点情報をクリックします。
+
+gui.atlas.add.tt1=地点情報ピン追加モード
+gui.atlas.add.tt2=新しい地点情報を追加するには、
+gui.atlas.add.tt3=地図上の任意の場所をクリックします。
+gui.atlas.add.tt4=ダイアログがポップアップし、
+gui.atlas.add.tt5=名称と色を求められます。
+gui.atlas.add.tt6=SHIFTキーを押しながら地図を
+gui.atlas.add.tt7=クリックすると、ランダムな名称と色で
+gui.atlas.add.tt8=新しい地点情報が配置されます。
+
+gui.atlas.switchtoinv=インベントリ表示に切り替えます。
+gui.atlas.switchtoatlas=地図表示に切り替えます。
+
+gui.atlas.autocenter.tt1=有効にした場合、地図帳は
+gui.atlas.autocenter.tt2=現在選択されたズームレベルで
+gui.atlas.autocenter.tt3=表示される有効な地図を
+gui.atlas.autocenter.tt4=インベントリ内から
+gui.atlas.autocenter.tt5=検索します。
+
+gui.atlas.autocreate.tt1=有効にした場合、インベントリ内の
+gui.atlas.autocreate.tt2=白紙の地図から新しい地図を作成します。
+gui.atlas.autocreate.tt3=「自動的に中心」が一致する地図を
+gui.atlas.autocreate.tt4=見つけることに失敗した場合、
+gui.atlas.autocreate.tt5=新たな地図は選択されたズームレベルで
+gui.atlas.autocreate.tt6=読み込まれた最後の地図に基づいて
+gui.atlas.autocreate.tt7=作成されます。
+
+gui.atlas.autocreate.tt8=これが機能するためには
+gui.atlas.autocreate.tt9=「自動的に中心」を有効にする必要があります。
+
+gui.atlas.transfer=地点情報転送
+gui.atlas.transfer.cancel=キャンセル
+gui.atlas.transfer.from=地図帳から地図枠へ
+gui.atlas.transfer.to=地図枠から地図帳へ
+
+gui.compass.currentlocation=現在位置
+
+gui.paintpress.page=ページ
+gui.paintpress.of=/
+
+item.TesterItem.name=アイテムスタック名テスター
+gui.testeritem.name=アイテムスタック名テスター
+gui.testeritem.display=表示名:
+gui.testeritem.unlocal=未翻訳名:
+// end of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=チャイム音
+gui.clock.ticksound=時計のカチカチ音
+gui.clock.redstone=レッドストーン
+gui.clock.chime=チャイム
+gui.clock.presets=プリセット
+
+screwgun.selected.painting1=一番目の絵画を選択しました
+screwgun.selected.painting2=二番目の絵画を選択しました
+screwgun.selected.clock1=一番目の時計を選択しました
+screwgun.selected.clock2=二番目の時計を選択しました
+drill.failed=接続に失敗しました
+
+item.PaintingCanvas.name=絵画用キャンバス
+tile.BiblioPaintPress.name=活版印刷機
+
+gui.paintpress.transfer=転写
+gui.paintpress.vanilla=Minecraft内
+gui.paintpress.custom=カスタム
+
+gui.painting.scale=尺度
+gui.painting.resolution=解像度
+gui.painting.aspectRatio=縦横比
+gui.painting.size=絵画サイズ
+gui.painting.rotation=回転
+gui.painting.corner=基準にする角
+
+OakPaintingFrame.name=絵画用の額 (オーク木材)
+SprucePaintingFrame.name=絵画用の額 (マツ木材)
+BirchPaintingFrame.name=絵画用の額 (シラカバ木材)
+JunglePaintingFrame.name=絵画用の額 (ジャングル木材)
+AcaciaPaintingFrame.name=絵画用の額 (アカシア木材)
+OldOakPaintingFrame.name=絵画用の額 (ダークオーク木材)
+
+paintingFrame.0tier=縁なし
+paintingFrame.1tier=一段枠
+paintingFrame.2tier=二段枠
+paintingFrame.3tier=三段枠
+paintingFrame.4tier=四段枠
+
+OakClock.name=時計 (オーク木材)
+SpruceClock.name=時計 (マツ木材)
+BirchClock.name=時計 (シラカバ木材)
+JungleClock.name=時計 (ジャングル木材)
+AcaciaClock.name=時計 (アカシア木材)
+OldOakClock.name=時計 (ダークオーク木材)
+
+WhiteTypewriter.name=印字機 (白色)
+LightGrayTypewriter.name=印字機 (薄灰色)
+GrayTypewriter.name=印字機 (灰色)
+BlackTypewriter.name=印字機 (黒色)
+RedTypewriter.name=印字機 (赤色)
+OrangeTypewriter.name=印字機 (橙色)
+YellowTypewriter.name=印字機 (黄色)
+LimeTypewriter.name=印字機 (黄緑色)
+GreenTypewriter.name=印字機 (緑色)
+CyanTypewriter.name=印字機 (水色)
+LightBlueTypewriter.name=印字機 (空色)
+BlueTypewriter.name=印字機 (青色)
+PurpleTypewriter.name=印字機 (紫色)
+MagentaTypewriter.name=印字機 (赤紫色)
+PinkTypewriter.name=印字機 (桃色)
+BrownTypewriter.name=印字機 (茶色)
+
+// End of 1.8 additions and changes // 
+
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=よろしいですか？
+gui.recipe.finalize=「はい」をクリックすると、この本の編集を永久的にロックします。
+gui.recipe.description=説明を追加します。
+
+swordpedestal.name=剣の台座
+swordpedestal.white=白色の装飾柄
+swordpedestal.orange=橙色の装飾柄
+swordpedestal.magenta=赤紫色の装飾柄
+swordpedestal.lightblue=空色の装飾柄
+swordpedestal.yellow=黄色の装飾柄
+swordpedestal.lime=黄緑色の装飾柄
+swordpedestal.pink=桃色の装飾柄
+swordpedestal.gray=灰色の装飾柄
+swordpedestal.lightgray=薄灰色の飾柄
+swordpedestal.cyan=水色の装飾柄
+swordpedestal.purple=紫色の装飾柄
+swordpedestal.blue=青色の装飾柄
+swordpedestal.brown=茶色の装飾柄
+swordpedestal.green=緑色の装飾柄
+swordpedestal.red=赤色の装飾柄
+swordpedestal.black=黒色の装飾柄
+
+OakSign.name=装飾看板 (オーク木材)
+SpruceSign.name=装飾看板 (マツ木材)
+BirchSign.name=装飾看板 (シラカバ木材)
+JungleSign.name=装飾看板 (ジャングル木材)
+AcaciaSign.name=装飾看板 (アカシア木材)
+OldOakSign.name=装飾看板 (ダークオーク木材)
+
+OakWorkbench.name=装飾作業台 (オーク木材)
+SpruceWorkbench.name=装飾作業台 (マツ木材)
+BirchWorkbench.name=装飾作業台 (シラカバ木材)
+JungleWorkbench.name=装飾作業台 (ジャングル木材)
+AcaciaWorkbench.name=装飾作業台 (アカシア木材)
+OldOakWorkbench.name=装飾作業台 (ダークオーク木材)
+
+tile.BiblioBell.name=呼び鈴
+
+item.RecipeBook.name=空のレシピ本
+item.SlottedBook.name=スロット付きの本
+item.BigBook.name=大きな習字本
+item.HandDrill.name=手回し式ドリル
+
+book.bold=太字
+book.italic=斜体文字
+book.underline=下線
+book.strike=取り消し線
+book.obfuscated=難読化
+book.reset=リセット
+book.save=保存
+book.sign=署名
+book.entertitle=本のタイトルを入力:
+book.by=次の人によって書かれました
+book.signnotice=重要な注意事項！ 本にあなたの署名をした時、もう編集できなくなります。それにはテキスト編集、書式設定、章、およびページ追加を含みます。
+book.textscale=テキストの大きさ
+book.lineselected=選択した行
+book.cancel=キャンセル
+book.linenum=行# =
+book.title=タイトル
+book.description=記述
+book.ingredients=次の材料が必要です:
+book.overwriterecipe=現在のレシピ本を
+book.overwriterecipe2=上書きします。
+book.saverecipe=白紙の本に
+book.saverecipe2=レシピを保存します。
+book.loadrecipe=インベントリから部品を
+book.loadrecipe2=読み込みます。
+book.areyousure=よろしいですか？
+book.areyousure2=「はい」をクリックすると、この本の編集を永久的にロックします。
+book.setrecipename=レシピ:
+gui.fancyworkbench=装飾作業台
+
+gui.sign.left=左
+gui.sign.center=中央
+gui.sign.right=右
+
+gui.sign.black=黒色
+gui.sign.darkblue=濃青色
+gui.sign.darkgreen=濃緑色
+gui.sign.darkaqua=濃水色
+gui.sign.darkred=濃赤色
+gui.sign.darkpurple=濃紫色
+gui.sign.gold=金色
+gui.sign.gray=灰色
+gui.sign.darkgray=濃灰色
+gui.sign.blue=青色
+gui.sign.green=緑色
+gui.sign.aqua=水色
+gui.sign.red=赤色
+gui.sign.lightpurple=薄紫色
+gui.sign.yellow=黄色
+gui.sign.white=白色
+
+gui.sign.tooltip1=編集パネルを選択するにはTABキーを押すかボックスをクリックします。TABキーでパネルを回転させます。
+gui.sign.tooltip2=スロット1のオプションを編集するには上記のボックスをクリックします。大きさ、位置、および回転を編集します。
+gui.sign.tooltip3=テキストオプションの編集するには上記のボックスをクリックします。大きさを編集し、バニラスタイルの書式設定を追加します。
+gui.sign.tooltip4=スロット2のオプションを編集するには上記のボックスをクリックします。大きさ、位置、および回転を編集します。
+gui.sign.tooltip5=ブロックの大きさを調整します。
+gui.sign.tooltip6=ブロックの回転を調整します。ブロックは左、中央、または右に面することができます。アイテムは左または右のみに面することができます。
+gui.sign.tooltip7=ブロックの位置を調整します。位置は矢印キーまたはWASDキーで調整することができます。
+gui.sign.tooltip8=書式記号の後に次の番号/文字のいずれかを入力します:
+gui.sign.tooltip9=選択した行に書式記号を追加するにはALTキーを押すか、ボタンをクリックしてください。
+
+gui.sign.bold=太字
+gui.sign.strikethrough=取り消し線
+gui.sign.underline=下線
+gui.sign.italic=斜体文字
+
+gui.sign.scale=テキストの大きさ
+gui.sign.format=フォーマット
+gui.sign.linenum=行#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=書名:
+gui.redbook.description.p1=レッドストーンブックはレッドストーン信号を発するように本棚と組み合わせて使用されます。本棚に置かれたときレッドストーン信号が前面を除くすべての側面から放出されます。信号の強度は、本棚を本が何スロット占めているかに基づいています。
+gui.redbook.description.p2=本棚には16のスロットがあり、スロット1は左上、スロット16は右下になります。もしスロット1にレッドストーンブックが配置した場合、本棚はレッドストーン信号を放出しません。もしスロット2にレッドストーンブックを配置した場合、本棚は1の強度のレッドストーン信号を放出します。その後、各スロットごとに1ずつ強度が増し、スロット16まで全てを配置した場合、15の強度の完全なレッドストーン信号を放出します。
+
+
+AcaciaDesk.name=机 (アカシア木材)
+OldOakDesk.name=机 (ダークオーク木材)
+AcaciaBookcase.name=本棚 (アカシア木材)
+OldOakBookcase.name=本棚 (ダークオーク木材)
+AcaciaPotionShelf.name=ポーション棚 (アカシア木材)
+OldOakPotionShelf.name=ポーション棚 (ダークオーク木材)
+AcaciaShelf.name=棚 (アカシア木材)
+OldOakShelf.name=棚 (ダークオーク木材)
+AcaciaWeaponRack.name=工具棚 (アカシア木材)
+OldOakWeaponRack.name=工具棚 (ダークオーク木材)
+AcaciaLabel.name=ラベル (アカシア木材)
+OldOakLabel.name=ラベル (ダークオーク木材)
+AcaciaTable.name=テーブル (アカシア木材)
+OldOakTable.name=テーブル (ダークオーク木材)
+AcaciaMapFrame.name=地図用の額 (アカシア木材)
+OldOakMapFrame.name=地図用の額 (ダークオーク木材)
+AcaciaSeat.name=座席 (アカシア木材)
+OldOakSeat.name=座席 (ダークオーク木材)
+OakCase.name=ケース (オーク木材)
+SpruceCase.name=ケース (マツ木材)
+BirchCase.name=ケース (シラカバ木材)
+JungleCase.name=ケース (ジャングル木材)
+AcaciaCase.name=ケース (アカシア木材)
+OldOakCase.name=ケース (ダークオーク木材)
+item.seatBack.AcaciaSeatBack.name=背もたれ (アカシア木材)
+item.seatBack.OldOakSeatBack.name=背もたれ (ダークオーク木材)
+lighting.metalIron=鉄製
+lighting.metalGold=金製
+gui.typesetting.guiTitle=組み版テーブル: 書籍管理
+gui.typesetting.pageOfpages=/
+gui.typesetting.public=公開
+gui.typesetting.private=非公開
+gui.typesetting.delete=削除
+gui.typesetting.select=選択
+gui.typesetting.nextPage=次のページ
+gui.typesetting.prevPage=前のページ
+gui.typesetting.exit=やめる
+gui.typesetting.enableDiscard=破棄
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=アーマースタンド
+gui.bookcase=本棚
+gui.cookiejar=クッキー用の瓶
+gui.shelf=棚
+gui.label=ラベル
+gui.potionshelf=ポーション棚
+gui.table=テーブル
+gui.case=展示ケース
+gui.toolrack=工具棚
+gui.desk=机
+gui.mapWaypoint.accept=同意
+gui.mapWaypoint.remove=削除
+gui.mapWaypoint.cancel=キャンセル
+gui.mapWaypoint.waypoint=地点情報
+gui.compass.x=X:
+gui.compass.z=Z:
+gui.dinnerPlate=大きな皿
+gui.discRack=ディスク用の棚
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=読み取っています
+redbook.by=次の人によって書かれています
+plate.notValid=有効ではありません
+typesetting.requires=必要です
+typesetting.levels=レベル
+typesetting.chase=チェース
+typesetting.bookSelect=本を選択します。
+print.ink=インク
+print.book=本
+screwgun.firstSeat=一番目の座席を選択しました
+screwgun.secondSeat=座席を取り付けて/取り外しています。
+
+//Tape Measure Texts
+tape.measurenorthsouth=測定:南/北方向の長さ = 
+tape.measureeastwest=測定:東/西方向の長さ = 
+tape.measureheight=測定:高さ = 
+tape.nomeasure=測定できません。
+tape.measure=測定 = 
+tape.startmeasure=測定を開始します。
+tape.mode0=南/北、東/西、高さのモードへ切り替えます。
+tape.mode1=絶対測定のモードへ切り替えます。
+lock.creativeonly=クリエイティブモード限定
+lock.notowner=あなたはこのブロックの所有者ではありません。
+lock.locked=このブロックはロックされています。
+lock.unlocked=このブロックのロックが解除されました。
+
+// Blocks
+CookieJar.name=クッキー用の瓶
+MarkerPole.name=マーカー
+tile.BiblioType.name=組み版テーブル
+tile.BiblioPress.name=活版印刷機
+tile.BiblioArmorStand.name=アーマースタンド
+OakBookcase.name=本棚 (オーク木材)
+SpruceBookcase.name=本棚 (マツ木材)
+BirchBookcase.name=本棚 (シラカバ木材)
+JungleBookcase.name=本棚 (ジャングル木材)
+OakPotionShelf.name=ポーション棚 (オーク木材)
+SprucePotionShelf.name=ポーション棚 (マツ木材)
+BirchPotionShelf.name=ポーション棚 (シラカバ木材)
+JunglePotionShelf.name=ポーション棚 (ジャングル木材)
+OakShelf.name=棚 (オーク木材)
+SpruceShelf.name=棚 (マツ木材)
+BirchShelf.name=棚 (シラカバ木材)
+JungleShelf.name=棚 (ジャングル木材)
+OakWeaponRack.name=工具棚 (オーク木材)
+SpruceWeaponRack.name=工具棚 (マツ木材)
+BirchWeaponRack.name=工具棚 (シラカバ木材)
+JungleWeaponRack.name=工具棚 (ジャングル木材)
+OakLabel.name=ラベル (オーク木材)
+SpruceLabel.name=ラベル (マツ木材)
+BirchLabel.name=ラベル (シラカバ木材)
+JungleLabel.name=ラベル (ジャングル木材)
+OakWritingDesk.name=机 (オーク木材)
+SpruceWritingDesk.name=机 (マツ木材)
+BirchWritingDesk.name=机 (シラカバ木材)
+JungleWritingDesk.name=机 (ジャングル木材)
+OakTable.name=テーブル (オーク木材)
+SpruceTable.name=テーブル (マツ木材)
+BirchTable.name=テーブル (シラカバ木材)
+JungleTable.name=テーブル (ジャングル木材)
+DiscRack.name=ディスク用の棚
+DinnerPlate.name=大きな皿
+OakMapFrame.name=地図用の額 (オーク木材)
+SpruceMapFrame.name=地図用の額 (マツ木材)
+BirchMapFrame.name=地図用の額 (シラカバ木材)
+JungleMapFrame.name=地図用の額 (ジャングル木材)
+OakSeat.name=座席 (オーク木材)
+SpruceSeat.name=座席 (マツ木材)
+BirchSeat.name=座席 (シラカバ木材)
+JungleSeat.name=座席 (ジャングル木材)
+
+//lights
+whiteLantern.name=装飾ランタン (白色)
+lightGrayLantern.name=装飾ランタン (薄灰色)
+grayLantern.name=装飾ランタン (灰色)
+blackLantern.name=装飾ランタン (黒色)
+redLantern.name=装飾ランタン (赤色)
+orangeLantern.name=装飾ランタン (橙色)
+yellowLantern.name=装飾ランタン (黄色)
+limeLantern.name=装飾ランタン (黄緑色)
+greenLantern.name=装飾ランタン (緑色)
+cyanLantern.name=装飾ランタン (水色)
+lightBlueLantern.name=装飾ランタン (空色)
+blueLantern.name=装飾ランタン (青色)
+purpleLantern.name=装飾ランタン (紫色)
+magentaLantern.name=装飾ランタン (赤紫色)
+pinkLantern.name=装飾ランタン (桃色)
+brownLantern.name=装飾ランタン (茶色)
+
+whiteLamp.name=装飾ランプ (白色)
+lightGrayLamp.name=装飾ランプ (薄灰色)
+grayLamp.name=装飾ランプ (灰色)
+blackLamp.name=装飾ランプ (黒色)
+redLamp.name=装飾ランプ (赤色)
+orangeLamp.name=装飾ランプ (橙色)
+yellowLamp.name=装飾ランプ (黄色)
+limeLamp.name=装飾ランプ (黄緑色)
+greenLamp.name=装飾ランプ (緑色)
+cyanLamp.name=装飾ランプ (水色)
+lightBlueLamp.name=装飾ランプ (空色)
+blueLamp.name=装飾ランプ (青色)
+purpleLamp.name=装飾ランプ (紫色)
+magentaLamp.name=装飾ランプ (赤紫色)
+pinkLamp.name=装飾ランプ (桃色)
+brownLamp.name=装飾ランプ (茶色)
+
+lamp.hood0=白色のランプフード
+lamp.hood1=薄灰色のランプフード
+lamp.hood2=灰色のランプフード
+lamp.hood3=黒色のランプフード
+lamp.hood4=赤色のランプフード
+lamp.hood5=橙色のランプフード
+lamp.hood6=黄色のランプフード
+lamp.hood7=黄緑色のランプフード
+lamp.hood8=緑色のランプフード
+lamp.hood9=水色のランプフード
+lamp.hood10=空色のランプフード
+lamp.hood11=青色のランプフード
+lamp.hood12=紫色のランプフード
+lamp.hood13=赤紫色のランプフード
+lamp.hood14=桃色のランプフード
+lamp.hood15=茶色のランプフード
+
+lantern.candle0=白色のロウソク
+lantern.candle1=薄灰色のロウソク
+lantern.candle2=灰色のロウソク
+lantern.candle3=黒色のロウソク
+lantern.candle4=赤色のロウソク
+lantern.candle5=橙色のロウソク
+lantern.candle6=黄色のロウソク
+lantern.candle7=黄緑色のロウソク
+lantern.candle8=緑色のロウソク
+lantern.candle9=水色のロウソク
+lantern.candle10=空色のロウソク
+lantern.candle11=青色のロウソク
+lantern.candle12=紫色のロウソク
+lantern.candle13=赤紫色のロウソク
+lantern.candle14=桃色のロウソク
+lantern.candle15=茶色のロウソク
+
+// Items
+item.tapeMeasure.name=巻き尺
+item.tape.name=巻き尺巻取機
+item.BiblioChase.name=チェース
+item.PrintPlate.name=チェース (組版付き)
+item.EnchantedPlate.name=エンチャントされたチェース (組版付き)
+item.BiblioRedBook.name=レッドストーン: 1の巻
+item.BiblioGlasses.readingglasses.name=老眼鏡
+item.BiblioGlasses.tintedglasses.name=着色眼鏡
+item.BiblioGlasses.monocle.name=片眼鏡
+item.BiblioDrill.name=電動ドライバー
+item.BiblioCreativeLock.name=錠前と鍵
+item.BiblioClipboard.name=チェックリスト
+item.seatBack.OakSeatBack.name=背もたれ (オーク木材)
+item.seatBack.SpruceSeatBack.name=背もたれ (マツ木材)
+item.seatBack.BirchSeatBack.name=背もたれ (シラカバ木材)
+item.seatBack.JungleSeatBack.name=背もたれ (ジャングル木材)
+item.BiblioWayPointCompass.name=地点情報コンパス
+item.BiblioMapTool.name=製図コンパス

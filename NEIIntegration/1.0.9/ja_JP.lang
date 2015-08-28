@@ -1,0 +1,92 @@
+neiintegration.yes=はい
+neiintegration.no=いいえ
+
+neiintegration.shaped=形状
+neiintegration.shapeless=不定形
+
+neiintegration.chance=確率: %s
+neiintegration.chance.never=確率なし
+neiintegration.chance.lessThan1=<1%
+
+neiintegration.ticks=ticks
+
+neiintegration.tooltip.internalName=ID:
+neiintegration.tooltip.unlocalizedName=ロック解除名:
+neiintegration.tooltip.maxstack=最大スタック数:
+neiintegration.tooltip.burntime=燃焼時間:
+neiintegration.tooltip.oredict=鉱石辞書名:
+neiintegration.tooltip.fluidreg=液体レジストリ情報:
+neiintegration.tooltip.fluidreg.empty=空コンテナ
+
+neiintegration.config.title=NEI Integration 設定
+neiintegration.config.handlers=レシピ取り扱い設定
+neiintegration.config.handlers.tooltip=このModが追加されたレシピの取り扱いをするかどうか(有効/無効)
+neiintegration.config.tooltips=アイテムツールチップ設定
+neiintegration.config.tooltips.tooltip=ツールチップが定義されていません なんて皮肉でしょう
+
+nei.options.tools.dump.neiintegration_chestloots=[NEII] チェストの戦利品
+nei.options.tools.dump.neiintegration_chestloot=チェストの戦利品
+nei.options.tools.dump.neiintegration_dimension=ディメンション
+nei.options.tools.dump.neiintegration_dimensions=[NEII] ディメンション
+nei.options.tools.dump.neiintegration_entity=エンティティ
+nei.options.tools.dump.neiintegration_entitys=[NEII] エンティティ
+nei.options.tools.dump.neiintegration_fluid=液体
+nei.options.tools.dump.neiintegration_fluids=[NEII] 液体
+nei.options.tools.dump.neiintegration_fluidcontainer=液体コンテナ
+nei.options.tools.dump.neiintegration_fluidcontainers=[NEII] 液体コンテナ
+nei.options.tools.dump.neiintegration_inventory=プレイヤーインベントリ
+nei.options.tools.dump.neiintegration_inventorys=[NEII] プレイヤーインベントリ
+nei.options.tools.dump.neiintegration_loadedmod=読み込まれているMod
+nei.options.tools.dump.neiintegration_loadedmods=[NEII] 読み込まれているMod
+nei.options.tools.dump.neiintegration_oredict=鉱石辞書
+nei.options.tools.dump.neiintegration_oredicts=[NEII] 鉱石辞書
+nei.options.tools.dump.neiintegration_recipehandler=レシピ取り扱い
+nei.options.tools.dump.neiintegration_recipehandlers=[NEII] レシピ取り扱い
+nei.options.tools.dump.neiintegration_tileentity=タイルエンティティ
+nei.options.tools.dump.neiintegration_tileentitys=[NEII] タイルエンティティ
+
+# Forge
+neiintegration.handler.fluidRegistry=液体レジストリ
+neiintegration.handler.fluidRegistry.id=ID:
+neiintegration.handler.fluidRegistry.state=状態:
+neiintegration.handler.fluidRegistry.state.gaseous=気体
+neiintegration.handler.fluidRegistry.state.liquid=液体
+neiintegration.handler.fluidRegistry.placeable=設置可:
+neiintegration.handler.fluidRegistry.temperature=温度:
+neiintegration.handler.fluidRegistry.luminosity=光度:
+neiintegration.handler.fluidRegistry.density=密度:
+neiintegration.handler.fluidRegistry.viscosity=粘度:
+
+neiintegration.handler.oreDictionary=鉱石辞書
+neiintegration.handler.oreDictionary.warning=読み込みにはにはしばらく時間がかかります！
+
+# BuildCraft
+neiintegration.handler.refinery.energyRate=%d RF at %d RF/t
+
+# Electrical Age
+neiintegration.handler.electricalage.compressor=圧縮機 (ELN)
+neiintegration.handler.electricalage.macerator=粉砕機 (ELN)
+neiintegration.handler.electricalage.magnetizer=磁気発生装置
+neiintegration.handler.electricalage.plateMachine=金属板作成機
+
+# Forestry
+neiintegration.handler.forestry.shaped=Forestry 形状
+neiintegration.handler.forestry.fabricator.worth=価値:
+
+# MineFactory Reloaded
+neiintegration.handler.bioreactor.efficiency=効率
+neiintegration.handler.bioreactor.efficiency.1=処理される様々な
+neiintegration.handler.bioreactor.efficiency.2=アイテムの量に依存します
+neiintegration.handler.bioreactor.efficiency.3=バイオ燃料は高効率です
+neiintegration.handler.grinder.mobs=Mob
+neiintegration.handler.grinder.mobs.1=多くの経験値をドロップするMobは
+neiintegration.handler.grinder.mobs.2=その分多くのエッセンスを生産します
+neiintegration.handler.harvester.harvestables=収穫するブロック
+neiintegration.handler.harvester.harvestables.1=汚泥は収穫の副産物です
+neiintegration.handler.laserdrill.focus=焦点
+neiintegration.handler.sewer.animals=動物および村人
+neiintegration.handler.sewer.animals.1=大きな動物は多くの汚泥を生成します
+neiintegration.handler.sewer.xp=経験値オーブ
+neiintegration.handler.sewer.xp.1=経験値はエッセンスに変換されます
+neiintegration.handler.slaughterhouse.animals=動物
+neiintegration.handler.slaughterhouse.animals.1=大きな動物は多くの肉を生成します

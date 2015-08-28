@@ -1,0 +1,107 @@
+//Blocks
+tile.fyrite_ore.name=ファイライト鉱石
+tile.fyrite_block.name=ファイライトブロック
+tile.malachite_ore.name=マカライト鉱石
+tile.malachite_block.name=マカライトブロック
+tile.ashstone_ore.name=灰石鉱石
+tile.ashstone_block.name=灰石ブロック
+tile.illumenite_ore.name=イルメナイト鉱石
+tile.illumenite_block.name=イルメナイトブロック
+tile.dragonstone_ore.name=ドラゴンストーン鉱石
+tile.dragonstone_block.name=ドラゴンストーンブロック
+tile.argonite_ore.name=アラゴナイト鉱石
+tile.argonite_block.name=アラゴナイトブロック
+tile.nether_furnace.name=ネザーかまど
+tile.nether_furnace_lit.name=ネザーかまど
+
+//Items
+item.fyrite_ingot.name=ファイライトインゴット
+item.malachite_ingot.name=マカライトインゴット
+item.ashstone_gem.name=灰石
+item.illumenite_ingot.name=イルメナイトインゴット
+item.dragonstone_gem.name=ドラゴンストーン
+item.argonite_ingot.name=アラゴナイトインゴット
+
+//Tools
+item.malachite_pickaxe.name=マカライトのツルハシ
+item.malachite_axe.name=マカライトの斧
+item.malachite_shovel.name=マカライトのシャベル
+item.malachite_sword.name=マカライトの剣
+item.malachite_hoe.name=マカライトのクワ
+item.ashstone_pickaxe.name=灰石のツルハシ
+item.ashstone_axe.name=灰石の斧
+item.ashstone_shovel.name=灰石のシャベル
+item.ashstone_sword.name=灰石の剣
+item.ashstone_hoe.name=灰石のクワ
+item.dragonstone_pickaxe.name=ドラゴンストーンのツルハシ
+item.dragonstone_axe.name=ドラゴンストーンの斧
+item.dragonstone_shovel.name=ドラゴンストーンのシャベル
+item.dragonstone_sword.name=ドラゴンストーンの剣
+item.dragonstone_hoe.name=ドラゴンストーンのクワ
+item.argonite_pickaxe.name=アラゴナイトのツルハシ
+item.argonite_axe.name=アラゴナイトの斧
+item.argonite_shovel.name=アラゴナイトのシャベル
+item.argonite_sword.name=アラゴナイトの剣
+item.argonite_hoe.name=アラゴナイトのクワ
+item.fyrite_pickaxe.name=ファイライトのツルハシ
+item.fyrite_sword.name=ファイライトの剣
+item.illumenite_sword.name=イルメナイトの剣
+
+//Armor
+item.fyrite_helmet.name=ファイライトのヘルメット
+item.fyrite_chestplate.name=ファイライトのチェストプレート
+item.fyrite_leggings.name=ファイライトのレギンス
+item.fyrite_boots.name=ファイライトのブーツ
+item.malachite_helmet.name=マカライトのヘルメット
+item.malachite_chestplate.name=マカライトのチェストプレート
+item.malachite_leggings.name=マカライトのレギンス
+item.malachite_boots.name=マカライトのブーツ
+item.illumenite_helmet.name=イルメナイトのヘルメット
+item.illumenite_chestplate.name=イルメナイトのチェストプレート
+item.illumenite_leggings.name=イルメナイトのレギンス
+item.illumenite_boots.name=イルメナイトのブーツ
+item.dragonstone_helmet.name=ドラゴンストーンのヘルメット
+item.dragonstone_chestplate.name=ドラゴンストーンのチェストプレート
+item.dragonstone_leggings.name=ドラゴンストーンのレギンス
+item.dragonstone_boots.name=ドラゴンストーンのブーツ
+
+//Achievements
+achievement.fyriteOreAch=暖かい感触だ
+achievement.fyriteOreAch.desc=ネザーからいくつかのファイライト鉱石を集める
+achievement.malachiteOreAch=エンチャントのために生まれてきた
+achievement.malachiteOreAch.desc=いくつかのマカライト鉱石を集める すごいエンチャントができそうだ
+achievement.ashstoneOreAch=超高速！
+achievement.ashstoneOreAch.desc=灰石の道具はすごい効率だ さあ、冒険しよう！
+achievement.illumeniteOreAch=光の道
+achievement.illumeniteOreAch.desc=それはグロウストーンの中で成長する
+achievement.argoniteOreAch=オールラウンダー
+achievement.argoniteOreAch.desc=アラゴナイトは素晴らしい道具を作ることが出来る
+achievement.dragonstoneOreAch=獣の腹から
+achievement.dragonstoneOreAch.desc=見よ、真のパワーを持つこの鉱石たちを
+
+achievement.fyriteSetAch=溶岩の証拠
+achievement.fyriteSetAch.desc=一式装備すれば、熱さを感じることはないだろう
+achievement.malachiteSetAch=スーパージャンプ
+achievement.malachiteSetAch.desc=一式装備すれば、まるで無重力空間にいるかのようにジャンプ出来るだろう
+achievement.ashstoneの斧Ach=樹木の宿敵
+achievement.ashstoneの斧Ach.desc=これまで速く樹木が伐採されたことはないだろう
+achievement.illumeniteSetAch=耐久力のある骨
+achievement.illumeniteSetAch.desc=一式装備すれば、高所恐怖症は克服出来るだろう
+achievement.argoniteの剣Ach=モンスターハンターの親友
+achievement.argoniteの剣Ach.desc=強力な剣は、君を失望させることはないだろう
+achievement.dragonstoneのツルハシAch=人生の仲間
+achievement.dragonstoneのツルハシAch.desc=心配するな、我々は実際にそれを意味するものだ
+achievement.netherFurnaceAch=スーパーかまど
+achievement.netherFurnaceAch.desc=ネザーかまどを構築する
+
+//Tool Tip Info
+netherrocks.fyriteArmor.info=§aセットボーナス: 炎/溶岩ダメージ無効
+netherrocks.malachiteArmor.info=§aセットボーナス: 二段ジャンプ
+netherrocks.illumeniteArmor.info=§aセットボーナス: 落下ダメージ無効
+netherrocks.fyrite_pickaxe.info=§a採掘時に自動で製錬
+netherrocks.fyrite_sword.info=§a炎の力を借りて攻撃
+netherrocks.illumenite_sword.info=§a攻撃を当てると暗視を付与 盲目を付与し、対象の移動速度を低下
+
+//Updater
+netherrocks.updateMessage1=§3Netherrocks §rのバージョンが古くなっています 現在の最新バージョンは §c
+netherrocks.updateMessage2=§rです §9http://bit.ly/Netherrocks §rからダウンロードしてください

@@ -1,0 +1,45 @@
+# translated by Mintmoon
+# Group
+itemGroup.Pistons=More Pistons
+
+# Gravitational Piston
+tile.morepistons:gravitationalpistonbase.name=ピストン (引力作用)
+tile.morepistons:gravitationalstickypistonbase.name=粘着ピストン (引力作用)
+
+# Normal Pistons
+tile.morepistons:doublepistonbase.name=ピストン (2ブロック)
+tile.morepistons:triplepistonbase.name=ピストン (3ブロック)
+tile.morepistons:quadruplepistonbase.name=ピストン (4ブロック)
+tile.morepistons:quintuplepistonbase.name=ピストン (5ブロック)
+tile.morepistons:sextuplepistonbase.name=ピストン (6ブロック)
+tile.morepistons:septuplepistonbase.name=ピストン (7ブロック)
+tile.morepistons:octuplepistonbase.name=ピストン (8ブロック)
+
+# Normal Sticky Pistons
+tile.morepistons:doublestickypistonbase.name=粘着ピストン (2ブロック)
+tile.morepistons:triplestickypistonbase.name=粘着ピストン (3ブロック)
+tile.morepistons:quadruplestickypistonbase.name=粘着ピストン (4ブロック)
+tile.morepistons:quintuplestickypistonbase.name=粘着ピストン (5ブロック)
+tile.morepistons:sextuplestickypistonbase.name=粘着ピストン (6ブロック)
+tile.morepistons:septuplestickypistonbase.name=粘着ピストン (7ブロック)
+tile.morepistons:octuplestickypistonbase.name=粘着ピストン (8ブロック)
+
+# Super Pistons
+tile.morepistons:superpistonbase.name=ピストン (強化/1ブロック)
+tile.morepistons:superdoublepistonbase.name=ピストン (強化/2ブロック)
+tile.morepistons:supertriplepistonbase.name=ピストン (強化/3ブロック)
+tile.morepistons:superquadruplepistonbase.name=ピストン (強化/4ブロック)
+tile.morepistons:superquintuplepistonbase.name=ピストン (強化/5ブロック)
+tile.morepistons:supersextuplepistonbase.name=ピストン (強化/6ブロック)
+tile.morepistons:superseptuplepistonbase.name=ピストン (強化/7ブロック)
+tile.morepistons:superoctuplepistonbase.name=ピストン (強化/8ブロック)
+
+# Super Sticky Pistons
+tile.morepistons:superstickypistonbase.name=粘着ピストン (強化/1ブロック)
+tile.morepistons:superdoublestickypistonbase.name=粘着ピストン (強化/2ブロック)
+tile.morepistons:supertriplestickypistonbase.name=粘着ピストン (強化/3ブロック)
+tile.morepistons:superquadruplestickypistonbase.name=粘着ピストン (強化/4ブロック)
+tile.morepistons:superquintuplestickypistonbase.name=粘着ピストン (強化/5ブロック)
+tile.morepistons:supersextuplestickypistonbase.name=粘着ピストン (強化/6ブロック)
+tile.morepistons:superseptuplestickypistonbase.name=粘着ピストン (強化/7ブロック)
+tile.morepistons:superoctuplestickypistonbase.name=粘着ピストン (強化/8ブロック)

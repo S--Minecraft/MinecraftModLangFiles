@@ -2,7 +2,7 @@ itemGroup.tabvanityblocks=Anarchy's VanityBlocks
 
 tile.null.charcoalblock.name=木炭ブロック
 tile.null.enderpearlblock.name=エンダ―パールブロック
-tile.null.slimeblock.name=スライムブロック（vanity）
+tile.null.slimeblock.name=スライムブロック(vanity)
 tile.null.sugarblock.name=角砂糖
 tile.null.cocoablock.name=ココアの塊
 tile.null.sugarcaneblock.name=サトウキビのブロック
@@ -15,34 +15,34 @@ tile.null.silverblock.name=銀ブロック
 tile.null.leadblock.name=鉛ブロック
 tile.null.nikoliteblock.name=ニコライトブロック
 tile.null.nickelblock.name=ニッケルブロック
-tile.null.electrumblock.name=エレクトラムブロック（要検証）
+tile.null.electrumblock.name=エレクトラムブロック(要検証)
 tile.null.platinumblock.name=白金ブロック
-tile.null.invarblock.name=インバーブロック（要検証）
-tile.null.brassblock.name=ブラスブロック（要検証）
+tile.null.invarblock.name=インバーブロック(要検証)
+tile.null.brassblock.name=ブラスブロック(要検証)
 tile.null.rubberblock.name=ゴムの塊
 
-tile.null.9xcobble.name=圧縮丸石（9倍）（vanity）
-tile.null.81xcobble.name=圧縮丸石（81倍）（vanity）
-tile.null.729xcobble.name=圧縮丸石（729倍）（vanity）
-tile.null.9xdirt.name=圧縮土（9倍）
-tile.null.81xdirt.name=圧縮土（81倍）
-tile.null.729xdirt.name=圧縮土（729倍）
-tile.null.9xsand.name=圧縮砂（9倍）
-tile.null.81xsand.name=圧縮砂（81倍）
-tile.null.729xsand.name=圧縮砂（729倍）
-tile.null.9xgravel.name=圧縮砂利（9倍）
-tile.null.81xgravel.name=圧縮砂利（81倍）
-tile.null.729xgravel.name=圧縮砂利（729倍）
+tile.null.9xcobble.name=圧縮丸石(9倍)(vanity)
+tile.null.81xcobble.name=圧縮丸石(81倍)(vanity)
+tile.null.729xcobble.name=圧縮丸石(729倍)(vanity)
+tile.null.9xdirt.name=圧縮土(9倍)
+tile.null.81xdirt.name=圧縮土(81倍)
+tile.null.729xdirt.name=圧縮土(729倍)
+tile.null.9xsand.name=圧縮砂(9倍)
+tile.null.81xsand.name=圧縮砂(81倍)
+tile.null.729xsand.name=圧縮砂(729倍)
+tile.null.9xgravel.name=圧縮砂利(9倍)
+tile.null.81xgravel.name=圧縮砂利(81倍)
+tile.null.729xgravel.name=圧縮砂利(729倍)
 
-item.greenrupee1.name=緑のルピー（1）
-item.bluerupee5.name=青のルピー（5）
-item.redrupee20.name=赤いルピー（20）
-item.biggreenrupee50.name=緑の大ルピー（50）
-item.bigbluerupee100.name=青の大ルピー（100）
-item.bigredrupee200.name=赤の大ルピー（200）
+item.greenrupee1.name=緑のルピー(1)
+item.bluerupee5.name=青のルピー(5)
+item.redrupee20.name=赤いルピー(20)
+item.biggreenrupee50.name=緑の大ルピー(50)
+item.bigbluerupee100.name=青の大ルピー(100)
+item.bigredrupee200.name=赤の大ルピー(200)
 
 item.flintitem.name=火打石専用コンテナ
-item.coalstorageitem.name=石炭専用コンテナ（8）
+item.coalstorageitem.name=石炭専用コンテナ(8)
 item.arrowstorageitem.name=矢筒
 item.blazestorageitem.name=ブレイズロッド格納筒
 
@@ -53,9 +53,9 @@ tile.null.peatblock.name=ピート塊
 
 tile.null.claybrick.name=粘土の煉瓦
 tile.null.whitesoulsand.name=白いソウルサンド
-tile.null.lapisblockold.name=ラピスラズリブロック（旧）（要検証）
-tile.null.lapisbrickold.name=ラピスラズリの煉瓦（旧）（要検証）
-tile.null.lapisbrickcurrent.name=ラピスラズリの煉瓦（現在）（要検証）
+tile.null.lapisblockold.name=ラピスラズリブロック(旧)(要検証)
+tile.null.lapisbrickold.name=ラピスラズリの煉瓦(旧)(要検証)
+tile.null.lapisbrickcurrent.name=ラピスラズリの煉瓦(現在)(要検証)
 tile.null.hiddentrapdoor.name=隠しトラップドア
 
 tile.null.lavalamp.name=溶岩ランプ
@@ -113,7 +113,7 @@ tile.null.amarblebrickslab.name=アッシュフォード黒大理石煉瓦の半
 tile.null.amarblechiseledslab.name=紋様入りのアッシュフォード黒大理石の半ブロック
 tile.null.amarblepillarslab.name=アッシュフォード黒大理石柱の半ブロック
 tile.null.amarbletileslab.name=アッシュフォード黒大理石タイルの半ブロック
-			
+
 tile.null.mwall.name=大理石壁
 tile.null.mbrickwall.name=大理石煉瓦壁
 tile.null.mchiseledwall.name=紋様入り大理石壁

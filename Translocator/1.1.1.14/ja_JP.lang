@@ -1,0 +1,8 @@
+tile.translocator|0.name=アイテム転送機
+tile.translocator|1.name=液体転送機
+item.translocator:diamondNugget.name=ダイヤモンドの欠片
+
+translocator.regulate=個数指定モード
+translocator.filter=フィルターモード
+
+key.craftingGrid=クラフトグリッド

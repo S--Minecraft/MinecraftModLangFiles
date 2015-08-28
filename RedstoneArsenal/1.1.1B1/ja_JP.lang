@@ -1,0 +1,35 @@
+#ja_JP
+
+info.redstonearsenal.tool.chargeOn=でエンパワー
+info.redstonearsenal.tool.chargeOff=で沈静化
+info.redstonearsenal.tool.energyPerUse=RF を使用ごとに消費
+info.redstonearsenal.tool.shovel=クワとしても使えます。
+info.redstonearsenal.tool.wrench=ハサミとしても使えます。
+
+item.redstonearsenal.material.dustElectrumFlux.name=フラックスエレクトラムの粉
+item.redstonearsenal.material.ingotElectrumFlux.name=フラックスエレクトラムインゴット
+item.redstonearsenal.material.nuggetElectrumFlux.name=フラックスエレクトラム塊
+item.redstonearsenal.material.gemCrystalFlux.name=フラックスクリスタル
+item.redstonearsenal.material.plateFlux.name=フラックス装甲板
+item.redstonearsenal.material.rodObsidian.name=黒曜石の棒
+item.redstonearsenal.material.rodObsidianFlux.name=フラックス注入済みの黒曜石の棒
+
+item.redstonearsenal.armor.fluxHelmet.name=フラックスヘルメット
+item.redstonearsenal.armor.fluxPlate.name=フラックスチェストプレート
+item.redstonearsenal.armor.fluxLegs.name=フラックスレギンス
+item.redstonearsenal.armor.fluxBoots.name=フラックスブーツ
+
+item.redstonearsenal.tool.fluxWrench.name=フラックスオムニレンチ
+item.redstonearsenal.tool.fluxBattleWrench.name=フラックスバトルレンチ
+item.redstonearsenal.tool.fluxSword.name=フラックスソード
+item.redstonearsenal.tool.fluxShovel.name=フラックスショベル
+item.redstonearsenal.tool.fluxPickaxe.name=フラックスツルハシ
+item.redstonearsenal.tool.fluxAxe.name=フラックスアックス
+item.redstonearsenal.tool.fluxFishingRod.name=フラックス釣り竿
+item.redstonearsenal.tool.fluxSickle.name=フラックス大鎌
+item.redstonearsenal.tool.fluxBow.name=フラックスボウ
+
+itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
+tile.redstonearsenal.storage.electrumFlux.name=フラックスエレクトラムブロック
+tile.redstonearsenal.storage.crystalFlux.name=フラックスクリスタルブロック

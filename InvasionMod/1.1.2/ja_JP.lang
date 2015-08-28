@@ -1,0 +1,44 @@
+tile.blockNexus.name=ネクサス
+
+item.phaseCrystal.name=フェーズクリスタル
+item.riftFlux.name=フラックス
+
+item.nexusCatalyst.name=ネクサス触媒
+item.infusedSword.name=フラックスソード
+item.searingBow.name=炎の弓
+item.catalystMixture.name=触媒混合物
+item.stableCatalystMixture.name=安定した触媒混合物
+item.stableNexusCatalyst.name=安定したネクサス触媒
+item.dampingAgent.name=減衰因子
+item.strongDampingAgent.name=強力な減衰因子
+item.strangeBone.name=不思議なホネ
+item.strongCatalyst.name=強力なネクサス触媒
+item.engyHammer.name=技術者のハンマー
+nexusAdjuster.name=ネクサス調整器
+materialProbe.name=物質検査針
+emptyTrap.name=空のトラップ
+riftTrap.name=裂け目のトラップ (アクティブ)
+flameTrap.name=炎のトラップ (アクティブ)
+item.smallRemnants.name=小さな残留物
+item.debugWand.name=デバッグ用杖
+
+itemGroup.invasionTab=Invasion MOD
+
+entity.IMZombie.name=ゾンビ
+entity.IMZombiePigman.name=ゾンビピッグマン
+entity.IMSkeleton.name=スケルトン
+entity.IMSpider.name=クモ
+entity.IMPigEngy.name=ピッグマンエンジニア
+entity.IMBird.name=鳥
+entity.IMThrower.name=スローワー
+entity.IMWolf.name=オオカミ
+entity.IMCreeper.name=クリーパー
+entity.IMGiantBird.name=ハゲワシ
+entity.IMBoulder.name=ボールダー
+entity.IMEgg.name=クモのタマゴ
+entity.IMTrap.name=トラップ
+entity.IMImp.name=インプ
+
+invmod.waila.status.active=状態: 活性化
+invmod.waila.status.deactivated=状態: 不活性化
+invmod.waila.wavenumber=レベル: 

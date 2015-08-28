@@ -1,0 +1,127 @@
+item.bulletThrowable.name=投擲可能な弾丸
+item.grenadeThrowable.name=投擲可能なグレネード
+item.bulletCraftable.name=弾薬 - 弾丸
+item.grenadeCraftable.name=弾薬 - グレネード
+item.rocketCraftable.name=弾薬 - ロケット弾
+item.ferroSlug.name=弾薬 - 強磁性弾
+item.upgFire.name=アップグレード - 射撃速度
+item.upgEff.name=アップグレード - 効率
+item.upgRan.name=アップグレード - 範囲
+item.upgAcc.name=アップグレード - 精度
+item.addonReactor.name=アドオン - レッドストーンリアクター
+item.addonDam.name=アドオン - ダメージブースト
+item.addonSolar.name=アドオン - ソーラー発電機
+item.configTablet.name=砲台ターゲット設定デバイス
+item.sensorOne.name=センサー (1段階)
+item.sensorTwo.name=センサー (2段階)
+item.sensorThree.name=センサー (3段階)
+item.sensorFour.name=センサー (4段階)
+item.chamber.name=薬室
+item.barrel.name=砲身
+item.ioBus.name=入出力バス
+item.containmentChamber.name=封じ込め薬室
+item.energeticBarrel.name=エネルギーで満ちた砲身
+
+tile.baseTierWood.name=木砲台ベース
+tile.baseTierOneBlock.name=鉛石砲台ベース
+tile.baseTierTwoBlock.name=強化砲台ベース
+tile.baseTierThreeBlock.name=硬化砲台ベース
+tile.baseTierFourBlock.name=共振砲台ベース
+tile.disposeItemTurret.name=使い捨てアイテム砲台
+tile.rocketTurret.name=ロケットランチャー砲台
+tile.machineGunTurret.name=マシンガン砲台
+tile.grenadeTurret.name=グレネードランチャー砲台
+tile.laserTurret.name=レーザー砲台
+tile.railGunTurret.name=レールガン砲台
+tile.leverBlock.name=基本砲台ベースクランク
+
+itemGroup.openmodularturrets=Open Modular Turrets
+
+tooltip.tier=段階
+tooltip.range=範囲 (ブロック内)
+tooltip.accuracy=精度
+tooltip.ammo=弾薬の種類
+tooltip.tierRequired=基本最小段階
+tooltip.damage.label=ダメージ出力
+tooltip.damage.stat=発射体ダメージ
+tooltip.aoe=効果エリア半径
+tooltip.firerate=発/秒
+tooltip.energy.stat=1発ごとのエネルギー使用量
+tooltip.info=情報
+tooltip.health=耐久度
+
+tooptip.energy.label=エネルギー
+tooltip.rf.max=最大容量
+tooltip.rf.io=最大入出力
+tooltip.extras.label=補足
+tooltip.extras.addons.0=なし
+tooltip.extras.addons.1=アドオンスロットx1
+tooltip.extras.addons.2=アドオンスロットx2
+tooltip.extras.upgrade.0=なし
+tooltip.extras.upgrade.1=アップグレードスロットx1
+tooltip.extras.upgrade.2=アップグレードスロットx2
+
+flavour.base.0=火薬は乾燥し、そして私には家がない。
+flavour.base.1=私はあなたの血を引いているだろう。
+flavour.base.2=私は良い日と言ったのであります！！
+flavour.base.3=攻撃しろ！
+flavour.base.4a=全ての王の馬、そして
+flavour.base.4b=全ての王たる男に…
+
+flavour.turret.0=貧乏人の睡眠を援助。
+flavour.turret.1=TRRRAA!! TRRAATRRAA!!
+flavour.turret.2a=別の例は馬人の誘導型形態です。
+flavour.turret.2b=誘導型形態です。
+flavour.turret.3=シュー…ドカーン
+flavour.turret.4=テスラは誇りに思うだろう。
+flavour.turret.5=大きなフザけた銃。
+
+turret.accuracy.low=低
+turret.accuracy.medium=中
+turret.accuracy.high=高
+turret.accuracy.exact=ピンポイント
+
+turret.ammo.0=任意のブロック/アイテム
+turret.ammo.1=弾丸
+turret.ammo.2=グレネード
+turret.ammo.3=ホーミングロケット弾
+turret.ammo.4=なし
+turret.ammo.5=強磁性弾
+
+base.tier.0=基本
+base.tier.1=鉛石
+base.tier.2=強化
+base.tier.3=硬化
+base.tier.4=共振
+
+turret.addon.label=砲台アドオン
+turret.addon.amp.a.label=1発ごとに
+turret.addon.amp.b.label=ダメージを追加。
+turret.addon.amp.flavour=ここでは私達はジャガーノートだ。
+turret.addon.redstone.a=弾薬インベントリ内のレッドストーン粉塵1個につき
+turret.addon.redstone.b=RF
+turret.addon.redstone.c=を生成します。
+turret.addon.redstone.flavour=昇華、洗練されました。
+turret.addon.solar.a=日光の下で
+turret.addon.solar.b=RF/t 生成します。
+turret.addon.solar.flavour=グッドヘリオス！
+
+turret.upgrade.label=砲台アップグレード
+turret.upgrade.stacks=4回までスタック可能。
+
+turret.upgrade.range=ブロック、範囲を追加 (1アップグレードごとに)。
+turret.upgrade.range.flavour=あなたは私にフォークを渡すのだろうか？
+
+turret.upgrade.rof=発射速度を追加 (1アップグレードごとに)。
+turret.upgrade.rof.flavour=時間消費者、時間がかかります。
+
+turret.upgrade.eff=RF/発 消費 (1アップグレードごとに)。
+turret.upgrade.eff.flavour=見つけた！
+
+turret.upgrade.acc=の精度追加 (1アップグレードごとに)。
+turret.upgrade.acc.flavour.a=目の良いスナイパー、
+turret.upgrade.acc.flavour.b=私は撃つぞ、あなたは走れ。
+
+status.ownership=この砲台の所有者ではありません
+status.missingBase=そこには砲台ベースがありません。
+status.warning=あなたは砲台の守備範囲に侵入しています。各自の責任で続行してください。

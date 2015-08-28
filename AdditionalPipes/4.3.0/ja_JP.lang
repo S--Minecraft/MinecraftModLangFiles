@@ -1,0 +1,22 @@
+tile.TeleportTether.name=テレポートテーザー
+item.PipeItemsAdvancedInsertion.name=挿入パイプ
+item.PipeItemsAdvancedWood.name=木パイプ改
+item.PipeItemsDistributor.name=分配パイプ
+item.PipeItemsClosed.name=閉めたパイプ [WIP]
+item.PipeItemsTeleport.name=アイテムテレポートパイプ
+item.PipeLiquidsTeleport.name=防水テレポートパイプ
+item.PipePowerTeleport.name=エネルギーテレポートパイプ
+item.PipeSwitchPower.name=赤石スイッチパイプ
+item.PipeSwitchFluids.name=防水スイッチパイプ
+item.PipeSwitchItems.name=アイテムスイッチパイプ
+item.PipeLiquidsWaterPump.name=水ポンプパイプ
+item.PipeItemsAddition.name=増加のパイプ
+item.PipeItemsPriorityInsertion.name=優先分配パイプ
+
+gui.pipeItemsDistributor=分配パイプ
+gui.pipeItemsPriorityInsertion=優先分配パイプ
+gui.PipeItemsAdvancedWood=木パイプ改
+
+key.lasers=チャンクの境界を表示
+
+tip.ItemPipeAP=No more long pipelines!

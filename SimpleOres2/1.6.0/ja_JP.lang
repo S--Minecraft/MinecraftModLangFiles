@@ -1,0 +1,127 @@
+//blocks
+tile.copper_ore.name=銅鉱石
+tile.copper_block.name=銅ブロック
+tile.tin_ore.name=錫鉱石
+tile.tin_block.name=錫ブロック
+tile.mythril_ore.name=ミスリル鉱石
+tile.mythril_block.name=ミスリルブロック
+tile.adamantium_ore.name=アダマンチウム鉱石
+tile.adamantium_block.name=アダマンチウムブロック
+tile.onyx_ore.name=オニキス鉱石
+tile.onyx_block.name=オニキスブロック
+
+//Items
+item.copper_ingot.name=銅インゴット
+item.tin_ingot.name=錫インゴット
+item.mythril_ingot.name=ミスリルインゴット
+item.adamantium_ingot.name=アダマンチウムインゴット
+item.onyx_gem.name=オニキス
+item.copper_bucket.name=銅のバケツ
+item.copper_bucket_water.name=銅の水入りバケツ
+item.mythril_rod.name=ミスリルの棒
+item.onyx_rod.name=オニキスの棒
+
+//Tools
+item.copper_pickaxe.name=銅のツルハシ
+item.copper_axe.name=銅の斧
+item.copper_shovel.name=銅のシャベル
+item.copper_sword.name=銅の剣
+item.copper_hoe.name=銅のクワ
+item.tin_pickaxe.name=錫のツルハシ
+item.tin_axe.name=錫の斧
+item.tin_shovel.name=錫のシャベル
+item.tin_sword.name=錫の剣
+item.tin_hoe.name=錫のクワ
+item.mythril_pickaxe.name=ミスリルのツルハシ
+item.mythril_axe.name=ミスリルの斧
+item.mythril_shovel.name=ミスリルのシャベル
+item.mythril_sword.name=ミスリルの剣
+item.mythril_hoe.name=ミスリルのクワ
+item.adamantium_pickaxe.name=アダマンチウムのツルハシ
+item.adamantium_axe.name=アダマンチウムの斧
+item.adamantium_shovel.name=アダマンチウムのシャベル
+item.adamantium_sword.name=アダマンチウムの剣
+item.adamantium_hoe.name=アダマンチウムのクワ
+item.onyx_pickaxe.name=オニキスのツルハシ
+item.onyx_axe.name=オニキスの斧
+item.onyx_shovel.name=オニキスのシャベル
+item.onyx_sword.name=オニキスの剣
+item.onyx_hoe.name=オニキスのクワ
+item.mythril_bow.name=ミスリルの弓
+item.onyx_bow.name=オニキスの弓
+item.tin_shears.name=錫のハサミ
+item.adamantium_shears.name=アダマンチウムのハサミ
+item.onyx_shears.name=オニキスのハサミ
+
+//Armor
+item.copper_helmet.name=銅のヘルメット
+item.copper_chestplate.name=銅のチェストプレート
+item.copper_leggings.name=銅のレギンス
+item.copper_boots.name=銅のブーツ
+item.tin_helmet.name=錫のヘルメット
+item.tin_chestplate.name=錫のチェストプレート
+item.tin_leggings.name=錫のレギンス
+item.tin_boots.name=錫のブーツ
+item.mythril_helmet.name=ミスリルのヘルメット
+item.mythril_chestplate.name=ミスリルのチェストプレート
+item.mythril_leggings.name=ミスリルのレギンス
+item.mythril_boots.name=ミスリルのブーツ
+item.adamantium_helmet.name=アダマンチウムのヘルメット
+item.adamantium_chestplate.name=アダマンチウムのチェストプレート
+item.adamantium_leggings.name=アダマンチウムのレギンス
+item.adamantium_boots.name=アダマンチウムのブーツ
+item.onyx_helmet.name=オニキスのヘルメット
+item.onyx_chestplate.name=オニキスのチェストプレート
+item.onyx_leggings.name=オニキスのレギンス
+item.onyx_boots.name=オニキスのブーツ
+
+//Achievements
+achievement.copperAch=impleOresへようこそ！
+achievement.copperAch.desc=いくつかの銅を見つけることによってSimpleOresの冒険が始まる
+achievement.tinAch=銀ではない
+achievement.tinAch.desc=これを見つけるのはそこまで難しくない
+achievement.mythrilAch=なんて可愛いんだ！
+achievement.mythrilAch.desc=地下深くを掘ってミスリル鉱石を見つける
+achievement.adamantiumAch=緑が良い
+achievement.adamantiumAch.desc=電光石火の速さだ！
+achievement.onyxAch=忍者の鉱石
+achievement.onyxAch.desc=いくつかの幸運を見つける
+
+achievement.copperPickAch=アップグレード II？
+achievement.copperPickAch.desc=石よりはマシだと思うが...
+achievement.copperBucketAch=注意: 溶岩には使用するな
+achievement.copperBucketAch.desc=鉄を節約するために銅のバケツを作る
+achievement.tinChestplateAch=白騎士
+achievement.tinChestplateAch.desc=現実的ではないがとりあえず試してみよう
+achievement.tinShearsAch=誰がこれを使う？
+achievement.tinShearsAch.desc=通常のハサミではあまり長く持たない
+achievement.mythrilAxeAch=今、私達は話してる
+achievement.mythrilAxeAch.desc=鉄を大幅に改善するためにミスリルの斧を作る
+achievement.mythrilBowAch=ミスリルの弓
+achievement.mythrilBowAch.desc=魔法の特性を持つ新しい弓を作る
+achievement.adamantiumLegsAch=着飾る
+achievement.adamantiumLegsAch.desc=アダマンチウムのレギンスのスタイリッシュのペアで群衆から目立つ
+achievement.adamantiumShearsAch=終わりのないヒツジの毛刈り
+achievement.adamantiumShearsAch.desc=最終的にはハサミが全く壊れなくなる！
+achievement.onyxSwordAch=絶対Ownageだ
+achievement.onyxSwordAch.desc=オニキスの剣を作る あなたの敵は恐怖に怯えるでしょう
+achievement.onyxBowAch=放火犯
+achievement.onyxBowAch.desc=この地獄から弓を使って直接敵を焦がす
+
+//Tab Names
+itemGroup.simpleOresBlocks=SimpleOres ブロック
+itemGroup.simpleOresDecorations=SimpleOres 装飾
+itemGroup.simpleOresTools=SimpleOres 道具
+itemGroup.simpleOresCombat=SimpleOres 戦闘
+itemGroup.simpleOresMaterials=SimpleOres 材料
+
+//Bow Tooltips
+tips.damageTooltip=+ダメージ
+tips.flameTooltip=+フレイム
+tips.knockbackTooltip=+ノックバック
+tips.zoomTooltip=+ズーム
+tips.efficiencyTooltip=+効率強化
+
+//Updater
+simplecore.updateMessage1=§3SimpleCore API §rのバージョンが古くなっています 現在の最新バージョンは§c
+simplecore.updateMessage2=§rです §9http://bit.ly/SimpleOres からダウンロードして更新してください

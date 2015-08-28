@@ -1,0 +1,44 @@
+openeye.main_screen.remove_file=OpenEyeはファイルの削除を示唆しています
+openeye.main_screen.known_crash=OpenEyeには最近のクラッシュに関する情報を1つ以上あります
+openeye.main_screen.crash_reported=クラッシュはサーバーに保存されました
+openeye.main_screen.intro=慌てないでください！何が起きているか調べるために、点滅しているボタンをクリックしてください
+
+openeye.notes.goto_page=URLに移動
+
+openeye.notes.title.resolved_crash=サイト上で利用できる最新のクラッシュのための解決策
+openeye.notes.title.reported_crash=クラッシュレポートはサーバーに送信されます
+openeye.notes.title.note=ファイル「%s」に関する注意
+openeye.notes.title.remove_file=ファイルのリコール要求: %s
+
+openeye.notes.content.remove_file=ファイル「%s」は無効であるか不審な内容を含んでいる可能性があるので、OpenEyeはこのファイルを削除することを推奨します 詳細についてはウェブサイトに移動してください
+
+openeye.note.title.intro1=Open Eyeへようこそ
+openeye.note.content.intro1=OpenEyeは、modの使用状況とクラッシュレポートに関する匿名データを収集するユーティリティです
+
+openeye.note.title.intro2=統計情報
+openeye.note.content.intro2=この項目を選択し、このツールで収集された統計情報を表示するには、「URLに移動」をクリックしてください その他の項目もURLが割り当てられています
+
+openeye.note.title.intro3=収集されたデータ
+openeye.note.content.intro3=こちらのURLには、OpenEyeによって収集されたデータの要約が含まれています
+
+openeye.note.title.intro4=ローカルデータ
+openeye.note.content.intro4=OpenEyeは、あなたのMinecraftのインストールディレクトリ内にすべての送受信した情報をレポートフォルダに格納します そのフォルダを開くには、「URLに移動」をクリックしてください
+
+openeye.note.title.intro5=ソースコード
+openeye.note.content.intro5=OpenEyeはオープンソースのmodです GitHub上でソースコードを利用することが可能です
+
+openeye.note.title.intro6=無効化 & 設定
+openeye.note.content.intro6=OpenEyeは、バニラスパイ設定を使用しています このことに満足できない場合は、問題なくこのmodを削除することができます
+
+openeye.chat.note=%sタイプに注意: %s
+openeye.chat.store_failed=ノートを保存することができませんでした！
+openeye.chat.dumped=ノートはファイル「%s」にダンプされました
+
+openeye.category.critical=重要
+openeye.category.alert=アラート
+openeye.category.warning=警告
+openeye.category.info=情報
+openeye.category.system_info=システム情報
+openeye.category.remove_file=ファイルを削除
+openeye.level.reported_crash=クラッシュが報告されました
+openeye.level.resolved_crash=クラッシュが解決されました

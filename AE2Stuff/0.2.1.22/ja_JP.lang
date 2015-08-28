@@ -1,0 +1,6 @@
+tile.ae2stuff.Encoder.name=パターンエンコーダ
+tile.ae2stuff.Grower.name=クリスタル成長機
+
+ae2stuff.error.not_connected=ネットワークに接続されていません
+
+itemGroup.bdew.ae2stuff=AE2 Stuff
