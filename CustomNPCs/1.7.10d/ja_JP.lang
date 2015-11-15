@@ -1,12 +1,13 @@
 customnpcs.defaultTextColor=404040
 
 entity.CustomNpc.name=Custom Npc
+entity.customnpcs.CustomNpc.name=Custom Npc
 
-itemGroup.cnpcs=CustomNpcs 道具
-itemGroup.cnpcsw=CustomNpcs 武器
-itemGroup.cnpcsb=CustomNpcs ブロック
-itemGroup.cnpcsa=CustomNpcs 防具
-itemGroup.cnpcsm=CustomNpcs その他
+itemGroup.cnpcs=CustomNpcs - 道具
+itemGroup.cnpcsw=CustomNpcs - 武器
+itemGroup.cnpcsa=CustomNpcs - 防具
+itemGroup.cnpcsb=CustomNpcs - ブロック
+itemGroup.cnpcsm=CustomNpcs - その他
 
 tile.npcRedstoneBlock.name=レッドストーンブロック
 tile.npcCarpentyBench.name=木工ベンチ
@@ -115,6 +116,7 @@ gui.showmore=詳細を表示
 gui.update=アップデート
 gui.disabled=無効
 gui.editor=エディター
+gui.playernearby=プレイヤーの近く
 
 remote.title=近くのNPC
 remote.reset=リセット
@@ -175,6 +177,7 @@ inv.maxExp=最大経験値
 inv.npcInventory=NPCインベントリ
 inv.inventory=インベントリ
 inv.dropChance=ドロップ率
+inv.auto=アイテムの自動収集
 
 availability.options=可用性オプション
 availability.always=常時
@@ -199,7 +202,7 @@ availability.permission=これを行うための権限がありません
 availability.editIcon=10秒間、任意のアイテムのアイコンを右クリックで設定することができます
 
 spawning.availableBiomes=利用可能なバイオーム
-spawning.spawningBiomes=スポーンバイオーム
+spawning.spawningBiomes=スポーンするバイオーム
 spawning.biomes=バイオーム
 spawning.weightedChance=加重率
 
@@ -263,8 +266,8 @@ stats.melee=近接
 stats.regenhealth=体力回復
 stats.combatregen=吸血
 stats.naturallydespawns=自然にデスポーン
-stats.aimWhileShooting=射撃しながら接近
-stats.potionImmune=ポータル耐性
+stats.aimWhileShooting=射撃しながら焦点を合わせる
+stats.potionImmune=ポーション耐性
 stats.attackInvisible=目に見えない攻撃
 
 stats.size=大きさ
@@ -350,8 +353,8 @@ global.banks=銀行
 global.transport=運送
 global.playerdata=プレイヤーデータ
 global.recipes=レシピ
-global.naturalspawn=自然スポーン
-global.linked=リンク
+global.naturalspawn=自然にスポーン
+global.linked=リンク済み
 
 bank.slot=スロット
 bank.unlock=アンロック
@@ -386,7 +389,7 @@ bard.jukebox=ジュークボックスとして再生
 bard.background=BGMとして再生
 bard.ondistance=聞こえる距離
 bard.offdistance=小さくなる距離
-bard.hasoff=音が小さくなるか
+bard.hasoff=音が小さくなる距離
 
 dialog.dialog=ダイアログ
 dialog.dialogs=ダイアログ
@@ -876,6 +879,7 @@ movement.animation=アニメーション
 movement.rotation=回転
 movement.body=本体
 movement.manual=手動
+movement.stalking=忍び歩き
 movement.stalking=忍び歩き
 movement.head=頭
 movement.pauses=一時停止

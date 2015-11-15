@@ -1,0 +1,42 @@
+openmodslib.command.no_enough_args=引数が不十分です
+openmodslib.command.unknown_modid=未知のMod IDです
+openmodslib.command.unknown_value=未知の設定値です
+openmodslib.command.saved=%sに設定を保存しました
+openmodslib.command.not_multiple=このプロパティは複数の値を受け付けません
+openmodslib.command.online_change=設定のプロパティが変更されました 新しい値を使用してください
+openmodslib.command.offline_change=設定のプロパティが変更されました 新しい値は再起動後に適応されます
+openmodslib.command.cancelled=設定の変更がキャンセルされました！
+openmodslib.command.unknown_error=設定プロパティの変更中に不明なエラーが発生しました: %s
+openmodslib.command.invalid_command=無効なコマンド「%s」
+openmodslib.command.invalid_type=%sに%sの値を変換できません
+openmodslib.command.invalid_class_name=%sは無効なクラス名です
+openmodslib.command.unknown_error_details=不明なエラーが発生しました 詳細についてはログをチェックしてください
+openmodslib.command.class_source=クラス「%s」に「%s」がロードされました
+openmodslib.command.api_class=API情報: 名前='%s'、Mod作者='%s'、バージョン='%s'
+openmodslib.command.class_provider=クラスファイル%sから提供されました (Mod: %s)
+
+openmodslib.color.black=黒色
+openmodslib.color.red=赤色
+openmodslib.color.green=緑色
+openmodslib.color.brown=茶色
+openmodslib.color.blue=青色
+openmodslib.color.purple=紫色
+openmodslib.color.cyan=水色
+openmodslib.color.lightGray=薄灰色
+openmodslib.color.gray=灰色
+openmodslib.color.pink=桃色
+openmodslib.color.lime=黄緑色
+openmodslib.color.yellow=黄色
+openmodslib.color.lightBlue=空色
+openmodslib.color.magenta=赤紫色
+openmodslib.color.orange=橙色
+openmodslib.color.white=白色
+
+
+openmodslib.locale.book.scale.pageNumber=0.5
+openmodslib.locale.book.scale.sectionTitle=2.0
+openmodslib.locale.book.scale.pageTitle=1.0
+openmodslib.locale.book.scale.pageContent=0.5
+
+openmodslib.locale.book.lineSpace.titledPage=2
+openmodslib.locale.book.lineSpace.recipePage=4

@@ -1,0 +1,47 @@
+#ja_JP By Tier
+tile.TeleportTether.name=テレポートテーザー
+item.PipeItemsAdvancedInsertion.name=挿入パイプ
+item.PipeItemsAdvancedWood.name=木パイプ改
+item.PipeItemsDistributor.name=分配パイプ
+item.PipeItemsClosed.name=閉めたパイプ [WIP]
+item.PipeItemsTeleport.name=アイテムテレポートパイプ
+item.PipeLiquidsTeleport.name=防水テレポートパイプ
+item.PipePowerTeleport.name=エネルギーテレポートパイプ
+item.PipeSwitchPower.name=赤石スイッチパイプ
+item.PipeSwitchFluids.name=防水スイッチパイプ
+item.PipeSwitchItems.name=アイテムスイッチパイプ
+item.PipeLiquidsWaterPump.name=水ポンプパイプ
+item.PipeItemsAddition.name=増加のパイプ
+item.PipeItemsPriorityInsertion.name=優先分配パイプ
+item.PipeItemsGravityFeed.name=重力パイプ
+item.PipeItemsAddition.name=追加の輸送パイプ
+item.PipeLiquidsObsidian.name=黒曜石の防水パイプ
+item.PipeItemsJeweled.name=宝石のパイプ
+
+#regular items & blocks
+#no idea how to translate "deaggravator".  Maybe "落ち着く物"?
+item.dogDeaggravator.name=犬 Deaggravator
+
+gui.pipeItemsDistributor=分配パイプ
+gui.pipeItemsPriorityInsertion=優先分配パイプ
+gui.PipeItemsAdvancedWood=木パイプ改
+gui.jeweled_pipe=宝石のパイプ
+
+#tab names for the Jeweled Pipe GUI
+gui.tab.up=上
+gui.tab.down=下
+gui.tab.north=北
+gui.tab.south=南
+gui.tab.east=東
+gui.tab.west=西
+
+gui.match=
+gui.NBT=タグ
+gui.metadata=メタデータ
+gui.acceptUnsorted=分配失敗
+
+itemGroup.buildcraft.apcreativetab=Additional Pipes
+
+key.lasers=Chunk load boundaries
+
+tip.teleportPipe=長い導管が必要なんじゃない！

@@ -1,0 +1,25 @@
+entity.DragonMounts.DragonMount.air.name=天龍
+entity.DragonMounts.DragonMount.end.name=エンダ―ドラゴン
+entity.DragonMounts.DragonMount.fire.name=炎龍
+entity.DragonMounts.DragonMount.ghost.name=幽龍
+entity.DragonMounts.DragonMount.ice.name=氷龍
+entity.DragonMounts.DragonMount.name=エンダ―ドラゴン
+entity.DragonMounts.DragonMount.nether.name=地獄龍
+entity.DragonMounts.DragonMount.water.name=青龍
+entity.DragonMounts.DragonMount.forest.name=地龍
+
+commands.dragon.nodragons=ドラゴンが周囲にいません。
+commands.dragon.canttame=ドラゴンを手なずけられません
+
+dragon.lifeStage.egg=ドラゴンの卵
+dragon.lifeStage.hatchling=幼龍
+dragon.lifeStage.juvenile=子龍
+dragon.lifeStage.adult=成龍
+dragon.owned=このドラゴンはあなたの言うことを聞かないようだ。
+dragon.mountNotice= %s で上昇、 %s で下降します
+
+key.categories.dragonmount=ドラゴンのコントロール
+key.dragon.flyUp=上昇
+key.dragon.flyDown=下降
+
+attribute.name.generic.movementSpeedAir=速度 (滞空)

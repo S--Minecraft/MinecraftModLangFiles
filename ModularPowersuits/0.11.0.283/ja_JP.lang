@@ -1,0 +1,168 @@
+Made by users: otkum
+Last edited on ---
+
+tile.luxCapacitor.name=ラックスコンデンサ
+tile.tinkerTable.name=パワーアーマー調整台
+
+itemGroup.powersuits=Modular Powersuits
+
+item.powerArmorBoots.name=パワーアーマーブーツ
+item.powerArmorLeggings.name=パワーアーマーレギンス
+item.powerArmorChestplate.name=パワーアーマーチェストプレート
+item.powerArmorHelmet.name=パワーアーマーヘルメット
+item.powerFist.name=パワーフィスト
+
+item.powerArmorComponent.componentWiring.name=結線
+item.powerArmorComponent.componentSolenoid.name=電磁石
+item.powerArmorComponent.componentServo.name=サーボモータ
+item.powerArmorComponent.componentGliderWing.name=グライダーの翼
+item.powerArmorComponent.componentIonThruster.name=イオンエンジン
+item.powerArmorComponent.componentLVCapacitor.name=LVコンデンサ
+item.powerArmorComponent.componentMVCapacitor.name=MVコンデンサ
+item.powerArmorComponent.componentHVCapacitor.name=HVコンデンサ
+item.powerArmorComponent.componentParachute.name=パラシュート
+item.powerArmorComponent.componentPlatingBasic.name=表面被覆材
+item.powerArmorComponent.componentPlatingAdvanced.name=上位表面被覆材
+item.powerArmorComponent.componentFieldEmitter.name=フォースフィールドエミッター
+item.powerArmorComponent.componentLaserEmitter.name=ホログラムエミッター
+item.powerArmorComponent.componentCarbonMyofiber.name=カーボンの筋繊維
+item.powerArmorComponent.componentControlCircuit.name=制御回路
+item.powerArmorComponent.componentMyofiberGel.name=筋線維ゲル
+item.powerArmorComponent.componentArtificialMuscle.name=人工筋肉
+
+module.basicPlating.name=鉄の被覆材
+module.diamondPlating.name=ダイヤの被覆材
+module.energyShield.name=エネルギーシールド
+module.heatSink.name=ヒートシンク
+module.axe.name=斧
+module.pickaxe.name=ツルハシ
+module.shovel.name=シャベル
+module.shears.name=ハサミ
+module.hoe.name=クワ
+module.luxCapacitor.name=ラックスコンデンサ
+module.omniwrench.name=万能オムニレンチ
+module.fieldTinkerer.name=携帯調整台
+module.meleeAssist.name=剛腕
+module.plasmaCannon.name=プラズマキャノン
+module.railgun.name=レールガン
+module.bladeLauncher.name=ブレードランチャー
+module.basicBattery.name=バッテリー
+module.eliteBattery.name=エリートバッテリー
+module.advancedBattery.name=上位バッテリー
+module.parachute.name=パラシュート
+module.glider.name=グライダー
+module.jetpack.name=ジェットパック
+module.sprintAssist.name=歩行アシスト
+module.jumpAssist.name=ジャンプアシスト
+module.swimAssist.name=水泳アシスト
+module.climbAssist.name=登坂アシスト
+module.jetBoots.name=ジェットブースト
+module.shockAbsorber.name=衝撃吸収
+module.waterElectrolyzer.name=酸素供給
+module.binoculars.name=双眼鏡
+module.nightVision.name=暗視スコープ
+module.flightControl.name=飛行制御
+module.invisibility.name=光学迷彩
+module.blinkDrive.name=テレポート
+module.diamondPickUpgrade.name=ダイヤモンドドリルアップグレード
+module.aquaAffinity.name=水中採掘
+module.coolingSystem.name=冷却装置
+module.tint.name=カスタムカラーモジュール
+module.transparentArmor.name=透明アーマー
+module.cosmeticGlow.name=発光モジュール
+module.mffsFieldTeleporter.name=MFFSフィールドテレポーター
+module.grafter.name=接木
+module.scoop.name=スコープ
+module.apiaristArmor.name=養蜂家アーマー
+module.hazmat.name=放射線遮蔽
+module.redstoneLaser.name=レッドストーンレーザー
+module.aurameter.name=オーラメーター
+module.airtightSeal.name=気密封止
+module.citizenJoe.name=スタイルチェンジャー
+module.sonicWeapon.name=音響波
+
+module.basicPlating.desc=重量はあるが、ある程度ダメージを軽減する
+module.diamondPlating.desc=鉄の被覆材よりも軽く、硬く、ダメージの軽減量もあがるが 作製するのは困難
+module.energyShield.desc=ダイヤの被覆材よりもさらに軽いが、エネルギーを消費する
+module.heatSink.desc=被覆材の層を厚くして熱を吸収する
+module.axe.desc=樹木を伐採することができる
+module.pickaxe.desc=鉱石などの硬いブロックを容易に採掘できる
+module.shovel.desc=土や砂などの柔らかいブロックを容易に採掘できる
+module.shears.desc=葉、羊毛、つるを刈り取れる
+module.hoe.desc=広範囲を耕せる
+module.luxCapacitor.desc=光源となるブロックを事実上無限に発射できる
+module.omniwrench.desc=ほぼすべてのModに対応したレンチを扱える
+module.fieldTinkerer.desc=モジュールのインストールやサルベージはできないが 調整台がなくとも簡単な調整ができる
+module.meleeAssist.desc=パンチの攻撃力があがるが、少し当たりにくくなる
+module.plasmaCannon.desc=空気をプラズマ化して電気の球を発射できる
+module.railgun.desc=磁力を用いて音速の弾丸を発射できるが、反動が大きい
+module.bladeLauncher.desc=回転しながら飛ぶ鋸歯状の円を発射できる ダメージの付与や羊毛の刈り取りが可能
+module.basicBattery.desc=バッテリーを積載してエネルギーを貯蔵できる
+module.advancedBattery.desc=先進的なバッテリーを積載してエネルギーの貯蔵できる
+module.eliteBattery.desc=最先端のバッテリーを積載して大量のエネルギーを貯蔵できる
+module.parachute.desc=落下速度を低減できる。Shiftキーでパラシュートを開く
+module.glider.desc=落下中に前進しながらゆっくり降下できる Shift + 前進キーでグライダーを開く
+module.jetpack.desc=エネルギーが尽きない限り永久的に飛行ができる
+module.sprintAssist.desc=歩行やダッシュでの移動速度が上昇する
+module.jumpAssist.desc=ジャンプ力が上昇する
+module.swimAssist.desc=イオンスラスターを装着することによって 水中で容易に移動ができる
+module.climbAssist.desc=専用のサーボモータによって 1mの高さの段差を楽々ジャンプすることができる
+module.jetBoots.desc=ジェットパックほど威力はないが 重力に抵抗するには十分な威力で飛行できる
+module.shockAbsorber.desc=サーボモータやバネ、衝撃吸収素材を用いて 落下ダメージを軽減できる
+module.waterElectrolyzer.desc=酸素不足になると、このモジュールが周りの水に衝撃を与えて その際に発生した泡を電気分解して酸素に変換できる
+module.nightVision.desc=夜や水中で辺りを暗視して確認できる
+module.binoculars.desc=ズームをするためだけにOptifineを導入している人も少なくはなかろう そんな問題はこのモジュールで解決だ
+module.flightControl.desc=飛行の操作性がよりよくなる Zで降下
+module.invisibility.desc=周囲に自分が感知できないようなホログラムを発生させて 自分を見えなくする
+module.blinkDrive.desc=空間と時間を歪ませて、視点の先へとテレポートできる
+module.diamondPickUpgrade.desc=ダイヤモンドを組み込み、黒曜石の採掘を可能にする *ツルハシのモジュールが必要*
+module.aquaAffinity.desc=水中での採掘速度低下を軽減する
+module.coolingSystem.desc=熱の冷却速度をより速くする
+module.tint.desc=アーマーの色をカスタマイズできる
+module.transparentArmor.desc=プレイヤーのスキンに変化を与えずにアーマーを透明にできる
+module.cosmeticGlow.desc=アーマーの輝き具合を調整できる
+module.hazmat.desc=電気や放射能汚染から身を守る *すべてのアーマーに必要*
+module.aurameter.desc=ヘルメットにThaumic goggleを埋め込む (Visの消費量は見れない)
+module.airtightSeal.desc=シールをアーマーに貼り、他の惑星へ旅立つ際の気圧に耐えられる
+module.grafter.desc=ForestryのGrafterをパワーツールとして組み込める
+module.scoop.desc=ForestryのScoopをパワーツールとして組み込める
+module.apiaristArmor.desc=養蜂用の防護服をアーマーにセットできる
+module.chisel.desc=ブロックを彫刻することはできないが、収穫することができる
+
+gui.noModulesFound.line1=インベントリにModular Powersuitの
+gui.noModulesFound.line2=アイテムが見つかりません
+
+gui.red=赤色
+gui.green=緑色
+gui.blue=青色
+
+gui.install=インストール
+gui.salvage=サルベージ
+
+gui.newKeybind=新規
+gui.trashKeybind=削除
+gui.pressKey=指定するキーを押してください
+gui.keybindInstructions1=関連付けるたキーを指定するには「新規」を押してください
+gui.keybindInstructions2=モジュールをそのキーにドラッグ&ドロップすることで関連付けられます
+gui.keybindInstructions3=キーを削除するには「削除」の場所にキーをドロップしてください
+gui.keybindInstructions4=キーを右クリックすることで、関連付けたキーをHUDとして表示させることができます
+gui.keybindTaken=完了!
+
+gui.tab.tinker=調整
+gui.tab.keybinds=関連付け
+gui.tab.visual=外観
+
+gui.equippedTotals=合計装備
+gui.energyStorage=エネルギーストレージ
+gui.weight=重量
+gui.armor=アーマー
+
+nei.jsonShaped=JSON Shaped
+
+tooltip.pressShift=Shiftキーを押して詳細表示
+tooltip.componentTooltip=調整台で使用可能
+tooltip.changeModes=モード変更: スニーク + マウスホイール
+tooltip.energy=エネルギー:
+tooltip.noModules=モジュール未インストール。調整台でモジュールをインストールできます
+tooltip.installedModules=インストール済みのモジュール:
+tooltip.mode=モード:

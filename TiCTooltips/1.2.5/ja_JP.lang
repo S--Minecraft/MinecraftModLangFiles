@@ -1,0 +1,91 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=%s 長押しで表示
+tictooltips.hold.key.for.materials=%s 長押しで材料表示
+tictooltips.hold.key.for.bow.stats=%s 長押しで矢の情報表示
+tictooltips.hold.key.for.more=%s 長押しでその他表示
+
+# material tooltips
+tictooltips.material.shoddiness.modifier= [アップグレードスロット: %s]
+tictooltips.material.arrow.weight=矢の重量: 
+tictooltips.material.durability.modifier=耐久アップグレード: 
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=有効な材料: 
+
+# tool tooltips
+tictooltips.tool.repair.material=修繕材料: 
+tictooltips.tool.effective.durability=有効な%s
+# uses: material.cactus.ability/material.stone.ability
+tictooltips.tool.shoddiness.modifier=%sのアップグレードスロット: 
+# uncomment these if your language needs different syntax for jagged/stonebound 
+tictooltips.tool.jagged.modifier=鋸歯アップグレード: 
+tictooltips.tool.stonebound.modifier=石縛りアップグレード: 
+tictooltips.tool.burn.duration=燃焼持続時間: 
+tictooltips.tool.bonus.vs.undead=%s vs アンデッド: 
+tictooltips.tool.bonus.vs.spiders=%s vs クモ: 
+tictooltips.tool.chance.to.behead=斬首確率: 
+tictooltips.tool.modifiers=アップグレードスロット: 
+tictooltips.tool.knockback=ノックバック: 
+tictooltips.tool.sprint.damage=ダッシュダメージ: 
+tictooltips.tool.crit.damage=クリティカルダメージ %s: 
+# uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=%s %s
+tictooltips.tool.stonebound.bonus=%s %s
+tictooltips.tool.jagged.loss=%s %s
+tictooltips.tool.jagged.bonus=%s %s
+# uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=%s %s %s
+tictooltips.tool.max.stonebound.bonus=%s %s %s
+tictooltips.tool.max.jagged.loss=%s %s %s
+tictooltips.tool.max.jagged.bonus=%s %s %s
+
+# generic
+tictooltips.minimum=最小
+tictooltips.maximum=最大
+tictooltips.unknown.part=<未知の部品>
+tictooltips.infinite=無限
+
+# things that should be in TiC
+tictooltips.unbreakable=耐久
+
+# overrides for gui.partcrafter.mining6
+tictooltips.mining.level.6=6
+tictooltips.mining.level.6.with.metallurgy=ダイヤモンド
+
+# all of the following strings are only used with Tinkers Construct versions less than 1.5.3
+# in TiC versions >= 1.5.3, the TiC localization strings are used instead
+tictooltips.base.durability=耐久値: 
+tictooltips.handle.modifier=使用アップグレードスロット: 
+tictooltips.mining.speed=採掘速度: 
+tictooltips.mining.level=回収道具: 
+tictooltips.heart= 体力
+tictooltips.hearts= 体力
+tictooltips.mining.level.1=石
+tictooltips.mining.level.2=鉄
+tictooltips.mining.level.3=レッドストーン
+tictooltips.mining.level.4=黒曜石
+tictooltips.mining.level.5=コバルト
+# see overrides above
+tictooltips.mining.level.7=7
+tictooltips.mining.level.8=8
+tictooltips.durability=耐久値: 
+tictooltips.attack=攻撃力: 
+tictooltips.bonus=増加: 
+tictooltips.loss=損失: 
+tictooltips.draw.speed=弓の速度: 
+tictooltips.arrow.speed=矢の速度: 
+tictooltips.weight=重量: 
+tictooltips.accuracy=精度: 
+tictooltips.base.attack=基本攻撃力: 
+tictooltips.shortbow.attack=攻撃力低下: 
+tictooltips.mining.speeds=採掘速度: 
+tictooltips.harvest.levels=回収等級: 
+tictooltips.mining.speed=採掘速度: 
+tictooltips.mining.level=採掘等級: 
+tictooltips.usage.speed=使用速度: 
+tictooltips.modifiers=アップグレードスロット
+tictooltips.modifiers.remaining=空きアップグレードスロット: 
+tictooltips.unbreakable=耐久
+tictooltips.reinforced=増強
+tictooltips.jagged=鋸歯
+tictooltips.stonebound=石縛り

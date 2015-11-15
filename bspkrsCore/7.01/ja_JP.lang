@@ -1,0 +1,17 @@
+bspkrs.configgui.allowDebugOutput.tooltip=ツールチップは定義されていません。
+bspkrs.configgui.allowDebugOutput=デバッグアウトプットの可否
+bspkrs.configgui.allowUpdateCheck.tooltip=オンにすると、bspkrsのすべてのMODに対しての更新通知が受け取れます。
+bspkrs.configgui.allowUpdateCheck=アップデートチェック
+bspkrs.configgui.applyGlobally.tooltip=完了することで未保存の情報が設定されます
+bspkrs.configgui.applyGlobally=完了
+bspkrs.configgui.generateUniqueNamesFile.tooltip=オンにすると「UniqueNames.txt」がコンフィグファイルに生成されます。これはゲーム内のブロック・アイテムの内部名称を記述しています。一括破壊系のMODのコンフィグを設定する際に役立つはずです。
+bspkrs.configgui.generateUniqueNamesFile=UniqueNames.txtを生成する
+bspkrs.configgui.showMainMenuMobs.tooltip=オンにするとタイトル画面にログインしたプレイヤーとランダムなMOBを表示します。
+bspkrs.configgui.showMainMenuMobs=MOBをタイトル画面に表示する
+bspkrs.configgui.updateTimeoutMilliseconds.tooltip=更新通知の接続タイムアウトまでの時間を設定します。（ミリセカンド）
+bspkrs.configgui.updateTimeoutMilliseconds=更新通知接続タイムアウト(ms)
+bspkrs.modversionchecker.error= %s Modの更新通知を確認する際にエラーが発生しました。
+bspkrs.modversionchecker.invalidmodid=更新通知のためのModIDが無効です
+bspkrs.modversionchecker.uptodate= %s Modが更新されました。
+commands.bs.disabled=更新通知がオフになっています。オンにするにはコンフィグファイルを変更してください
+commands.bs.usage=bs version <modid>

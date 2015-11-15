@@ -1,0 +1,69 @@
+#ja_JP By Tier
+tile.router.name=アイテムルーター
+tile.routerold.name=アイテムルーター
+tile.routercable.name=イベントリケーブル
+tile.energyrouter.name=エナジールーター(RF) - 送信機
+tile.fluidrouterout.name=液体ルーター - 送信機
+tile.fluidrouterin.name=液体ルーター - 搬出機
+tile.routerbarrelT1.name=ストレージユニット Mk1
+tile.routerbarrelT2.name=ストレージユニット Mk2
+tile.routerbarrelT3.name=ストレージユニット Mk3
+tile.routerchest.name=スペシャルチェスト
+tile.powerConverter.name=RF EUコンバーター(8196 EU搬出し、36,000 RFのパッファー)
+tile.rr_lamp.name=フラッドライト
+container.routerchest.name=チェスト
+item.speedupgrade.name=速度アップグレード
+item.machineupgrade.name=範囲アップグレード
+item.bandwidthupgrade.name=可動速度アップグレード
+item.ejectupgrade.name=自動搬出アップグレード
+item.itemfilterupgrade.name=振り分けアップグレード
+item.thoroughupgrade.name=Thorough upgrade
+item.wrenchtool.name=RRレンチ
+item.router.name=アイテムルーター
+item.pickaxe.name=RRツルハシ
+item.camouflageupgrade.name=迷彩端末
+item.itemcrafter.name=携帯作業台
+item.hammervain.name=静脈ハンマー
+RouterReborn:item.router.manual.manual.name=説明書
+
+item.upgradechesteject.name=基本 搬入/搬出アップグレード
+item.upgradechestadvancedeject.name=発展 搬入/搬出アップグレード
+item.upgradechestextract.name=基本 搬出アップグレード
+item.upgradechestadvancedextract.name=発展 搬出アップグレード
+item.upgradechestitemfilter.name=基本 アイテム振り分けアップグレード
+item.upgradechestitemfilteradvanced.name=発展 アイテム振り分けアップグレード
+item.upgradechestpackager.name=基本 パッケージャーアップグレード
+item.upgradechestpackageradvanced.name=発展 パッケージャーアップグレード
+
+routerreborn:tab.main.name=搬入/搬出
+routerreborn:tab.speed.name=速度アップ
+routerreborn:tab.machinefilter.name=振り分け
+routerreborn:tab.itemfilter.name=アイテム振り分け
+routerreborn:tab.bandwidth.name=可動速度
+routerreborn:tab.autoeject.name=自動搬出
+routerreborn:tab.thorough.name=Thorough upgrade
+routerreborn:tab.redstone.name=赤石動力
+
+attribute.name.nightvision=ナイトビジョン
+
+msg.speed_error.txt=速度アップグレードは既にセットされてます
+msg.speed_installed.txt=速度アップグレードをセットしました
+
+msg.machine_error.txt=範囲アップグレードは既にセットされてます
+msg.machine_installed.txt=範囲アップグレードをセットしました
+
+msg.bandwidth_error.txt=可動速度アップグレードは既にセットされてます
+msg.bandwidth_installed.txt=可動速度アップグレードをセットしました
+
+msg.eject_error.txt=自動搬出アップグレードは既にセットされてます
+msg.eject_installed.txt=自動搬出アップグレードをセットしました
+
+msg.ItemFilter_error.txt=振り分けアップグレードは既にセットされてます
+msg.ItemFilter_installed.txt=振り分けアップグレードをセットしました
+
+msg.thorough_error.txt=Thorough upgradeは既にセットされてます
+msg.thorough_installed.txt=Thorough upgradeをセットしました
+
+msg.camouflage_error.txt=ブロックをロードしていません
+
+routerreborn:commands.rr.usage=rr <creload|tps>
