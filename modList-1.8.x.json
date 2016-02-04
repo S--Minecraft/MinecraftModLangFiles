@@ -1,0 +1,88 @@
+{
+  "pack-version": "1.0.1",
+  "minecraft-version": "1.8.x",
+  "mods":
+    [
+      {
+        "name": "エンドロールのクレジット&エンドポエム",
+        "version": "1.8.x",
+        "minecraft-version":
+          [
+            "1.7.2",
+            "1.7.10"
+          ],
+        "path": "assets/minecraft/lang"
+      },
+      {
+        "name": "bspkrsCore",
+        "version": "7.01",
+        "minecraft-version":
+          [
+            "1.8"
+          ],
+        "contributors": "evoluter",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1282347",
+        "path": "assets/bspkrscore/lang"
+      },
+      {
+        "name": "DragonMounts",
+        "version": "r43",
+        "minecraft-version":
+          [
+            "1.8"
+          ],
+        "contributors": "evoluter",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1439594",
+        "path": "assets/dragonmounts/lang"
+      },
+      {
+        "name": "TheEpicarnoMod",
+        "version": "1.1.4.6",
+        "minecraft-version":
+          [
+            "1.8"
+          ],
+        "contributors": "moo2",
+        "url": "http://minecraft.curseforge.com/mc-mods/228638",
+        "path": "assets/forge_theepicarnomod/lang"
+      }
+    ],
+  "cautions":
+    [
+      {
+        "title": "導入方法",
+        "description": "MODフォルダ(.zip/.jar)の中の指定の場所にlangファイルを入れてください。\r\n指定の場所については非公式日本ユーザーフォーラムの\r\nlangファイルのトピックをご覧ください。",
+        "type": "0"
+      },
+      {
+        "title": "導入方法",
+        "description": "この「S_lang_files_1.7.x_****.zip」をリソースパックの場所に置いて、\r\n以下の注意の通りにするだけです。",
+        "type": "1"
+      },
+      {
+        "title": "導入方法",
+        "description": "この「S_lang_files_1.7.x_Ex_****.zip」を展開して、中にある.minecraftフォルダを\r\n.minecraft（Minecraft.exeのあるフォルダ）に導入してください。\r\n（「上書きしますか？」と出たら「はい」をクリックしてください）",
+        "type": "2"
+      },
+      {
+        "title": "バージョン確認",
+        "description": "導入されているバージョンを確認するにはリソースパックのフォルダの\r\n中の「S_lang_files_in_version.txt」をご覧ください。",
+        "type": "2"
+      },
+      {
+        "title": "エンドロールの導入方法",
+        "description": "非公式日本ユーザーフォーラムのlangファイルのトピックをご覧ください。",
+        "type": "0"
+      },
+      {
+        "title": "報告・連絡",
+        "description": "翻訳できないや翻訳がおかしいなどの報告や連絡は\r\n非公式日本ユーザーフォーラムのlangファイルのトピックをご覧ください。",
+        "type":
+          [
+            "0",
+            "1",
+            "2"
+          ]
+      }
+    ]
+}

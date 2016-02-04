@@ -1,0 +1,1329 @@
+{
+  "pack-version": "4.1.0",
+  "minecraft-version": "1.7.x",
+  "mods":
+    [
+      {
+        "name": "エンドロールのクレジット&エンドポエム",
+        "version": "1.7.x",
+        "minecraft-version":
+          [
+            "1.7.2",
+            "1.7.10"
+          ],
+        "path": "assets/minecraft/lang"
+      },
+      {
+        "name": "AdditionalPipes",
+        "version": "4.7.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "https://github.com/tcooc/AdditionalPipesBC/releases",
+        "path": "assets/additionalpipes/lang"
+      },
+      {
+        "name": "AdvancedMachines",
+        "version": "1.7.10",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://atomicstryker.net/",
+        "path": "assets/advancedmachines/lang"
+      },
+      {
+        "name": "AdvancedSolarPanels",
+        "version": "3.5.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://forum.industrial-craft.net/index.php?page=Thread&postID=27306",
+        "path": "assets/advancedsolarpanel/lang"
+      },
+      {
+        "name": "AE2Stuff",
+        "version": "0.5.0.56",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://minecraft.curseforge.com/mc-mods/225194",
+        "path": "assets/ae2stuff/lang"
+      },
+      {
+        "name": "Aesthetics",
+        "version": "1.1.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1279863",
+        "path": "assets/aesthetics/lang"
+      },
+      {
+        "name": "AFSU",
+        "version": "1.2.2a",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=11044",
+        "path": "assets/afsu/lang"
+      },
+      {
+        "name": "AnimalsPlus",
+        "version": "1.2",
+        "minecraft-version":
+          [
+            "1.7.2",
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1282011",
+        "path": "assets/animals/lang"
+      },
+      {
+        "name": "AppliedEnergistics2",
+        "version": "rv2s10",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://ae2.ae-mod.info/",
+        "path": "assets/appliedenergistics2/lang"
+      },
+      {
+        "name": "AquaticAbyss",
+        "version": "1.1.0",
+        "minecraft-version":
+          [
+            "1.7.2"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2151604",
+        "path": "assets/aquaticabyss/lang"
+      },
+      {
+        "name": "ArchimedesShips",
+        "version": "1.7.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1289952",
+        "path": "assets/archimedes/lang"
+      },
+      {
+        "name": "Aroma1997Core",
+        "version": "1.0.2.13",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1287828",
+        "path": "assets/aroma1997core/lang"
+      },
+      {
+        "name": "ArsMagica2",
+        "version": "1.4.0.008",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/topic/2028696",
+        "path":
+          {
+            "arsmagica2": "assets/arsmagica2/lang",
+            "forge": "assets/forge/lang"
+          }
+      },
+      {
+        "name": "Atum",
+        "version": "0.6.60",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1288464",
+        "path": "assets/atum/lang"
+      },
+      {
+        "name": "AssemblyMod",
+        "version": "2.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://tennoxmods.blogspot.de/",
+        "path": "assets/tennox_assemblymod/lang"
+      },
+      {
+        "name": "Balkon'sWeaponMod",
+        "version": "1.14.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://minecraft.curseforge.com/mc-mods/75525",
+        "path": "assets/weaponmod/lang"
+      },
+      {
+        "name": "Baubles",
+        "version": "1.1.1.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1294623",
+        "path": "assets/baubles/lang"
+      },
+      {
+        "name": "BiblioCraft",
+        "version": "1.10.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/topic/1680480",
+        "path": "assets/biliocraft/lang"
+      },
+      {
+        "name": "BdLib",
+        "version": "1.9.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "https://bdew.net/",
+        "path": "assets/bdlib/lang"
+      },
+      {
+        "name": "BigReactors",
+        "version": "0.4.3A",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.big-reactors.com/",
+        "path": "assets/bigreactors/lang"
+      },
+      {
+        "name": "BuildCraft",
+        "version": "5.0.2",
+        "minecraft-version":
+          [
+            "1.7.2"
+          ],
+        "url": "http://www.mod-buildcraft.com/",
+        "path": "assets/buildcraft/lang"
+      },
+      {
+        "name": "Chisel2",
+        "version": "2.3.5.31",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "negitoro",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2254671",
+        "path": "assets/chisel/lang"
+      },
+      {
+        "name": "CodeChickenCore",
+        "version": "1.0.6.43",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1279956",
+        "path": "assets/codechickencore/lang"
+      },
+      {
+        "name": "CoFHCore",
+        "version": "3.0.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://teamcofh.com/",
+        "path": "assets/cofh/lang"
+      },
+      {
+        "name": "CogsOfTheMachine",
+        "version": "0.1.4pre1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "おかもち",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1442605",
+        "path": "assets/cogs/lang"
+      },
+      {
+        "name": "CompactSolars",
+        "version": "4.4.39.315",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1442605",
+        "path": "assets/compactsolars/lang"
+      },
+      {
+        "name": "CraftGuide",
+        "version": "1.6.8.2",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1277913",
+        "path": "assets/craftguide/lang"
+      },
+      {
+        "name": "CustomNPCs",
+        "version": "1.7.10d",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/topic/833003",
+        "path": "assets/customnpcs/lang"
+      },
+      {
+        "name": "DimensionalAnchor",
+        "version": "59.0.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://www.minecraftforum.net/topic/1001131",
+        "path": "assets/dimanchor/lang"
+      },
+      {
+        "name": "DecoCraft",
+        "version": "1.12b",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "negitoro",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1439594",
+        "path": "assets/props/lang"
+      },
+      {
+        "name": "DragonMounts",
+        "version": "r41",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "evoluter",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1439594",
+        "path": "assets/dragonmounts/lang"
+      },
+      {
+        "name": "EnchantingPlus",
+        "version": "3.0.2d",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1286469",
+        "path": "assets/eplus/lang"
+      },
+      {
+        "name": "EnderIO",
+        "version": "2.2.8.381",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://enderio.com/",
+        "path": "assets/enderio/lang"
+      },
+      {
+        "name": "Enderstorage",
+        "version": "1.4.7.37",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/topic/909223",
+        "path": "assets/enderstorage/lang"
+      },
+      {
+        "name": "EnderZoo",
+        "version": "1.0.11.27",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://enderio.com/",
+        "path": "assets/enderzoo/lang"
+      },
+      {
+        "name": "EnhancedBiomes",
+        "version": "2.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1294692",
+        "path": "assets/enhancedbiomes/lang"
+      },
+      {
+        "name": "EnhancedPortals",
+        "version": "3.0.10",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1292751",
+        "path": "assets/enhancedportals/lang",
+        "note": "(ゲーム内の説明書「ENHANCED PORTALS」については別ファイルとして同封してあります)"
+      },
+      {
+        "name": "Ex-Nihilo",
+        "version": "1.38-41",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1291850",
+        "path": "assets/exnihilo/lang"
+      },
+      {
+        "name": "ExtraCells2",
+        "version": "2.2.72",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/topic/1801643",
+        "path": "assets/extracells/lang"
+      },
+      {
+        "name": "ExtraUtilities",
+        "version": "1.2.4c",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1443963",
+        "path": "assets/extrautils/lang"
+      },
+      {
+        "name": "FallingMeteors",
+        "version": "2.14.2",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1280918",
+        "path": "assets/meteors/lang"
+      },
+      {
+        "name": "ForgeMultiPart",
+        "version": "1.2.0.345",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "url": "http://files.minecraftforge.net/ForgeMultipart/",
+        "path": "assets/microblock/lang"
+      },
+      {
+        "name": "Fusion",
+        "version": "1.6.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1279863",
+        "path": "assets/fusion/lang"
+      },
+      {
+        "name": "GraviSuite",
+        "version": "2.0.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915",
+        "path": "assets/gravisuite/lang"
+      },
+      {
+        "name": "GraveStone",
+        "version": "2.12.2",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://gravestone.nightkosh.com/",
+        "path": "assets/gravestone/lang"
+      },
+      {
+        "name": "GrimoireOfGaia3",
+        "version": "1.0.9",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1284614",
+        "path": "assets/gaia/lang"
+      },
+      {
+        "name": "GrowthCraft",
+        "version": "2.1.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "tototo",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1286298",
+        "path":
+          {
+            "apples": "assets/grcapples/lang",
+            "bamboo": "assets/grcbamboo/lang",
+            "bees": "assets/grcbees/lang",
+            "cellar": "assets/grccellar/lang",
+            "core": "assets/grccore/lang",
+            "fishtrap": "assets/grcfishtrap/lang",
+            "grapes": "assets/grcgrapes/lang",
+            "hops": "assets/grchops/lang",
+            "rice": "assets/grcrice/lang"
+          }
+      },
+      {
+        "name": "HardcoreQuestingMode",
+        "version": "4.2.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "url": "http://minecraft.curseforge.com/mc-mods/77027",
+        "path": "assets/hqm/lang"
+      },
+      {
+        "name": "IC2Classic",
+        "version": "1.7.10-8",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=10313",
+        "path": "assets/ic2classic/lang"
+      },
+      {
+        "name": "IguanaTinkerTweaks",
+        "version": "2.1.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2176855",
+        "path": "assets/iguanatweakstconstruct/lang",
+        "note": "(一部翻訳されていません)"
+      },
+      {
+        "name": "IndustrialCraft2",
+        "version": "ex.2.2.786",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://ic2api.player.to:8080/job/IC2_experimental/",
+        "advanced":
+          {
+            "type": "zip",
+            "path": "ic2/lang"
+          }
+      },
+      {
+        "name": "InvasionMod",
+        "version": "1.1.2",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2235041",
+        "path": "assets/invmod/lang"
+      },
+      {
+        "name": "InventoryPets",
+        "version": "1.0.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://minecraft.curseforge.com/mc-mods/229380",
+        "path": "assets/inventorypets/lang"
+      },
+      {
+        "name": "IronChests",
+        "version": "6.0.62.742",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/topic/981855",
+        "path": "assets/ironchest/lang"
+      },
+      {
+        "name": "JourneyMap",
+        "version": "5.1.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "oktum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348",
+        "path": "assets/journeymap/lang"
+      },
+      {
+        "name": "M-Ore",
+        "version": "6.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286912",
+        "path": "assets/more/lang"
+      },
+      {
+        "name": "MagicalCrops",
+        "version": "1.7.10_0.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1287451",
+        "path": "assets/magicalcrops/lang"
+      },
+      {
+        "name": "Metallurgy",
+        "version": "4.6.80",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "hyakulei0743",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1295123",
+        "path": "assets/metallurgy/lang"
+      },
+      {
+        "name": "MegaMod",
+        "version": "0.0.1",
+        "minecraft-version":
+          [
+            "1.7.2"
+          ],
+        "contributors": "Valcena",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2175373",
+        "path": "assets/megamod/lang"
+      },
+      {
+        "name": "MetallurgyCore",
+        "version": "4.0.4.18",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "hyakulei0743",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1295123",
+        "path": "assets/metallurgycore/lang"
+      },
+      {
+        "name": "Mineshot",
+        "version": "1.61",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1282034",
+        "path": "assets/mineshot/lang"
+      },
+      {
+        "name": "ModularPowersuits",
+        "version": "0.11.0.283",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://build.technicpack.net/view/MachineMuse/job/ModularPowersuits/",
+        "path": "assets/powersuits/lang"
+      },
+      {
+        "name": "MorePistons",
+        "version": "1.5.2.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://minecraft.curseforge.com/mc-mods/224220",
+        "path": "assets/morepistons/lang"
+      },
+      {
+        "name": "MoSkeletons",
+        "version": "1.7.10-1.0.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://minecraft.curseforge.com/mc-mods/224220",
+        "path": "assets/moskeletons/lang"
+      },
+      {
+        "name": "MrCrayfish'sFurnitureMod",
+        "version": "3.4.8",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1282349",
+        "path": "assets/cfm/lang"
+      },
+      {
+        "name": "MutantCreatures",
+        "version": "1.4.8",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1284438",
+        "path": "assets/mutantcreatures/lang"
+      },
+      {
+        "name": "MultiPageChest",
+        "version": "1.3.4",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1275500",
+        "path": "assets/multipagechest/lang"
+      },
+      {
+        "name": "MystCraft",
+        "version": "0.12.0.00",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://minecraft.curseforge.com/mc-mods/224599",
+        "path": "assets/mystcraft/lang"
+      },
+      {
+        "name": "NEIAddons",
+        "version": "1.12.14",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "https://bdew.net/",
+        "path": "assets/neiaddons/lang"
+      },
+      {
+        "name": "NEIIntegration",
+        "version": "1.0.13",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://minecraft.curseforge.com/mc-mods/225251",
+        "path": "assets/neiintegration/lang"
+      },
+      {
+        "name": "NetherOres",
+        "version": "2.3.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://minecraft.curseforge.com/mc-mods/66675",
+        "path": "assets/netherores/language"
+      },
+      {
+        "name": "Netherrocks",
+        "version": "1.3.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://minecraft.curseforge.com/mc-mods/66675",
+        "path": "assets/netherrocks/language"
+      },
+      {
+        "name": "NotEnoughItems",
+        "version": "1.0.5.111",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/topic/909223",
+        "path": "assets/nei/lang"
+      },
+      {
+        "name": "OpenBlocks",
+        "version": "1.4.3",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.openmods.info/",
+        "path": "assets/openblocks/lang"
+      },
+      {
+        "name": "OpenEye",
+        "version": "0.6",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://openeye.openmods.info/",
+        "path": "assets/openeye/lang"
+      },
+      {
+        "name": "OpenModsLib",
+        "version": "0.8",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.openmods.info/",
+        "path": "assets/openmodslib/lang"
+      },
+      {
+        "name": "OpenModularTurrets",
+        "version": "2.0.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://minecraft.curseforge.com/mc-mods/224663",
+        "path": "assets/openmodularturrets/lang"
+      },
+      {
+        "name": "Pam'sHarvestCraft",
+        "version": "1.7.10i",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1274678",
+        "path": "assets/harvestcraft/lang"
+      },
+      {
+        "name": "PowerConverters",
+        "version": "3.3.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1293983",
+        "path": "assets/powerconverters/lang"
+      },
+      {
+        "name": "ProjectRed",
+        "version": "4.7.0.9",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://projectredwiki.com/wiki/Main_Page",
+        "path": "assets/projectred/lang"
+      },
+      {
+        "name": "PlasmaCraft",
+        "version": "0.4.0-beta2",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://minecraft.curseforge.com/mc-mods/224648",
+        "path": "assets/plasmacraft/lang"
+      },
+      {
+        "name": "RedstoneArsenal",
+        "version": "1.1.1B1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://teamcofh.com/",
+        "path": "assets/redstonearsenal/lang"
+      },
+      {
+        "name": "ReverseCraft",
+        "version": "4.0.6",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "evolter",
+        "url": "http://forum.minecraftuser.jp/viewtopic.php?t=3629",
+        "path": "assets/reversecraft/lang"
+      },
+      {
+        "name": "RouterReborn",
+        "version": "1.2.0.35",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2176322",
+        "path": "assets/routerreborn/lang"
+      },
+      {
+        "name": "SecurityCraft",
+        "version": "1.7.4.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1291001",
+        "path": "assets/securitycraft/lang"
+      },
+      {
+        "name": "SimpleCoreAPI",
+        "version": "1.1.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1279863",
+        "path": "assets/simplecore/lang"
+      },
+      {
+        "name": "SimpleOres2",
+        "version": "1.6.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1279863",
+        "path": "assets/simpleores/lang"
+      },
+      {
+        "name": "SimplyJetpacks",
+        "version": "1.5.1",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://minecraft.curseforge.com/mc-mods/79325",
+        "path": "assets/simplyjetpacks/lang"
+      },
+      {
+        "name": "SolarFlux",
+        "version": "0.8a",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2187592",
+        "path": "assets/solarflux/lang"
+      },
+      {
+        "name": "SmartCursor",
+        "version": "1.4.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2167671",
+        "path": "assets/smartcusor/lang"
+      },
+      {
+        "name": "SpiderQueenReborn",
+        "version": "1.2.2",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://minecraft.curseforge.com/mc-mods/220773",
+        "path": "assets/spiderqueen/lang"
+      },
+      {
+        "name": "SteelIndustries",
+        "version": "0.5c",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "くらぅん",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1446339",
+        "path": "assets/steelindustries/lang"
+      },
+      {
+        "name": "SuperMarioMod",
+        "version": "2.8c",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1276036",
+        "path": "assets/mario/lang"
+      },
+      {
+        "name": "ThaumCraft4",
+        "version": "4.2.3.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1292130",
+        "path": "assets/thaumcraft/lang"
+      },
+      {
+        "name": "ThaumicEnergistics",
+        "version": "0.9.0.0",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/2150151",
+        "path": "assets/thaumicenergistics/lang"
+      },
+      {
+        "name": "ThermalDynamics",
+        "version": "1.0.0RC7",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://teamcofh.com/",
+        "path": "assets/thermaldynamics/lang"
+      },
+      {
+        "name": "ThermalExpansion",
+        "version": "4.0.0RC7",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://teamcofh.com/",
+        "path": "assets/thermalexpansion/lang"
+      },
+      {
+        "name": "ThermalFoundation",
+        "version": "1.0.0RC7",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Hatanuki",
+        "url": "http://teamcofh.com/",
+        "path": "assets/thermalfoundation/lang"
+      },
+      {
+        "name": "TiCTooltips",
+        "version": "1.2.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1294501",
+        "path": "assets/tictooltips/lang"
+      },
+      {
+        "name": "Tinkers'Construct",
+        "version": "1.8.7",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1287648",
+        "path": "assets/tinker/lang"
+      },
+      {
+        "name": "Tinkers'Mechworks",
+        "version": "0.1.5",
+        "minecraft-version":
+          [
+            "1.7.2"
+          ],
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1446244",
+        "path": "assets/tmechworks/lang"
+      },
+      {
+        "name": "Trapcraft",
+        "version": "2.3.0a",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "Mintmoon",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1287865",
+        "path": "assets/trapcraft/lang"
+      },
+      {
+        "name": "Translocator",
+        "version": "1.1.2.15",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1279956",
+        "path": "assets/translocator/lang"
+      },
+      {
+        "name": "TwilightForest",
+        "version": "2.0.3",
+        "minecraft-version":
+          [
+            "1.7.2"
+          ],
+        "contributors": "Sdaru241",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1276258",
+        "path": "assets/twilightforest/lang"
+      },
+      {
+        "name": "TwilightForest",
+        "version": "2.3.7",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "myonta",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1276258",
+        "path": "assets/twilightforest/lang"
+      },
+      {
+        "name": "UsefulFood",
+        "version": "1.4.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "S_Hiei",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1284835",
+        "path": "assets/usefulfood/lang"
+      },
+      {
+        "name": "VanityBlocks",
+        "version": "1.7.10-B81",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "evoluter",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1287435",
+        "path": "assets/vanityblocks/lang"
+      },
+      {
+        "name": "Waila",
+        "version": "1.5.10",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1289765",
+        "path": "assets/waila/lang"
+      },
+      {
+        "name": "WailaHarvestability",
+        "version": "1.1.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "otkum",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1295067",
+        "path": "assets/wailaharvestability/lang"
+      },
+      {
+        "name": "Werkbench",
+        "version": "1.2.56",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "TIER",
+        "url": "http://minecraft.curseforge.com/mc-mods/228653",
+        "path": "assets/werkbench/lang"
+      },
+      {
+        "name": "WirelessRedstone",
+        "version": "1.8.0.0",
+        "minecraft-version":
+          [
+            "1.7.2"
+          ],
+        "contributors": "evoluter",
+        "url": "http://slimevoid.net/",
+        "path": "assets/wirelessredstone/lang"
+      },
+      {
+        "name": "Witchery",
+        "version": "0.20.5",
+        "minecraft-version":
+          [
+            "1.7.10"
+          ],
+        "contributors": "tokikome",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/1445248",
+        "path": "assets/witchery/lang",
+        "note": "(本など一部翻訳されていません)"
+      }
+    ],
+  "cautions":
+    [
+      {
+        "title": "導入方法",
+        "description": "MODフォルダ(.zip/.jar)の中の指定の場所にlangファイルを入れてください。\r\n指定の場所については非公式日本ユーザーフォーラムの\r\nlangファイルのトピックをご覧ください。",
+        "type": "0"
+      },
+      {
+        "title": "導入方法",
+        "description": "この「S_lang_files_1.7.x_****.zip」をリソースパックの場所に置いて、\r\n以下の注意の通りにするだけです。",
+        "type": "1"
+      },
+      {
+        "title": "導入方法",
+        "description": "この「S_lang_files_1.7.x_Ex_****.zip」を展開して、中にある.minecraftフォルダを\r\n.minecraft（Minecraft.exeのあるフォルダ）に導入してください。\r\n（「上書きしますか？」と出たら「はい」をクリックしてください）",
+        "type": "2"
+      },
+      {
+        "title": "バージョン確認",
+        "description": "導入されているバージョンを確認するにはリソースパックのフォルダの\r\n中の「S_lang_files_in_version.txt」をご覧ください。",
+        "type": "2"
+      },
+      {
+        "title": "エンドロールの導入方法",
+        "description": "非公式日本ユーザーフォーラムのlangファイルのトピックをご覧ください。",
+        "type": "0"
+      },
+      {
+        "title": "EnhancedPortalsの日本語翻訳ファイル導入時の注意",
+        "description": "EnhancedPortalsのMOD内説明書「ENHANCED PORTALS」については\r\n文字数制限などの理由により、翻訳されていません。本の翻訳が見たい方は\r\nlangファイルと同じディレクトリの「EnhancedPortals -ワームホールのトンネル-.txt」を\r\nお読みください。",
+        "type":
+          [
+            "0",
+            "1",
+            "2"
+          ]
+      },
+      {
+        "title": "ExtraUtilitiesの日本語翻訳ファイル導入時の注意",
+        "description": "ExtraUtilitiesのlangファイルについては、ExtraUtilities1.2.4aでは\r\nForge10.13.3.1355で正常に動作します。ExtraUtilities1.2.4c以降に関しては\r\nForge10.13.2.1291等でも正常に動作します。",
+        "type":
+          [
+            "0",
+            "1",
+            "2"
+          ]
+      },
+      {
+        "title": "InvertoryPetsの日本語翻訳ファイル導入時の注意",
+        "description": "InventoryPetsのlangファイルについては、「～のペット」という翻訳のものが\r\n既定になっています。「ペット:～」という翻訳のものがいい場合は\r\n「ja_JP_2.lang」を「ja_JP.lang」にリネームしてください。\r\n元の「ja_JP.lang」については利用しないのであれば、\r\n上書きしても大丈夫です。",
+        "type": "0"
+      },
+      {
+        "title": "InvertoryPetsの日本語翻訳ファイル導入時の注意",
+        "description": "InventoryPetsのlangファイルについては、「～のペット」という翻訳のものが\r\n既定になっています。「ペット:～」という翻訳のものがいい場合は\r\nリソースパックのassets\\inventorypets\\lang内の「ja_JP_2.lang」を「ja_JP.lang」にリネームしてください。\r\n元の「ja_JP.lang」については利用しないのであれば、\r\n上書きしても大丈夫です。",
+        "type":
+          [
+            "1",
+            "2"
+          ]
+      },
+      {
+        "title": "報告・連絡",
+        "description": "翻訳できないや翻訳がおかしいなどの報告や連絡は\r\n非公式日本ユーザーフォーラムのlangファイルのトピックをご覧ください。",
+        "type":
+          [
+            "0",
+            "1",
+            "2"
+          ]
+      }
+    ]
+}
